@@ -12,6 +12,7 @@ import networkx as nx
 import pydot
 import graphviz
 
+from sklearn.metrics.pairwise import pairwise_distances
 from sklearn.metrics import matthews_corrcoef as mcc
 
 REPLACEMENT = "https://www.gerbrand.dev/"
@@ -62,18 +63,16 @@ for key in decks.keys():
     for card in cards:
         carddict[card].append(key)
 
-#print(carddict["Fury of the Horde"])
-
 cardarray = []
 newcarddict = dict()
 for key in carddict.keys():
 	d = dict()
-	decks = carddict[key]
-	if len(decks)>9:
-		decks.sort()
-		d["decks"] = decks
+	localdecks = carddict[key]
+	if len(localdecks)>9:
+		localdecks.sort()
+		d["decks"] = localdecks
 		cardarray.append(d)
-		newcarddict[key]=decks
+		newcarddict[key]=localdecks
 
 carddict = newcarddict
 
@@ -85,7 +84,8 @@ def label(i):
 vectorizer = DictVectorizer()
 data = vectorizer.fit_transform(cardarray).toarray()
 #print(data)
-print(vectorizer.inverse_transform(data)[0])
+inverse = vectorizer.inverse_transform(data)
+#print(inverse[0])
 #print(label(0),label(2))
 #print(mcc(data[0],data[2])
 
@@ -106,7 +106,8 @@ colormap = {frozenset({"R"}):"red",frozenset({"B"}):"gray",frozenset({"U"}):"lig
 def color(i):
     l = label(i)
     if not l in scryfall:
-        print(l)
+    #    if not isinstance(l,int):
+    #        print(l)
         return "white"
     card = scryfall[l]
     colors = frozenset(card["colors"])
@@ -135,13 +136,49 @@ def showTree(linkage_matrix):
     dot.render(format='pdf',filename='tree')
     dot.render(format='svg',filename='tree')
 
+def l1(x, y):
+    #print(x)
+    sum = 0
+    for i in range(len(x)):
+        sum+=abs(x[i]-y[i])
+
+    # we now have the number of decks, which have one of the cards and not the other
+    # we may get a better result by scaling this number by the number of decks that have the color identity to include both
+    return sum
+    #int(edist.eval(data[int(x[0])], data[int(y[0])]))
+
+m = pairwise_distances(data, metric=l1)
+print(m)
+
+
+def calculateDeckIdentities():
+    deckIdentities = []
+    keys = list(decks.keys())
+    for i in range(len(keys)):
+        deck = keys[i]
+        cs = decks[deck]
+        colors = set()
+        # we don't know who the commander is, so build the union of the color identities of all cards in the deck instead
+        for card in cs:
+            if card in scryfall:
+                colors.update(set(scryfall[card]["color_identity"]))
+        #print("Colors for",deck,colors)
+        deckIdentities.append(colors)
+    return deckIdentities
+#print(type(decks))
+
+#deckIdentities = calculateDeckIdentities()
+
 def clusterTree(data):
     N_CLUSTERS = 10
-    clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, affinity="l1")
-    clustering.fit(data)
+    # precomputed requires a distance matrix
+    clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, affinity="precomputed")
+    clustering.fit(m)
+    #clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, affinity="l1")
+    #clustering.fit(data)
     #plot_dendrogram(clustering, labels=clustering.labels_)
     linkage_matrix = plot_dendrogram(clustering, show_leaf_counts=False)
-    print(linkage_matrix)
+    #print(linkage_matrix)
     showTree(linkage_matrix)
     #plt.show()
 
