@@ -137,9 +137,12 @@ def showTree(linkage_matrix):
     dot.render(format='svg',filename='tree')
 
 def l1(x, y):
+    # x and y are both cards expressed as vectors of decks
+    # but we don't know which card x and y stand for
     #print(x)
     sum = 0
     for i in range(len(x)):
+    # here we should only count decks x[i] and y[i] if they contain both
         sum+=abs(x[i]-y[i])
 
     # we now have the number of decks, which have one of the cards and not the other
@@ -150,6 +153,33 @@ def l1(x, y):
 m = pairwise_distances(data, metric=l1)
 print(m)
 
+# todo: transform into real code
+#def distance(card1,card2):
+# max = number of decks that could contain card 1 and 2 based on color identity
+# count = number of decks that contain one card but not the other
+# return count / max
+# thought out example 1: brainstorm and ponder
+# number of decks: 100
+# number of decks with blue: 80
+# number of decks exactly one of brainstorm and ponder: 5
+# distance would then be 5/80
+# thought out example 2: abrupt decay and vindicate
+# number of decks with WUB: 30
+# number of decks with exactly one of them: 10
+# 10/30, no that is too large, this calculation is wrong
+# we should instead only count decks with the color identity of both
+
+def createOurOwnDistanceMatrix():
+    n = len(cards)
+    O = np.zeros((n, n))
+    for i in range(len(decks)):
+        for j in range(i):
+            dist = l1(decks[decks.keys()[i],decks.keys()[j])
+            O[i][j] = dist
+            O[j][i] = dist
+    return O
+
+O = createOurOwnDistanceMatrix()
 
 def calculateDeckIdentities():
     deckIdentities = []
