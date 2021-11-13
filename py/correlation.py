@@ -17,6 +17,15 @@ from sklearn.metrics import matthews_corrcoef as mcc
 REPLACEMENT = "https://www.gerbrand.dev/"
 IGNORE = set(["Mana Crypt","Sol Ring","Chrome Mox","Misty Rainforest","Polluted Delta","Scalding Tarn","Windswept Heath","Flooded Strand","Marsh Flats","Arid Mesa","Verdant Catacombs","Bloodstained Mire","Wooded Foothills","Swamp","Plains","Island","Mountain","Forest","Snow-Covered Swamp","Snow-Covered Plains","Snow-Covered Island","Snow-Covered Mountain","Snow-Covered Forest","Tundra","Taiga","Bayou","Underground Sea","Savannah","Badlands","Scrubland","Tropical Island","Volcanic Island","Plateau","Hallowed Fountain","Watery Grave","Blood Crypt","Stomping Ground","Temple Garden","Godless Shrine","Steam Vents","Overgrown Tomb","Sacred Foundry","Breeding Pool","Command Tower","City of Brass","Mana Confluence","Gemstone Caverns","Exotic Orchard","Morphic Pool","Fetid Heath","Spire of Industry","Cascade Bluffs","Prismatic Vista","Forbidden Orchard","Tarnished Citadel","Undergrowth Stadium","Nurturing Peatland","Adarkar Wastes","Underground River","Sulfurous Springs","Karplusan Forest","Brushland","Caves of Koilos","Shivan Reef","Llanowar Wastes","Battlefield Forge","Yavimaya Coast","Talisman of Conviction","Talisman of Creativity","Talisman of Curiosity ","Talisman of Dominance ","Talisman of Hierarchy ","Talisman of Impulse","Talisman of Indulgence","Talisman of Progress","Talisman of Resilience","Talisman of Unity","Arcane Signet","Azorius Signet","Boros Signet","Dimir Signet","Golgari Signet","Gruul Signet","Izzet Signet","Orzhov Signet","Rakdos Signet","Selesnya Signet","Simic Signet","Sunbaked Canyon","Waterlogged Grove","Silent Clearing","Nurturing Peatland","Fiery Islet"])
 
+CARDFILE = "cards.json"
+if Path(CARDFILE).exists():
+    with open(CARDFILE, "r") as f:
+        scryfall = json.load(f)
+        print(len(scryfall),"loaded cards")
+else:
+    print(CARDFILE,"does not exist. Generate using https://github.com/konradHoeffner/mtgslides and copy here.")
+    sys.exit()
+
 DECKFILE = "decks.json"
 if Path(DECKFILE).exists():
     with open(DECKFILE, "r") as f:
@@ -80,6 +89,8 @@ print(vectorizer.inverse_transform(data)[0])
 #print(label(0),label(2))
 #print(mcc(data[0],data[2])
 
+
+
 # https://github.com/scikit-learn/scikit-learn/blob/70cf4a676caa2d2dad2e3f6e4478d64bcb0506f7/examples/cluster/plot_hierarchical_clustering_dendrogram.py
 def plot_dendrogram(model, **kwargs):
     # The number of observations contained in each cluster level
@@ -90,8 +101,21 @@ def plot_dendrogram(model, **kwargs):
     dendrogram(linkage_matrix, **kwargs)
     return linkage_matrix
 
+colormap = {frozenset({"R"}):"red",frozenset({"B"}):"gray",frozenset({"U"}):"lightblue",frozenset({"W"}):"white",frozenset({"G"}):"lightgreen",frozenset():"sandybrown"}
+
 def color(i):
-    return "white"
+    l = label(i)
+    if not l in scryfall:
+        print(l)
+        return "white"
+    card = scryfall[l]
+    colors = frozenset(card["colors"])
+    if colors in colormap:
+        return colormap[colors]
+    #print(colors)
+    #if card["type_line"].startswith("Artifact"):
+    #    return "brown"
+    return "yellow"
 
 # https://stackoverflow.com/questions/9838861/scipy-linkage-format
 # https://datascience.stackexchange.com/questions/101854/how-to-visualize-a-hierarchical-clustering-as-a-tree-of-labelled-nodes-in-python
@@ -109,6 +133,7 @@ def showTree(linkage_matrix):
     dot = nx.nx_pydot.to_pydot(G).to_string()
     dot = graphviz.Source(dot, engine='neato')
     dot.render(format='pdf',filename='tree')
+    dot.render(format='svg',filename='tree')
 
 def clusterTree(data):
     N_CLUSTERS = 10
