@@ -6,7 +6,7 @@
 \newcommand{\cmark}{\ding{51}}
 \newcommand{\xmark}{\ding{55}}
 \newtheorem{definition}{Definition}
-\title{Comparing the cEDH Decklist Database}
+\title{Analysing the cEDH Decklist Database}
 \begin{document}
 \maketitle
 \section{Preliminaries}
@@ -44,28 +44,42 @@ Similarily, but perhaps less intuitively, we apply such an ordering on $D$ and w
 
 \paragraph{Example}
 For brevity, assume the set of cards are just\\
-$C = \{\textnormal{Lightning Bolt}, \textnormal{Mystic Remora}, \textnormal{Swords to Plowshares}, \textnormal{Necropotence}\}$.\\
+$C = \{\textnormal{Lightning Bolt}, \textnormal{Mystic Remora}, \textnormal{Rhystic Study}, \textnormal{Swords to Plowshares}, \textnormal{Necropotence}\}$.\\
 And our decks are:\\
 $D_1 = \{\textnormal{Lightning Bolt}, \textnormal{Necropotence}\}$.\\
-$D_2 = \{\textnormal{Lightning Bolt}, \textnormal{Mystic Remora}\}$.\\
-The one-hot encodings of those decks are then $d_1 = (1,0,0,1) $ and $d_2 = (1,1,0,0)$
+$D_2 = \{\textnormal{Lightning Bolt}, \textnormal{Mystic Remora}, \textnormal{Rhystic Study}\}$.\\
+The one-hot encodings of those decks are then $d_1 = (1,0,0,0,1) $ and $d_2 = (1,1,1,0,0)$
 The one-hot encodings of those cards are:\\
 \begin{tabular}{llll}
 \toprule
 			&in deck 1	&in deck 2	&encoding\\
 \midrule
 Lightning Bolt		&\cmark		&\cmark		&(1,1)\\
-Mystic Remora		&		&		&(0,1)\\
-Swords to Plowshares	&		&		&(0,0)\\
-Necropotence		&		&		&(1,0)\\
+Mystic Remora		&\xmark		&\cmark		&(0,1)\\
+Rhystic Study		&\xmark		&\cmark		&(0,1)\\
+Swords to Plowshares	&\xmark		&\xmark		&(0,0)\\
+Necropotence		&\cmark		&\xmark		&(1,0)\\
 \bottomrule
 \end{tabular}
 
 \begin{definition}{Distance}
+To compare, how similar or dissimilar any two decks or cards are, we need a distance function that takes two vectors as input and returns a numerical value that is high when the decks are dissimilar, and low when they are similar to each other.
+On the flipside, a similarity function will return a high value, when the vectors are similar and a low (or negative) value, when they are very different.
+\end{definition}
 
+\begin{definition}{Euclidean Distance}
+A commonly used distance function between vectors that the reader probably knows from school is the euclidean distance following the Pytagorean theorem defined as $\sqrt{(a-b)^2}$.
+In our example, the distance between Lightning Bolt and Mystic Remora is 1, and the distance between Lightning Bolt and Swords to Plowshares is $\sqrt{2} \approx 1.414$.
+The distance between Mystic Remora and Rhystic Study is 0, as they are mathematically identical in this representation, even though the actual playing cards are different.
+One of the goals of this analysis is finding such pairwise similar cards.
+For example, to recommend users of an application to add Mystic Remora to their deck if it already contains Rhystic Study.
+Or to take a deeper look into decks that contain one of them but not the other if there is either a deckbuilding error or a deeper insight to be found.
+Unfortunately... curse of dimensionality ... fractions ...
+add reference to curse of dimensionality
 \end{definition}
 
 \begin{definition}{Manhattan-Distance (L1)}
+L1 to the rescue..
 \end{definition}
 
 \section{Challenges}
