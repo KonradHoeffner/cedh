@@ -50,6 +50,7 @@ for key in decks.keys():
     d["cards"] = cards
     featurearray.append(d)
 
+print(len(allcards),"Used cards")
 #print(allcards)
 carddict = dict()
 for card in allcards:
@@ -168,13 +169,12 @@ print(m)
 # number of decks with exactly one of them: 10
 # 10/30, no that is too large, this calculation is wrong
 # we should instead only count decks with the color identity of both
-
 def createOurOwnDistanceMatrix():
     n = len(cards)
     O = np.zeros((n, n))
     for i in range(len(decks)):
         for j in range(i):
-            dist = l1(decks[decks.keys()[i],decks.keys()[j])
+            dist = l1(decks[list(decks.keys())[i]],decks[list(decks.keys())[j]])
             O[i][j] = dist
             O[j][i] = dist
     return O
@@ -203,7 +203,7 @@ def clusterTree(data):
     N_CLUSTERS = 10
     # precomputed requires a distance matrix
     clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, affinity="precomputed")
-    clustering.fit(m)
+    clustering.fit(O)
     #clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, affinity="l1")
     #clustering.fit(data)
     #plot_dendrogram(clustering, labels=clustering.labels_)
