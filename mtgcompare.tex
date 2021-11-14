@@ -1,0 +1,90 @@
+\documentclass[a4]{article}
+\usepackage{amsthm}
+\usepackage{csquotes}
+\usepackage{pifont}
+\usepackage{booktabs}
+\newcommand{\cmark}{\ding{51}}
+\newcommand{\xmark}{\ding{55}}
+\newtheorem{definition}{Definition}
+\title{Comparing the cEDH Decklist Database}
+\begin{document}
+\maketitle
+\section{Preliminaries}
+Magic: The Gathering (MTG) cards are physical entities with many attributes, such as price, condition, weight, edition and so on.
+In the context of this analysis though, we define cards and other terms as singular mathematical constructs with only the attributes necessary for the analysis.
+
+\begin{definition}%{Color}
+A \emph{color} is an element of the set of \emph{colors} $R = \{\textnormal{W},\textnormal{U},\textnormal{B},\textnormal{R}, \textnormal{G}\}$.
+\end{definition}
+
+\begin{definition}%{Card}
+A \emph{card} is a triple $(s,O,I)$.
+$s$ is its unique English card name, a string.
+$O$, the colors and $I$, the color identity, are both subsets of $C$.
+At the time of this writing there are 22570 cards, of which 1836 are used by at least one of the decks.
+After applying a blacklist of very common cards such as basic lands and Talismans, the set of cards $C$ contains 1749 cards.
+\end{definition}
+
+\begin{definition}%{Deck}
+In general, an MTG EDH \emph{deck} contains exactly 100 cards, of which basic lands and \enquote{Relentless Rats} may occur multiple times, but due to the blacklist,
+ we define a \emph{deck} as a set (unordered collection without duplicates) of at most 100 cards.
+\end{definition}
+
+\begin{definition}%cEDH Decklist Database
+The Competitive EDH Decklist Database, in the following \emph{database}, is a set of decks.
+At this time there are 267 decklist links, 250 of which could be succesfully crawled and form our set $D$ of decklists.
+\end{definition}
+
+\begin{definition}{One-Hot encoding}
+To allow mathematical operations on decks and cards, we transform them into vectors using \emph{one-hot encoding}:
+We apply an arbitrary but consistent ordering on the set of cards $C$.
+Each deck $d$ is represented as a $|C|$-dimensional vector that contains value 1 at each index in that ordering where the deck contains that card, and a 0 otherwise.
+Similarily, but perhaps less intuitively, we apply such an ordering on $D$ and we represent each card $c$ as a $D$-dimensional vector that signifies which decks contain that card.
+\end{definition}
+
+\paragraph{Example}
+For brevity, assume the set of cards are just\\
+$C = \{\textnormal{Lightning Bolt}, \textnormal{Mystic Remora}, \textnormal{Swords to Plowshares}, \textnormal{Necropotence}\}$.\\
+And our decks are:\\
+$D_1 = \{\textnormal{Lightning Bolt}, \textnormal{Necropotence}\}$.\\
+$D_2 = \{\textnormal{Lightning Bolt}, \textnormal{Mystic Remora}\}$.\\
+The one-hot encodings of those decks are then $d_1 = (1,0,0,1) $ and $d_2 = (1,1,0,0)$
+The one-hot encodings of those cards are:\\
+\begin{tabular}{llll}
+\toprule
+			&in deck 1	&in deck 2	&encoding\\
+\midrule
+Lightning Bolt		&\cmark		&\cmark		&(1,1)\\
+Mystic Remora		&		&		&(0,1)\\
+Swords to Plowshares	&		&		&(0,0)\\
+Necropotence		&		&		&(1,0)\\
+\bottomrule
+\end{tabular}
+
+\begin{definition}{Distance}
+
+\end{definition}
+
+\begin{definition}{Manhattan-Distance (L1)}
+\end{definition}
+
+\section{Challenges}
+\subsection{Lack of APIs}
+The cEDH Decklist Database is a website without a public API or a publicly available dump in a structured format.
+However the maintainers are very 
+It contains links to decks mostly \emph{Moxfield}, which makes heavy use of JavaScript to populate its content and refuses to publish an API despite multiple requests by different people.
+This makes bulk access time consuming and error prone, as a Selenium based web scrapper was cancelled after not finishing in 3 hours and using more than 40 GB of RAM using an Intel i9-10900k CPU.\footnotemark{}
+\footnotetext{It is possible that the resource usage wasn't originally that extreme but was caused by a change in the website, which caused excessive retries, which stresses the importance of an API.}
+22570 loaded cards
+252
+\subsection{Resource usage}
+To prevent unnecessary traffic and thus service slowdown or increased costs for the maintainers of the APIs or crawled websites, intermediate results are cached.
+If you use Docker or other methods that may not preserve those cache files, please keep this in mind.
+If you reproduce the results obtained here those caches may cause outdated results.
+In this case, try deleting the cache files `decks.json` and `cards.json` (Scryfall).
+
+\section{Acknowledgements}
+I am very thankful for the help in the database discord, but as the individuals seem to be privacy concious, I will only use their aliases and not link to their repositories.
+\enquote{TWICE} for providing me with the Moxfield web scrapper
+\enquote{Gerbrand}
+\end{document}
