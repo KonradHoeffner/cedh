@@ -48,6 +48,7 @@ def crawlDecks(links):
 
         commander = re.search("Commander\(s\):\r\n([^\r\n]+\r\n[^\r\n]*)",text,re.M).group(1)
         commander=commander.replace("\r\n"," ").strip()
+        cards.add(commander)
         #print(commander,url)
         print(title,url)
         LEFT = "Mainboard (100):\r\n"
