@@ -1,6 +1,24 @@
 # Magic the Gathering cEDH Database Analysis
 
-### Algorithm
+## Docker
+Docker gives you the easiest setup:
+
+    docker build . -t mtgcompare
+    docker run mtgcompare
+
+## Requirements
+
+* python
+* pip
+
+## Setup
+You may want to use a virtual environment.
+
+* `pip install -r requirements.txt`
+
+## Run
+
+## Algorithm
 
 1. if `links.json` does not exist:
 	* fetch decklist links from the [Competitive EDH Decklist Database](https://cedh-decklist-database.com/) using a crawler based on <https://anonymous.4open.science/r/cEDH-DDB-Crawler-D2E6>
@@ -16,7 +34,7 @@
 6. create the linkage matrix
 7. [visualize the linkage matrix as a tree of labelled nodes](https://datascience.stackexchange.com/questions/101854/how-to-visualize-a-hierarchical-clustering-as-a-tree-of-labelled-nodes-in-python)
 
-### Files
+## Files
 
 * main.py: execute this file to generate the decklist visualization
 * correlation.py: execute this file to generate the card visualization
@@ -26,12 +44,12 @@
 * cards.json: generated file containing a JSON object with decklist names as keys and an array of card names as values
 * tree.pdf: generated file containing the visualization
 
-### Dependencies on External Web Services
+## Dependencies on External Web Services
 
 * <https://cedh-decklist-database.com>
 * Thanks to <https://www.gerbrand.dev/> for providing a useful Moxfield API because Moxfield does not want to publish their own API and crawling their site with JavaScript is very time consuming and error prone.
 
-### Future Work
+## Future Work
 
 * provide a Dockerfile
 * publish the results as an interactive website
