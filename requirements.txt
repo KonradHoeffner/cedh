@@ -1,2 +1,5 @@
 bs4
 sklearn
+networkx
+pydot
+graphviz
