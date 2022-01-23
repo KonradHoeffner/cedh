@@ -22,23 +22,26 @@ function countCards() {
 function createTable()
 {
 	const table = document.getElementById("staplesTable");
+
 	const keys = ["count","cmc","colors","color_identity"];
+
+	const columnDefs = [{ field: "name", sortable: true, filter: 'agTextColumnFilter' },{ field: "count", sortable: true, filter: 'agNumberColumnFilter'},{ field: "cmc", sortable: true, filter: 'agNumberColumnFilter'},
+	{field: "colors", sortable: true, filter: 'agSetColumnFilter'}, {field: "color_identity", sortable: true, filter: 'agSetColumnFilter'}];
 	
 	const cards = countCards();
+	const rowData = []
 	for(const cardName in cards)
 	{
 		const card = cards[cardName];
-		const row = table.insertRow();
-		const nameCell = row.insertCell();
-		nameCell.innerHTML = cardName;
+		const entry = {name: cardName};
+		rowData.push(entry);
 		for(const key of keys)
 		{
-			const cell = row.insertCell();
-			cell.innerHTML = card[key];
+			entry[key]= card[key];
 		}
 	}
-	const dataTable = new simpleDatatables.DataTable(table, {
-		searchable: true
-	});
+	const gridOptions = {columnDefs: columnDefs, rowData: rowData};
+	const gridDiv = document.getElementById("staplesGrid");
+	new agGrid.Grid(gridDiv, gridOptions);	
 }
 
