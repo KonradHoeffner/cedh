@@ -22,9 +22,11 @@ function countCards() {
 		cards[cardName].percent = Math.round((100 * card.count) / Object.keys(decks).length);
 	}
 	if (notfound.size > 0) console.warn("Not found in index: ", notfound);
-	console.log(cards);
+	//console.log(cards);
 	return cards;
 }
+
+let gridOptions;
 
 function createTable() {
 	const table = document.getElementById("staplesTable");
@@ -50,7 +52,12 @@ function createTable() {
 			entry[key] = card[key];
 		}
 	}
-	const gridOptions = { columnDefs: columnDefs, rowData: rowData };
+	const defaultColDef = { sortable: true, resizable: true };
+	gridOptions = { columnDefs, rowData, defaultColDef, enableCellTextSelection: true };
 	const gridDiv = document.getElementById("staplesGrid");
 	new agGrid.Grid(gridDiv, gridOptions);
+}
+
+function exportCsv() {
+	gridOptions.api.exportDataAsCsv();
 }
