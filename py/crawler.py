@@ -60,3 +60,4 @@ class Crawler:
             self._browse_deck_categories()
         except Exception:
             logging.exception(f'Failed to crawl: {self.url}')
+            raise
