@@ -44,7 +44,7 @@ for cardName in cardCounter:
     cardStats[cardName] = entry
     cardStats[cardName]["name"] = cardName
     cardStats[cardName]["count"] = cardCounter[cardName]
-    cardStats[cardName]["percentage"] = int(100*cardCounter[cardName]/len(decks))
+    cardStats[cardName]["percent"] = int(100*cardCounter[cardName]/len(decks))
     identityCounter[frozenset(entry["color_identity"])]+=1
 
 # superidentity #############################################################
@@ -65,10 +65,10 @@ for identity in identityCounter:
     superdecks = filter(lambda deck: frozenset(deck["color_identity"]).issuperset(identity),decks.values())
     superIdentityCounter[identity]=len(list(superdecks))
 
-# supercentage as abbreviation for "super identity percentage" so table columns fit small screens
+# supercent as abbreviation for "super identity percentage" so table columns fit small screens
 for cardName in cardStats:
     #print(cardName,frozenset(cardStats[cardName]["color_identity"]))
-    cardStats[cardName]["supercentage"] = int(100*cardCounter[cardName]/superIdentityCounter[frozenset(cardStats[cardName]["color_identity"])])
+    cardStats[cardName]["supercent"] = int(100*cardCounter[cardName]/superIdentityCounter[frozenset(cardStats[cardName]["color_identity"])])
 
 # ranking ###################################################################
 
@@ -79,7 +79,7 @@ def rank(cardNames,on,key):
 
 # all cards
 rank(list(cardStats.keys()),"count","rank")
-rank(list(cardStats.keys()),"supercentage","superrank")
+rank(list(cardStats.keys()),"supercent","superrank")
 # separately for each color identity
 for identity in identityCounter:
    identityCards = list(filter(lambda cardName: frozenset(cardStats[cardName]["color_identity"])==identity, cardStats.keys()))
