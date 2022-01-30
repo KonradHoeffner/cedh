@@ -42,6 +42,7 @@ for cardName in cardCounter:
             continue
     entry = index[cardName]
     cardStats[cardName] = entry
+    cardStats[cardName]["name"] = cardName
     cardStats[cardName]["count"] = cardCounter[cardName]
     cardStats[cardName]["percentage"] = int(100*cardCounter[cardName]/len(decks))
     identityCounter[frozenset(entry["color_identity"])]+=1
