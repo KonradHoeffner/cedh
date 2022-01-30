@@ -38,7 +38,6 @@ def crawlDecks(links):
     for link in links:
         if not PREFIX in link:
             continue
-        cards = set()
         url = link.replace(PREFIX, REPLACEMENT)
         try:
             fakeHeaders = {
@@ -55,11 +54,11 @@ def crawlDecks(links):
         title = j["name"]
         title = title.encode("ascii", "ignore").decode()
         print(title, url)
-        cards.update(j["commanders"].keys())
-        cards.update(j["mainboard"].keys())
-        cardlist = list(cards)
-        cardlist.sort()  # smaller diffs in Git
-        decks[title] = cardlist
+        commanders = list(j["commanders"].keys())
+        commanders.sort()
+        mainboard = list(j["mainboard"].keys())
+        mainboard.sort() # smaller diffs in Git
+        decks[title] = {"mainboard": mainboard, "commanders": commanders }
         # print(cards)
     return decks
 
