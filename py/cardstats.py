@@ -9,6 +9,7 @@ from itertools import combinations, chain
 INDEX_URL = "https://konradhoeffner.github.io/mtgindex/mtgindex.json"
 DECKFILE = "./dist/decks.json"
 STATFILE = "./dist/cards.json"
+STATFILE_JS = "./dist/cards.js"
 
 index = json.loads(urlopen(INDEX_URL).read().decode("utf-8"))
 indexkeys = index.keys()
@@ -99,3 +100,8 @@ for identity in identityCounter:
 with open(STATFILE, "w") as f:
     json.dump(cardStats, f, indent=2)
     print("saved", len(cardCounter), "cards to", STATFILE)
+
+json_string = json.dumps(cardStats, indent=2)
+with open(STATFILE_JS, "w") as f_js:
+    f_js.write("const cards =\n" + json_string + ";")
+    print("Saved", STATFILE_JS)
