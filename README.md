@@ -1,5 +1,7 @@
 # Magic the Gathering cEDH Database Analysis
 
+This README is outdated and will be updated soon.
+
 ## Docker
 Docker gives you the easiest setup:
 
@@ -47,12 +49,11 @@ You may want to use a virtual environment.
 ## Dependencies on External Web Services
 
 * <https://cedh-decklist-database.com>
-* Thanks to <https://www.gerbrand.dev/> for providing a useful Moxfield API because Moxfield does not want to publish their own API and crawling their site with JavaScript is very time consuming and error prone.
+* <https://www.moxfield.com> The moxfield API is inofficial and may break at any time.
 
 ## Future Work
 
 * provide a Dockerfile
-* publish the results as an interactive website
 * colorize the visualization of cards
 * use different distance functions
 * use commander identity and card colors to calculate scores relative to the maximum value
