@@ -65,12 +65,22 @@ def crawlDecks(links):
 
 
 DECKFILE = "./dist/decks.json"
+DECKFILE_ERROR = "./dist/decks_error.json"
 DECKFILE_JS = "./dist/decks.js"
 decks = crawlDecks(links)
-print(len(decks), "crawled decks")
+MIN_DECKS = 250
+size = len(decks)
+
+if size < MIN_DECKS:
+    with open(DECKFILE_ERROR, "w") as f:
+        json.dump(decks, f, indent=2)
+        print("Less than", MIN_DECKS, "decks. Something probably went wrong, aborting. Saved", size, "decks in", DECKFILE_ERROR)
+    sys.exit(1)
+
 with open(DECKFILE, "w") as f:
     json.dump(decks, f, indent=2)
-    print("Saved", DECKFILE)
+    print()
+    print("Saved", size, "crawled decks in", DECKFILE)
 json_string = json.dumps(decks, indent=2)
 with open(DECKFILE_JS, "w") as f_js:
     f_js.write("const decks =\n" + json_string + ";")

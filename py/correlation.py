@@ -197,9 +197,7 @@ def plot_dendrogram(model, **kwargs):
     # The number of observations contained in each cluster level
     no_of_observations = np.arange(2, model.children_.shape[0] + 2)
     # Create linkage matrix and then plot the dendrogram
-    linkage_matrix = np.column_stack(
-        [model.children_, model.distances_, no_of_observations]
-    ).astype(float)
+    linkage_matrix = np.column_stack([model.children_, model.distances_, no_of_observations]).astype(float)
     # Plot the corresponding dendrogram
     dendrogram(linkage_matrix, **kwargs)
     return linkage_matrix
@@ -240,12 +238,8 @@ def showTree(linkage_matrix):
         row = linkage_matrix[i]
         G.add_node(label(int(row[0])), fillcolor=color(int(row[0])), style="filled")
         G.add_node(label(int(row[1])), fillcolor=color(int(row[1])), style="filled")
-        G.add_edge(
-            label(int(row[0])), label(n + i + 1), len=1 + 0.1 * (math.log(1 + row[2]))
-        )
-        G.add_edge(
-            label(int(row[1])), label(n + i + 1), len=1 + 0.1 * (math.log(1 + row[2]))
-        )
+        G.add_edge(label(int(row[0])), label(n + i + 1), len=1 + 0.1 * (math.log(1 + row[2])))
+        G.add_edge(label(int(row[1])), label(n + i + 1), len=1 + 0.1 * (math.log(1 + row[2])))
     # for key,value in astcolors.items():
     # G.add_node(key,fillcolor=value,style="filled")
     dot = nx.nx_pydot.to_pydot(G).to_string()
