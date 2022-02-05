@@ -77,11 +77,11 @@ COLOR_IDENTITIES = powerset(COLORS.keys())
 def markdown():
     headers = ["Card", "Count", "ΔCount", "Rank", "ΔRank", "SRank", "ΔSRank"]
 
-    byrankdiff = sorted(diff_matrix, key=lambda row: row[2], reverse=True)[0:5]
+    byrankdiff = sorted(diff_matrix, key=lambda row: row[2], reverse=True)[0:10]
     writer = ptw.MarkdownTableWriter(table_name="Top Increased Count", headers=headers, value_matrix=byrankdiff)
     writer.write_table()
     print()
-    byrankdiff = sorted(diff_matrix, key=lambda row: row[2])[0:5]
+    byrankdiff = sorted(diff_matrix, key=lambda row: row[2])[0:10]
     writer = ptw.MarkdownTableWriter(table_name="Top Decreased Count", headers=headers, value_matrix=byrankdiff)
     writer.write_table()
 
@@ -89,7 +89,7 @@ def markdown():
     for identity in COLOR_IDENTITIES:
         identity = set(identity)
         byidentity = map(lambda row: row[0:3] + row[8:11], filter(lambda card: identity == set(card[7]), diff_matrix))
-        byidentity = sorted(byidentity, key=lambda row: row[1], reverse=True)[0:10]
+        byidentity = sorted(byidentity, key=lambda row: row[1], reverse=True)[0:100]
         if len(byidentity) < 1:
             continue
         identityName = "".join(identity)

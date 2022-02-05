@@ -57,8 +57,8 @@ def crawlDecks(links):
         commanders = list(j["commanders"].keys())
         commanders.sort()
         mainboard = list(j["mainboard"].keys())
-        mainboard.sort() # smaller diffs in Git
-        decks[title] = {"mainboard": mainboard, "commanders": commanders }
+        mainboard.sort()  # smaller diffs in Git
+        decks[title] = {"mainboard": mainboard, "commanders": commanders}
         # print(cards)
     return decks
 
