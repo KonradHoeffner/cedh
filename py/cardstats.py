@@ -41,10 +41,12 @@ for cardName in cardCounter:
             print(cardName, "not in index")
             continue
     entry = index[cardName]
+    entry["name"] = cardName
+    entry["count"] = cardCounter[cardName]
+    entry["percent"] = int(100*cardCounter[cardName]/len(decks))
+    entry["types"] = entry["type_line"].split("\u2014")[0].strip().split(" ")
     cardStats[cardName] = entry
-    cardStats[cardName]["name"] = cardName
-    cardStats[cardName]["count"] = cardCounter[cardName]
-    cardStats[cardName]["percent"] = int(100*cardCounter[cardName]/len(decks))
+    
     identityCounter[frozenset(entry["color_identity"])]+=1
 
 # superidentity #############################################################
