@@ -98,6 +98,8 @@ for identity in identityCounter:
 #print(len(identityCounter),"color identities")
 #print(identityCounter)
 
+cardStats = dict(sorted(cardStats.items())) # sort to minimize diff
+
 with open(STATFILE, "w") as f:
     json.dump(cardStats, f, indent=2)
     print("saved", len(cardCounter), "cards to", STATFILE)
