@@ -3,3 +3,4 @@
 *.log
 *.aux
 *.svg
+dist/cards.js
