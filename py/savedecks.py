@@ -5,7 +5,7 @@ from pathlib import Path
 import re
 import sys
 
-LINKFILE = "./dist/links.json"
+LINKFILE = "./dist/data/links.json"
 try:
     url = "https://cedh-decklist-database.com/"
     crawler = Crawler(url)
@@ -63,9 +63,9 @@ def crawlDecks(links):
     return decks
 
 
-DECKFILE = "./dist/decks.json"
-DECKFILE_ERROR = "./dist/decks_error.json"
-DECKFILE_JS = "./dist/decks.js"
+DECKFILE = "./dist/data/decks.json"
+DECKFILE_ERROR = "./dist/data/decks_error.json"
+DECKFILE_JS = "./dist/data/decks.js"
 decks = crawlDecks(links)
 MIN_DECKS = 250
 size = len(decks)

@@ -8,9 +8,9 @@ from itertools import combinations, chain
 # load stuff ################################################################
 
 INDEX_URL = "https://konradhoeffner.github.io/mtgindex/mtgindex.json"
-DECKFILE = "./dist/decks.json"
-STATFILE = "./dist/cards.json"
-STATFILE_JS = "./dist/cards.js"
+DECKFILE = "./dist/data/decks.json"
+STATFILE = "./dist/data/cards.json"
+STATFILE_JS = "./dist/data/cards.js"
 
 index = json.loads(urlopen(INDEX_URL).read().decode("utf-8"))
 indexkeys = index.keys()

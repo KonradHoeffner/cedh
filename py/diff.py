@@ -4,9 +4,9 @@ import json
 from itertools import combinations, chain
 import pytablewriter as ptw
 
-CARDFILE = "./dist/cards.json"
-CARDFILE_OLD = "./dist/cards.old.json"
-DIFFFILE = "./dist/cards.diff.json"
+CARDFILE = "./dist/data/cards.json"
+CARDFILE_OLD = "./dist/data/cards.old.json"
+DIFFFILE = "./dist/data/cards.diff.json"
 MIN_COUNT = 3
 MIN_DIFF = 5
 MIN_SUPER_DIFF = 1

@@ -1,6 +1,5 @@
 *.pdf
-*.json
 *.log
 *.aux
 *.svg
-dist/cards.js
+dist/data
