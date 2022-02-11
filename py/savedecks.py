@@ -5,28 +5,30 @@ from pathlib import Path
 import re
 import sys
 
+LINKFOLDER = "./dist/data/"
 LINKFILE = "./dist/data/links.json"
+URL = "https://cedh-decklist-database.com/"
 try:
-    url = "https://cedh-decklist-database.com/"
-    crawler = Crawler(url)
+    Path(LINKFOLDER).mkdir(exist_ok=True)
+    crawler = Crawler(URL)
     crawler.run()
     print(len(crawler.links), "crawled links")
     links = crawler.links
     with open(LINKFILE, "w") as f:
         json.dump(links, f, indent=2)
-except Exception:
+except OSError: 
     if Path(LINKFILE).exists():
         with open(LINKFILE, "r") as f:
             links = json.load(f)
             print(
                 "Error crawling",
-                url,
+                URL,
                 len(links),
                 "links loaded from existing linkfile",
                 LINKFILE,
             )
     else:
-        print("Error crawling " + url + " and no existing linkfile. Aborting.")
+        print("Error crawling " + URL + " and no existing linkfile. Aborting.")
         raise
 
 PREFIX = "https://www.moxfield.com/decks/"
