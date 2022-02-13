@@ -2,17 +2,9 @@ const margin = { top: 30, right: 30, bottom: 30, left: 50 };
 const width = 2460 - margin.left - margin.right;
 const height = 1400 - margin.top - margin.bottom;
 
-function drawHistogram(id, f) {
-	// set the dimensions and margins of the graph
-
-	// append the svg object to the body of the page
-	const svg = d3
-		.select("#" + id)
-		.append("svg")
-		.attr("width", width + margin.left + margin.right)
-		.attr("height", height + margin.top + margin.bottom)
-		.append("g")
-		.attr("transform", `translate(${margin.left},${margin.top})`);
+function histogramCmc(id, f) {
+	// https://www.d3-graph-gallery.com/graph/histogram_basic.html
+	const svg = d3Svg(id, margin, width, height);
 
 	// get the data
 	d3.json("data/cards.json").then(function (data) {
@@ -63,15 +55,8 @@ function drawHistogram(id, f) {
 	});
 }
 
-function drawBarPlot(id, f) {
-	// append the svg object to the body of the page
-	const svg = d3
-		.select("#" + id)
-		.append("svg")
-		.attr("width", width + margin.left + margin.right)
-		.attr("height", height + margin.top + margin.bottom)
-		.append("g")
-		.attr("transform", `translate(${margin.left},${margin.top})`);
+function barPlotCmc(id, f) {
+	const svg = d3Svg(id, margin, width, height);
 
 	// Parse the Data
 	d3.json("data/cards.json").then(function (data) {
@@ -83,7 +68,6 @@ function drawBarPlot(id, f) {
 		for (card of data) {
 			cmcs[card.cmc].count += f(card);
 		}
-		console.log(cmcs);
 
 		// X axis
 		const x = d3
