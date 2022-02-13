@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<script src="https://d3js.org/d3.v6.js"></script>
+		<script src="js/density.js"></script>
+		<script src="js/d3util.js"></script>
+		<title>cEDH Database Density Visualizations</title>
+	</head>
+
+	<body>
+		<!-- first draft, this can be much shorter-->
+		<h1>Visualizing Color Depth</h1>
+		<h2>Linear Scale</h2>
+		<h3>All cards</h3>
+		<div id="count"></div>
+		<h3>Blue</h3>
+		<div id="blue"></div>
+		<h3>Black</h3>
+		<div id="black"></div>
+		<h3>Green</h3>
+		<div id="green"></div>
+		<h3>White</h3>
+		<div id="white"></div>
+		<h3>Red</h3>
+		<div id="red"></div>
+		<h3>Multicolor</h3>
+		<div id="multicolor"></div>
+		<h3>Artifact</h3>
+		<div id="artifact"></div>
+
+		<h2>Log Scale</h2>
+		<h3>All cards</h3>
+		<div id="count_log"></div>
+		<h3>Blue</h3>
+		<div id="blue_log"></div>
+		<h3>Black</h3>
+		<div id="black_log"></div>
+		<h3>Green</h3>
+		<div id="green_log"></div>
+		<h3>White</h3>
+		<div id="white_log"></div>
+		<h3>Red</h3>
+		<div id="red_log"></div>
+		<h3>Multicolor</h3>
+		<div id="multicolor_log"></div>
+		<h3>Artifact</h3>
+		<div id="artifact_log"></div>
+
+		<script>
+			count("count", "rank", (_) => true, "#69b3a2", d3.scaleLinear());
+			count("blue", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["U"], "blue", d3.scaleLinear());
+			count("black", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["B"], "black", d3.scaleLinear());
+			count("green", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["G"], "green", d3.scaleLinear());
+			count("white", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["W"], "#ffffbb", d3.scaleLinear());
+			count("red", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["R"], "red", d3.scaleLinear());
+			count("multicolor", "rank", (card) => card.color_identity.length > 1, "#eeee22", d3.scaleLinear());
+			count("artifact", "identity_rank", (card) => card.color_identity.length === 0 && card.type_line.split(" ")[0] == "Artifact", "brown", d3.scaleLinear());
+
+			count("count_log", "rank", (_) => true, "#69b3a2", d3.scaleLog().base(10));
+			count("blue_log", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["U"], "blue", d3.scaleLog().base(10));
+			count("black_log", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["B"], "black", d3.scaleLog().base(10));
+			count("green_log", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["G"], "green", d3.scaleLog().base(10));
+			count("white_log", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["W"], "#ffffbb", d3.scaleLog().base(10));
+			count("red_log", "identity_rank", (card) => card.color_identity.length === 1 && card.color_identity[0] == ["R"], "red", d3.scaleLog().base(10));
+			count("multicolor_log", "rank", (card) => card.color_identity.length > 1, "#eeee22", d3.scaleLog().base(10));
+			count(
+				"artifact_log",
+				"identity_rank",
+				(card) => card.color_identity.length === 0 && card.type_line.split(" ")[0] == "Artifact",
+				"brown",
+				d3.scaleLog().base(10)
+			);
+		</script>
+	</body>
+</html>

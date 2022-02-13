@@ -4,6 +4,7 @@
 		<meta charset="utf-8" />
 		<script src="https://d3js.org/d3.v6.js"></script>
 		<script src="js/heatmap.js"></script>
+		<script src="js/d3util.js"></script>
 		<title>cEDH Database Heatmap Visualizations</title>
 	</head>
 
@@ -15,8 +16,8 @@
 		<h3>Average Creatures</h3>
 		<div id="creatures_avg"></div>
 		<script>
-			creatureHeatMap("creatures_all",card=>1);
-			creatureHeatMap("creatures_avg",card=>card.percent);
+			creatureHeatMap("creatures_all", (card) => 1);
+			creatureHeatMap("creatures_avg", (card) => card.percent);
 			partnerHeatMap("partner");
 		</script>
 		<p>See also the <a href="staples.html" target="_blank">interactive staples table</a>.</p>

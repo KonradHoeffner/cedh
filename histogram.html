@@ -4,20 +4,19 @@
 		<meta charset="utf-8" />
 		<script src="https://d3js.org/d3.v6.js"></script>
 		<script src="js/histogram.js"></script>
+		<script src="js/d3util.js"></script>
+		<title>cEDH Database Histogram Visualizations</title>
 	</head>
 
 	<body>
-		<!--<h3>CMC all cards</h3>
-		<div id="cmc_all"></div>-->
 		<h3>CMC All</h3>
 		<div id="cmc_all"></div>
 		<h3>CMC Average</h3>
 		<div id="cmc_avg"></div>
 
 		<script>
-			//drawHistogram("cmc_all", (x) => x.cmc);
-			drawBarPlot("cmc_all", (x) => 1);
-			drawBarPlot("cmc_avg", (x) => (1.0 * x.percent) / 100);
+			barPlotCmc("cmc_all", (x) => 1);
+			barPlotCmc("cmc_avg", (x) => (1.0 * x.percent) / 100);
 		</script>
 	</body>
 </html>
