@@ -3,6 +3,7 @@ from pathlib import Path
 import re
 import sys
 
+import pandas as pd
 import math
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.cluster import AgglomerativeClustering
@@ -14,6 +15,8 @@ import graphviz
 
 from sklearn.metrics.pairwise import pairwise_distances
 from sklearn.metrics import matthews_corrcoef as mcc
+
+from dython.nominal import associations
 
 REPLACEMENT = "https://www.gerbrand.dev/"
 IGNORE = set(
@@ -158,6 +161,7 @@ for card in allcards:
 for key in decks.keys():
     d = dict()
     cards = decks[key]["mainboard"]
+    cards = filter(lambda c: c in scryfall and set(scryfall[c]["color_identity"])=={"U"}, cards)
     cards = set(cards)
     cards.difference_update(IGNORE)
     for card in cards:
@@ -185,8 +189,16 @@ def label(i):
 
 vectorizer = DictVectorizer()
 data = vectorizer.fit_transform(cardarray).toarray()
-# print(data)
 inverse = vectorizer.inverse_transform(data)
+cardFrame = pd.DataFrame(data,index=carddict.keys(),columns=vectorizer.get_feature_names_out())
+#print(len(data))
+#print(type(data))
+#print(decks.keys())
+#print(carddict.keys())
+#cardFrame = pd.DataFrame(data,index=carddict.keys(),columns=decks.keys())
+print(cardFrame)
+#associations(data)
+#sys.exit(1)
 # print(inverse[0])
 # print(label(0),label(2))
 # print(mcc(data[0],data[2])
@@ -244,8 +256,8 @@ def showTree(linkage_matrix):
     # G.add_node(key,fillcolor=value,style="filled")
     dot = nx.nx_pydot.to_pydot(G).to_string()
     dot = graphviz.Source(dot, engine="neato")
-    dot.render(format="pdf", filename="tree")
-    dot.render(format="svg", filename="tree")
+    dot.render(format="pdf", filename="blue")
+    dot.render(format="svg", filename="blue")
 
 
 def l1(x, y):
@@ -295,28 +307,21 @@ def createOurOwnDistanceMatrix():
             O[j][i] = dist
     return O
 
-
-#O = createOurOwnDistanceMatrix()
-
-
 def calculateDeckIdentities():
     deckIdentities = []
     keys = list(decks.keys())
     for i in range(len(keys)):
         deck = keys[i]
-        cs = decks[deck]
+        commanders = decks[deck]["commanders"]
         colors = set()
-        # we don't know who the commander is, so build the union of the color identities of all cards in the deck instead
-        for card in cs:
+        for card in commanders:
             if card in scryfall:
                 colors.update(set(scryfall[card]["color_identity"]))
         # print("Colors for",deck,colors)
         deckIdentities.append(colors)
     return deckIdentities
 
-
 # print(type(decks))
-
 # deckIdentities = calculateDeckIdentities()
 
 
@@ -332,6 +337,7 @@ def clusterTree(data):
         affinity=affinity
     )
     if affinity=="precomputed":
+        O = createOurOwnDistanceMatrix()
         clustering.fit(O)
     else:
         clustering.fit(data)
