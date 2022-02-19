@@ -172,7 +172,7 @@ def crawlDecks(links):
     return decks
 
 
-DECKFILE = "decks.json"
+DECKFILE = "dist/data/decks.json"
 if Path(DECKFILE).exists():
     with open(DECKFILE, "r") as f:
         decks = json.load(f)
@@ -186,7 +186,7 @@ else:
 featurearray = []
 for key in decks.keys():
     d = dict()
-    cards = decks[key]
+    cards = decks[key]["mainboard"]
     cards = set(cards)
     cards.difference_update(IGNORE)
     cards = list(cards)
@@ -198,6 +198,7 @@ for key in decks.keys():
 
 vectorizer = DictVectorizer()
 data = vectorizer.fit_transform(featurearray).toarray()
+print(type(data))
 print(data)
 
 # https://github.com/scikit-learn/scikit-learn/blob/70cf4a676caa2d2dad2e3f6e4478d64bcb0506f7/examples/cluster/plot_hierarchical_clustering_dendrogram.py
