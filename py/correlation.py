@@ -114,7 +114,7 @@ IGNORE = set(
     ]
 )
 
-CARDFILE = "cards.json"
+CARDFILE = "dist/data/cards.json"
 if Path(CARDFILE).exists():
     with open(CARDFILE, "r") as f:
         scryfall = json.load(f)
@@ -126,7 +126,7 @@ else:
     )
     sys.exit()
 
-DECKFILE = "decks.json"
+DECKFILE = "dist/data/decks.json"
 if Path(DECKFILE).exists():
     with open(DECKFILE, "r") as f:
         decks = json.load(f)
@@ -140,7 +140,7 @@ allcards = set()
 
 for key in decks.keys():
     d = dict()
-    cards = decks[key]
+    cards = decks[key]["mainboard"]
     cards = set(cards)
     cards.difference_update(IGNORE)
     allcards.update(cards)
@@ -157,7 +157,7 @@ for card in allcards:
 
 for key in decks.keys():
     d = dict()
-    cards = decks[key]
+    cards = decks[key]["mainboard"]
     cards = set(cards)
     cards.difference_update(IGNORE)
     for card in cards:
@@ -254,6 +254,9 @@ def l1(x, y):
     # print(x)
     sum = 0
     for i in range(len(x)):
+        if not isinstance(x[i],np.float64):
+            print("Error: not float: "+x[i],"when calculating distance between ",x,"and",y)
+            sys.exit()
         # here we should only count decks x[i] and y[i] if they contain both
         sum += abs(x[i] - y[i])
 
@@ -263,8 +266,8 @@ def l1(x, y):
     # int(edist.eval(data[int(x[0])], data[int(y[0])]))
 
 
-m = pairwise_distances(data, metric=l1)
-print(m)
+#m = pairwise_distances(data, metric=l1)
+#print(m)
 
 # todo: transform into real code
 # def distance(card1,card2):
@@ -286,13 +289,14 @@ def createOurOwnDistanceMatrix():
     O = np.zeros((n, n))
     for i in range(len(decks)):
         for j in range(i):
-            dist = l1(decks[list(decks.keys())[i]], decks[list(decks.keys())[j]])
+            print("Calculating distance between decks ",decks[list(decks.keys())[i]]["commanders"],"and",decks[list(decks.keys())[j]]["commanders"])
+            dist = l1(decks[list(decks.keys())[i]]["mainboard"], decks[list(decks.keys())[j]]["mainboard"])
             O[i][j] = dist
             O[j][i] = dist
     return O
 
 
-O = createOurOwnDistanceMatrix()
+#O = createOurOwnDistanceMatrix()
 
 
 def calculateDeckIdentities():
@@ -318,21 +322,23 @@ def calculateDeckIdentities():
 
 def clusterTree(data):
     N_CLUSTERS = 10
+    #affinity = "precomputed"
+    affinity = "l1"
     # precomputed requires a distance matrix
     clustering = AgglomerativeClustering(
         linkage="average",
         n_clusters=N_CLUSTERS,
         compute_distances=True,
-        affinity="precomputed",
+        affinity=affinity
     )
-    clustering.fit(O)
-    # clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, affinity="l1")
-    # clustering.fit(data)
+    if affinity=="precomputed":
+        clustering.fit(O)
+    else:
+        clustering.fit(data)
     # plot_dendrogram(clustering, labels=clustering.labels_)
     linkage_matrix = plot_dendrogram(clustering, show_leaf_counts=False)
     # print(linkage_matrix)
     showTree(linkage_matrix)
     # plt.show()
-
 
 clusterTree(data)
