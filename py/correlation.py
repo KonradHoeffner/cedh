@@ -16,106 +16,11 @@ import graphviz
 from sklearn.metrics.pairwise import pairwise_distances
 from sklearn.metrics import matthews_corrcoef as mcc
 
-from dython.nominal import associations
-
 REPLACEMENT = "https://www.gerbrand.dev/"
-IGNORE = set(
-    [
-        "Mana Crypt",
-        "Sol Ring",
-        "Chrome Mox",
-        "Misty Rainforest",
-        "Polluted Delta",
-        "Scalding Tarn",
-        "Windswept Heath",
-        "Flooded Strand",
-        "Marsh Flats",
-        "Arid Mesa",
-        "Verdant Catacombs",
-        "Bloodstained Mire",
-        "Wooded Foothills",
-        "Swamp",
-        "Plains",
-        "Island",
-        "Mountain",
-        "Forest",
-        "Snow-Covered Swamp",
-        "Snow-Covered Plains",
-        "Snow-Covered Island",
-        "Snow-Covered Mountain",
-        "Snow-Covered Forest",
-        "Tundra",
-        "Taiga",
-        "Bayou",
-        "Underground Sea",
-        "Savannah",
-        "Badlands",
-        "Scrubland",
-        "Tropical Island",
-        "Volcanic Island",
-        "Plateau",
-        "Hallowed Fountain",
-        "Watery Grave",
-        "Blood Crypt",
-        "Stomping Ground",
-        "Temple Garden",
-        "Godless Shrine",
-        "Steam Vents",
-        "Overgrown Tomb",
-        "Sacred Foundry",
-        "Breeding Pool",
-        "Command Tower",
-        "City of Brass",
-        "Mana Confluence",
-        "Gemstone Caverns",
-        "Exotic Orchard",
-        "Morphic Pool",
-        "Fetid Heath",
-        "Spire of Industry",
-        "Cascade Bluffs",
-        "Prismatic Vista",
-        "Forbidden Orchard",
-        "Tarnished Citadel",
-        "Undergrowth Stadium",
-        "Nurturing Peatland",
-        "Adarkar Wastes",
-        "Underground River",
-        "Sulfurous Springs",
-        "Karplusan Forest",
-        "Brushland",
-        "Caves of Koilos",
-        "Shivan Reef",
-        "Llanowar Wastes",
-        "Battlefield Forge",
-        "Yavimaya Coast",
-        "Talisman of Conviction",
-        "Talisman of Creativity",
-        "Talisman of Curiosity ",
-        "Talisman of Dominance ",
-        "Talisman of Hierarchy ",
-        "Talisman of Impulse",
-        "Talisman of Indulgence",
-        "Talisman of Progress",
-        "Talisman of Resilience",
-        "Talisman of Unity",
-        "Arcane Signet",
-        "Azorius Signet",
-        "Boros Signet",
-        "Dimir Signet",
-        "Golgari Signet",
-        "Gruul Signet",
-        "Izzet Signet",
-        "Orzhov Signet",
-        "Rakdos Signet",
-        "Selesnya Signet",
-        "Simic Signet",
-        "Sunbaked Canyon",
-        "Waterlogged Grove",
-        "Silent Clearing",
-        "Nurturing Peatland",
-        "Fiery Islet",
-    ]
-)
+IGNOREFILE = "ignore.txt"
+
+with open(IGNOREFILE, "r") as f:
+    IGNORE = set(f.read().splitlines())
 
 CARDFILE = "dist/data/cards.json"
 if Path(CARDFILE).exists():
@@ -161,7 +66,7 @@ for card in allcards:
 for key in decks.keys():
     d = dict()
     cards = decks[key]["mainboard"]
-    cards = filter(lambda c: c in scryfall and set(scryfall[c]["color_identity"])=={"U"}, cards)
+    #cards = filter(lambda c: c in scryfall and set(scryfall[c]["color_identity"])=={"G"}, cards)
     cards = set(cards)
     cards.difference_update(IGNORE)
     for card in cards:
@@ -172,7 +77,7 @@ newcarddict = dict()
 for key in carddict.keys():
     d = dict()
     localdecks = carddict[key]
-    if len(localdecks) > 9:
+    if len(localdecks) > 5:
         localdecks.sort()
         d["decks"] = localdecks
         cardarray.append(d)
@@ -197,7 +102,6 @@ cardFrame = pd.DataFrame(data,index=carddict.keys(),columns=vectorizer.get_featu
 #print(carddict.keys())
 #cardFrame = pd.DataFrame(data,index=carddict.keys(),columns=decks.keys())
 print(cardFrame)
-#associations(data)
 #sys.exit(1)
 # print(inverse[0])
 # print(label(0),label(2))
@@ -256,8 +160,8 @@ def showTree(linkage_matrix):
     # G.add_node(key,fillcolor=value,style="filled")
     dot = nx.nx_pydot.to_pydot(G).to_string()
     dot = graphviz.Source(dot, engine="neato")
-    dot.render(format="pdf", filename="blue")
-    dot.render(format="svg", filename="blue")
+    dot.render(format="pdf", filename="test")
+    dot.render(format="svg", filename="test")
 
 
 def l1(x, y):

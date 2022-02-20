@@ -1,0 +1,93 @@
+Mana Crypt
+Sol Ring
+Chrome Mox
+Misty Rainforest
+Polluted Delta
+Scalding Tarn
+Windswept Heath
+Flooded Strand
+Marsh Flats
+Arid Mesa
+Verdant Catacombs
+Bloodstained Mire
+Wooded Foothills
+Swamp
+Plains
+Island
+Mountain
+Forest
+Snow-Covered Swamp
+Snow-Covered Plains
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Forest
+Tundra
+Taiga
+Bayou
+Underground Sea
+Savannah
+Badlands
+Scrubland
+Tropical Island
+Volcanic Island
+Plateau
+Hallowed Fountain
+Watery Grave
+Blood Crypt
+Stomping Ground
+Temple Garden
+Godless Shrine
+Steam Vents
+Overgrown Tomb
+Sacred Foundry
+Breeding Pool
+Command Tower
+City of Brass
+Mana Confluence
+Gemstone Caverns
+Exotic Orchard
+Morphic Pool
+Fetid Heath
+Spire of Industry
+Cascade Bluffs
+Prismatic Vista
+Forbidden Orchard
+Tarnished Citadel
+Undergrowth Stadium
+Nurturing Peatland
+Adarkar Wastes
+Underground River
+Sulfurous Springs
+Karplusan Forest
+Brushland
+Caves of Koilos
+Shivan Reef
+Llanowar Wastes
+Battlefield Forge
+Yavimaya Coast
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Curiosity 
+Talisman of Dominance 
+Talisman of Hierarchy 
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Progress
+Talisman of Resilience
+Talisman of Unity
+Arcane Signet
+Azorius Signet
+Boros Signet
+Dimir Signet
+Golgari Signet
+Gruul Signet
+Izzet Signet
+Orzhov Signet
+Rakdos Signet
+Selesnya Signet
+Simic Signet
+Sunbaked Canyon
+Waterlogged Grove
+Silent Clearing
+Nurturing Peatland
+Fiery Islet
