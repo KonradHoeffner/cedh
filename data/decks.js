@@ -585,9 +585,9 @@ const decks =
       "Mana Confluence",
       "Mana Crypt",
       "Marsh Flats",
-      "Mask of the Mimic",
       "Memory's Journey",
       "Mental Misstep",
+      "Mindbreak Trap",
       "Miscast",
       "Misty Rainforest",
       "Morphic Pool",
@@ -4924,7 +4924,6 @@ const decks =
       "Blind Obedience",
       "Boseiju, Who Endures",
       "Bountiful Promenade",
-      "Brushland",
       "Carpet of Flowers",
       "Chord of Calling",
       "Chrome Mox",
@@ -4975,6 +4974,7 @@ const decks =
       "Mox Diamond",
       "Nature's Chosen",
       "Null Rod",
+      "Nykthos, Shrine to Nyx",
       "Paladin Class",
       "Prismatic Vista",
       "Ranger-Captain of Eos",
@@ -4983,6 +4983,7 @@ const decks =
       "Sanctum Weaver",
       "Savannah",
       "Seal of Cleansing",
+      "Search for Glory",
       "Seedcradle Witch",
       "Serra's Sanctum",
       "Setessan Champion",
@@ -4996,7 +4997,6 @@ const decks =
       "Swift Reconfiguration",
       "Swords to Plowshares",
       "Sylvan Library",
-      "Sylvan Tutor",
       "Temple Garden",
       "Turntimber Symbiosis // Turntimber, Serpentine Wood",
       "Utopia Sprawl",
@@ -6725,6 +6725,7 @@ const decks =
       "Homeward Path",
       "Island",
       "Jeweled Lotus",
+      "Kinnan, Bonder Prodigy",
       "Kira, Great Glass-Spinner",
       "Lavinia, Azorius Renegade",
       "Llanowar Elves",
@@ -6745,7 +6746,6 @@ const decks =
       "Otawara, Soaring City",
       "Plains",
       "Polluted Delta",
-      "Priest of Titania",
       "Ranger-Captain of Eos",
       "Rest in Peace",
       "Rule of Law",
@@ -11621,7 +11621,6 @@ const decks =
       "Grand Abolisher",
       "Hallowed Fountain",
       "Homeward Path",
-      "Hope of Ghirapur",
       "Imperial Recruiter",
       "Intuition",
       "Island",
@@ -11648,6 +11647,7 @@ const decks =
       "Plateau",
       "Polluted Delta",
       "Ranger-Captain of Eos",
+      "Red Elemental Blast",
       "Rhystic Study",
       "Sacred Foundry",
       "Scalding Tarn",
@@ -15802,6 +15802,7 @@ const decks =
       "Peer into the Abyss",
       "Phyrexian Tower",
       "Praetor's Grasp",
+      "Putrid Imp",
       "Rain of Filth",
       "Reanimate",
       "Sacrifice",
@@ -15820,8 +15821,7 @@ const decks =
       "Vile Entomber",
       "Vilis, Broker of Blood",
       "Wishclaw Talisman",
-      "Xiahou Dun, the One-Eyed",
-      "Yawgmoth's Will"
+      "Xiahou Dun, the One-Eyed"
     ],
     "commanders": [
       "K'rrik, Son of Yawgmoth"
@@ -16441,8 +16441,8 @@ const decks =
       "Birds of Paradise",
       "Bloodstained Mire",
       "Bloom Tender",
+      "Boseiju, Who Endures",
       "Captain Lannery Storm",
-      "Chain of Vapor",
       "Chrome Mox",
       "City of Brass",
       "Command Tower",
@@ -19224,7 +19224,7 @@ const decks =
       "Selvala, Heart of the Wilds"
     ]
   },
-  "iKraum 776": {
+  "iKraum": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
