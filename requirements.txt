@@ -4,3 +4,4 @@ networkx
 pydot
 graphviz
 requests
+pytablewriter
