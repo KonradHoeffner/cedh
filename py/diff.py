@@ -17,16 +17,20 @@ with open(CARDFILE, "r") as f:
 with open(CARDFILE_OLD, "r") as f:
     cardsOld = json.load(f)
 
-keys = list(set(cards.keys()).intersection(cardsOld.keys()))
+#keys = list(set(cards.keys()).intersection(cardsOld.keys()))
+keys = list(cards.keys())
 keys.sort()
 
+nan = float("NaN")
 diff = dict()
 diff_matrix = list()
-
 for key in keys:
-    old = cardsOld[key]
+    if key in cardsOld:
+        old = cardsOld[key]
+    else:
+        old = {"count":0, "superrank":nan, "rank":nan, "identity_rank":nan, "supercent": 0}
     new = cards[key]
-    if min(new["count"], old["count"]) < MIN_COUNT:
+    if new["count"] < MIN_COUNT:
         continue  # skip cards that are only in very few decks
     # lower numbers are higher ranks, so upranking reduces the rank
     count = new["count"]
@@ -37,6 +41,8 @@ for key in keys:
     superrankdiff = old["superrank"] - superrank
     irank = new["identity_rank"]
     irankdiff = old["identity_rank"] - irank
+    supercent = new["supercent"]
+    supercentdiff = supercent - old["supercent"]
     # if abs(rank) < MIN_DIFF and abs(superrank) < MIN_SUPER_DIFF:
     #    continue
     # if max(abs(rankdiff), abs(superrankdiff)) > MAX_DIFF:
@@ -52,8 +58,9 @@ for key in keys:
         rankdiff,
         superrank,
         superrankdiff,
+        supercent,
+        supercentdiff,
         new["color_identity"],
-        new["supercent"],
         irank,
         irankdiff,
     ]
@@ -75,7 +82,7 @@ COLOR_IDENTITIES = powerset(COLORS.keys())
 
 
 def markdown():
-    headers = ["Card", "Count", "ΔCount", "Rank", "ΔRank", "SRank", "ΔSRank"]
+    headers = ["Card", "Count", "ΔCount", "Rank", "ΔRank", "SRank", "ΔSRank","% rel","Δ% rel"]
 
     byrankdiff = sorted(diff_matrix, key=lambda row: row[2], reverse=True)[0:10]
     writer = ptw.MarkdownTableWriter(table_name="Top Increased Count", headers=headers, value_matrix=byrankdiff)
@@ -85,11 +92,11 @@ def markdown():
     writer = ptw.MarkdownTableWriter(table_name="Top Decreased Count", headers=headers, value_matrix=byrankdiff)
     writer.write_table()
 
-    headers = ["Card", "Count", "ΔCount", "% rel"]
+    headers = ["Card", "Count", "ΔCount", "% rel","Δ% rel"]
     for identity in COLOR_IDENTITIES:
         identity = set(identity)
-        byidentity = map(lambda row: row[0:3] + row[8:11], filter(lambda card: identity == set(card[7]), diff_matrix))
-        byidentity = sorted(byidentity, key=lambda row: row[1], reverse=True)[0:100]
+        byidentity = map(lambda row: row[0:3] + row[7:9] + row[10:12], filter(lambda card: identity == set(card[9]), diff_matrix))
+        byidentity = sorted(byidentity, key=lambda row: row[1], reverse=True)[0:85]
         if len(byidentity) < 1:
             continue
         identityName = "".join(identity)
