@@ -8921,6 +8921,7 @@ const decks =
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor",
+      "Yavimaya, Cradle of Growth",
       "Yisan, the Wanderer Bard",
       "Zealous Conscripts",
       "Zhur-Taa Druid"
@@ -10023,8 +10024,8 @@ const decks =
       "Chrome Mox",
       "Copy Artifact",
       "Counterbalance",
+      "Counterspell",
       "Cyclonic Rift",
-      "Delay",
       "Dig Through Time",
       "Dispel",
       "Dramatic Reversal",
@@ -10116,8 +10117,8 @@ const decks =
       "Consecrated Sphinx",
       "Copy Artifact",
       "Counterbalance",
+      "Counterspell",
       "Cyclonic Rift",
-      "Delay",
       "Dispel",
       "Dramatic Reversal",
       "Emergence Zone",
@@ -15968,7 +15969,6 @@ const decks =
       "Ranger-Captain of Eos",
       "Razaketh, the Foulblooded",
       "Reanimate",
-      "Red Elemental Blast",
       "Rhystic Study",
       "Savannah",
       "Scalding Tarn",
@@ -15997,7 +15997,8 @@ const decks =
       "Windfall",
       "Windswept Heath",
       "Wishclaw Talisman",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "Worldly Tutor"
     ],
     "commanders": [
       "Kenrith, the Returned King"
@@ -20747,7 +20748,6 @@ const decks =
       "Bazaar of Baghdad",
       "Beseech the Queen",
       "Blood Celebrant",
-      "Blood Pet",
       "Buried Alive",
       "Cabal Ritual",
       "Cavern of Souls",
@@ -20869,7 +20869,6 @@ const decks =
       "Grim Monolith",
       "Grim Tutor",
       "Heartless Summoning",
-      "High Market",
       "Homeward Path",
       "Imperial Seal",
       "Infernal Grasp",
@@ -23504,12 +23503,13 @@ const decks =
       "Kess, Dissident Mage"
     ]
   },
-  "Collaborative Gitrog Monster Primer": {
+  "Gitrog Lands Matter Dredge": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
       "Allosaurus Shepherd",
       "Ancient Tomb",
+      "Arcane Denial",
       "Assassin's Trophy",
       "Autumn's Veil",
       "Bayou",

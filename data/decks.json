@@ -8920,6 +8920,7 @@
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor",
+      "Yavimaya, Cradle of Growth",
       "Yisan, the Wanderer Bard",
       "Zealous Conscripts",
       "Zhur-Taa Druid"
@@ -10022,8 +10023,8 @@
       "Chrome Mox",
       "Copy Artifact",
       "Counterbalance",
+      "Counterspell",
       "Cyclonic Rift",
-      "Delay",
       "Dig Through Time",
       "Dispel",
       "Dramatic Reversal",
@@ -10115,8 +10116,8 @@
       "Consecrated Sphinx",
       "Copy Artifact",
       "Counterbalance",
+      "Counterspell",
       "Cyclonic Rift",
-      "Delay",
       "Dispel",
       "Dramatic Reversal",
       "Emergence Zone",
@@ -15967,7 +15968,6 @@
       "Ranger-Captain of Eos",
       "Razaketh, the Foulblooded",
       "Reanimate",
-      "Red Elemental Blast",
       "Rhystic Study",
       "Savannah",
       "Scalding Tarn",
@@ -15996,7 +15996,8 @@
       "Windfall",
       "Windswept Heath",
       "Wishclaw Talisman",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "Worldly Tutor"
     ],
     "commanders": [
       "Kenrith, the Returned King"
@@ -20746,7 +20747,6 @@
       "Bazaar of Baghdad",
       "Beseech the Queen",
       "Blood Celebrant",
-      "Blood Pet",
       "Buried Alive",
       "Cabal Ritual",
       "Cavern of Souls",
@@ -20868,7 +20868,6 @@
       "Grim Monolith",
       "Grim Tutor",
       "Heartless Summoning",
-      "High Market",
       "Homeward Path",
       "Imperial Seal",
       "Infernal Grasp",
@@ -23503,12 +23502,13 @@
       "Kess, Dissident Mage"
     ]
   },
-  "Collaborative Gitrog Monster Primer": {
+  "Gitrog Lands Matter Dredge": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
       "Allosaurus Shepherd",
       "Ancient Tomb",
+      "Arcane Denial",
       "Assassin's Trophy",
       "Autumn's Veil",
       "Bayou",
