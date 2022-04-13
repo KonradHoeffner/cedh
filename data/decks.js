@@ -9256,7 +9256,7 @@ const decks =
       "Sythis, Harvest's Hand"
     ]
   },
-  "Draw like the Gods Intended": {
+  "Draw like the Gods Intended [[MLC 2022]]": {
     "mainboard": [
       "Alseid of Life's Bounty",
       "Ancient Tomb",
@@ -12369,7 +12369,6 @@ const decks =
       "Ad Nauseam",
       "Allosaurus Shepherd",
       "Arbor Elf",
-      "Archon of Emeria",
       "Assassin's Trophy",
       "Autumn's Veil",
       "Avacyn's Pilgrim",
@@ -12424,6 +12423,7 @@ const decks =
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
+      "Managorger Hydra",
       "Marsh Flats",
       "Misty Rainforest",
       "Mox Diamond",
@@ -14520,7 +14520,6 @@ const decks =
       "Pyroblast",
       "Pyrokinesis",
       "Ragavan, Nimble Pilferer",
-      "Reckoner Bankbuster",
       "Red Elemental Blast",
       "Rite of Flame",
       "Scalding Tarn",
@@ -15392,6 +15391,7 @@ const decks =
       "Counterspell",
       "Cyclonic Rift",
       "Deafening Silence",
+      "Dispel",
       "Dovin's Veto",
       "Drannith Magistrate",
       "Eidolon of Rhetoric",
@@ -15429,7 +15429,6 @@ const decks =
       "Mana Vault",
       "Marsh Flats",
       "Mental Misstep",
-      "Miscast",
       "Misty Rainforest",
       "Mox Diamond",
       "Mystic Remora",
@@ -23696,7 +23695,7 @@ const decks =
       "Godo, Bandit Warlord"
     ]
   },
-  "Storm Seeker TechnoRevolution": {
+  "Storm Seeker TechnoRevolution [cEDH]": {
     "mainboard": [
       "Ad Nauseam",
       "Alchemist's Retrieval",
