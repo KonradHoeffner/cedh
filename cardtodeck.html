@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>cEDH Decklist Card to Deck Map</title>
+		<!--<script src="https://konradhoeffner.github.io/mtgindex/mtgindex.js"></script>-->
+	</head>
+	<body>
+		<h2>Where is my card played?</h2>
+		<form onsubmit="search(event)"><input type="search" id="searchinput"></form>
+		<p id="hits"></p>
+		<script>
+				let decks;
+			  fetch('data/decks.json')
+								.then(response => response.json())
+								.then(data => decks = data);
+
+				function search(event)
+				{
+								event.preventDefault();
+								const query = document.getElementById("searchinput").value;
+								const hits= Object.keys(decks).filter(key => decks[key].mainboard.includes(query));
+														document.getElementById("hits").innerHTML = "<ul>"+hits.map(h=>"<li>"+h+"</li>").reduce((a,b)=>a+b)+"</ul>";
+								return false;	
+				}
+				
+		</script>
+		<p>See also <a href="staples.html" target="_blank">staples list, <a href="heatmap.html" target="_blank">creature heatmaps</a> and <a href="density.html" target="_blank">color depth</a>.</p>
+	</body>
+</html>
