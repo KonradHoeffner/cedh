@@ -7049,7 +7049,6 @@
       "Blood Crypt",
       "Bloodstained Mire",
       "Brain Freeze",
-      "Brainstorm",
       "Cabal Ritual",
       "Chain of Vapor",
       "Chrome Mox",
@@ -7063,6 +7062,7 @@
       "Demonic Tutor",
       "Diabolic Intent",
       "Dockside Extortionist",
+      "Dragon's Rage Channeler",
       "Exotic Orchard",
       "Fellwar Stone",
       "Fierce Guardianship",
@@ -7074,6 +7074,7 @@
       "Gemstone Caverns",
       "Grim Hireling",
       "Grim Monolith",
+      "Grinding Station",
       "Imperial Seal",
       "Island",
       "Jeweled Lotus",
@@ -7084,11 +7085,13 @@
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
+      "March of Swirling Mist",
       "Marsh Flats",
       "Mental Misstep",
       "Miscast",
       "Misty Rainforest",
       "Mizzix's Mastery",
+      "Mnemonic Betrayal",
       "Morphic Pool",
       "Mox Amber",
       "Mox Diamond",
@@ -7097,9 +7100,9 @@
       "Mystical Tutor",
       "Necropotence",
       "Opposition Agent",
+      "Otawara, Soaring City",
       "Pact of Negation",
       "Peer into the Abyss",
-      "Phantasmal Image",
       "Polluted Delta",
       "Praetor's Grasp",
       "Ragavan, Nimble Pilferer",
@@ -7109,8 +7112,6 @@
       "Rite of Flame",
       "Scalding Tarn",
       "Simian Spirit Guide",
-      "Snap",
-      "Snow-Covered Island",
       "Sol Ring",
       "Spell Pierce",
       "Spire of Industry",
@@ -7131,7 +7132,6 @@
       "Volcanic Island",
       "Watery Grave",
       "Wheel of Fortune",
-      "Wheel of Misfortune",
       "Windfall",
       "Wishclaw Talisman",
       "Wooded Foothills"
@@ -8183,7 +8183,7 @@
       "Grolnok, the Omnivore"
     ]
   },
-  "Izzet just Fantasy?": {
+  "Izzet just Fantasy? (storm farm)": {
     "mainboard": [
       "Ancient Tomb",
       "Anje's Ravager",
@@ -15246,8 +15246,9 @@
       "Sakashima of a Thousand Faces"
     ]
   },
-  "Koll Fruity Pebbles": {
+  "Koll Fruity Pebbles Farm": {
     "mainboard": [
+      "Abrade",
       "Ancient Den",
       "Ancient Tomb",
       "Arcane Signet",
@@ -15318,7 +15319,6 @@
       "Rip Apart",
       "Rite of Flame",
       "Rograkh, Son of Rohgahh",
-      "Runaway Steam-Kin",
       "Sacred Foundry",
       "Scalding Tarn",
       "Shatterskull Smashing // Shatterskull, the Hammer Pass",
@@ -15875,7 +15875,7 @@
       "Kraum, Ludevic's Opus"
     ]
   },
-  "Enchanted Harvest": {
+  "Enchanted Harvest Farm": {
     "mainboard": [
       "Abundant Growth",
       "Alseid of Life's Bounty",
@@ -20248,7 +20248,7 @@
       "Rielle, the Everwise"
     ]
   },
-  "PRIMER: Clockside Outlaw": {
+  "PRIMER: Clockside Outlaw Farm": {
     "mainboard": [
       "Abrade",
       "Adaptive Automaton",
@@ -26892,9 +26892,9 @@
       "Arcane Signet",
       "Arid Mesa",
       "Badlands",
+      "Bloodline Necromancer",
       "Bloodstained Mire",
       "Brain Freeze",
-      "Brainstorm",
       "Burnt Offering",
       "Cabal Ritual",
       "Cephalid Coliseum",
@@ -26902,6 +26902,7 @@
       "Chrome Mox",
       "City of Brass",
       "Command Tower",
+      "Crystal Vein",
       "Culling the Weak",
       "Dark Ritual",
       "Dauthi Voidwalker",
@@ -26931,7 +26932,6 @@
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
-      "March of Swirling Mist",
       "Marsh Flats",
       "Mental Misstep",
       "Miscast",
@@ -26953,10 +26953,10 @@
       "Reanimate",
       "Red Elemental Blast",
       "Rhystic Study",
+      "Ruthless Technomancer",
       "Scalding Tarn",
       "Scholar of the Ages",
       "Shallow Grave",
-      "Shatterskull Smashing // Shatterskull, the Hammer Pass",
       "Simian Spirit Guide",
       "Snap",
       "Sol Ring",
@@ -28876,7 +28876,7 @@
       "Selvala, Explorer Returned"
     ]
   },
-  " Symphony of the Knight ": {
+  " Symphony of the Knight  Farm": {
     "mainboard": [
       "Academy Rector",
       "Ad Nauseam",

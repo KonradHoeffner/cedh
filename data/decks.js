@@ -7050,7 +7050,6 @@ const decks =
       "Blood Crypt",
       "Bloodstained Mire",
       "Brain Freeze",
-      "Brainstorm",
       "Cabal Ritual",
       "Chain of Vapor",
       "Chrome Mox",
@@ -7064,6 +7063,7 @@ const decks =
       "Demonic Tutor",
       "Diabolic Intent",
       "Dockside Extortionist",
+      "Dragon's Rage Channeler",
       "Exotic Orchard",
       "Fellwar Stone",
       "Fierce Guardianship",
@@ -7075,6 +7075,7 @@ const decks =
       "Gemstone Caverns",
       "Grim Hireling",
       "Grim Monolith",
+      "Grinding Station",
       "Imperial Seal",
       "Island",
       "Jeweled Lotus",
@@ -7085,11 +7086,13 @@ const decks =
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
+      "March of Swirling Mist",
       "Marsh Flats",
       "Mental Misstep",
       "Miscast",
       "Misty Rainforest",
       "Mizzix's Mastery",
+      "Mnemonic Betrayal",
       "Morphic Pool",
       "Mox Amber",
       "Mox Diamond",
@@ -7098,9 +7101,9 @@ const decks =
       "Mystical Tutor",
       "Necropotence",
       "Opposition Agent",
+      "Otawara, Soaring City",
       "Pact of Negation",
       "Peer into the Abyss",
-      "Phantasmal Image",
       "Polluted Delta",
       "Praetor's Grasp",
       "Ragavan, Nimble Pilferer",
@@ -7110,8 +7113,6 @@ const decks =
       "Rite of Flame",
       "Scalding Tarn",
       "Simian Spirit Guide",
-      "Snap",
-      "Snow-Covered Island",
       "Sol Ring",
       "Spell Pierce",
       "Spire of Industry",
@@ -7132,7 +7133,6 @@ const decks =
       "Volcanic Island",
       "Watery Grave",
       "Wheel of Fortune",
-      "Wheel of Misfortune",
       "Windfall",
       "Wishclaw Talisman",
       "Wooded Foothills"
@@ -8184,7 +8184,7 @@ const decks =
       "Grolnok, the Omnivore"
     ]
   },
-  "Izzet just Fantasy?": {
+  "Izzet just Fantasy? (storm farm)": {
     "mainboard": [
       "Ancient Tomb",
       "Anje's Ravager",
@@ -15247,8 +15247,9 @@ const decks =
       "Sakashima of a Thousand Faces"
     ]
   },
-  "Koll Fruity Pebbles": {
+  "Koll Fruity Pebbles Farm": {
     "mainboard": [
+      "Abrade",
       "Ancient Den",
       "Ancient Tomb",
       "Arcane Signet",
@@ -15319,7 +15320,6 @@ const decks =
       "Rip Apart",
       "Rite of Flame",
       "Rograkh, Son of Rohgahh",
-      "Runaway Steam-Kin",
       "Sacred Foundry",
       "Scalding Tarn",
       "Shatterskull Smashing // Shatterskull, the Hammer Pass",
@@ -15876,7 +15876,7 @@ const decks =
       "Kraum, Ludevic's Opus"
     ]
   },
-  "Enchanted Harvest": {
+  "Enchanted Harvest Farm": {
     "mainboard": [
       "Abundant Growth",
       "Alseid of Life's Bounty",
@@ -20249,7 +20249,7 @@ const decks =
       "Rielle, the Everwise"
     ]
   },
-  "PRIMER: Clockside Outlaw": {
+  "PRIMER: Clockside Outlaw Farm": {
     "mainboard": [
       "Abrade",
       "Adaptive Automaton",
@@ -26893,9 +26893,9 @@ const decks =
       "Arcane Signet",
       "Arid Mesa",
       "Badlands",
+      "Bloodline Necromancer",
       "Bloodstained Mire",
       "Brain Freeze",
-      "Brainstorm",
       "Burnt Offering",
       "Cabal Ritual",
       "Cephalid Coliseum",
@@ -26903,6 +26903,7 @@ const decks =
       "Chrome Mox",
       "City of Brass",
       "Command Tower",
+      "Crystal Vein",
       "Culling the Weak",
       "Dark Ritual",
       "Dauthi Voidwalker",
@@ -26932,7 +26933,6 @@ const decks =
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
-      "March of Swirling Mist",
       "Marsh Flats",
       "Mental Misstep",
       "Miscast",
@@ -26954,10 +26954,10 @@ const decks =
       "Reanimate",
       "Red Elemental Blast",
       "Rhystic Study",
+      "Ruthless Technomancer",
       "Scalding Tarn",
       "Scholar of the Ages",
       "Shallow Grave",
-      "Shatterskull Smashing // Shatterskull, the Hammer Pass",
       "Simian Spirit Guide",
       "Snap",
       "Sol Ring",
@@ -28877,7 +28877,7 @@ const decks =
       "Selvala, Explorer Returned"
     ]
   },
-  " Symphony of the Knight ": {
+  " Symphony of the Knight  Farm": {
     "mainboard": [
       "Academy Rector",
       "Ad Nauseam",
