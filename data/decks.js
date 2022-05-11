@@ -1,6 +1,6 @@
 const decks =
 {
-  " CuWuosive Scepter  | Toxrill Control | cEDH": {
+  " SLVGCVLT  | Toxrill Control | cEDH": {
     "mainboard": [
       "An Offer You Can't Refuse",
       "Ancient Tomb",
@@ -6257,7 +6257,6 @@ const decks =
       "Marsh Flats",
       "Mental Misstep",
       "Misty Rainforest",
-      "Mnemonic Betrayal",
       "Morphic Pool",
       "Mox Diamond",
       "Mystic Remora",
@@ -6299,6 +6298,7 @@ const decks =
       "Watery Grave",
       "Windfall",
       "Windswept Heath",
+      "Wishclaw Talisman",
       "Wooded Foothills",
       "Yawgmoth's Will"
     ],
@@ -14513,7 +14513,6 @@ const decks =
       "Arcane Signet",
       "Arid Mesa",
       "Badlands",
-      "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
       "Blood Crypt",
       "Bloodstained Mire",
       "Brain Freeze",
@@ -14524,8 +14523,8 @@ const decks =
       "City of Brass",
       "Command Tower",
       "Cyclonic Rift",
+      "Dark Confidant",
       "Dark Ritual",
-      "Dauthi Voidwalker",
       "Deflecting Swat",
       "Delay",
       "Demonic Consultation",
@@ -14543,6 +14542,7 @@ const decks =
       "Gemstone Caverns",
       "Gilded Drake",
       "Gitaxian Probe",
+      "Grim Hireling",
       "Grim Monolith",
       "Imperial Seal",
       "Island",
@@ -14551,7 +14551,6 @@ const decks =
       "Lion's Eye Diamond",
       "Lotus Petal",
       "Luxury Suite",
-      "Malevolent Hermit // Benevolent Geist",
       "Mana Confluence",
       "Mana Crypt",
       "Mana Drain",
@@ -14566,14 +14565,16 @@ const decks =
       "Mystic Reflection",
       "Mystic Remora",
       "Mystical Tutor",
+      "Narset, Parter of Veils",
       "Notion Thief",
       "Pact of Negation",
-      "Peer into the Abyss",
       "Phantasmal Image",
       "Polluted Delta",
+      "Professional Face-Breaker",
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Reanimate",
+      "Resculpt",
       "Rhystic Study",
       "Rite of Flame",
       "Scalding Tarn",
@@ -14601,7 +14602,6 @@ const decks =
       "Watery Grave",
       "Wheel of Fortune",
       "Windfall",
-      "Winds of Rebuke",
       "Wishclaw Talisman",
       "Wooded Foothills",
       "Yawgmoth's Will"
@@ -15140,7 +15140,7 @@ const decks =
       "Sakashima of a Thousand Faces"
     ]
   },
-  "Koll Fruity Pebbles Farm": {
+  "Koll Fruity Pebbles": {
     "mainboard": [
       "Abrade",
       "Ancient Den",
@@ -15769,7 +15769,7 @@ const decks =
       "Kraum, Ludevic's Opus"
     ]
   },
-  "Enchanted Harvest Farm": {
+  "Enchanted Harvest": {
     "mainboard": [
       "Abundant Growth",
       "Alseid of Life's Bounty",
@@ -18785,6 +18785,7 @@ const decks =
   },
   "Tayam, The Luminous GrindStone (cEDH)": {
     "mainboard": [
+      "Allosaurus Shepherd",
       "Ancient Tomb",
       "Arbor Elf",
       "Archon of Emeria",
@@ -18833,7 +18834,6 @@ const decks =
       "Godless Shrine",
       "Green Sun's Zenith",
       "Grist, the Hunger Tide",
-      "Hushwing Gryff",
       "Icatian Moneychanger",
       "Imperial Seal",
       "Jeweled Lotus",
@@ -18843,6 +18843,7 @@ const decks =
       "Lotus Petal",
       "Mana Confluence",
       "Mana Crypt",
+      "Manglehorn",
       "Marsh Flats",
       "Misty Rainforest",
       "Mox Diamond",
@@ -18862,7 +18863,6 @@ const decks =
       "Scurry Oak",
       "Seal of Doom",
       "Seedborn Muse",
-      "Shalai, Voice of Plenty",
       "Silent Clearing",
       "Skullwinder",
       "Sol Ring",
@@ -20880,7 +20880,6 @@ const decks =
       "Gilded Drake",
       "Giver of Runes",
       "Green Sun's Zenith",
-      "Guardian Augmenter",
       "Hallowed Fountain",
       "Homeward Path",
       "Jeweled Lotus",
@@ -20909,16 +20908,17 @@ const decks =
       "Rest in Peace",
       "Rule of Law",
       "Sanctum Prelate",
-      "Saryth, the Viper's Fang",
       "Savannah",
       "Scalding Tarn",
       "Scheming Fence",
       "Seedborn Muse",
       "Serra Ascendant",
+      "Shalai, Voice of Plenty",
       "Skyclave Apparition",
       "Sol Ring",
       "Swan Song",
       "Swords to Plowshares",
+      "Sylvan Library",
       "Sylvan Safekeeper",
       "Temple Garden",
       "Tropical Island",
@@ -24541,6 +24541,7 @@ const decks =
   },
   "Krriko K'rikk (cEDH Primer) (MASSIVE UPDATE)": {
     "mainboard": [
+      "Aetherflux Reservoir",
       "Ancient Tomb",
       "Animate Dead",
       "Arcane Signet",
@@ -24549,7 +24550,7 @@ const decks =
       "Bazaar of Baghdad",
       "Beseech the Queen",
       "Blood Celebrant",
-      "Blood Pet",
+      "Bolas's Citadel",
       "Buried Alive",
       "Cabal Ritual",
       "Cavern of Souls",
@@ -24585,8 +24586,6 @@ const decks =
       "Kokusho, the Evening Star",
       "Lake of the Dead",
       "Leyline of the Void",
-      "Lightning Greaves",
-      "Liliana's Triumph",
       "Mana Crypt",
       "Mana Vault",
       "Mastermind's Acquisition",
@@ -24610,6 +24609,7 @@ const decks =
       "Razaketh, the Foulblooded",
       "Reanimate",
       "Scorched Ruins",
+      "Sensei's Divining Top",
       "Sidisi, Undead Vizier",
       "Skirge Familiar",
       "Snuff Out",
@@ -28770,7 +28770,7 @@ const decks =
       "Selvala, Explorer Returned"
     ]
   },
-  " Symphony of the Knight  Farm": {
+  " Symphony of the Knight ": {
     "mainboard": [
       "Academy Rector",
       "Ad Nauseam",
