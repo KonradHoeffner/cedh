@@ -2309,6 +2309,7 @@ const decks =
   "Rograkh Silas Turbo Naus": {
     "mainboard": [
       "Ad Nauseam",
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
       "Arid Mesa",
@@ -2362,7 +2363,6 @@ const decks =
       "Mana Vault",
       "Marsh Flats",
       "Mental Misstep",
-      "Miscast",
       "Misty Rainforest",
       "Mizzix's Mastery",
       "Mnemonic Betrayal",
@@ -8187,11 +8187,13 @@ const decks =
   "The Frog Giveth, The Frog Taketh Away": {
     "mainboard": [
       "Allosaurus Shepherd",
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
       "Barkchannel Pathway // Tidechannel Pathway",
       "Basalt Monolith",
       "Birds of Paradise",
+      "Birthing Pod",
       "Boseiju, Who Endures",
       "Brazen Borrower // Petty Theft",
       "Breeding Pool",
@@ -8205,6 +8207,7 @@ const decks =
       "Command Tower",
       "Concordant Crossroads",
       "Cyclonic Rift",
+      "Defense of the Heart",
       "Delay",
       "Eldritch Evolution",
       "Elvish Mystic",
@@ -8241,7 +8244,6 @@ const decks =
       "Mana Drain",
       "Mana Vault",
       "Mental Misstep",
-      "Merchant Scroll",
       "Mesmeric Orb",
       "Minamo, School at Water's Edge",
       "Misty Rainforest",
@@ -8249,6 +8251,7 @@ const decks =
       "Mox Opal",
       "Muddle the Mixture",
       "Mystic Remora",
+      "Mystic Snake",
       "Mystical Tutor",
       "Neoform",
       "Noxious Revival",
@@ -19836,6 +19839,7 @@ const decks =
   "Consultation Zur": {
     "mainboard": [
       "Ad Nauseam",
+      "Adarkar Wastes",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
@@ -19912,7 +19916,6 @@ const decks =
       "Sensei's Divining Top",
       "Silence",
       "Snow-Covered Island",
-      "Snow-Covered Swamp",
       "Sol Ring",
       "Spire of Industry",
       "Swan Song",

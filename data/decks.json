@@ -2308,6 +2308,7 @@
   "Rograkh Silas Turbo Naus": {
     "mainboard": [
       "Ad Nauseam",
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
       "Arid Mesa",
@@ -2361,7 +2362,6 @@
       "Mana Vault",
       "Marsh Flats",
       "Mental Misstep",
-      "Miscast",
       "Misty Rainforest",
       "Mizzix's Mastery",
       "Mnemonic Betrayal",
@@ -8186,11 +8186,13 @@
   "The Frog Giveth, The Frog Taketh Away": {
     "mainboard": [
       "Allosaurus Shepherd",
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
       "Barkchannel Pathway // Tidechannel Pathway",
       "Basalt Monolith",
       "Birds of Paradise",
+      "Birthing Pod",
       "Boseiju, Who Endures",
       "Brazen Borrower // Petty Theft",
       "Breeding Pool",
@@ -8204,6 +8206,7 @@
       "Command Tower",
       "Concordant Crossroads",
       "Cyclonic Rift",
+      "Defense of the Heart",
       "Delay",
       "Eldritch Evolution",
       "Elvish Mystic",
@@ -8240,7 +8243,6 @@
       "Mana Drain",
       "Mana Vault",
       "Mental Misstep",
-      "Merchant Scroll",
       "Mesmeric Orb",
       "Minamo, School at Water's Edge",
       "Misty Rainforest",
@@ -8248,6 +8250,7 @@
       "Mox Opal",
       "Muddle the Mixture",
       "Mystic Remora",
+      "Mystic Snake",
       "Mystical Tutor",
       "Neoform",
       "Noxious Revival",
@@ -19835,6 +19838,7 @@
   "Consultation Zur": {
     "mainboard": [
       "Ad Nauseam",
+      "Adarkar Wastes",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
@@ -19911,7 +19915,6 @@
       "Sensei's Divining Top",
       "Silence",
       "Snow-Covered Island",
-      "Snow-Covered Swamp",
       "Sol Ring",
       "Spire of Industry",
       "Swan Song",
