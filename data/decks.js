@@ -5265,7 +5265,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Brallin, The Last Shark Rider [cEDH Primer]": {
+  "Brallin, The Last Shark Rider [cEDH Primer] ": {
     "mainboard": [
       "Ancient Tomb",
       "Arcane Signet",
@@ -8776,7 +8776,6 @@ const decks =
       "Recruiter of the Guard",
       "Red Elemental Blast",
       "Saffi Eriksdotter",
-      "Sanctum Prelate",
       "Savannah",
       "Scalding Tarn",
       "Shatterskull Smashing // Shatterskull, the Hammer Pass",
@@ -8801,6 +8800,7 @@ const decks =
       "Verdant Catacombs",
       "Vivien on the Hunt",
       "Voldaren Epicure",
+      "Winds of Abandon",
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor"
@@ -15143,7 +15143,7 @@ const decks =
       "Sakashima of a Thousand Faces"
     ]
   },
-  "Koll Fruity Pebbles": {
+  "Koll fruity pebbles": {
     "mainboard": [
       "Abrade",
       "Ancient Den",
@@ -25525,7 +25525,7 @@ const decks =
       "Selvala, Heart of the Wilds"
     ]
   },
-  "Kingdom of Wild Hearts": {
+  "Kingdom of Wild Hearts [cEDH]": {
     "mainboard": [
       "Allosaurus Shepherd",
       "Ancient Tomb",
@@ -27518,7 +27518,7 @@ const decks =
   },
   "Marath Holy Trinity": {
     "mainboard": [
-      "Altar of Bone",
+      "Allosaurus Shepherd",
       "Arbor Elf",
       "Archon of Emeria",
       "Archon of Valor's Reach",
@@ -27530,8 +27530,8 @@ const decks =
       "Bloom Tender",
       "Boseiju, Who Endures",
       "Bountiful Promenade",
-      "Brushland",
       "Carpet of Flowers",
+      "Chalice of the Void",
       "Chord of Calling",
       "Chrome Mox",
       "City of Brass",
@@ -27545,12 +27545,13 @@ const decks =
       "Dockside Extortionist",
       "Drannith Magistrate",
       "Earthcraft",
+      "Eidolon of Rhetoric",
       "Eiganjo, Seat of the Empire",
       "Eladamri's Call",
       "Eldritch Evolution",
       "Elvish Mystic",
+      "Elvish Spirit Guide",
       "Emiel the Blessed",
-      "Endurance",
       "Enlightened Tutor",
       "Esper Sentinel",
       "Eternal Witness",
@@ -27564,7 +27565,7 @@ const decks =
       "Fyndhorn Elves",
       "Gaea's Cradle",
       "Gamble",
-      "Grand Abolisher",
+      "Gemstone Caverns",
       "Green Sun's Zenith",
       "Horizon Canopy",
       "Imperial Recruiter",
@@ -27575,33 +27576,32 @@ const decks =
       "Mana Confluence",
       "Mana Crypt",
       "Marsh Flats",
-      "Meltdown",
       "Misty Rainforest",
       "Mountain",
       "Mox Diamond",
       "Nightshade Peddler",
+      "Null Rod",
       "Plains",
       "Plateau",
       "Prismatic Vista",
+      "Professional Face-Breaker",
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Ranger-Captain of Eos",
       "Red Elemental Blast",
       "Rest in Peace",
-      "Root Maze",
+      "Rule of Law",
       "Sacred Foundry",
       "Sanctum Prelate",
       "Savannah",
       "Scalding Tarn",
-      "Seeds of Innocence",
       "Shared Summons",
       "Silence",
+      "Simian Spirit Guide",
       "Skyclave Apparition",
       "Sol Ring",
       "Stomping Ground",
       "Stony Silence",
-      "Summoner's Pact",
-      "Sunbaked Canyon",
       "Survival of the Fittest",
       "Swords to Plowshares",
       "Sylvan Library",
