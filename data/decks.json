@@ -3423,7 +3423,6 @@
       "Null Rod",
       "Nykthos, Shrine to Nyx",
       "Outland Liberator // Frenzied Trapbreaker",
-      "Possibility Storm",
       "Priest of Titania",
       "Professional Face-Breaker",
       "Pyroblast",
@@ -3431,6 +3430,7 @@
       "Ragavan, Nimble Pilferer",
       "Reclamation Sage",
       "Red Elemental Blast",
+      "Roiling Vortex",
       "Saryth, the Viper's Fang",
       "Scavenger Grounds",
       "Scryb Ranger",
@@ -3537,6 +3537,7 @@
       "Persist",
       "Phyrexian Tower",
       "Polluted Delta",
+      "Professional Face-Breaker",
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Razaketh, the Foulblooded",
@@ -3560,7 +3561,6 @@
       "Unmarked Grave",
       "Vampiric Tutor",
       "Verdant Catacombs",
-      "Wandering Archaic // Explore the Vastlands",
       "Wheel of Fortune",
       "Wishclaw Talisman",
       "Wooded Foothills"
@@ -5054,14 +5054,16 @@
   },
   "Midrange Sans Black Evolution": {
     "mainboard": [
+      "Abrade",
       "Alchemist's Retrieval",
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arbor Elf",
       "Arid Mesa",
       "Auriok Salvagers",
+      "Avacyn's Pilgrim",
       "Biomancer's Familiar",
       "Birds of Paradise",
-      "Bloom Tender",
       "Boseiju, Who Endures",
       "Brain Freeze",
       "Brainstorm",
@@ -5094,7 +5096,6 @@
       "Fyndhorn Elves",
       "Gaea's Cradle",
       "Gemstone Caverns",
-      "Gilded Drake",
       "Gitaxian Probe",
       "Grand Abolisher",
       "Hallowed Fountain",
@@ -5121,7 +5122,6 @@
       "Phyrexian Metamorph",
       "Polluted Delta",
       "Pyroblast",
-      "Ragavan, Nimble Pilferer",
       "Ranger-Captain of Eos",
       "Rejuvenating Springs",
       "Rhystic Study",
@@ -5365,10 +5365,10 @@
   },
   "Curiosity Kill [CEDH Primer]": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "Abrade",
       "Ancient Tomb",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Arid Mesa",
       "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
       "Bloodstained Mire",
@@ -6936,10 +6936,10 @@
   },
   "Esca-flonase": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Arid Mesa",
       "Aven Mindcensor",
       "Blind Obedience",
@@ -6983,7 +6983,6 @@
       "Mana Crypt",
       "Mana Drain",
       "Mana Vault",
-      "March of Otherworldly Light",
       "March of Swirling Mist",
       "Marsh Flats",
       "Mental Misstep",
@@ -7005,6 +7004,7 @@
       "Polluted Delta",
       "Portable Hole",
       "Ranger-Captain of Eos",
+      "Resculpt",
       "Rhystic Study",
       "Scalding Tarn",
       "Sea Gate Restoration // Sea Gate, Reborn",
@@ -22199,10 +22199,11 @@
   },
   "Fiddle Me This": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "Ancient Den",
+      "Ancient Tomb",
       "Angel's Grace",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Archon of Emeria",
       "Argivian Find",
       "Arid Mesa",
@@ -22224,6 +22225,7 @@
       "Esper Sentinel",
       "Ethersworn Canonist",
       "Fellwar Stone",
+      "Geier Reach Sanitarium",
       "Gemstone Caverns",
       "Giver of Runes",
       "Goblin Cannon",
@@ -27201,7 +27203,7 @@
       "Chulane, Teller of Tales"
     ]
   },
-  "Pirates n Gobos ([TURBO AD NAUS PRIMER] BY ONDAS)": {
+  "Pirates n Gobos": {
     "mainboard": [
       "Abrade",
       "Ad Nauseam",
@@ -27624,9 +27626,9 @@
   },
   "The Ardent Wild": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "Allosaurus Shepherd",
       "Arbor Elf",
+      "Archivist of Oghma",
       "Archon of Emeria",
       "Archon of Valor's Reach",
       "Arid Mesa",
@@ -29227,7 +29229,7 @@
       "Demonic Consultation",
       "Demonic Tutor",
       "Dispel",
-      "Divining Witch",
+      "Displacer Kitten",
       "Elvish Mystic",
       "Entomb",
       "Eternal Witness",

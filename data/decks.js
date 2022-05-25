@@ -3424,7 +3424,6 @@ const decks =
       "Null Rod",
       "Nykthos, Shrine to Nyx",
       "Outland Liberator // Frenzied Trapbreaker",
-      "Possibility Storm",
       "Priest of Titania",
       "Professional Face-Breaker",
       "Pyroblast",
@@ -3432,6 +3431,7 @@ const decks =
       "Ragavan, Nimble Pilferer",
       "Reclamation Sage",
       "Red Elemental Blast",
+      "Roiling Vortex",
       "Saryth, the Viper's Fang",
       "Scavenger Grounds",
       "Scryb Ranger",
@@ -3538,6 +3538,7 @@ const decks =
       "Persist",
       "Phyrexian Tower",
       "Polluted Delta",
+      "Professional Face-Breaker",
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Razaketh, the Foulblooded",
@@ -3561,7 +3562,6 @@ const decks =
       "Unmarked Grave",
       "Vampiric Tutor",
       "Verdant Catacombs",
-      "Wandering Archaic // Explore the Vastlands",
       "Wheel of Fortune",
       "Wishclaw Talisman",
       "Wooded Foothills"
@@ -5055,14 +5055,16 @@ const decks =
   },
   "Midrange Sans Black Evolution": {
     "mainboard": [
+      "Abrade",
       "Alchemist's Retrieval",
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arbor Elf",
       "Arid Mesa",
       "Auriok Salvagers",
+      "Avacyn's Pilgrim",
       "Biomancer's Familiar",
       "Birds of Paradise",
-      "Bloom Tender",
       "Boseiju, Who Endures",
       "Brain Freeze",
       "Brainstorm",
@@ -5095,7 +5097,6 @@ const decks =
       "Fyndhorn Elves",
       "Gaea's Cradle",
       "Gemstone Caverns",
-      "Gilded Drake",
       "Gitaxian Probe",
       "Grand Abolisher",
       "Hallowed Fountain",
@@ -5122,7 +5123,6 @@ const decks =
       "Phyrexian Metamorph",
       "Polluted Delta",
       "Pyroblast",
-      "Ragavan, Nimble Pilferer",
       "Ranger-Captain of Eos",
       "Rejuvenating Springs",
       "Rhystic Study",
@@ -5366,10 +5366,10 @@ const decks =
   },
   "Curiosity Kill [CEDH Primer]": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "Abrade",
       "Ancient Tomb",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Arid Mesa",
       "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
       "Bloodstained Mire",
@@ -6937,10 +6937,10 @@ const decks =
   },
   "Esca-flonase": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Arid Mesa",
       "Aven Mindcensor",
       "Blind Obedience",
@@ -6984,7 +6984,6 @@ const decks =
       "Mana Crypt",
       "Mana Drain",
       "Mana Vault",
-      "March of Otherworldly Light",
       "March of Swirling Mist",
       "Marsh Flats",
       "Mental Misstep",
@@ -7006,6 +7005,7 @@ const decks =
       "Polluted Delta",
       "Portable Hole",
       "Ranger-Captain of Eos",
+      "Resculpt",
       "Rhystic Study",
       "Scalding Tarn",
       "Sea Gate Restoration // Sea Gate, Reborn",
@@ -22200,10 +22200,11 @@ const decks =
   },
   "Fiddle Me This": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "Ancient Den",
+      "Ancient Tomb",
       "Angel's Grace",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Archon of Emeria",
       "Argivian Find",
       "Arid Mesa",
@@ -22225,6 +22226,7 @@ const decks =
       "Esper Sentinel",
       "Ethersworn Canonist",
       "Fellwar Stone",
+      "Geier Reach Sanitarium",
       "Gemstone Caverns",
       "Giver of Runes",
       "Goblin Cannon",
@@ -27202,7 +27204,7 @@ const decks =
       "Chulane, Teller of Tales"
     ]
   },
-  "Pirates n Gobos ([TURBO AD NAUS PRIMER] BY ONDAS)": {
+  "Pirates n Gobos": {
     "mainboard": [
       "Abrade",
       "Ad Nauseam",
@@ -27625,9 +27627,9 @@ const decks =
   },
   "The Ardent Wild": {
     "mainboard": [
-      "\"Oghma's Biggest Stan\"",
       "Allosaurus Shepherd",
       "Arbor Elf",
+      "Archivist of Oghma",
       "Archon of Emeria",
       "Archon of Valor's Reach",
       "Arid Mesa",
@@ -29228,7 +29230,7 @@ const decks =
       "Demonic Consultation",
       "Demonic Tutor",
       "Dispel",
-      "Divining Witch",
+      "Displacer Kitten",
       "Elvish Mystic",
       "Entomb",
       "Eternal Witness",
