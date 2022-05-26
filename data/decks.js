@@ -2948,6 +2948,7 @@ const decks =
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Arid Mesa",
       "Bloodstained Mire",
       "Brainstorm",
@@ -3010,7 +3011,7 @@ const decks =
       "Mox Opal",
       "Mystic Remora",
       "Mystical Tutor",
-      "Necropotence",
+      "Notion Thief",
       "Otawara, Soaring City",
       "Pact of Negation",
       "Peer into the Abyss",
@@ -3023,7 +3024,6 @@ const decks =
       "Silence",
       "Siren Stormtamer",
       "Sol Ring",
-      "Spectral Sailor",
       "Spell Pierce",
       "Spell Snare",
       "Spire of Industry",
@@ -3384,7 +3384,6 @@ const decks =
       "City of Brass",
       "Collector Ouphe",
       "Command Tower",
-      "Cragcrown Pathway // Timbercrown Pathway",
       "Crop Rotation",
       "Deflecting Swat",
       "Destiny Spinner",
@@ -3429,6 +3428,7 @@ const decks =
       "Pyroblast",
       "Quirion Ranger",
       "Ragavan, Nimble Pilferer",
+      "Raggadragga, Goreguts Boss",
       "Reclamation Sage",
       "Red Elemental Blast",
       "Roiling Vortex",
@@ -10818,6 +10818,7 @@ const decks =
     "mainboard": [
       "An Offer You Can't Refuse",
       "Arcane Signet",
+      "Archivist of Oghma",
       "Arid Mesa",
       "Avacyn's Pilgrim",
       "Birds of Paradise",
@@ -10860,7 +10861,6 @@ const decks =
       "Gamble",
       "Geistwave",
       "Gemstone Caverns",
-      "Gitaxian Probe",
       "Grand Abolisher",
       "Hallowed Fountain",
       "Imperial Recruiter",
@@ -12564,7 +12564,6 @@ const decks =
       "Mox Diamond",
       "Mystic Remora",
       "Mystical Tutor",
-      "Necropotence",
       "Neoform",
       "Notion Thief",
       "Noxious Revival",
@@ -12598,7 +12597,8 @@ const decks =
       "Watery Grave",
       "Windswept Heath",
       "Wooded Foothills",
-      "Yawgmoth's Will"
+      "Yawgmoth's Will",
+      "Yawgmoth, Thran Physician"
     ],
     "commanders": [
       "Tevesh Szat, Doom of Fools",
@@ -19366,6 +19366,7 @@ const decks =
       "Misty Rainforest",
       "Nashi, Moon Sage's Scion",
       "Nature's Claim",
+      "Necrotic Ooze",
       "Noxious Revival",
       "Null Rod",
       "Nurturing Peatland",
@@ -19404,8 +19405,7 @@ const decks =
       "Viridian Revel",
       "Waste Not",
       "Wild Growth",
-      "Yawgmoth, Thran Physician",
-      "Young Necromancer"
+      "Yawgmoth, Thran Physician"
     ],
     "commanders": [
       "Nath of the Gilt-Leaf"
