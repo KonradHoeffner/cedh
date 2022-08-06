@@ -5189,13 +5189,13 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "Cavern of Souls",
-    "count": 75,
+    "count": 74,
     "percent": 25,
     "types": [
       "Land"
     ],
     "supercent": 25,
-    "rank": 117,
+    "rank": 119,
     "superrank": 191,
     "identity_rank": 30
   },
@@ -8302,7 +8302,7 @@ const cards =
       "Instant"
     ],
     "supercent": 75,
-    "rank": 57,
+    "rank": 58,
     "superrank": 53,
     "identity_rank": 3
   },
@@ -17612,7 +17612,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 47,
-    "rank": 118,
+    "rank": 117,
     "superrank": 126,
     "identity_rank": 11
   },
@@ -24619,14 +24619,14 @@ const cards =
       "U"
     ],
     "name": "Otawara, Soaring City",
-    "count": 119,
+    "count": 120,
     "percent": 40,
     "types": [
       "Legendary",
       "Land"
     ],
     "supercent": 65,
-    "rank": 58,
+    "rank": 57,
     "superrank": 80,
     "identity_rank": 12
   },
@@ -25085,7 +25085,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 46,
-    "rank": 119,
+    "rank": 118,
     "superrank": 133,
     "identity_rank": 18
   },
