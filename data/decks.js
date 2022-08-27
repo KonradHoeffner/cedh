@@ -960,6 +960,7 @@ const decks =
       "Aura of Silence",
       "Aven Mindcensor",
       "Azorius Signet",
+      "Blind Obedience",
       "Cemetery Illuminator",
       "Cephalid Coliseum",
       "Chalice of the Void",
@@ -967,12 +968,12 @@ const decks =
       "City of Brass",
       "Codex Shredder",
       "Command Tower",
-      "Copy Artifact",
       "Counterbalance",
       "Cursed Totem",
       "Cyclonic Rift",
       "Deafening Silence",
       "Dispel",
+      "Dovin's Veto",
       "Drannith Magistrate",
       "Dress Down",
       "Eiganjo, Seat of the Empire",
@@ -993,14 +994,13 @@ const decks =
       "Hallowed Fountain",
       "Inventors' Fair",
       "Jeweled Lotus",
-      "Karn, the Great Creator",
       "Lithoform Engine",
       "Lotus Petal",
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
       "Mental Misstep",
-      "Miscast",
+      "Mind Stone",
       "Misty Rainforest",
       "Mox Diamond",
       "Mox Opal",
@@ -3500,6 +3500,7 @@ const decks =
   "cEDH Inalla - Wizard's Chess": {
     "mainboard": [
       "Ad Nauseam",
+      "Aether Channeler",
       "Agadeem's Awakening // Agadeem, the Undercrypt",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
@@ -3595,7 +3596,6 @@ const decks =
       "Wheel of Fortune",
       "Wheel of Misfortune",
       "Windfall",
-      "Winter Eladrin",
       "Wishclaw Talisman",
       "Wooded Foothills"
     ],
@@ -9708,7 +9708,6 @@ const decks =
       "Crop Rotation",
       "Defiler of Vigor",
       "Destiny Spinner",
-      "Dryad Arbor",
       "Duskwatch Recruiter // Krallenhorde Howler",
       "Earthcraft",
       "Eldritch Evolution",
@@ -23879,7 +23878,6 @@ const decks =
       "Fyndhorn Elves",
       "Gaea's Cradle",
       "Gemstone Caverns",
-      "Ghostly Pilferer",
       "Gilded Drake",
       "Gitaxian Probe",
       "Grist, the Hunger Tide",
@@ -23909,6 +23907,7 @@ const decks =
       "Pact of Negation",
       "Polluted Delta",
       "Ponder",
+      "Praetor's Grasp",
       "Priest of Titania",
       "Razaketh, the Foulblooded",
       "Reanimate",
@@ -26422,7 +26421,7 @@ const decks =
       "Narset, Enlightened Master"
     ]
   },
-  " Golden Control ": {
+  " Golden Evolution ": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",

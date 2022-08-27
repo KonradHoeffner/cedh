@@ -959,6 +959,7 @@
       "Aura of Silence",
       "Aven Mindcensor",
       "Azorius Signet",
+      "Blind Obedience",
       "Cemetery Illuminator",
       "Cephalid Coliseum",
       "Chalice of the Void",
@@ -966,12 +967,12 @@
       "City of Brass",
       "Codex Shredder",
       "Command Tower",
-      "Copy Artifact",
       "Counterbalance",
       "Cursed Totem",
       "Cyclonic Rift",
       "Deafening Silence",
       "Dispel",
+      "Dovin's Veto",
       "Drannith Magistrate",
       "Dress Down",
       "Eiganjo, Seat of the Empire",
@@ -992,14 +993,13 @@
       "Hallowed Fountain",
       "Inventors' Fair",
       "Jeweled Lotus",
-      "Karn, the Great Creator",
       "Lithoform Engine",
       "Lotus Petal",
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
       "Mental Misstep",
-      "Miscast",
+      "Mind Stone",
       "Misty Rainforest",
       "Mox Diamond",
       "Mox Opal",
@@ -3499,6 +3499,7 @@
   "cEDH Inalla - Wizard's Chess": {
     "mainboard": [
       "Ad Nauseam",
+      "Aether Channeler",
       "Agadeem's Awakening // Agadeem, the Undercrypt",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
@@ -3594,7 +3595,6 @@
       "Wheel of Fortune",
       "Wheel of Misfortune",
       "Windfall",
-      "Winter Eladrin",
       "Wishclaw Talisman",
       "Wooded Foothills"
     ],
@@ -9707,7 +9707,6 @@
       "Crop Rotation",
       "Defiler of Vigor",
       "Destiny Spinner",
-      "Dryad Arbor",
       "Duskwatch Recruiter // Krallenhorde Howler",
       "Earthcraft",
       "Eldritch Evolution",
@@ -23878,7 +23877,6 @@
       "Fyndhorn Elves",
       "Gaea's Cradle",
       "Gemstone Caverns",
-      "Ghostly Pilferer",
       "Gilded Drake",
       "Gitaxian Probe",
       "Grist, the Hunger Tide",
@@ -23908,6 +23906,7 @@
       "Pact of Negation",
       "Polluted Delta",
       "Ponder",
+      "Praetor's Grasp",
       "Priest of Titania",
       "Razaketh, the Foulblooded",
       "Reanimate",
@@ -26421,7 +26420,7 @@
       "Narset, Enlightened Master"
     ]
   },
-  " Golden Control ": {
+  " Golden Evolution ": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
