@@ -14,13 +14,19 @@
 			  fetch('data/decks.json')
 								.then(response => response.json())
 								.then(data => decks = data);
-
+				
+				function color(s)
+				{
+					return "rgb("+s.charCodeAt(0)%16*12+", "+s.charCodeAt(1)%16*12+", "+s.charCodeAt(2)%16*12+")";
+				}
 				function search(event)
 				{
 								event.preventDefault();
 								const query = document.getElementById("searchinput").value;
 								const hits= Object.keys(decks).filter(key => decks[key].mainboard.includes(query));
-														document.getElementById("hits").innerHTML = "<ul>"+hits.map(h=>"<li>"+h+"</li>").reduce((a,b)=>a+b)+"</ul>";
+								hits.forEach(h => {decks[h].cs = decks[h].commanders.reduce((a,b)=>a+', '+b);});
+								hits.sort((a,b) => decks[a].cs.localeCompare(decks[b].cs));
+								document.getElementById("hits").innerHTML = "<table>"+hits.map(h=>"<tr><td style='color:"+color(decks[h].cs)+"'>"+decks[h].cs+'</td><td>'+h+'</td></tr>').reduce((a,b)=>a+b)+"</table>";
 								return false;	
 				}
 				
