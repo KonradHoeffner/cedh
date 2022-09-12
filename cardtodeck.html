@@ -11,17 +11,37 @@
 		<p id="hits"></p>
 		<script>
 				let decks;
-			  fetch('data/decks.json')
-								.then(response => response.json())
-								.then(data => decks = data);
-
+				fetch('data/decks.json')
+				.then(response => response.json())
+				.then(data => decks = data);
+				
+				function color(s)
+				{
+					return "rgb("+s.charCodeAt(0)%16*12+", "+s.charCodeAt(1)%16*12+", "+s.charCodeAt(2)%16*12+")";
+				}
 				function search(event)
 				{
-								event.preventDefault();
-								const query = document.getElementById("searchinput").value;
-								const hits= Object.keys(decks).filter(key => decks[key].mainboard.includes(query));
-														document.getElementById("hits").innerHTML = "<ul>"+hits.map(h=>"<li>"+h+"</li>").reduce((a,b)=>a+b)+"</ul>";
-								return false;	
+					event.preventDefault();
+					const query = document.getElementById("searchinput").value;
+					Object.keys(decks).forEach(h => {decks[h].cs = decks[h].commanders.reduce((a,b)=>a+', '+b);});
+					const hits= Object.keys(decks).filter(key => decks[key].mainboard.includes(query));
+					hits.sort((a,b) => decks[a].cs.localeCompare(decks[b].cs));
+					const commanders = new Set(Object.keys(decks).map(h => decks[h].cs));
+					const hitCommanders = new Set(hits.map(h => decks[h].cs));
+					const commanderCount = {};
+					const commanderHitCount = {};
+					commanders.forEach(c => {commanderCount[c]=0;});
+					hitCommanders.forEach(c => {commanderHitCount[c]=0;});
+					hits.forEach(h => {commanderHitCount[decks[h].cs]++;});
+					Object.keys(decks).forEach(h => {commanderCount[decks[h].cs]++;});
+					const hitCommanderArray = Array.from(hitCommanders);
+					const stats = {}
+					hitCommanderArray.forEach(hc => stats[hc] = {chc: commanderHitCount[hc], cc: commanderCount[hc], ratio: commanderHitCount[hc]*1.0/commanderCount[hc]});
+					hitCommanderArray.sort((a,b) => stats[b].chc-stats[a].chc); // Array.sort() isn't guaranteed to be stable but maybe it is in your browser
+					hitCommanderArray.sort((a,b) => stats[b].ratio-stats[a].ratio);
+					document.getElementById("hits").innerHTML = "<h2>commanders</h2><table>"+hitCommanderArray.map(hc=>"<tr><td style='color:"+color(hc)+"'>"+hc+'</td><td>'+commanderHitCount[hc]+'/'+commanderCount[hc]+'</td></tr>').reduce((a,b)=>a+b)+"</table>";
+					document.getElementById("hits").innerHTML += "<h2>decks</h2><table>"+hits.map(h=>"<tr><td style='color:"+color(decks[h].cs)+"'>"+decks[h].cs+'</td><td>'+h+'</td></tr>').reduce((a,b)=>a+b)+"</table>";
+					return false;	
 				}
 				
 		</script>
