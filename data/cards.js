@@ -1055,7 +1055,7 @@ const cards =
     ],
     "supercent": 35,
     "rank": 148,
-    "superrank": 161,
+    "superrank": 160,
     "identity_rank": 20
   },
   "Anje's Ravager": {
@@ -1344,9 +1344,9 @@ const cards =
       "Creature"
     ],
     "supercent": 36,
-    "rank": 157,
-    "superrank": 156,
-    "identity_rank": 10
+    "rank": 156,
+    "superrank": 155,
+    "identity_rank": 9
   },
   "Archmage Emeritus": {
     "img": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/a/da5e6937-800c-4870-b234-f2907a55ce31.jpg?1624741450",
@@ -10668,7 +10668,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 144,
-    "superrank": 157,
+    "superrank": 156,
     "identity_rank": 21
   },
   "Enduring Renewal": {
@@ -10972,7 +10972,7 @@ const cards =
       "Creature"
     ],
     "supercent": 31,
-    "rank": 159,
+    "rank": 158,
     "superrank": 174,
     "identity_rank": 24
   },
@@ -12616,7 +12616,7 @@ const cards =
     ],
     "supercent": 35,
     "rank": 149,
-    "superrank": 162,
+    "superrank": 161,
     "identity_rank": 23
   },
   "Fork": {
@@ -14899,7 +14899,7 @@ const cards =
     ],
     "supercent": 35,
     "rank": 145,
-    "superrank": 158,
+    "superrank": 157,
     "identity_rank": 22
   },
   "Grenzo, Havoc Raiser": {
@@ -26610,7 +26610,7 @@ const cards =
     ],
     "supercent": 35,
     "rank": 147,
-    "superrank": 160,
+    "superrank": 159,
     "identity_rank": 19
   },
   "Rakdos Signet": {
@@ -30164,15 +30164,15 @@ const cards =
       "W"
     ],
     "name": "Sevinne's Reclamation",
-    "count": 52,
+    "count": 51,
     "percent": 17,
     "types": [
       "Sorcery"
     ],
-    "supercent": 36,
-    "rank": 155,
-    "superrank": 155,
-    "identity_rank": 9
+    "supercent": 35,
+    "rank": 159,
+    "superrank": 162,
+    "identity_rank": 10
   },
   "Shadow of the Grave": {
     "img": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/b/9b0205cb-c163-4332-9624-394e1024bf6a.jpg?1543675397",
@@ -33743,7 +33743,7 @@ const cards =
       "Land"
     ],
     "supercent": 32,
-    "rank": 156,
+    "rank": 155,
     "superrank": 171,
     "identity_rank": 21
   },
@@ -33907,14 +33907,14 @@ const cards =
       "G"
     ],
     "name": "Sylvan Library",
-    "count": 133,
+    "count": 134,
     "percent": 45,
     "types": [
       "Enchantment"
     ],
     "supercent": 83,
-    "rank": 48,
-    "superrank": 41,
+    "rank": 47,
+    "superrank": 40,
     "identity_rank": 5
   },
   "Sylvan Safekeeper": {
@@ -34024,8 +34024,8 @@ const cards =
       "Instant"
     ],
     "supercent": 83,
-    "rank": 47,
-    "superrank": 40,
+    "rank": 48,
+    "superrank": 41,
     "identity_rank": 4
   },
   "Tainted Peak": {
@@ -34594,7 +34594,7 @@ const cards =
       "Land"
     ],
     "supercent": 64,
-    "rank": 158,
+    "rank": 157,
     "superrank": 91,
     "identity_rank": 4
   },
@@ -39154,7 +39154,7 @@ const cards =
     ],
     "supercent": 35,
     "rank": 150,
-    "superrank": 159,
+    "superrank": 158,
     "identity_rank": 12
   },
   "Whim of Volrath": {
