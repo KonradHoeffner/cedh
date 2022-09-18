@@ -3,6 +3,7 @@
 import json
 from itertools import combinations, chain
 import pytablewriter as ptw
+import sys
 
 CARDFILE = "./dist/data/cards.json"
 CARDFILE_OLD = "./dist/data/cards.old.json"
@@ -17,7 +18,15 @@ with open(CARDFILE, "r") as f:
 with open(CARDFILE_OLD, "r") as f:
     cardsOld = json.load(f)
 
-#keys = list(set(cards.keys()).intersection(cardsOld.keys()))
+# optional parameter: minimum first release date, for example 2021-01-01 to get only cards from 2021 onwards
+if len(sys.argv)>1:
+    MIN_DATE = sys.argv[1]
+    INDEX_URL = "https://konradhoeffner.github.io/mtgindex/mtgindex.json"
+    from urllib.request import urlopen
+    index = json.loads(urlopen(INDEX_URL).read().decode("utf-8"))
+    cards = dict(filter(lambda item: index[item[0]]["date"] >= MIN_DATE, cards.items()))
+    cardsOld = dict(filter(lambda item: index[item[0]]["date"] >= MIN_DATE, cardsOld.items()))
+
 keys = list(cards.keys())
 keys.sort()
 
