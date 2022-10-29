@@ -136,7 +136,6 @@
       "Diabolic Tutor",
       "Dimir House Guard",
       "Dismember",
-      "Engineered Explosives",
       "Entomb",
       "Fellwar Stone",
       "Final Parting",
@@ -192,7 +191,8 @@
       "Verdant Catacombs",
       "Victim of Night",
       "Vile Entomber",
-      "Vilis, Broker of Blood"
+      "Vilis, Broker of Blood",
+      "Yawgmoth's Will"
     ],
     "commanders": [
       "K'rrik, Son of Yawgmoth"
@@ -200,12 +200,12 @@
   },
   "A Faster K'rrik Storm  (cEDH w/ Primer)": {
     "mainboard": [
-      "Aetherflux Reservoir",
       "Ancient Tomb",
       "Animate Dead",
       "Asmodeus the Archfiend",
       "Balthor the Defiled",
       "Beseech the Queen",
+      "Blast Zone",
       "Blood Celebrant",
       "Blood Pet",
       "Bolas's Citadel",
@@ -230,6 +230,7 @@
       "Duress",
       "Emergence Zone",
       "Entomb",
+      "Feed the Swarm",
       "Final Parting",
       "Fleshwrither",
       "Gemstone Caverns",
@@ -238,7 +239,6 @@
       "Grim Monolith",
       "Grim Tutor",
       "Heartless Summoning",
-      "Helm of Awakening",
       "Homeward Path",
       "Imp's Mischief",
       "Imperial Seal",
@@ -2753,6 +2753,7 @@
       "Elvish Mystic",
       "Elvish Spirit Guide",
       "Esper Sentinel",
+      "Fatestitcher",
       "Finale of Devastation",
       "Flooded Strand",
       "Flusterstorm",
@@ -2769,7 +2770,6 @@
       "Lim-D\u00fbl's Vault",
       "Llanowar Elves",
       "Lotus Petal",
-      "Malevolent Hermit // Benevolent Geist",
       "Mana Confluence",
       "Mana Crypt",
       "Marsh Flats",
