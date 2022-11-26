@@ -2710,7 +2710,6 @@ const decks =
       "Dauthi Voidwalker",
       "Demonic Consultation",
       "Demonic Tutor",
-      "Dimir Signet",
       "Dockside Extortionist",
       "Exotic Orchard",
       "Fellwar Stone",
@@ -2723,7 +2722,7 @@ const decks =
       "Gilded Drake",
       "Gitaxian Probe",
       "Grim Monolith",
-      "Grinding Station",
+      "Grim Tutor",
       "Imperial Seal",
       "Intuition",
       "Island",
@@ -2754,11 +2753,11 @@ const decks =
       "Polluted Delta",
       "Ponder",
       "Praetor's Grasp",
-      "Preordain",
       "Ragavan, Nimble Pilferer",
       "Reanimate",
       "Red Elemental Blast",
       "Rhystic Study",
+      "Rite of Flame",
       "Scalding Tarn",
       "Simian Spirit Guide",
       "Snap",
@@ -2771,6 +2770,7 @@ const decks =
       "Tainted Pact",
       "Talisman of Creativity",
       "Talisman of Dominance",
+      "Talisman of Indulgence",
       "Thassa's Oracle",
       "Timetwister",
       "Toxic Deluge",
@@ -4992,7 +4992,7 @@ const decks =
       "Urza, Lord High Artificer"
     ]
   },
-  "Urza Poly Kraken [Primer]": {
+  "[cEDH] Urza Poly Kraken [Primer]": {
     "mainboard": [
       "Aether Spellbomb",
       "An Offer You Can't Refuse",
@@ -5085,7 +5085,7 @@ const decks =
       "Urza, Lord High Artificer"
     ]
   },
-  "Urza Power Scepter [Primer]": {
+  "[cEDH] Urza Power Scepter [Primer]": {
     "mainboard": [
       "Aether Spellbomb",
       "An Offer You Can't Refuse",
@@ -8656,7 +8656,6 @@ const decks =
       "Culling the Weak",
       "Cyclonic Rift",
       "Dark Ritual",
-      "Dauthi Voidwalker",
       "Demonic Consultation",
       "Demonic Tutor",
       "Diabolic Intent",
@@ -8680,6 +8679,7 @@ const decks =
       "Jeska's Will",
       "Jeweled Lotus",
       "Ledger Shredder",
+      "Lim-D\u00fbl's Vault",
       "Lion's Eye Diamond",
       "Lotus Petal",
       "Luxury Suite",
@@ -8695,10 +8695,10 @@ const decks =
       "Mox Opal",
       "Mystic Remora",
       "Mystical Tutor",
-      "Opposition Agent",
       "Otawara, Soaring City",
       "Pact of Negation",
       "Phyrexian Tower",
+      "Plunge into Darkness",
       "Polluted Delta",
       "Praetor's Grasp",
       "Pyroblast",
@@ -9837,7 +9837,6 @@ const decks =
       "Drannith Magistrate",
       "Eidolon of Rhetoric",
       "Eiganjo, Seat of the Empire",
-      "Eladamri's Call",
       "Eldritch Evolution",
       "Elesh Norn, Grand Cenobite",
       "Elves of Deep Shadow",
@@ -9880,6 +9879,7 @@ const decks =
       "Rule of Law",
       "Savannah",
       "Scrubland",
+      "Serra Ascendant",
       "Shalai, Voice of Plenty",
       "Sidisi, Undead Vizier",
       "Silence",
@@ -16058,7 +16058,7 @@ const decks =
       "Pako, Arcane Retriever"
     ]
   },
-  "Roger Tevesh Turbo Storm [Primer] ": {
+  "[cEDH] Roger Tevesh Turbo Storm [Primer] ": {
     "mainboard": [
       "Abrade",
       "Ad Nauseam",
@@ -17851,7 +17851,7 @@ const decks =
       "Omnath, Locus of Creation"
     ]
   },
-  "Omnath Rainbow Evolution [Primer]": {
+  "[cEDH] Omnath Rainbow Evolution [Primer]": {
     "mainboard": [
       "An Offer You Can't Refuse",
       "Arbor Elf",
