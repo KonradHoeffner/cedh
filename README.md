@@ -51,6 +51,7 @@ This is how I generate the monthly cEDH staples posts at <https://reddit.com/r/c
 	python py/savedecks.py
     python py/cardstats.py
 
+Or download <https://github.com/KonradHoeffner/cedh/raw/gh-pages/data/cards.json> to `dist/data`.
 Download the comparison file at that point in time from GitHub and save it to `dist/data/cards.old.json`.
 
     python py/diff.py > diff.txt

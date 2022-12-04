@@ -1,0 +1,760 @@
+# December 2022 cEDH staples
+See the [last post](https://www.reddit.com/r/CompetitiveEDH/comments/xsvet1/october_2022_cedh_staples/) for the changes from August 10 to October 1 and the
+[complete interactive sortable spreadsheet](https://konradhoeffner.github.io/cedh/staples.html) for a complete overview.
+
+## Changes from October 1 to December 4
+I skipped the post about changes between October to November because there hasn't been any significant change.
+Especially the top decreased count is dominated by staple colorless cards caused by major adjustments to the database where many decks have been moved to the outdated section.
+I could change the script to sort by Δ% rel instead of ΔCount but I will keep it for now as I think this only happens rarely, feel free to tell me if you disagree.
+
+## Defense Grid
+I've recently started playing Legacy again, and learned to fear the [[Defense Grid]] from non-black fast combo decks.
+As a Delver player, a turn 1 Defense Grid on the play from the opponent is essentially a double force check, and it stays that way when they have enough mana
+leftover to pay for a Daze or two.
+If you don't have two forces and two pitch cards, there are lines like [[Lion's Eye Diamond]] + ([[Gamble]]) [[Echo of Eons]] that have a high chance of winning the game and
+you can't interact even if you draw into additional countermagic due to the Defense Grid.
+However that situation quite unique to Legacy Delver where you typically only play [[Force of Will]] and [[Daze]] as counterspells mainboard and rarely a [[Force of
+Negation]] or [[Spell Pierce]].
+In cEDH the situation is a bit different:
+
+* Multiple opponents favor Defense Grid over discard.
+* One-mana counterspells are widely played.
+* Bounce spells and artifact removal do exist.
+* Passing the turn with a fresh hand and Defense Grid in play can be great in Legacy but horrible in cEDH due to multiple combo players.
+* While there is a lesser chance of having a given two card combo in hand, there are additional powerful combo enablers like [[Underworld Breach]] and certain commanders.
+* Magda can bring it into play from the library so it cannot be countered.
+
+## Top Increased Count
+|         Card          |Count|ΔCount|Rank|ΔRank|SRank|ΔSRank|% rel|Δ% rel|
+|-----------------------|----:|-----:|---:|----:|----:|-----:|----:|-----:|
+|Soul Partition         |    6|     6| 450|  NaN|  427|   NaN|    5|     5|
+|Calamity's Wake        |    4|     4| 560|  NaN|  518|   NaN|    3|     3|
+|Mindbreak Trap         |   37|     4| 165|   49|  188|    47|   25|     7|
+|Myrel, Shield of Argive|    3|     3| 788|  NaN|  776|   NaN|    2|     2|
+|Warrior's Oath         |    3|     3| 747|  NaN|  733|   NaN|    2|     2|
+|Defense Grid           |   17|     2| 261|   57|  373|    60|    7|     2|
+|Divining Witch         |    4|     2| 573|  453|  635|   336|    2|     1|
+|Plaza of Heroes        |   16|     2| 268|   63|  396|    88|    6|     2|
+|Slip Out the Back      |    3|     2| 743|  767|  730|   818|    2|     2|
+|Talisman of Resilience |   10|     2| 346|  109|  280|    67|   12|     4|
+
+## Top Decreased Count
+|      Card      |Count|ΔCount|Rank|ΔRank|SRank|ΔSRank|% rel|Δ% rel|
+|----------------|----:|-----:|---:|----:|----:|-----:|----:|-----:|
+|Mana Crypt      |  229|   -64|   1|    0|    1|     2|  100|     0|
+|Chrome Mox      |  225|   -63|   2|    0|    8|     0|   98|     0|
+|Mox Diamond     |  223|   -63|   5|   -1|   13|    -1|   97|     0|
+|Sol Ring        |  224|   -63|   3|    0|   14|     0|   97|     0|
+|Gemstone Caverns|  223|   -57|   4|    1|   12|     9|   97|     2|
+|Command Tower   |  204|   -56|   6|    0|   30|     3|   89|     1|
+|Flooded Strand  |  171|   -54|  15|   -2|   62|    -8|   74|    -2|
+|Ancient Tomb    |  191|   -52|   8|    0|   38|     4|   83|     1|
+|Scalding Tarn   |  177|   -51|  13|   -1|   54|    -3|   77|     0|
+|Lotus Petal     |  194|   -50|   7|    0|   37|     0|   84|     1|
+
+# Top Colorless
+|           Card           |Count|ΔCount|% rel|Δ% rel|
+|--------------------------|----:|-----:|----:|-----:|
+|Mana Crypt                |  229|   -64|  100|     0|
+|Chrome Mox                |  225|   -63|   98|     0|
+|Sol Ring                  |  224|   -63|   97|     0|
+|Gemstone Caverns          |  223|   -57|   97|     2|
+|Mox Diamond               |  223|   -63|   97|     0|
+|Command Tower             |  204|   -56|   89|     1|
+|Lotus Petal               |  194|   -50|   84|     1|
+|Ancient Tomb              |  191|   -52|   83|     1|
+|City of Brass             |  189|   -42|   82|     4|
+|Mana Confluence           |  183|   -42|   79|     3|
+|Polluted Delta            |  183|   -50|   79|     0|
+|Misty Rainforest          |  181|   -50|   79|     1|
+|Scalding Tarn             |  177|   -51|   77|     0|
+|Bloodstained Mire         |  175|   -44|   76|     2|
+|Flooded Strand            |  171|   -54|   74|    -2|
+|Mana Vault                |  170|   -44|   74|     1|
+|Verdant Catacombs         |  170|   -44|   74|     1|
+|Wooded Foothills          |  169|   -47|   73|     0|
+|Jeweled Lotus             |  162|   -42|   70|     1|
+|Marsh Flats               |  162|   -45|   70|     0|
+|Exotic Orchard            |  149|   -38|   65|     2|
+|Windswept Heath           |  149|   -49|   65|    -2|
+|Arid Mesa                 |  144|   -43|   62|    -1|
+|Arcane Signet             |  131|   -40|   57|    -1|
+|Lion's Eye Diamond        |  121|   -29|   52|     1|
+|Mox Opal                  |  120|   -28|   52|     2|
+|Fellwar Stone             |  110|   -34|   48|    -1|
+|Grim Monolith             |  104|   -24|   45|     2|
+|Mox Amber                 |   70|    -5|   30|     5|
+|Forbidden Orchard         |   58|   -17|   25|     0|
+|Urza's Saga               |   56|   -14|   24|     1|
+|Spire of Industry         |   55|   -11|   24|     2|
+|City of Traitors          |   54|    -1|   23|     5|
+|Prismatic Vista           |   54|   -31|   23|    -6|
+|Cavern of Souls           |   51|   -25|   22|    -3|
+|Emergence Zone            |   42|   -13|   18|     0|
+|Sensei's Divining Top     |   40|   -12|   17|     0|
+|Tarnished Citadel         |   31|    -8|   13|     0|
+|Springleaf Drum           |   30|    -4|   13|     2|
+|Homeward Path             |   29|    -8|   12|     0|
+|Chalice of the Void       |   28|    -6|   12|     1|
+|Null Rod                  |   26|   -10|   11|    -1|
+|Yavimaya, Cradle of Growth|   25|    -9|   10|    -1|
+|Grinding Station          |   23|   -10|   10|    -1|
+|Crystal Vein              |   20|    -5|    8|     0|
+|Gemstone Mine             |   20|     1|    8|     2|
+|Grafdigger's Cage         |   19|    -5|    8|     0|
+|Isochron Scepter          |   19|    -6|    8|     0|
+|Urborg, Tomb of Yawgmoth  |   19|    -6|    8|     0|
+|Thorn of Amethyst         |   18|    -3|    7|     0|
+|Trinisphere               |   18|    -2|    7|     1|
+|Defense Grid              |   17|     2|    7|     2|
+|Skullclamp                |   17|    -7|    7|    -1|
+|Plaza of Heroes           |   16|     2|    6|     2|
+|Walking Ballista          |   16|    -6|    6|    -1|
+|Lightning Greaves         |   15|    -4|    6|     0|
+|Nykthos, Shrine to Nyx    |   15|    -5|    6|     0|
+|Inventors' Fair           |   14|    -7|    6|    -1|
+|Karn, the Great Creator   |   14|    -7|    6|    -1|
+|Hope of Ghirapur          |   13|    -9|    5|    -2|
+|Basalt Monolith           |   12|    -3|    5|     0|
+|Command Beacon            |   11|    -3|    4|     0|
+|Tangle Wire               |   11|    -2|    4|     0|
+|War Room                  |   11|    -1|    4|     0|
+|Cloudstone Curio          |   10|    -8|    4|    -2|
+|Phyrexian Revoker         |   10|    -1|    4|     1|
+|Pithing Needle            |    9|     0|    3|     0|
+|Torpor Orb                |    9|    -2|    3|     0|
+|Staff of Domination       |    8|    -1|    3|     0|
+|Treasure Vault            |    8|     0|    3|     1|
+|Winter Orb                |    8|     0|    3|     1|
+|Arcum's Astrolabe         |    7|    -2|    3|     0|
+|Blast Zone                |    7|    -2|    3|     0|
+|Conqueror's Flail         |    7|    -2|    3|     0|
+|Cursed Totem              |    7|    -5|    3|    -1|
+|Everflowing Chalice       |    7|    -3|    3|     0|
+|Jet Medallion             |    7|    -1|    3|     1|
+|Jeweled Amulet            |    7|    -2|    3|     0|
+|Mouth of Ronom            |    7|    -1|    3|     1|
+|Paradise Mantle           |    7|     0|    3|     1|
+|Pyre of Heroes            |    7|     0|    3|     1|
+|Sphere of Resistance      |    7|    -2|    3|     0|
+|Aetherflux Reservoir      |    6|    -3|    2|    -1|
+|Buried Ruin               |    6|    -2|    2|     0|
+|Mishra's Workshop         |    6|    -3|    2|    -1|
+
+# Top White
+|           Card            |Count|ΔCount|% rel|Δ% rel|
+|---------------------------|----:|-----:|----:|-----:|
+|Enlightened Tutor          |  100|   -36|   93|    -2|
+|Esper Sentinel             |   96|   -31|   89|     0|
+|Silence                    |   93|   -33|   86|    -2|
+|Ranger-Captain of Eos      |   89|   -27|   83|     2|
+|Drannith Magistrate        |   85|   -19|   79|     6|
+|Swords to Plowshares       |   73|   -19|   68|     4|
+|Grand Abolisher            |   71|   -18|   66|     4|
+|Aven Mindcensor            |   46|   -15|   42|     0|
+|Archivist of Oghma         |   41|   -11|   38|     2|
+|Deafening Silence          |   39|    -7|   36|     4|
+|Eiganjo, Seat of the Empire|   37|    -9|   34|     2|
+|Archon of Emeria           |   36|    -7|   33|     3|
+|Sevinne's Reclamation      |   34|   -17|   31|    -4|
+|Eidolon of Rhetoric        |   30|    -7|   28|     2|
+|Ethersworn Canonist        |   30|    -5|   28|     4|
+|Sanctum Prelate            |   25|    -4|   23|     3|
+|Skyclave Apparition        |   24|   -11|   22|    -2|
+|Serra Ascendant            |   23|    -7|   21|     0|
+|Plains                     |   22|   -14|   20|    -5|
+|Linvala, Keeper of Silence |   21|    -3|   19|     3|
+|Rest in Peace              |   21|    -7|   19|     0|
+|Rule of Law                |   21|    -4|   19|     2|
+|Recruiter of the Guard     |   19|    -7|   17|    -1|
+|Giver of Runes             |   17|     0|   15|     4|
+|Thalia, Guardian of Thraben|   17|    -6|   15|    -1|
+|Cathar Commando            |   16|    -4|   14|     0|
+|Elesh Norn, Grand Cenobite |   16|     0|   14|     3|
+|Snow-Covered Plains        |   16|    -7|   14|    -2|
+|Blind Obedience            |   14|    -3|   13|     2|
+|Mother of Runes            |   14|    -1|   13|     3|
+|Solitude                   |   14|    -2|   13|     2|
+|Hushbringer                |   13|     0|   12|     3|
+|Path to Exile              |   13|    -1|   12|     3|
+|Stony Silence              |   12|    -4|   11|     0|
+|Spirit of the Labyrinth    |   11|    -2|   10|     1|
+|Winds of Abandon           |   11|     0|   10|     3|
+|Felidar Guardian           |   10|    -1|    9|     2|
+|Smothering Tithe           |   10|    -8|    9|    -3|
+|Ephemerate                 |    9|    -6|    8|    -2|
+|Karmic Guide               |    9|    -3|    8|     0|
+|Leonin Relic-Warder        |    9|    -4|    8|    -1|
+|March of Otherworldly Light|    9|    -4|    8|    -1|
+|Portable Hole              |    9|    -1|    8|     1|
+|Swift Reconfiguration      |    9|     0|    8|     2|
+|Academy Rector             |    8|    -3|    7|     0|
+|Alseid of Life's Bounty    |    8|     0|    7|     2|
+|Hushwing Gryff             |    8|     0|    7|     2|
+|Paladin Class              |    8|    -1|    7|     1|
+|Weathered Wayfarer         |    8|    -1|    7|     1|
+|Ancient Den                |    6|    -2|    5|     0|
+|Benevolent Bodyguard       |    6|    -2|    5|     0|
+|Deep Gnome Terramancer     |    6|    -2|    5|     0|
+|Hall of Heliod's Generosity|    6|     0|    5|     1|
+|Open the Armory            |    6|     0|    5|     1|
+|Soul Partition             |    6|     6|    5|     5|
+|Unexpectedly Absent        |    6|     0|    5|     1|
+|Arena Rector               |    5|     0|    4|     1|
+|Auriok Salvagers           |    5|    -1|    4|     0|
+|Containment Priest         |    5|     1|    4|     2|
+|Grasp of Fate              |    5|    -2|    4|     0|
+|Heliod's Intervention      |    5|     0|    4|     1|
+|Loyal Retainers            |    5|    -1|    4|     0|
+|Moon-Blessed Cleric        |    5|     0|    4|     1|
+|Serra's Sanctum            |    5|     0|    4|     1|
+|Village Bell-Ringer        |    5|    -4|    4|    -2|
+|Abdel Adrian, Gorion's Ward|    4|     0|    3|     1|
+|Calamity's Wake            |    4|     4|    3|     3|
+|Fragmentize                |    4|     0|    3|     1|
+|Generous Gift              |    4|    -2|    3|    -1|
+|Glowrider                  |    4|     0|    3|     1|
+|Heliod, Sun-Crowned        |    4|    -1|    3|     0|
+|Humility                   |    4|     0|    3|     1|
+|Kor Haven                  |    4|    -1|    3|     0|
+|Lion Sash                  |    4|    -3|    3|    -1|
+|Nomads en-Kor              |    4|     0|    3|     1|
+|Orim's Chant               |    4|    -2|    3|    -1|
+|Oswald Fiddlebender        |    4|    -1|    3|     0|
+|Rick, Steadfast Leader     |    4|     0|    3|     1|
+|Sanctifier en-Vec          |    4|    -2|    3|    -1|
+|Vryn Wingmare              |    4|     1|    3|     1|
+|Adeline, Resplendent Cathar|    3|     1|    2|     1|
+|Aura of Silence            |    3|    -2|    2|    -1|
+|Darksteel Mutation         |    3|     0|    2|     0|
+|Eiganjo Castle             |    3|     0|    2|     0|
+|Flickering Ward            |    3|     0|    2|     0|
+
+# Top Blue
+|          Card           |Count|ΔCount|% rel|Δ% rel|
+|-------------------------|----:|-----:|----:|-----:|
+|Mental Misstep           |  144|   -34|   98|     1|
+|Mystic Remora            |  143|   -35|   97|     0|
+|Swan Song                |  142|   -36|   97|     0|
+|Force of Will            |  138|   -36|   94|    -1|
+|Flusterstorm             |  137|   -35|   93|    -1|
+|Mystical Tutor           |  137|   -34|   93|     0|
+|Rhystic Study            |  137|   -32|   93|     1|
+|Pact of Negation         |  127|   -25|   86|     3|
+|Fierce Guardianship      |  117|   -25|   80|     2|
+|Cyclonic Rift            |  114|   -27|   78|     1|
+|Otawara, Soaring City    |  110|   -20|   75|     4|
+|An Offer You Can't Refuse|  104|    -9|   71|     9|
+|Force of Negation        |  101|   -22|   69|     2|
+|Chain of Vapor           |   96|   -21|   65|     1|
+|Thassa's Oracle          |   92|   -14|   63|     5|
+|Gilded Drake             |   82|   -25|   56|    -2|
+|Gitaxian Probe           |   80|   -12|   54|     4|
+|Brainstorm               |   76|   -28|   52|    -5|
+|Windfall                 |   71|   -14|   48|     2|
+|Brain Freeze             |   67|   -13|   45|     2|
+|Timetwister              |   66|   -18|   45|    -1|
+|Miscast                  |   64|   -13|   43|     1|
+|Phantasmal Image         |   61|   -17|   41|    -1|
+|Mana Drain               |   60|   -32|   41|    -9|
+|Intuition                |   59|   -15|   40|     0|
+|Spellseeker              |   56|   -18|   38|    -2|
+|March of Swirling Mist   |   53|    -7|   36|     4|
+|Dispel                   |   51|   -17|   34|    -3|
+|Ledger Shredder          |   48|   -15|   32|    -2|
+|Island                   |   47|   -24|   32|    -7|
+|Muddle the Mixture       |   44|   -18|   30|    -4|
+|Mindbreak Trap           |   37|     4|   25|     7|
+|Snap                     |   36|    -7|   24|     1|
+|Spell Pierce             |   36|    -8|   24|     0|
+|Cephalid Coliseum        |   35|   -16|   23|    -5|
+|Delay                    |   30|   -15|   20|    -4|
+|Ponder                   |   29|   -13|   19|    -4|
+|Snow-Covered Island      |   28|   -12|   19|    -2|
+|Alchemist's Retrieval    |   27|    -2|   18|     3|
+|Dramatic Reversal        |   26|    -7|   17|    -1|
+|Dress Down               |   25|    -5|   17|     1|
+|Hullbreaker Horror       |   25|    -1|   17|     3|
+|Solve the Equation       |   23|   -10|   15|    -3|
+|Transmute Artifact       |   22|    -6|   15|     0|
+|Resculpt                 |   21|    -7|   14|    -1|
+|Merchant Scroll          |   18|    -8|   12|    -2|
+|Misdirection             |   17|    -9|   11|    -3|
+|Counterbalance           |   16|   -10|   10|    -4|
+|Displacer Kitten         |   15|    -5|   10|     0|
+|Narset, Parter of Veils  |   15|   -10|   10|    -3|
+|Pongify                  |   15|    -5|   10|     0|
+|Preordain                |   15|    -8|   10|    -2|
+|Winds of Rebuke          |   15|    -6|   10|    -1|
+|Training Grounds         |   14|    -1|    9|     1|
+|Imposter Mech            |   13|     0|    8|     1|
+|Laboratory Maniac        |   13|    -1|    8|     1|
+|Mystic Sanctuary         |   13|    -7|    8|    -2|
+|Curiosity                |   12|    -2|    8|     1|
+|Teferi, Master of Time   |   12|    -4|    8|     0|
+|Copy Artifact            |   11|    -5|    7|    -1|
+|Phyrexian Metamorph      |   11|    -2|    7|     0|
+|Whir of Invention        |   11|    -5|    7|    -1|
+|Barrin, Master Wizard    |   10|     0|    6|     1|
+|Cephalid Illusionist     |   10|     0|    6|     1|
+|Dig Through Time         |   10|    -5|    6|    -2|
+|Fabricate                |   10|    -4|    6|    -1|
+|Tezzeret the Seeker      |   10|    -2|    6|     0|
+|Consecrated Sphinx       |    9|    -5|    6|    -1|
+|Personal Tutor           |    9|    -3|    6|     0|
+|Spellskite               |    9|    -1|    6|     1|
+|Step Through             |    9|    -6|    6|    -2|
+|Polymorph                |    8|     0|    5|     1|
+|Daze                     |    7|     0|    4|     1|
+|Frantic Search           |    7|    -6|    4|    -3|
+|Proteus Staff            |    7|     0|    4|     1|
+|Submerge                 |    7|    -3|    4|    -1|
+|Back to Basics           |    6|    -5|    4|    -2|
+|Consider                 |    6|     0|    4|     1|
+|Narset's Reversal        |    6|    -6|    4|    -2|
+|Ophidian Eye             |    6|     0|    4|     1|
+|Rapid Hybridization      |    6|    -3|    4|     0|
+|Saprazzan Skerry         |    6|     0|    4|     1|
+|Snapback                 |    6|    -2|    4|     0|
+|Tandem Lookout           |    6|     0|    4|     1|
+|Aether Spellbomb         |    5|    -3|    3|    -1|
+
+# Top Black
+|          Card           |Count|ΔCount|% rel|Δ% rel|
+|-------------------------|----:|-----:|----:|-----:|
+|Demonic Tutor            |  134|   -26|  100|     0|
+|Vampiric Tutor           |  134|   -26|  100|     0|
+|Imperial Seal            |  133|   -26|   99|     0|
+|Dark Ritual              |  111|   -22|   82|    -1|
+|Tainted Pact             |  111|   -21|   82|     0|
+|Ad Nauseam               |  103|   -18|   76|     1|
+|Demonic Consultation     |   89|   -14|   66|     2|
+|Opposition Agent         |   88|   -20|   65|    -2|
+|Wishclaw Talisman        |   87|   -20|   64|    -2|
+|Dauthi Voidwalker        |   83|   -26|   61|    -7|
+|Cabal Ritual             |   78|   -16|   58|     0|
+|Diabolic Intent          |   74|   -12|   55|     2|
+|Praetor's Grasp          |   69|   -18|   51|    -3|
+|Reanimate                |   68|   -11|   50|     1|
+|Culling the Weak         |   65|   -15|   48|    -2|
+|Entomb                   |   63|   -20|   47|    -4|
+|Necropotence             |   59|   -17|   44|    -3|
+|Peer into the Abyss      |   48|   -15|   35|    -4|
+|Swamp                    |   43|   -10|   32|    -1|
+|Animate Dead             |   42|   -14|   31|    -4|
+|Rain of Filth            |   42|   -14|   31|    -4|
+|Phyrexian Tower          |   37|    -9|   27|    -1|
+|Yawgmoth's Will          |   36|   -10|   26|    -2|
+|Necromancy               |   35|   -13|   26|    -4|
+|Snow-Covered Swamp       |   34|   -13|   25|    -4|
+|Grim Hireling            |   26|    -1|   19|     3|
+|Toxic Deluge             |   25|    -4|   18|     0|
+|Razaketh, the Foulblooded|   24|    -7|   17|    -2|
+|Dance of the Dead        |   21|    -5|   15|    -1|
+|Grim Tutor               |   21|    -1|   15|     2|
+|Bolas's Citadel          |   16|    -2|   11|     0|
+|Dark Confidant           |   16|   -13|   11|    -7|
+|Sacrifice                |   16|    -3|   11|     0|
+|Shallow Grave            |   16|    -2|   11|     0|
+|Deadly Rollick           |   13|    -1|    9|     1|
+|Doomsday                 |   13|     0|    9|     1|
+|Chain of Smog            |   12|    -3|    8|    -1|
+|Buried Alive             |   11|    -1|    8|     1|
+|Cabal Pit                |   11|    -3|    8|     0|
+|Dismember                |   11|     0|    8|     2|
+|Unmarked Grave           |   11|    -8|    8|    -3|
+|Collective Brutality     |   10|     0|    7|     1|
+|Takenuma, Abandoned Mire |   10|    -3|    7|    -1|
+|Cut Down                 |    9|     1|    6|     1|
+|Stitcher's Supplier      |    9|    -3|    6|    -1|
+|Scheming Symmetry        |    8|    -1|    5|     0|
+|Thoughtseize             |    8|    -6|    5|    -3|
+|Corpse Dance             |    7|     0|    5|     1|
+|Feed the Swarm           |    7|    -2|    5|     0|
+|Imp's Mischief           |    7|    -1|    5|     0|
+|Viscera Seer             |    7|    -2|    5|     0|
+|Cabal Therapy            |    6|    -4|    4|    -2|
+|Carrion Feeder           |    6|     1|    4|     1|
+|Final Parting            |    6|    -2|    4|    -1|
+|Postmortem Lunge         |    6|     0|    4|     1|
+|Profane Tutor            |    6|    -1|    4|     0|
+|Ruthless Technomancer    |    6|     1|    4|     1|
+|Slaughter Pact           |    6|    -2|    4|    -1|
+|The Meathook Massacre    |    6|    -1|    4|     0|
+|Unearth                  |    6|     1|    4|     1|
+|Vilis, Broker of Blood   |    6|    -3|    4|    -1|
+|Blood Pet                |    5|    -5|    3|    -3|
+|Dark Petition            |    5|    -2|    3|    -1|
+|Dread Return             |    5|     0|    3|     0|
+|Exhume                   |    5|     0|    3|     0|
+|Lake of the Dead         |    5|    -1|    3|     0|
+|Mindblade Render         |    5|     1|    3|     1|
+|Nashi, Moon Sage's Scion |    5|    -2|    3|    -1|
+|Peat Bog                 |    5|    -1|    3|     0|
+|Persist                  |    5|     0|    3|     0|
+|Saw in Half              |    5|     0|    3|     0|
+|Sidisi, Undead Vizier    |    5|    -1|    3|     0|
+|Apprentice Necromancer   |    4|     0|    2|     0|
+|Black Market Connections |    4|     0|    2|     0|
+|Body Snatcher            |    4|    -2|    2|    -1|
+|Bone Shards              |    4|     0|    2|     0|
+|Divining Witch           |    4|     2|    2|     1|
+|Fatal Push               |    4|    -1|    2|    -1|
+|Heartless Summoning      |    4|     0|    2|     0|
+|Maralen of the Mornsong  |    4|     0|    2|     0|
+|Necrotic Ooze            |    4|    -1|    2|    -1|
+|Plunge into Darkness     |    4|     0|    2|     0|
+|Professor Onyx           |    4|     0|    2|     0|
+|Putrid Imp               |    4|     0|    2|     0|
+|Skirge Familiar          |    4|     0|    2|     0|
+
+# Top Red
+|          Card           |Count|ΔCount|% rel|Δ% rel|
+|-------------------------|----:|-----:|----:|-----:|
+|Dockside Extortionist    |  118|   -33|   95|    -1|
+|Deflecting Swat          |   97|   -22|   78|     2|
+|Gamble                   |   95|   -26|   77|     0|
+|Underworld Breach        |   87|   -23|   70|     0|
+|Ragavan, Nimble Pilferer |   80|   -22|   65|     0|
+|Simian Spirit Guide      |   79|   -18|   64|     2|
+|Red Elemental Blast      |   73|   -22|   59|    -1|
+|Wheel of Fortune         |   73|   -22|   59|    -1|
+|Rite of Flame            |   66|   -14|   53|     2|
+|Pyroblast                |   60|   -22|   48|    -4|
+|Jeska's Will             |   54|   -14|   43|     0|
+|Wheel of Misfortune      |   44|   -10|   35|     1|
+|Final Fortune            |   42|    -1|   34|     7|
+|Imperial Recruiter       |   40|    -9|   32|     1|
+|Abrade                   |   36|   -11|   29|    -1|
+|Professional Face-Breaker|   32|    -7|   26|     1|
+|Mountain                 |   28|    -8|   22|    -1|
+|Lightning Bolt           |   27|    -1|   21|     4|
+|Twinflame                |   26|    -7|   21|     0|
+|Dualcaster Mage          |   24|    -7|   19|     0|
+|Dragon's Rage Channeler  |   20|   -10|   16|    -3|
+|Faithless Looting        |   15|   -10|   12|    -4|
+|Infernal Plunge          |   15|    -1|   12|     2|
+|Mizzix's Mastery         |   15|    -1|   12|     2|
+|Skirk Prospector         |   14|    -6|   11|    -1|
+|Snow-Covered Mountain    |   13|    -2|   10|     1|
+|Goblin Engineer          |   12|     0|    9|     2|
+|Kiki-Jiki, Mirror Breaker|   12|    -6|    9|    -2|
+|Strike It Rich           |   12|     0|    9|     2|
+|Treasonous Ogre          |   12|    -1|    9|     1|
+|Tibalt's Trickery        |   11|    -7|    8|    -3|
+|Glint-Horn Buccaneer     |   10|     0|    8|     2|
+|Loyal Apprentice         |   10|    -4|    8|     0|
+|Overmaster               |   10|     0|    8|     2|
+|Goblin Welder            |    9|     0|    7|     2|
+|Desperate Ritual         |    8|     0|    6|     1|
+|Sandstone Needle         |    8|     0|    6|     1|
+|Twinshot Sniper          |    8|    -1|    6|     1|
+|Delayed Blast Fireball   |    7|    -3|    5|    -1|
+|Magda, Brazen Outlaw     |    7|    -1|    5|     0|
+|Pyretic Ritual           |    7|     0|    5|     1|
+|Barbarian Ring           |    6|     0|    4|     1|
+|Chaos Warp               |    6|     0|    4|     1|
+|Heat Shimmer             |    6|    -3|    4|    -1|
+|Squee, the Immortal      |    6|    -3|    4|    -1|
+|Thunderclap              |    6|    -1|    4|     0|
+|Cursed Mirror            |    5|     0|    4|     1|
+|Grapeshot                |    5|     0|    4|     1|
+|Lukka, Coppercoat Outcast|    5|     1|    4|     2|
+|March of Reckless Joy    |    5|     0|    4|     1|
+|Mogg Salvage             |    5|    -1|    4|     1|
+|Rograkh, Son of Rohgahh  |    5|     0|    4|     1|
+|Seething Song            |    5|     0|    4|     1|
+|Wild Magic Surge         |    5|    -1|    4|     1|
+|Bonus Round              |    4|    -1|    3|     0|
+|Cathartic Pyre           |    4|    -3|    3|    -1|
+|Claim the Firstborn      |    4|     0|    3|     1|
+|Combat Celebrant         |    4|    -1|    3|     0|
+|Crimson Wisps            |    4|     0|    3|     1|
+|Dire Fleet Daredevil     |    4|    -1|    3|     0|
+|Dwarven Ruins            |    4|     0|    3|     1|
+|Expedite                 |    4|     0|    3|     1|
+|Finale of Promise        |    4|     0|    3|     1|
+|Goblin Bombardment       |    4|    -5|    3|    -2|
+|Goblin Cratermaker       |    4|    -1|    3|     0|
+|Goblin Matron            |    4|    -2|    3|     0|
+|Great Furnace            |    4|     0|    3|     1|
+|Greater Gargadon         |    4|     0|    3|     1|
+|Guild Artisan            |    4|     0|    3|     1|
+|Harmonic Prodigy         |    4|    -1|    3|     0|
+|Past in Flames           |    4|    -1|    3|     0|
+|Pyrite Spellbomb         |    4|     0|    3|     1|
+|Pyrokinesis              |    4|     0|    3|     1|
+|Reality Scramble         |    4|     0|    3|     1|
+|Storm-Kiln Artist        |    4|    -1|    3|     0|
+|Tavern Scoundrel         |    4|    -1|    3|     0|
+|Thrill of Possibility    |    4|    -2|    3|     0|
+|Tormenting Voice         |    4|     0|    3|     1|
+|Transmogrify             |    4|     0|    3|     1|
+|Warlord's Fury           |    4|     0|    3|     1|
+|Winds of Change          |    4|    -2|    3|     0|
+|Worldgorger Dragon       |    4|    -4|    3|    -2|
+|Anje's Ravager           |    3|     0|    2|     1|
+|Cathartic Reunion        |    3|     0|    2|     1|
+|Crash Through            |    3|    -1|    2|     0|
+
+# Top Green
+|          Card          |Count|ΔCount|% rel|Δ% rel|
+|------------------------|----:|-----:|----:|-----:|
+|Boseiju, Who Endures    |  124|   -27|   96|     2|
+|Birds of Paradise       |  115|   -29|   89|    -1|
+|Veil of Summer          |  114|   -31|   88|    -2|
+|Carpet of Flowers       |  107|   -32|   82|    -4|
+|Sylvan Library          |  105|   -28|   81|    -2|
+|Worldly Tutor           |   99|   -24|   76|     0|
+|Eldritch Evolution      |   84|   -18|   65|     2|
+|Gaea's Cradle           |   81|   -27|   62|    -5|
+|Noxious Revival         |   81|   -23|   62|    -3|
+|Elvish Mystic           |   78|   -17|   60|     1|
+|Fyndhorn Elves          |   78|   -20|   60|    -1|
+|Llanowar Elves          |   78|   -23|   60|    -3|
+|Finale of Devastation   |   76|   -24|   58|    -4|
+|Crop Rotation           |   72|   -20|   55|    -2|
+|Elvish Spirit Guide     |   67|   -12|   51|     2|
+|Arbor Elf               |   58|   -21|   44|    -5|
+|Survival of the Fittest |   57|   -19|   44|    -3|
+|Collector Ouphe         |   52|   -16|   40|    -2|
+|Chord of Calling        |   50|   -18|   38|    -4|
+|Wild Growth             |   49|   -18|   37|    -4|
+|Endurance               |   44|   -15|   34|    -2|
+|Green Sun's Zenith      |   40|   -17|   31|    -4|
+|Utopia Sprawl           |   36|   -14|   27|    -4|
+|Eternal Witness         |   35|   -16|   27|    -4|
+|Forest                  |   35|   -21|   27|    -8|
+|Sylvan Safekeeper       |   34|    -6|   26|     1|
+|Allosaurus Shepherd     |   33|   -16|   25|    -5|
+|Bloom Tender            |   33|   -14|   25|    -4|
+|Nature's Claim          |   32|   -18|   24|    -7|
+|Autumn's Veil           |   27|   -13|   20|    -5|
+|Snow-Covered Forest     |   27|   -11|   20|    -3|
+|Seedborn Muse           |   26|    -2|   20|     3|
+|Birthing Pod            |   23|     0|   17|     3|
+|Destiny Spinner         |   20|   -10|   15|    -3|
+|Force of Vigor          |   20|   -12|   15|    -5|
+|Natural Order           |   18|    -2|   13|     1|
+|Priest of Titania       |   17|   -15|   13|    -7|
+|Summoner's Pact         |   16|    -7|   12|    -2|
+|Boreal Druid            |   15|    -7|   11|    -2|
+|Exploration             |   13|    -3|   10|     0|
+|Hermit Druid            |   13|     1|   10|     3|
+|Root Maze               |   13|    -3|   10|     0|
+|Devoted Druid           |   12|    -2|    9|     1|
+|Dryad Arbor             |   12|    -7|    9|    -2|
+|Quirion Ranger          |   12|    -7|    9|    -2|
+|Pattern of Rebirth      |   11|     0|    8|     2|
+|Sylvan Tutor            |   11|    -5|    8|    -2|
+|Turn the Earth          |   11|     0|    8|     2|
+|Joraga Treespeaker      |   10|    -2|    7|     0|
+|Toski, Bearer of Secrets|   10|    -8|    7|    -4|
+|Ashaya, Soul of the Wild|    9|    -6|    6|    -3|
+|Earthcraft              |    9|    -6|    6|    -3|
+|Protean Hulk            |    9|    -2|    6|     0|
+|Temur Sabertooth        |    9|    -3|    6|    -1|
+|Wirewood Symbiote       |    9|    -5|    6|    -2|
+|Concordant Crossroads   |    8|    -2|    6|     0|
+|Food Chain              |    8|    -3|    6|     0|
+|Manglehorn              |    8|    -6|    6|    -2|
+|Vivien on the Hunt      |    7|    -2|    5|     0|
+|Wall of Roots           |    7|    -1|    5|     0|
+|Yisan, the Wanderer Bard|    7|    -2|    5|     0|
+|Nature's Lore           |    6|    -2|    4|    -1|
+|Shared Summons          |    6|    -4|    4|    -2|
+|Three Visits            |    6|    -2|    4|    -1|
+|Beast Within            |    5|    -5|    3|    -3|
+|Castle Garenbrig        |    5|    -2|    3|    -1|
+|Kenrith's Transformation|    5|    -2|    3|    -1|
+|Sanctum Weaver          |    5|    -3|    3|    -2|
+|Circle of Dreams Druid  |    4|    -4|    3|    -2|
+|Fauna Shaman            |    4|    -3|    3|    -1|
+|Kogla, the Titan Ape    |    4|    -3|    3|    -1|
+|Lotus Cobra             |    4|    -2|    3|     0|
+|Ohran Frostfang         |    4|    -1|    3|     0|
+|Regrowth                |    4|    -2|    3|     0|
+|Scavenging Ooze         |    4|    -2|    3|     0|
+|Scryb Ranger            |    4|    -4|    3|    -2|
+|Tireless Provisioner    |    4|    -1|    3|     0|
+|Ulvenwald Tracker       |    4|    -1|    3|     0|
+|Woodland Bellower       |    4|    -2|    3|     0|
+|Argothian Enchantress   |    3|     0|    2|     1|
+|Chatterstorm            |    3|     0|    2|     1|
+|Defense of the Heart    |    3|     0|    2|     1|
+|Dosan the Falling Leaf  |    3|     0|    2|     1|
+|Emerald Charm           |    3|     0|    2|     1|
+|Enchantress's Presence  |    3|     0|    2|     1|
+
+# Top WU
+|          Card           |Count|ΔCount|% rel|Δ% rel|
+|-------------------------|----:|-----:|----:|-----:|
+|Tundra                   |   61|   -18|   98|     0|
+|Hallowed Fountain        |   35|   -13|   56|    -4|
+|Sea of Clouds            |   22|   -10|   35|    -5|
+|Talisman of Progress     |   19|   -14|   30|   -11|
+|Dovin's Veto             |   10|    -6|   16|    -4|
+|Lavinia, Azorius Renegade|   10|     0|   16|     4|
+|Teferi, Time Raveler     |    4|     0|    6|     1|
+|Adarkar Wastes           |    3|    -4|    4|    -4|
+
+# Top BW
+|         Card          |Count|ΔCount|% rel|Δ% rel|
+|-----------------------|----:|-----:|----:|-----:|
+|Scrubland              |   54|   -12|   91|     1|
+|Godless Shrine         |   26|   -10|   44|    -5|
+|Vault of Champions     |    9|    -7|   15|    -6|
+|Lurrus of the Dream-Den|    7|    -2|   11|    -1|
+|Silent Clearing        |    6|    -1|   10|     1|
+|Talisman of Hierarchy  |    6|     0|   10|     2|
+|Tymna the Weaver       |    6|     0|   10|     2|
+|Vanishing Verse        |    5|    -2|    8|    -1|
+|Corpse Knight          |    4|    -2|    6|    -2|
+|Damn                   |    4|    -3|    6|    -3|
+|Caves of Koilos        |    3|     0|    5|     1|
+
+# Top RW
+|           Card           |Count|ΔCount|% rel|Δ% rel|
+|--------------------------|----:|-----:|----:|-----:|
+|Plateau                   |   40|   -18|   75|    -1|
+|Sacred Foundry            |   20|   -15|   37|    -9|
+|Sunbaked Canyon           |   10|    -2|   18|     3|
+|Spectator Seating         |    9|    -2|   16|     2|
+|Battlefield Forge         |    4|    -1|    7|     1|
+|Wear // Tear              |    4|    -3|    7|    -2|
+|Blade Historian           |    3|     0|    5|     2|
+|Gerrard, Weatherlight Hero|    3|     0|    5|     2|
+|Talisman of Conviction    |    3|    -3|    5|    -2|
+
+# Top GW
+|          Card           |Count|ΔCount|% rel|Δ% rel|
+|-------------------------|----:|-----:|----:|-----:|
+|Savannah                 |   62|   -10|   92|     1|
+|Avacyn's Pilgrim         |   49|    -9|   73|     0|
+|Eladamri's Call          |   44|    -8|   65|     0|
+|Temple Garden            |   41|   -10|   61|    -3|
+|Bountiful Promenade      |   25|    -5|   37|     0|
+|Horizon Canopy           |   16|    -5|   23|    -3|
+|Archon of Valor's Reach  |   14|    -4|   20|    -2|
+|Emiel the Blessed        |   11|    -5|   16|    -4|
+|Brushland                |    9|    -2|   13|     0|
+|Shalai, Voice of Plenty  |    8|    -1|   11|     0|
+|Yasharn, Implacable Earth|    8|    -2|   11|    -1|
+|Faeburrow Elder          |    5|     1|    7|     2|
+|Altar of Bone            |    4|     0|    5|     0|
+|Captain Sisay            |    4|    -1|    5|    -1|
+|Sterling Grove           |    4|     0|    5|     0|
+|Saffi Eriksdotter        |    3|     0|    4|     1|
+|Seedcradle Witch         |    3|     0|    4|     1|
+
+# Top BU
+|         Card         |Count|ΔCount|% rel|Δ% rel|
+|----------------------|----:|-----:|----:|-----:|
+|Underground Sea       |   88|   -12|  100|     0|
+|Watery Grave          |   71|   -12|   80|    -3|
+|Morphic Pool          |   63|    -9|   71|    -1|
+|Talisman of Dominance |   48|    -3|   54|     3|
+|Mnemonic Betrayal     |   35|    -1|   39|     3|
+|Notion Thief          |   25|    -9|   28|    -6|
+|Underground River     |   22|    -2|   25|     1|
+|Lim-Dûl's Vault       |   18|    -9|   20|    -7|
+|Dimir Signet          |   13|    -4|   14|    -3|
+|Darkslick Shores      |   10|     1|   11|     2|
+|Sunken Ruins          |    8|    -2|    9|    -1|
+|Toxrill, the Corrosive|    3|    -1|    3|    -1|
+
+# Top RU
+|          Card          |Count|ΔCount|% rel|Δ% rel|
+|------------------------|----:|-----:|----:|-----:|
+|Volcanic Island         |   82|   -16|   98|     0|
+|Steam Vents             |   52|   -13|   62|    -3|
+|Training Center         |   35|    -8|   42|    -1|
+|Talisman of Creativity  |   29|    -8|   34|    -3|
+|Fiery Islet             |   19|    -6|   22|    -3|
+|Shivan Reef             |   11|    -1|   13|     1|
+|Izzet Signet            |    9|    -7|   10|    -6|
+|Niv-Mizzet, Parun       |    5|    -2|    6|    -1|
+|Spirebluff Canal        |    3|     0|    3|     0|
+|Veyran, Voice of Duality|    3|     0|    3|     0|
+|Yusri, Fortune's Flame  |    3|    -2|    3|    -2|
+
+# Top GU
+|         Card         |Count|ΔCount|% rel|Δ% rel|
+|----------------------|----:|-----:|----:|-----:|
+|Tropical Island       |   82|   -14|  100|     0|
+|Breeding Pool         |   62|   -15|   75|    -5|
+|Neoform               |   61|   -10|   74|     1|
+|Rejuvenating Springs  |   42|   -10|   51|    -3|
+|Waterlogged Grove     |   31|    -7|   37|    -2|
+|Talisman of Curiosity |   17|     0|   20|     3|
+|Oko, Thief of Crowns  |   13|    -4|   15|    -2|
+|Kinnan, Bonder Prodigy|   10|    -4|   12|    -2|
+|Yavimaya Coast        |   10|    -3|   12|    -1|
+|Simic Signet          |    7|     0|    8|     1|
+|Biomancer's Familiar  |    6|     0|    7|     1|
+|Memory's Journey      |    6|     1|    7|     2|
+|Bring to Light        |    4|     0|    4|     0|
+|Koma, Cosmos Serpent  |    4|     1|    4|     1|
+|Thrasios, Triton Hero |    3|    -1|    3|    -1|
+
+# Top RB
+|         Card         |Count|ΔCount|% rel|Δ% rel|
+|----------------------|----:|-----:|----:|-----:|
+|Badlands              |   66|   -13|   95|    -1|
+|Blood Crypt           |   40|    -7|   57|     0|
+|Luxury Suite          |   36|   -10|   52|    -4|
+|Talisman of Indulgence|   28|    -1|   40|     5|
+|Fire Covenant         |   14|    -1|   20|     2|
+|Mayhem Devil          |   12|    -1|   17|     2|
+|Burnt Offering        |   11|    -6|   15|    -5|
+|Sulfurous Springs     |    9|    -3|   13|    -1|
+|Blackcleave Cliffs    |    8|    -3|   11|    -2|
+|Rakdos Signet         |    5|    -3|    7|    -2|
+|Graven Cairns         |    4|    -1|    5|    -1|
+
+# Top GB
+|         Card         |Count|ΔCount|% rel|Δ% rel|
+|----------------------|----:|-----:|----:|-----:|
+|Bayou                 |   79|   -12|  100|     0|
+|Abrupt Decay          |   76|   -12|   96|     0|
+|Deathrite Shaman      |   69|   -12|   87|    -2|
+|Assassin's Trophy     |   55|    -9|   69|    -1|
+|Overgrown Tomb        |   55|   -11|   69|    -3|
+|Culling Ritual        |   53|    -9|   67|    -1|
+|Elves of Deep Shadow  |   53|    -8|   67|     0|
+|Undergrowth Stadium   |   36|    -5|   45|     0|
+|Life // Death         |   19|    -4|   24|    -1|
+|Nurturing Peatland    |   19|    -7|   24|    -4|
+|Grist, the Hunger Tide|   12|     1|   15|     3|
+|Llanowar Wastes       |   11|    -2|   13|    -1|
+|Talisman of Resilience|   10|     2|   12|     4|
+|Witherbloom Apprentice|    8|    -3|   10|    -2|
+|Fiend Artisan         |    7|    -2|    8|    -1|
+|Blooming Marsh        |    6|    -1|    7|     0|
+|Squandered Resources  |    5|     0|    6|     1|
+|Twilight Mire         |    5|    -3|    6|    -2|
+|Golgari Signet        |    4|     0|    5|     1|
+
+# Top GR
+|       Card        |Count|ΔCount|% rel|Δ% rel|
+|-------------------|----:|-----:|----:|-----:|
+|Taiga              |   59|   -14|   95|    -1|
+|Tinder Wall        |   32|    -6|   51|     1|
+|Stomping Ground    |   30|   -11|   48|    -5|
+|Orcish Lumberjack  |    9|     0|   14|     3|
+|Spire Garden       |    8|    -8|   12|    -9|
+|Manamorphose       |    7|     0|   11|     2|
+|Vexing Shusher     |    4|    -3|    6|    -3|
+|Talisman of Impulse|    3|    -1|    4|    -1|
+
+# Top GWU
+|           Card           |Count|ΔCount|% rel|Δ% rel|
+|--------------------------|----:|-----:|----:|-----:|
+|Noble Hierarch            |   34|    -3|   85|    -1|
+|Derevi, Empyrial Tactician|    7|     0|   17|     1|
+|Wargate                   |    4|     0|   10|     1|
+
+# Top GRB
+|      Card      |Count|ΔCount|% rel|Δ% rel|
+|----------------|----:|-----:|----:|-----:|
+|Ignoble Hierarch|   27|    -4|   71|    -4|
