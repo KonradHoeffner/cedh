@@ -19276,9 +19276,7 @@
       "Marsh Flats",
       "Mental Misstep",
       "Mindbreak Trap",
-      "Miscast",
       "Misty Rainforest",
-      "Mnemonic Betrayal",
       "Morphic Pool",
       "Mox Diamond",
       "Mox Opal",
@@ -19289,6 +19287,7 @@
       "Pact of Negation",
       "Phantasmal Image",
       "Polluted Delta",
+      "Praetor's Grasp",
       "Professional Face-Breaker",
       "Pyroblast",
       "Reanimate",
@@ -19298,7 +19297,7 @@
       "Simian Spirit Guide",
       "Skullclamp",
       "Sol Ring",
-      "Spellseeker",
+      "Spell Pierce",
       "Spire of Industry",
       "Steam Vents",
       "Stern Dismissal",
@@ -19320,7 +19319,8 @@
       "Wheel of Fortune",
       "Windfall",
       "Wishclaw Talisman",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "Yawgmoth's Will"
     ],
     "commanders": [
       "Kraum, Ludevic's Opus",

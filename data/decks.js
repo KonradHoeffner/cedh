@@ -19277,9 +19277,7 @@ const decks =
       "Marsh Flats",
       "Mental Misstep",
       "Mindbreak Trap",
-      "Miscast",
       "Misty Rainforest",
-      "Mnemonic Betrayal",
       "Morphic Pool",
       "Mox Diamond",
       "Mox Opal",
@@ -19290,6 +19288,7 @@ const decks =
       "Pact of Negation",
       "Phantasmal Image",
       "Polluted Delta",
+      "Praetor's Grasp",
       "Professional Face-Breaker",
       "Pyroblast",
       "Reanimate",
@@ -19299,7 +19298,7 @@ const decks =
       "Simian Spirit Guide",
       "Skullclamp",
       "Sol Ring",
-      "Spellseeker",
+      "Spell Pierce",
       "Spire of Industry",
       "Steam Vents",
       "Stern Dismissal",
@@ -19321,7 +19320,8 @@ const decks =
       "Wheel of Fortune",
       "Windfall",
       "Wishclaw Talisman",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "Yawgmoth's Will"
     ],
     "commanders": [
       "Kraum, Ludevic's Opus",

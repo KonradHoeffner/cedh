@@ -91,7 +91,7 @@ const cards =
       "Instant"
     ],
     "supercent": 28,
-    "rank": 178,
+    "rank": 177,
     "superrank": 178,
     "identity_rank": 15
   },
@@ -1275,7 +1275,7 @@ const cards =
       "Creature"
     ],
     "supercent": 33,
-    "rank": 166,
+    "rank": 168,
     "superrank": 162,
     "identity_rank": 12
   },
@@ -4795,7 +4795,7 @@ const cards =
       "Land"
     ],
     "supercent": 23,
-    "rank": 179,
+    "rank": 178,
     "superrank": 204,
     "identity_rank": 35
   },
@@ -5656,7 +5656,7 @@ const cards =
     ],
     "supercent": 39,
     "rank": 136,
-    "superrank": 146,
+    "superrank": 144,
     "identity_rank": 18
   },
   "Colossal Skyturtle": {
@@ -7438,7 +7438,7 @@ const cards =
       "Creature"
     ],
     "supercent": 87,
-    "rank": 96,
+    "rank": 97,
     "superrank": 33,
     "identity_rank": 3
   },
@@ -9398,7 +9398,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 100,
-    "superrank": 116,
+    "superrank": 117,
     "identity_rank": 15
   },
   "Emerald Charm": {
@@ -9787,7 +9787,7 @@ const cards =
       "Instant"
     ],
     "supercent": 47,
-    "rank": 106,
+    "rank": 105,
     "superrank": 127,
     "identity_rank": 16
   },
@@ -9958,8 +9958,8 @@ const cards =
       "Creature"
     ],
     "supercent": 27,
-    "rank": 177,
-    "superrank": 180,
+    "rank": 176,
+    "superrank": 181,
     "identity_rank": 25
   },
   "Etherium Sculptor": {
@@ -11413,8 +11413,8 @@ const cards =
       "Land"
     ],
     "supercent": 27,
-    "rank": 172,
-    "superrank": 182,
+    "rank": 173,
+    "superrank": 183,
     "identity_rank": 24
   },
   "Fork": {
@@ -17218,7 +17218,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 248,
-    "superrank": 195,
+    "superrank": 196,
     "identity_rank": 9
   },
   "Life from the Loam": {
@@ -17933,7 +17933,7 @@ const cards =
       "Land"
     ],
     "supercent": 52,
-    "rank": 168,
+    "rank": 170,
     "superrank": 115,
     "identity_rank": 3
   },
@@ -19407,13 +19407,13 @@ const cards =
       "U"
     ],
     "name": "Miscast",
-    "count": 64,
+    "count": 63,
     "percent": 27,
     "types": [
       "Instant"
     ],
     "supercent": 43,
-    "rank": 105,
+    "rank": 107,
     "superrank": 137,
     "identity_rank": 22
   },
@@ -19652,14 +19652,14 @@ const cards =
       "U"
     ],
     "name": "Mnemonic Betrayal",
-    "count": 35,
-    "percent": 15,
+    "count": 34,
+    "percent": 14,
     "types": [
       "Sorcery"
     ],
-    "supercent": 39,
-    "rank": 176,
-    "superrank": 144,
+    "supercent": 38,
+    "rank": 181,
+    "superrank": 145,
     "identity_rank": 5
   },
   "Mogg Salvage": {
@@ -19844,7 +19844,7 @@ const cards =
       "Land"
     ],
     "supercent": 71,
-    "rank": 107,
+    "rank": 106,
     "superrank": 68,
     "identity_rank": 3
   },
@@ -19975,7 +19975,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 30,
-    "rank": 95,
+    "rank": 96,
     "superrank": 173,
     "identity_rank": 29
   },
@@ -21031,7 +21031,7 @@ const cards =
       "Creature"
     ],
     "supercent": 85,
-    "rank": 180,
+    "rank": 179,
     "superrank": 36,
     "identity_rank": 1
   },
@@ -21215,7 +21215,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 251,
-    "superrank": 197,
+    "superrank": 198,
     "identity_rank": 10
   },
   "Nykthos, Shrine to Nyx": {
@@ -22974,14 +22974,14 @@ const cards =
       "B"
     ],
     "name": "Praetor's Grasp",
-    "count": 69,
+    "count": 70,
     "percent": 30,
     "types": [
       "Sorcery"
     ],
-    "supercent": 51,
-    "rank": 97,
-    "superrank": 117,
+    "supercent": 52,
+    "rank": 95,
+    "superrank": 116,
     "identity_rank": 13
   },
   "Preordain": {
@@ -27017,7 +27017,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 31,
-    "rank": 181,
+    "rank": 180,
     "superrank": 170,
     "identity_rank": 13
   },
@@ -28204,9 +28204,9 @@ const cards =
       "Instant"
     ],
     "supercent": 24,
-    "rank": 167,
-    "superrank": 194,
-    "identity_rank": 33
+    "rank": 169,
+    "superrank": 195,
+    "identity_rank": 34
   },
   "Snapback": {
     "img": "https://cards.scryfall.io/large/front/d/e/de9135ba-9b6a-4443-a1c4-882f9bfae626.jpg?1562941947",
@@ -28800,15 +28800,15 @@ const cards =
       "U"
     ],
     "name": "Spell Pierce",
-    "count": 36,
-    "percent": 15,
+    "count": 37,
+    "percent": 16,
     "types": [
       "Instant"
     ],
-    "supercent": 24,
-    "rank": 173,
-    "superrank": 198,
-    "identity_rank": 34
+    "supercent": 25,
+    "rank": 167,
+    "superrank": 193,
+    "identity_rank": 33
   },
   "Spell Snare": {
     "img": "https://cards.scryfall.io/large/front/3/5/35554fdf-c70a-4baa-a35a-414caa9978be.jpg?1593272766",
@@ -28848,14 +28848,14 @@ const cards =
     "power": "1",
     "toughness": "1",
     "name": "Spellseeker",
-    "count": 57,
+    "count": 56,
     "percent": 24,
     "types": [
       "Creature"
     ],
-    "supercent": 39,
-    "rank": 120,
-    "superrank": 145,
+    "supercent": 38,
+    "rank": 122,
+    "superrank": 146,
     "identity_rank": 26
   },
   "Spellskite": {
@@ -28983,7 +28983,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 124,
-    "superrank": 196,
+    "superrank": 197,
     "identity_rank": 32
   },
   "Spirebluff Canal": {
@@ -30083,7 +30083,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 43,
-    "rank": 122,
+    "rank": 121,
     "superrank": 136,
     "identity_rank": 17
   },
@@ -33089,7 +33089,7 @@ const cards =
       "Land"
     ],
     "supercent": 45,
-    "rank": 169,
+    "rank": 171,
     "superrank": 130,
     "identity_rank": 8
   },
@@ -33394,8 +33394,8 @@ const cards =
       "Land"
     ],
     "supercent": 24,
-    "rank": 121,
-    "superrank": 193,
+    "rank": 120,
+    "superrank": 194,
     "identity_rank": 31
   },
   "Urza, Lord High Artificer": {
@@ -33443,8 +33443,8 @@ const cards =
       "Enchantment"
     ],
     "supercent": 27,
-    "rank": 171,
-    "superrank": 181,
+    "rank": 172,
+    "superrank": 182,
     "identity_rank": 23
   },
   "Utvara Hellkite": {
@@ -35870,14 +35870,14 @@ const cards =
       "B"
     ],
     "name": "Yawgmoth's Will",
-    "count": 36,
-    "percent": 15,
+    "count": 37,
+    "percent": 16,
     "types": [
       "Sorcery"
     ],
-    "supercent": 26,
-    "rank": 170,
-    "superrank": 183,
+    "supercent": 27,
+    "rank": 166,
+    "superrank": 180,
     "identity_rank": 23
   },
   "Yawgmoth, Thran Physician": {
