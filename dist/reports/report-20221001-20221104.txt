@@ -13,16 +13,29 @@ As a Delver player, a turn 1 Defense Grid on the play from the opponent is essen
 leftover to pay for a Daze or two.
 If you don't have two forces and two pitch cards, there are lines like [[Lion's Eye Diamond]] + ([[Gamble]]) [[Echo of Eons]] that have a high chance of winning the game and
 you can't interact even if you draw into additional countermagic due to the Defense Grid.
-However that situation quite unique to Legacy Delver where you typically only play [[Force of Will]] and [[Daze]] as counterspells mainboard and rarely a [[Force of
+However that situation is quite unique to Legacy Delver where you typically only play [[Force of Will]] and [[Daze]] as counterspells mainboard and rarely a [[Force of
 Negation]] or [[Spell Pierce]].
 In cEDH the situation is a bit different:
 
 * Multiple opponents favor Defense Grid over discard.
 * One-mana counterspells are widely played.
-* Bounce spells and artifact removal do exist.
+* Bounce spells and artifact removal are always to be expected as there is no mainboard/sideboard games distinction. However bounce and removal only work when
+  the Defense Grid is already in play and 3 mana is often too much, excluding non-spells like Boseiju.
 * Passing the turn with a fresh hand and Defense Grid in play can be great in Legacy but horrible in cEDH due to multiple combo players.
 * While there is a lesser chance of having a given two card combo in hand, there are additional powerful combo enablers like [[Underworld Breach]] and certain commanders.
 * Magda can bring it into play from the library so it cannot be countered.
+
+Looking at the most played counterspells, many of them can't hit artifacts:
+
+* Mental Misstep 
+* Swan Song
+* Force of Will
+* Flusterstorm
+* Pact of Negation
+* Fierce Guardianship
+* An Offer You Can't Refuse
+* Force of Negation
+
 
 ## Top Increased Count
 |         Card          |Count|ΔCount|Rank|ΔRank|SRank|ΔSRank|% rel|Δ% rel|
