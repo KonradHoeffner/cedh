@@ -1736,7 +1736,6 @@
       "Dismember",
       "Emergence Zone",
       "Entomb",
-      "Exhume",
       "Exotic Orchard",
       "Final Parting",
       "Fleshwrither",
@@ -1767,6 +1766,7 @@
       "Necromancy",
       "Necropotence",
       "Necrotic Ooze",
+      "Night's Whisper",
       "Nykthos, Shrine to Nyx",
       "Opposition Agent",
       "Peer into the Abyss",
@@ -6733,7 +6733,7 @@
       "Ikra Shidiqi, the Usurper"
     ]
   },
-  "[Primer Updated] Pirate Blender ": {
+  "[Primer] Pirate Blender ": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
@@ -16281,7 +16281,6 @@
       "Drannith Magistrate",
       "Dryad Arbor",
       "Dryad Militant",
-      "Duskwatch Recruiter // Krallenhorde Howler",
       "Earthcraft",
       "Eidolon of Rhetoric",
       "Eiganjo, Seat of the Empire",
@@ -16292,6 +16291,7 @@
       "Endurance",
       "Enlightened Tutor",
       "Esper Sentinel",
+      "Fauna Shaman",
       "Finale of Devastation",
       "Fyndhorn Elves",
       "Gaea's Cradle",
@@ -16853,7 +16853,6 @@
       "Archmage Emeritus",
       "Archmage's Charm",
       "Argent Mutation",
-      "Back to Basics",
       "Cavern of Souls",
       "Cephalid Coliseum",
       "Chrome Mox",
@@ -18544,10 +18543,10 @@
       "Green Sun's Zenith",
       "Hermit Druid",
       "Homeward Path",
-      "Imposter Mech",
       "Intuition",
       "Jace, Wielder of Mysteries",
       "Jeweled Lotus",
+      "Ledger Shredder",
       "Lightning Greaves",
       "Lion's Eye Diamond",
       "Llanowar Elves",
@@ -18556,6 +18555,7 @@
       "Mana Confluence",
       "Mana Crypt",
       "Mana Drain",
+      "Memory's Journey",
       "Mental Misstep",
       "Merchant Scroll",
       "Mesmeric Orb",
@@ -18586,7 +18586,6 @@
       "Transmute Artifact",
       "Traumatize",
       "Tropical Island",
-      "Turn the Earth",
       "Urza's Saga",
       "Veil of Summer",
       "Verdant Catacombs",
@@ -23828,7 +23827,7 @@
       "Selvala, Heart of the Wilds"
     ]
   },
-  "Kingdom of Wild Hearts [cEDH] ": {
+  "Selvala Slowstorm [cEDH] ": {
     "mainboard": [
       "Allosaurus Shepherd",
       "Ancient Tomb",

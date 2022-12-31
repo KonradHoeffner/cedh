@@ -1737,7 +1737,6 @@ const decks =
       "Dismember",
       "Emergence Zone",
       "Entomb",
-      "Exhume",
       "Exotic Orchard",
       "Final Parting",
       "Fleshwrither",
@@ -1768,6 +1767,7 @@ const decks =
       "Necromancy",
       "Necropotence",
       "Necrotic Ooze",
+      "Night's Whisper",
       "Nykthos, Shrine to Nyx",
       "Opposition Agent",
       "Peer into the Abyss",
@@ -6734,7 +6734,7 @@ const decks =
       "Ikra Shidiqi, the Usurper"
     ]
   },
-  "[Primer Updated] Pirate Blender ": {
+  "[Primer] Pirate Blender ": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
@@ -16282,7 +16282,6 @@ const decks =
       "Drannith Magistrate",
       "Dryad Arbor",
       "Dryad Militant",
-      "Duskwatch Recruiter // Krallenhorde Howler",
       "Earthcraft",
       "Eidolon of Rhetoric",
       "Eiganjo, Seat of the Empire",
@@ -16293,6 +16292,7 @@ const decks =
       "Endurance",
       "Enlightened Tutor",
       "Esper Sentinel",
+      "Fauna Shaman",
       "Finale of Devastation",
       "Fyndhorn Elves",
       "Gaea's Cradle",
@@ -16854,7 +16854,6 @@ const decks =
       "Archmage Emeritus",
       "Archmage's Charm",
       "Argent Mutation",
-      "Back to Basics",
       "Cavern of Souls",
       "Cephalid Coliseum",
       "Chrome Mox",
@@ -18545,10 +18544,10 @@ const decks =
       "Green Sun's Zenith",
       "Hermit Druid",
       "Homeward Path",
-      "Imposter Mech",
       "Intuition",
       "Jace, Wielder of Mysteries",
       "Jeweled Lotus",
+      "Ledger Shredder",
       "Lightning Greaves",
       "Lion's Eye Diamond",
       "Llanowar Elves",
@@ -18557,6 +18556,7 @@ const decks =
       "Mana Confluence",
       "Mana Crypt",
       "Mana Drain",
+      "Memory's Journey",
       "Mental Misstep",
       "Merchant Scroll",
       "Mesmeric Orb",
@@ -18587,7 +18587,6 @@ const decks =
       "Transmute Artifact",
       "Traumatize",
       "Tropical Island",
-      "Turn the Earth",
       "Urza's Saga",
       "Veil of Summer",
       "Verdant Catacombs",
@@ -23829,7 +23828,7 @@ const decks =
       "Selvala, Heart of the Wilds"
     ]
   },
-  "Kingdom of Wild Hearts [cEDH] ": {
+  "Selvala Slowstorm [cEDH] ": {
     "mainboard": [
       "Allosaurus Shepherd",
       "Ancient Tomb",
