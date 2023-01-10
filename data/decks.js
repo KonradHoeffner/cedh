@@ -106,7 +106,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "[cEDH]  Rector Breaker  [PRIMER]": {
+  "cEDH  Rector Breaker  [PRIMER]": {
     "mainboard": [
       "Abrupt Decay",
       "Academy Rector",
@@ -4111,7 +4111,6 @@ const decks =
       "Lightning Greaves",
       "Linvala, Keeper of Silence",
       "Lodestone Golem",
-      "Lotus Field",
       "Lotus Petal",
       "Magewright's Stone",
       "Mana Crypt",
@@ -4124,7 +4123,6 @@ const decks =
       "Path to Exile",
       "Phyrexian Revoker",
       "Pithing Needle",
-      "Plains",
       "Portable Hole",
       "Pyre of Heroes",
       "Ranger-Captain of Eos",
@@ -4137,6 +4135,7 @@ const decks =
       "Serra Ascendant",
       "Silence",
       "Skyclave Apparition",
+      "Snow-Covered Plains",
       "Sol Ring",
       "Spirit of the Labyrinth",
       "Staff of Domination",
@@ -4456,7 +4455,7 @@ const decks =
       "Minsc & Boo, Timeless Heroes"
     ]
   },
-  "Hamster Boss": {
+  "Gruul Hamster Toss": {
     "mainboard": [
       "Abrade",
       "Allosaurus Shepherd",
@@ -4480,6 +4479,7 @@ const decks =
       "Cragcrown Pathway // Timbercrown Pathway",
       "Crop Rotation",
       "Deflecting Swat",
+      "Delayed Blast Fireball",
       "Dockside Extortionist",
       "Dryad Arbor",
       "Eldritch Evolution",
@@ -4488,6 +4488,7 @@ const decks =
       "Emergence Zone",
       "Endurance",
       "Eternal Witness",
+      "Fellwar Stone",
       "Finale of Devastation",
       "Force of Vigor",
       "Forest",
@@ -4505,13 +4506,11 @@ const decks =
       "Jeweled Lotus",
       "Karplusan Forest",
       "Lightning Bolt",
-      "Lion's Eye Diamond",
       "Llanowar Elves",
       "Lotus Petal",
       "Mana Confluence",
       "Mana Crypt",
       "Mana Vault",
-      "Manamorphose",
       "Might of Old Krosa",
       "Misty Rainforest",
       "Mountain",
@@ -4523,9 +4522,9 @@ const decks =
       "Nature's Claim",
       "Noxious Revival",
       "Outland Liberator // Frenzied Trapbreaker",
+      "Professional Face-Breaker",
       "Protean Hulk",
       "Pyroblast",
-      "Ragavan, Nimble Pilferer",
       "Reclamation Sage",
       "Red Elemental Blast",
       "Reliquary Tower",
@@ -4541,16 +4540,16 @@ const decks =
       "Survival of the Fittest",
       "Sylvan Library",
       "Taiga",
+      "Talisman of Impulse",
       "Tamiyo's Safekeeping",
       "Taurean Mauler",
       "Temur Sabertooth",
-      "Tibalt's Trickery",
+      "The Ozolith",
       "Tinder Wall",
       "Treasonous Ogre",
       "Utopia Sprawl",
       "Veil of Summer",
       "Verdant Catacombs",
-      "Wild Growth",
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor",
@@ -11507,7 +11506,6 @@ const decks =
       "Mox Opal",
       "Muddle the Mixture",
       "Mystic Remora",
-      "Mystical Tutor",
       "Ophidian Eye",
       "Otawara, Soaring City",
       "Pact of Negation",
@@ -11546,7 +11544,8 @@ const decks =
       "Trinket Mage",
       "Urza's Saga",
       "Volcanic Island",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "Yusri, Fortune's Flame"
     ],
     "commanders": [
       "Niv-Mizzet, Parun"
@@ -16256,7 +16255,6 @@ const decks =
       "City of Brass",
       "Command Tower",
       "Consecrated Sphinx",
-      "Counterspell",
       "Curiosity",
       "Cyclonic Rift",
       "Deceiver Exarch",
@@ -16328,6 +16326,7 @@ const decks =
       "Spellskite",
       "Steam Vents",
       "Street Urchin",
+      "Submerge",
       "Swan Song",
       "Timetwister",
       "Training Center",
@@ -18390,7 +18389,7 @@ const decks =
       "Grolnok, the Omnivore"
     ]
   },
-  "[cEDH]  Khermit, the Frog  [PRIMER]": {
+  "cEDH  Khermit, the Frog  [PRIMER]": {
     "mainboard": [
       "Allosaurus Shepherd",
       "An Offer You Can't Refuse",
@@ -21269,7 +21268,6 @@ const decks =
       "Eiganjo, Seat of the Empire",
       "Eladamri's Call",
       "Elesh Norn, Grand Cenobite",
-      "Elvish Mystic",
       "Elvish Spirit Guide",
       "Enchantress's Presence",
       "Endurance",
@@ -21304,6 +21302,7 @@ const decks =
       "Mox Amber",
       "Mox Diamond",
       "Nature's Chosen",
+      "Noxious Revival",
       "Null Rod",
       "Nykthos, Shrine to Nyx",
       "Paladin Class",
