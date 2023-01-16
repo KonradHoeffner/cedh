@@ -2505,7 +2505,7 @@ const decks =
       "Raffine, Scheming Seer"
     ]
   },
-  "Tivit Midrange (cEDH)": {
+  "Tivit Time Sieve (cEDH)": {
     "mainboard": [
       "Ad Nauseam",
       "An Offer You Can't Refuse",
@@ -7384,7 +7384,6 @@ const decks =
       "Birthing Pod",
       "Bloodstained Mire",
       "Boseiju, Who Endures",
-      "Brainstorm",
       "Breeding Pool",
       "Carpet of Flowers",
       "Chord of Calling",
@@ -7413,6 +7412,7 @@ const decks =
       "Gilded Drake",
       "Grazilaxx, Illithid Scholar",
       "Haywire Mite",
+      "Hydroblast",
       "Imperial Recruiter",
       "Ledger Shredder",
       "Lotus Petal",
@@ -9631,7 +9631,6 @@ const decks =
       "Gamble",
       "Gemstone Caverns",
       "Gilded Drake",
-      "Gitaxian Probe",
       "Ignoble Hierarch",
       "Imperial Seal",
       "Island",
@@ -9652,6 +9651,7 @@ const decks =
       "Mystic Remora",
       "Mystical Tutor",
       "Neoform",
+      "Notion Thief",
       "Nurturing Peatland",
       "Opposition Agent",
       "Overgrown Tomb",

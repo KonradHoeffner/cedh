@@ -18,7 +18,7 @@ Negation]] or [[Spell Pierce]].
 In cEDH the situation is a bit different:
 
 * Multiple opponents favor Defense Grid over discard.
-* One-mana counterspells are widely played.
+* More different counterspells are played, however many of them can't counter Defense Grid, for example Mental Misstep, Swan Song and Flusterstorm.
 * Bounce spells and artifact removal are always to be expected as there is no mainboard/sideboard games distinction. However bounce and removal only work when
   the Defense Grid is already in play and 3 mana is often too much, excluding non-spells like Boseiju.
 * Passing the turn with a fresh hand and Defense Grid in play can be great in Legacy but horrible in cEDH due to multiple combo players.
@@ -36,6 +36,31 @@ Looking at the most played counterspells, many of them can't hit artifacts:
 * An Offer You Can't Refuse
 * Force of Negation
 
+## New Cards from Brother's War
+
+### Soul Partition
+[[Soul Partition]] is a flexible temporary removal for only two mana and slightly better than a bounce spell in many situations because of the extra cost of 2 generic to play the
+spell again. Currently played with the following commanders:
+
+* Jeska, Thrice Reborn, Tymna the Weaver	1/1
+* Koll, the Forgemaster	1/1
+* Tivit, Seller of Secrets	1/2
+* Zur the Enchanter	1/2
+* Heliod, Sun-Crowned	1/3
+* Shorikai, Genesis Engine	1/3
+
+### Calamity's Wake
+[[Calamity's Wake]] is graveyard hate and silence effect in a single card. Currently played with:
+
+* Heliod, Sun-Crowned	3/3
+* Yasharn, Implacable Earth	1/2
+* Rocco, Cabaretti Caterer	1/4
+
+## Myrel, Shield of Argive
+[[Myrel, Shield of Argive]] combines protection with exponential creature production and is played in:
+
+* Captain Sisay	1/1
+* Winota, Joiner of Forces 2/3
 
 ## Top Increased Count
 |         Card          |Count|ΔCount|Rank|ΔRank|SRank|ΔSRank|% rel|Δ% rel|
