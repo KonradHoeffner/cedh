@@ -93,12 +93,12 @@ COLOR_IDENTITIES = powerset(COLORS.keys())
 def markdown():
     headers = ["Card", "Count", "ΔCount", "Rank", "ΔRank", "SRank", "ΔSRank","% rel","Δ% rel"]
 
-    byrankdiff = sorted(diff_matrix, key=lambda row: row[2], reverse=True)[0:10]
-    writer = ptw.MarkdownTableWriter(table_name="Top Increased Count", headers=headers, value_matrix=byrankdiff)
+    bydeltarel = sorted(diff_matrix, key=lambda row: row[8], reverse=True)[0:10]
+    writer = ptw.MarkdownTableWriter(table_name="Top Increased Count", headers=headers, value_matrix=bydeltarel)
     writer.write_table()
     print()
-    byrankdiff = sorted(diff_matrix, key=lambda row: row[2])[0:10]
-    writer = ptw.MarkdownTableWriter(table_name="Top Decreased Count", headers=headers, value_matrix=byrankdiff)
+    bydeltarel = sorted(diff_matrix, key=lambda row: row[8])[0:10]
+    writer = ptw.MarkdownTableWriter(table_name="Top Decreased Count", headers=headers, value_matrix=bydeltarel)
     writer.write_table()
 
     headers = ["Card", "Count", "ΔCount", "% rel","Δ% rel"]
