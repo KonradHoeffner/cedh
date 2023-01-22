@@ -1,0 +1,147 @@
+# cEDH staples 2022-2023
+
+Because the month to month differences are so small and I collected the data long enough, I wanted to show you the developments over much of the past year.
+Exact dates are February 11 of 2022 (first time this data was collected) to January 21 of 2023.
+Top increased and decreased are now sorted by difference in relativ representation because the move of many decks to the outdated section a few months ago made sorting by count less useful.
+
+# Top Increased New Cards
+
+These are cards that weren't used by any deck in the competitive and brew section on February 11 of 2022, mostly because they weren't printed yet.
+
+|           Card            |Count|ΔCount|Rank|ΔRank|SRank|ΔSRank|% rel|Δ% rel|
+|---------------------------|----:|-----:|---:|----:|----:|-----:|----:|-----:|
+|An Offer You Can't Refuse  |  103|   103|  53|  NaN|   73|   NaN|   70|    70|
+|Archivist of Oghma         |   42|    42| 161|  NaN|  146|   NaN|   38|    38|
+|Ledger Shredder            |   47|    47| 147|  NaN|  170|   NaN|   32|    32|
+|Professional Face-Breaker  |   30|    30| 198|  NaN|  193|   NaN|   23|    23|
+|Soul Partition             |   14|    14| 303|  NaN|  286|   NaN|   12|    12|
+|Displacer Kitten           |   14|    14| 297|  NaN|  340|   NaN|    9|     9|
+
+# Top Increased Existing Cards
+
+These are cards that were used by at least one deck in the competitive and brew section on February 11 of 2022, including cards that had not been printed but yet but that were already on Moxfield, for example [[Boseiju, Who Endures]], which was officially released on February 18 of 2022.
+
+|           Card            |Count|ΔCount|Rank|ΔRank|SRank|ΔSRank|% rel|Δ% rel|
+|---------------------------|----:|-----:|---:|----:|----:|-----:|----:|-----:|
+|Boseiju, Who Endures       |  132|    81|  35|  113|   13|   148|   97|    64|
+|Otawara, Soaring City      |  110|    80|  48|  164|   59|   174|   75|    58|
+|March of Swirling Mist     |   52|    46| 136|  399|  154|   406|   35|    32|
+|Mindbreak Trap             |   46|    35| 150|  226|  172|   243|   31|    25|
+|Eiganjo, Seat of the Empire|   36|    18| 177|  100|  168|   103|   33|    20|
+|Drannith Magistrate        |   88|     2|  71|   21|   45|    44|   80|    18|
+|Swords to Plowshares       |   79|     1|  84|   20|   66|    41|   72|    16|
+|Mnemonic Betrayal          |   39|    14| 168|   66|  137|    48|   42|    15|
+|Cyclonic Rift              |  117|     4|  45|   13|   49|    30|   80|    14|
+|Final Fortune              |   45|    10| 153|   42|  161|    38|   34|    11|
+|Ranger-Captain of Eos      |   91|    -8|  68|   -1|   40|    22|   83|    11|
+|Fire Covenant              |   15|     7| 283|  155|  227|    93|   19|    10|
+|Grim Hireling              |   27|    14| 215|  116|  232|   114|   18|    10|
+|Eidolon of Rhetoric        |   30|     4| 199|   29|  181|    44|   27|     9|
+
+# Top Decreased Count
+|       Card        |Count|ΔCount|Rank|ΔRank|SRank|ΔSRank|% rel|Δ% rel|
+|-------------------|----:|-----:|---:|----:|----:|-----:|----:|-----:|
+|Brainstorm         |   73|   -60| 102|  -59|  124|   -74|   50|   -28|
+|Dark Confidant     |   16|   -31| 273| -117|  313|  -144|   10|   -21|
+|Ponder             |   26|   -39| 219|  -93|  238|   -87|   17|   -21|
+|Carpet of Flowers  |  107|   -40|  50|  -15|   51|   -32|   78|   -17|
+|Lim-Dûl's Vault    |   16|   -13| 274|  -56|  237|   -67|   17|   -14|
+|Nature's Claim     |   32|   -25| 192|  -55|  200|   -47|   23|   -14|
+|Timetwister        |   67|   -34| 106|  -41|  129|   -33|   45|   -14|
+|Island             |   51|   -29| 140|  -41|  159|   -31|   34|   -13|
+|Mana Drain         |   57|   -33| 123|  -38|  144|   -27|   39|   -13|
+|Fetid Heath        |    3|    -9| 730| -385|  505|  -265|    4|   -12|
+|Miscast            |   64|   -30| 109|  -33|  134|   -22|   43|   -12|
+|Preordain          |   13|   -22| 318| -125|  363|  -148|    8|   -12|
+|Faithless Looting  |   12|   -18| 321| -108|  337|  -119|    9|   -11|
+|Izzet Signet       |    6|   -10| 499| -201|  389|  -161|    7|   -11|
+|Prismatic Vista    |   54|   -38| 135|  -54|  205|   -45|   22|   -11|
+|Nurturing Peatland |   19|   -10| 252|  -36|  203|   -39|   22|   -10|
+|Dispel             |   54|   -24| 133|  -28|  151|   -16|   36|    -9|
+|Emiel the Blessed  |   11|    -8| 359|  -85|  251|   -58|   16|    -9|
+|Green Sun's Zenith |   39|   -18| 166|  -25|  176|   -21|   28|    -9|
+|Peer into the Abyss|   56|   -13| 127|   -7|  148|   -16|   37|    -9|
+
+
+# Top Colorless
+|           Card           |Count|ΔCount|% rel|Δ% rel|
+|--------------------------|----:|-----:|----:|-----:|
+|Mana Crypt                |  239|   -37|  100|     0|
+|Chrome Mox                |  236|   -36|   98|     0|
+|Sol Ring                  |  234|   -35|   97|     0|
+|Gemstone Caverns          |  233|   -24|   97|     4|
+|Mox Diamond               |  232|   -38|   97|     0|
+|Command Tower             |  216|   -22|   90|     4|
+|Lotus Petal               |  206|   -22|   86|     4|
+|Ancient Tomb              |  203|   -21|   84|     3|
+|City of Brass             |  201|    -9|   84|     8|
+
+# Top White
+|           Card            |Count|ΔCount|% rel|Δ% rel|
+|---------------------------|----:|-----:|----:|-----:|
+|Enlightened Tutor          |  103|   -27|   94|     0|
+|Esper Sentinel             |   99|   -16|   90|     7|
+|Silence                    |   95|   -27|   87|    -2|
+|Ranger-Captain of Eos      |   91|    -8|   83|    11|
+|Drannith Magistrate        |   88|     2|   80|    18|
+|Swords to Plowshares       |   79|     1|   72|    16|
+|Grand Abolisher            |   77|   -13|   70|     5|
+|Aven Mindcensor            |   44|    -2|   40|     7|
+|Archivist of Oghma         |   42|    42|   38|    38|
+|Deafening Silence          |   39|     2|   35|     8|
+
+# Top Blue
+|             Card             |Count|ΔCount|% rel|Δ% rel|
+|------------------------------|----:|-----:|----:|-----:|
+|Mystic Remora                 |  145|   -24|   99|     0|
+|Mental Misstep                |  144|   -20|   98|     2|
+|Swan Song                     |  142|   -25|   97|    -1|
+|Mystical Tutor                |  138|   -22|   94|     0|
+|Rhystic Study                 |  138|   -18|   94|     3|
+|Force of Will                 |  137|   -27|   93|    -3|
+|Flusterstorm                  |  136|   -27|   93|    -2|
+|Pact of Negation              |  129|   -15|   88|     4|
+|Cyclonic Rift                 |  117|     4|   80|    14|
+|Fierce Guardianship           |  115|   -14|   78|     3|
+
+# Top Black
+|          Card           |Count|ΔCount|% rel|Δ% rel|
+|-------------------------|----:|-----:|----:|-----:|
+|Demonic Tutor            |  148|    -2|  100|     0|
+|Vampiric Tutor           |  148|    -2|  100|     0|
+|Imperial Seal            |  147|    -3|   99|    -1|
+|Dark Ritual              |  125|     5|   84|     4|
+|Tainted Pact             |  123|     1|   83|     2|
+|Ad Nauseam               |  113|    -1|   76|     0|
+|Opposition Agent         |  102|     1|   68|     1|
+|Wishclaw Talisman        |   99|    -8|   66|    -5|
+|Dauthi Voidwalker        |   95|   -10|   64|    -6|
+|Demonic Consultation     |   93|     0|   62|     0|
+
+# Top Red
+|          Card           |Count|ΔCount|% rel|Δ% rel|
+|-------------------------|----:|-----:|----:|-----:|
+|Dockside Extortionist    |  126|   -16|   97|     2|
+|Deflecting Swat          |  104|   -10|   80|     3|
+|Gamble                   |   98|   -20|   75|    -4|
+|Simian Spirit Guide      |   90|    -3|   69|     7|
+|Underworld Breach        |   89|   -18|   68|    -4|
+|Ragavan, Nimble Pilferer |   88|   -11|   68|     2|
+|Red Elemental Blast      |   79|   -20|   61|    -5|
+|Wheel of Fortune         |   78|   -21|   60|    -6|
+|Pyroblast                |   70|   -14|   54|    -2|
+|Rite of Flame            |   69|    -2|   53|     6|
+
+# Top Green
+|           Card           |Count|ΔCount|% rel|Δ% rel|
+|--------------------------|----:|-----:|----:|-----:|
+|Boseiju, Who Endures      |  132|    81|   97|    64|
+|Veil of Summer            |  122|   -23|   89|    -5|
+|Birds of Paradise         |  121|   -16|   88|     0|
+|Carpet of Flowers         |  107|   -40|   78|   -17|
+|Worldly Tutor             |  106|    -8|   77|     3|
+|Sylvan Library            |  103|   -22|   75|    -6|
+|Eldritch Evolution        |   88|    -5|   64|     4|
+|Noxious Revival           |   85|   -21|   62|    -6|
+|Gaea's Cradle             |   83|   -16|   61|    -3|
+|Finale of Devastation     |   81|    -9|   59|     1|
