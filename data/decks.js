@@ -967,7 +967,6 @@ const decks =
       "Badlands",
       "Bayou",
       "Birds of Paradise",
-      "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
       "Blood Crypt",
       "Bloodstained Mire",
       "Boseiju, Who Endures",
@@ -977,7 +976,6 @@ const decks =
       "City of Traitors",
       "Command Tower",
       "Corpse Dance",
-      "Crop Rotation",
       "Culling Ritual",
       "Culling the Weak",
       "Dark Ritual",
@@ -992,8 +990,8 @@ const decks =
       "Eldritch Evolution",
       "Elves of Deep Shadow",
       "Elvish Spirit Guide",
-      "Emergence Zone",
       "Eternal Witness",
+      "Exotic Orchard",
       "Final Fortune",
       "Finale of Devastation",
       "Fire Covenant",
@@ -1031,6 +1029,7 @@ const decks =
       "Reanimate",
       "Red Elemental Blast",
       "Rite of Flame",
+      "Ruthless Technomancer",
       "Saw in Half",
       "Scalding Tarn",
       "Shallow Grave",
@@ -1038,6 +1037,7 @@ const decks =
       "Skirk Prospector",
       "Sol Ring",
       "Stomping Ground",
+      "Sylvan Tutor",
       "Taiga",
       "Tainted Pact",
       "Talisman of Indulgence",
@@ -1590,7 +1590,7 @@ const decks =
       "Tevesh Szat, Doom of Fools"
     ]
   },
-  "Jessy Neutron's brain blast": {
+  "Jessy Neutron's brain blast [cEDH]": {
     "mainboard": [
       "Abrade",
       "An Offer You Can't Refuse",
@@ -6665,6 +6665,7 @@ const decks =
       "Intuition",
       "Invert // Invent",
       "Island",
+      "Izzet Signet",
       "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
       "Jeska's Will",
       "Jeweled Lotus",
@@ -6714,7 +6715,6 @@ const decks =
       "Swan Song",
       "Talisman of Creativity",
       "Tarnished Citadel",
-      "Tezzeret's Gambit",
       "The Reality Chip",
       "Timetwister",
       "Training Center",
@@ -7898,7 +7898,7 @@ const decks =
       "Thrasios, Triton Hero"
     ]
   },
-  "Grist 12 Entombs (Hulk)cEDH": {
+  " Grist 12 Entombs (Hulk)cEDH": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
@@ -8004,7 +8004,7 @@ const decks =
       "Grist, the Hunger Tide"
     ]
   },
-  "Grist 12 Entombs (Razaketh)cEDH": {
+  " Grist 12 Entombs (Razaketh)cEDH": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
