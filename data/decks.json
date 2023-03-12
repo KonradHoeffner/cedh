@@ -21523,10 +21523,10 @@
       "Mana Crypt",
       "Managorger Hydra",
       "Marsh Flats",
-      "Mirri's Guile",
       "Misty Rainforest",
       "Mox Diamond",
       "Nature's Claim",
+      "Necropotence",
       "Noxious Revival",
       "Opposition Agent",
       "Overgrown Tomb",
@@ -23296,6 +23296,7 @@
       "Pact of Negation",
       "Polluted Delta",
       "Ponder",
+      "Praetor's Grasp",
       "Preordain",
       "Rejuvenating Springs",
       "Rhystic Study",
@@ -23323,8 +23324,7 @@
       "Watery Grave",
       "Windswept Heath",
       "Wishclaw Talisman",
-      "Wooded Foothills",
-      "Yawgmoth's Will"
+      "Wooded Foothills"
     ],
     "commanders": [
       "Tasigur, the Golden Fang"

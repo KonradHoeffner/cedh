@@ -21524,10 +21524,10 @@ const decks =
       "Mana Crypt",
       "Managorger Hydra",
       "Marsh Flats",
-      "Mirri's Guile",
       "Misty Rainforest",
       "Mox Diamond",
       "Nature's Claim",
+      "Necropotence",
       "Noxious Revival",
       "Opposition Agent",
       "Overgrown Tomb",
@@ -23297,6 +23297,7 @@ const decks =
       "Pact of Negation",
       "Polluted Delta",
       "Ponder",
+      "Praetor's Grasp",
       "Preordain",
       "Rejuvenating Springs",
       "Rhystic Study",
@@ -23324,8 +23325,7 @@ const decks =
       "Watery Grave",
       "Windswept Heath",
       "Wishclaw Talisman",
-      "Wooded Foothills",
-      "Yawgmoth's Will"
+      "Wooded Foothills"
     ],
     "commanders": [
       "Tasigur, the Golden Fang"
