@@ -242,7 +242,7 @@ def showTree(linkage_matrix):
 
 def clusterTree(data):
     N_CLUSTERS = 10
-    clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, affinity="l1")
+    clustering = AgglomerativeClustering(linkage="average", n_clusters=N_CLUSTERS, compute_distances=True, metric="l1")
     clustering.fit(data)
     # plot_dendrogram(clustering, labels=clustering.labels_)
     linkage_matrix = plot_dendrogram(clustering, show_leaf_counts=False)

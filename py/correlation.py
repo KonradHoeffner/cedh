@@ -231,16 +231,16 @@ def calculateDeckIdentities():
 
 def clusterTree(data):
     N_CLUSTERS = 10
-    #affinity = "precomputed"
-    affinity = "l1"
+    #metric = "precomputed"
+    metric = "l1"
     # precomputed requires a distance matrix
     clustering = AgglomerativeClustering(
         linkage="average",
         n_clusters=N_CLUSTERS,
         compute_distances=True,
-        affinity=affinity
+        metric=metric
     )
-    if affinity=="precomputed":
+    if metric=="precomputed":
         O = createOurOwnDistanceMatrix()
         clustering.fit(O)
     else:

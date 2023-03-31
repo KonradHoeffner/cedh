@@ -1,5 +1,8 @@
-bs4
-sklearn
+wheel
+beautifulsoup4
+scikit-learn
+pandas
+matplotlib
 networkx
 pydot
 graphviz
