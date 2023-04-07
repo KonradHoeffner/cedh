@@ -19,12 +19,50 @@
 				{
 					return "rgb("+s.charCodeAt(0)%16*12+", "+s.charCodeAt(1)%16*12+", "+s.charCodeAt(2)%16*12+")";
 				}
+				// based on https://github.com/bevacqua/fuzzysearch MIT Copyright © 2015 Nicolas Bevacqua
+				// not a full fledged fuzzy search, only robust against certain kinds of errors
+				function fuzzysearch (needle, haystack) {
+					var hlen = haystack.length;
+					var nlen = needle.length;
+					if (nlen > hlen) {
+						return false;
+					}
+					if (nlen === hlen) {
+						return needle === haystack;
+					}
+					min = Math.min(nlen,hlen);
+					max = Math.max(nlen,hlen);
+					if (min < 5 || max/min > 3 ) {
+						return false;
+					}
+					outer: for (var i = 0, j = 0; i < nlen; i++) {
+						var nch = needle.charCodeAt(i);
+						while (j < hlen) {
+							if (haystack.charCodeAt(j++) === nch) {
+								continue outer;
+							}
+						}
+						return false;
+					}
+					return true;
+				}
 				function search(event)
 				{
 					event.preventDefault();
-					const query = document.getElementById("searchinput").value;
+					const query = document.getElementById("searchinput").value.trim();
 					Object.keys(decks).forEach(h => {decks[h].cs = decks[h].commanders.reduce((a,b)=>a+', '+b);});
-					const hits= Object.keys(decks).filter(key => decks[key].mainboard.includes(query));
+					let hits = Object.keys(decks).filter(key => decks[key].mainboard.some(card => card.toLowerCase() === query.toLowerCase()));
+					if(hits.length==0)
+					{
+							document.getElementById("hits").innerHTML = `<h2>No matches found for card "${query}". Trying a fuzzy search.</h2>`;
+							hits = Object.keys(decks).filter(key => decks[key].mainboard.some(card => fuzzysearch(query.toLowerCase(),card.toLowerCase())));
+							if(hits.length==0)
+							{
+								document.getElementById("hits").innerHTML += `<h2>No matches found for card "${query}" even with fuzzy search.</h2>`;
+								return false;
+							}
+							document.getElementById("hits").innerHTML += `<h2>Fuzzy search succeeded but may include incorrect results.</h2>`;
+					}
 					hits.sort((a,b) => decks[a].cs.localeCompare(decks[b].cs));
 					const commanders = new Set(Object.keys(decks).map(h => decks[h].cs));
 					const hitCommanders = new Set(hits.map(h => decks[h].cs));
@@ -39,9 +77,9 @@
 					hitCommanderArray.forEach(hc => stats[hc] = {chc: commanderHitCount[hc], cc: commanderCount[hc], ratio: commanderHitCount[hc]*1.0/commanderCount[hc]});
 					hitCommanderArray.sort((a,b) => stats[b].chc-stats[a].chc); // Array.sort() isn't guaranteed to be stable but maybe it is in your browser
 					hitCommanderArray.sort((a,b) => stats[b].ratio-stats[a].ratio);
-					document.getElementById("hits").innerHTML = "<h2>commanders</h2><table>"+hitCommanderArray.map(hc=>"<tr><td style='color:"+color(hc)+"'>"+hc+'</td><td>'+commanderHitCount[hc]+'/'+commanderCount[hc]+'</td></tr>').reduce((a,b)=>a+b)+"</table>";
+					document.getElementById("hits").innerHTML += "<h2>commanders</h2><table>"+hitCommanderArray.map(hc=>"<tr><td style='color:"+color(hc)+"'>"+hc+'</td><td>'+commanderHitCount[hc]+'/'+commanderCount[hc]+'</td></tr>').reduce((a,b)=>a+b)+"</table>";
 					document.getElementById("hits").innerHTML += "<h2>decks</h2><table>"+hits.map(h=>"<tr><td style='color:"+color(decks[h].cs)+"'>"+decks[h].cs+'</td><td>'+h+'</td></tr>').reduce((a,b)=>a+b)+"</table>";
-					return false;	
+					return false;
 				}
 				
 		</script>
