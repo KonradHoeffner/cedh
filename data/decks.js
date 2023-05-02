@@ -5802,7 +5802,6 @@ const decks =
       "Delay",
       "Demonic Consultation",
       "Demonic Tutor",
-      "Dispel",
       "Doomsday",
       "Drannith Magistrate",
       "Eiganjo, Seat of the Empire",
@@ -5826,6 +5825,7 @@ const decks =
       "Grim Hireling",
       "Hallowed Fountain",
       "Imperial Seal",
+      "Lavinia, Azorius Renegade",
       "Ledger Shredder",
       "Lion's Eye Diamond",
       "Lotus Petal",
@@ -9880,7 +9880,7 @@ const decks =
       "Ikra Shidiqi, the Usurper"
     ]
   },
-  "[Primer] Pirate Blender ": {
+  "Pirate Blender ": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
@@ -17610,6 +17610,7 @@ const decks =
   "Tymna Malcolm Reanimator": {
     "mainboard": [
       "Ad Nauseam",
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Animate Dead",
       "Arcane Signet",
@@ -17652,7 +17653,6 @@ const decks =
       "Intuition",
       "Jeweled Lotus",
       "Ledger Shredder",
-      "Lim-D\u00fbl's Vault",
       "Lion's Eye Diamond",
       "Lotus Petal",
       "Lurrus of the Dream-Den",
@@ -17670,7 +17670,6 @@ const decks =
       "Mystic Remora",
       "Mystical Tutor",
       "Necromancy",
-      "Necropotence",
       "Opposition Agent",
       "Otawara, Soaring City",
       "Pact of Negation",
@@ -17682,6 +17681,7 @@ const decks =
       "Rhystic Study",
       "Scalding Tarn",
       "Scrubland",
+      "Sea of Clouds",
       "Serra Ascendant",
       "Silence",
       "Silent Clearing",

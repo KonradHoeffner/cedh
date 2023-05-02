@@ -674,15 +674,15 @@ const cards =
       "U"
     ],
     "name": "An Offer You Can't Refuse",
-    "count": 109,
-    "percent": 47,
+    "count": 110,
+    "percent": 48,
     "types": [
       "Instant"
     ],
-    "supercent": 76,
-    "rank": 47,
-    "superrank": 57,
-    "identity_rank": 12
+    "supercent": 77,
+    "rank": 46,
+    "superrank": 55,
+    "identity_rank": 11
   },
   "Ancestral Anger": {
     "img": "https://cards.scryfall.io/large/front/5/d/5dee47ab-d603-4346-97f4-a25dc3f47765.jpg?1643590713",
@@ -977,7 +977,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 139,
-    "superrank": 150,
+    "superrank": 149,
     "identity_rank": 18
   },
   "Arcane Denial": {
@@ -1752,7 +1752,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 199,
-    "superrank": 211,
+    "superrank": 210,
     "identity_rank": 29
   },
   "Avacyn's Pilgrim": {
@@ -2541,7 +2541,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 228,
-    "superrank": 237,
+    "superrank": 238,
     "identity_rank": 32
   },
   "Black Market Connections": {
@@ -4024,7 +4024,7 @@ const cards =
       "Land"
     ],
     "supercent": 7,
-    "rank": 354,
+    "rank": 355,
     "superrank": 368,
     "identity_rank": 39
   },
@@ -4496,7 +4496,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 131,
-    "superrank": 207,
+    "superrank": 206,
     "identity_rank": 33
   },
   "Caves of Koilos": {
@@ -4586,7 +4586,7 @@ const cards =
     ],
     "supercent": 22,
     "rank": 187,
-    "superrank": 204,
+    "superrank": 203,
     "identity_rank": 36
   },
   "Cephalid Illusionist": {
@@ -4993,7 +4993,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 140,
-    "superrank": 151,
+    "superrank": 150,
     "identity_rank": 19
   },
   "Chromatic Orrery": {
@@ -5155,7 +5155,7 @@ const cards =
       "Land"
     ],
     "supercent": 24,
-    "rank": 118,
+    "rank": 117,
     "superrank": 193,
     "identity_rank": 30
   },
@@ -6748,9 +6748,9 @@ const cards =
       "Instant"
     ],
     "supercent": 77,
-    "rank": 46,
-    "superrank": 55,
-    "identity_rank": 11
+    "rank": 47,
+    "superrank": 56,
+    "identity_rank": 12
   },
   "Dack Fayden": {
     "img": "https://cards.scryfall.io/large/front/0/f/0fa3fa12-531b-41a1-a71b-a1a2670cf2db.jpg?1640745288",
@@ -7233,7 +7233,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 226,
-    "superrank": 240,
+    "superrank": 241,
     "identity_rank": 28
   },
   "Deafening Silence": {
@@ -7256,7 +7256,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 158,
-    "superrank": 154,
+    "superrank": 153,
     "identity_rank": 10
   },
   "Death Cloud": {
@@ -7727,7 +7727,7 @@ const cards =
       "Creature"
     ],
     "supercent": 15,
-    "rank": 241,
+    "rank": 242,
     "superrank": 249,
     "identity_rank": 34
   },
@@ -7777,7 +7777,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 343,
+    "rank": 344,
     "superrank": 354,
     "identity_rank": 46
   },
@@ -8017,7 +8017,7 @@ const cards =
       "Instant"
     ],
     "supercent": 7,
-    "rank": 357,
+    "rank": 358,
     "superrank": 372,
     "identity_rank": 41
   },
@@ -8057,14 +8057,14 @@ const cards =
       "U"
     ],
     "name": "Dispel",
-    "count": 53,
-    "percent": 23,
+    "count": 52,
+    "percent": 22,
     "types": [
       "Instant"
     ],
-    "supercent": 37,
+    "supercent": 36,
     "rank": 129,
-    "superrank": 149,
+    "superrank": 154,
     "identity_rank": 29
   },
   "Displacer Kitten": {
@@ -9313,7 +9313,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 156,
-    "superrank": 236,
+    "superrank": 237,
     "identity_rank": 36
   },
   "Emeria's Call": {
@@ -9361,7 +9361,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 329,
-    "superrank": 238,
+    "superrank": 239,
     "identity_rank": 8
   },
   "Enchantress's Presence": {
@@ -9432,7 +9432,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 141,
-    "superrank": 152,
+    "superrank": 151,
     "identity_rank": 20
   },
   "Energy Refractor": {
@@ -10004,7 +10004,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 7,
-    "rank": 358,
+    "rank": 359,
     "superrank": 374,
     "identity_rank": 49
   },
@@ -10146,7 +10146,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 193,
-    "superrank": 209,
+    "superrank": 208,
     "identity_rank": 37
   },
   "Faerie Seer": {
@@ -10595,7 +10595,7 @@ const cards =
     ],
     "supercent": 22,
     "rank": 264,
-    "superrank": 205,
+    "superrank": 204,
     "identity_rank": 5
   },
   "Fight Rigging": {
@@ -11214,7 +11214,7 @@ const cards =
       "Instant"
     ],
     "supercent": 14,
-    "rank": 248,
+    "rank": 247,
     "superrank": 259,
     "identity_rank": 36
   },
@@ -14386,7 +14386,7 @@ const cards =
     ],
     "supercent": 22,
     "rank": 281,
-    "superrank": 206,
+    "superrank": 205,
     "identity_rank": 6
   },
   "Hullbreaker Horror": {
@@ -14411,7 +14411,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 214,
-    "superrank": 234,
+    "superrank": 235,
     "identity_rank": 41
   },
   "Humility": {
@@ -14875,7 +14875,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 157,
-    "superrank": 163,
+    "superrank": 164,
     "identity_rank": 13
   },
   "Imperial Seal": {
@@ -15764,7 +15764,7 @@ const cards =
     ],
     "supercent": 40,
     "rank": 132,
-    "superrank": 139,
+    "superrank": 138,
     "identity_rank": 11
   },
   "Jet Medallion": {
@@ -16820,15 +16820,15 @@ const cards =
     "power": "2",
     "toughness": "2",
     "name": "Lavinia, Azorius Renegade",
-    "count": 10,
+    "count": 11,
     "percent": 4,
     "types": [
       "Legendary",
       "Creature"
     ],
-    "supercent": 16,
-    "rank": 359,
-    "superrank": 244,
+    "supercent": 18,
+    "rank": 340,
+    "superrank": 231,
     "identity_rank": 5
   },
   "Leather Armor": {
@@ -16972,7 +16972,7 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 345,
+    "rank": 346,
     "superrank": 321,
     "identity_rank": 42
   },
@@ -17341,14 +17341,14 @@ const cards =
       "U"
     ],
     "name": "Lim-D\u00fbl's Vault",
-    "count": 20,
+    "count": 19,
     "percent": 8,
     "types": [
       "Instant"
     ],
-    "supercent": 22,
-    "rank": 243,
-    "superrank": 203,
+    "supercent": 21,
+    "rank": 249,
+    "superrank": 211,
     "identity_rank": 8
   },
   "Linvala, Keeper of Silence": {
@@ -18194,7 +18194,7 @@ const cards =
       "Instant"
     ],
     "supercent": 39,
-    "rank": 121,
+    "rank": 120,
     "superrank": 143,
     "identity_rank": 26
   },
@@ -20039,7 +20039,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 203,
-    "superrank": 208,
+    "superrank": 207,
     "identity_rank": 17
   },
   "Mouth of Ronom": {
@@ -20079,7 +20079,7 @@ const cards =
     ],
     "supercent": 31,
     "rank": 89,
-    "superrank": 165,
+    "superrank": 166,
     "identity_rank": 29
   },
   "Mox Diamond": {
@@ -20430,7 +20430,7 @@ const cards =
       "Land"
     ],
     "supercent": 7,
-    "rank": 340,
+    "rank": 341,
     "superrank": 377,
     "identity_rank": 58
   },
@@ -20628,7 +20628,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 236,
-    "superrank": 239,
+    "superrank": 240,
     "identity_rank": 33
   },
   "Natural State": {
@@ -20782,14 +20782,14 @@ const cards =
       "B"
     ],
     "name": "Necropotence",
-    "count": 57,
+    "count": 56,
     "percent": 24,
     "types": [
       "Enchantment"
     ],
-    "supercent": 41,
-    "rank": 115,
-    "superrank": 138,
+    "supercent": 40,
+    "rank": 121,
+    "superrank": 139,
     "identity_rank": 17
   },
   "Necrotic Ooze": {
@@ -20883,7 +20883,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 76,
-    "rank": 116,
+    "rank": 115,
     "superrank": 58,
     "identity_rank": 2
   },
@@ -22172,7 +22172,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 246,
-    "superrank": 235,
+    "superrank": 236,
     "identity_rank": 22
   },
   "Patriar's Seal": {
@@ -22481,7 +22481,7 @@ const cards =
       "Creature"
     ],
     "supercent": 40,
-    "rank": 119,
+    "rank": 118,
     "superrank": 142,
     "identity_rank": 25
   },
@@ -22531,7 +22531,7 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 342,
+    "rank": 343,
     "superrank": 319,
     "identity_rank": 41
   },
@@ -22784,7 +22784,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 244,
-    "superrank": 232,
+    "superrank": 233,
     "identity_rank": 20
   },
   "Planar Chaos": {
@@ -23140,7 +23140,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 7,
-    "rank": 347,
+    "rank": 348,
     "superrank": 391,
     "identity_rank": 60
   },
@@ -24041,7 +24041,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 233,
-    "superrank": 243,
+    "superrank": 244,
     "identity_rank": 29
   },
   "Raze the Effigy": {
@@ -24780,7 +24780,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 245,
-    "superrank": 233,
+    "superrank": 234,
     "identity_rank": 21
   },
   "Restoration Angel": {
@@ -25315,7 +25315,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 7,
-    "rank": 351,
+    "rank": 352,
     "superrank": 363,
     "identity_rank": 47
   },
@@ -26071,7 +26071,7 @@ const cards =
     ],
     "supercent": 77,
     "rank": 13,
-    "superrank": 56,
+    "superrank": 57,
     "identity_rank": 13
   },
   "Scale Up": {
@@ -26348,14 +26348,14 @@ const cards =
       "W"
     ],
     "name": "Sea of Clouds",
-    "count": 19,
+    "count": 20,
     "percent": 8,
     "types": [
       "Land"
     ],
-    "supercent": 31,
-    "rank": 247,
-    "superrank": 166,
+    "supercent": 32,
+    "rank": 241,
+    "superrank": 162,
     "identity_rank": 4
   },
   "Seal of Cleansing": {
@@ -27136,7 +27136,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 291,
-    "superrank": 231,
+    "superrank": 232,
     "identity_rank": 6
   },
   "Shizo, Death's Storehouse": {
@@ -27619,7 +27619,7 @@ const cards =
       "Creature"
     ],
     "supercent": 15,
-    "rank": 249,
+    "rank": 248,
     "superrank": 251,
     "identity_rank": 21
   },
@@ -28111,7 +28111,7 @@ const cards =
       "Land"
     ],
     "supercent": 15,
-    "rank": 242,
+    "rank": 243,
     "superrank": 250,
     "identity_rank": 35
   },
@@ -28473,7 +28473,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 352,
+    "rank": 353,
     "superrank": 477,
     "identity_rank": 71
   },
@@ -28707,7 +28707,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 348,
+    "rank": 349,
     "superrank": 472,
     "identity_rank": 68
   },
@@ -28749,7 +28749,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 338,
-    "superrank": 242,
+    "superrank": 243,
     "identity_rank": 4
   },
   "Spire of Industry": {
@@ -28815,7 +28815,7 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 346,
+    "rank": 347,
     "superrank": 322,
     "identity_rank": 43
   },
@@ -30338,7 +30338,7 @@ const cards =
       "Land"
     ],
     "supercent": 7,
-    "rank": 355,
+    "rank": 356,
     "superrank": 369,
     "identity_rank": 40
   },
@@ -30383,7 +30383,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 220,
-    "superrank": 164,
+    "superrank": 165,
     "identity_rank": 4
   },
   "Talisman of Curiosity": {
@@ -30867,7 +30867,7 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 353,
+    "rank": 354,
     "superrank": 364,
     "identity_rank": 48
   },
@@ -31740,7 +31740,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 40,
-    "rank": 117,
+    "rank": 116,
     "superrank": 141,
     "identity_rank": 24
   },
@@ -31946,7 +31946,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 350,
+    "rank": 351,
     "superrank": 474,
     "identity_rank": 70
   },
@@ -32186,7 +32186,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 227,
-    "superrank": 241,
+    "superrank": 242,
     "identity_rank": 42
   },
   "Traumatize": {
@@ -32301,7 +32301,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 349,
+    "rank": 350,
     "superrank": 473,
     "identity_rank": 69
   },
@@ -33224,7 +33224,7 @@ const cards =
       "Land"
     ],
     "supercent": 24,
-    "rank": 120,
+    "rank": 119,
     "superrank": 187,
     "identity_rank": 31
   },
@@ -33274,7 +33274,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 198,
-    "superrank": 210,
+    "superrank": 209,
     "identity_rank": 28
   },
   "Valakut Awakening": {
@@ -33969,7 +33969,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 344,
+    "rank": 345,
     "superrank": 355,
     "identity_rank": 38
   },
@@ -34559,7 +34559,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 201,
-    "superrank": 153,
+    "superrank": 152,
     "identity_rank": 5
   },
   "Watery Grave": {
@@ -34907,7 +34907,7 @@ const cards =
       "Instant"
     ],
     "supercent": 7,
-    "rank": 341,
+    "rank": 342,
     "superrank": 378,
     "identity_rank": 59
   },
@@ -34975,7 +34975,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 153,
-    "superrank": 162,
+    "superrank": 163,
     "identity_rank": 21
   },
   "Wild Magic Surge": {
@@ -35133,7 +35133,7 @@ const cards =
       "Instant"
     ],
     "supercent": 7,
-    "rank": 356,
+    "rank": 357,
     "superrank": 371,
     "identity_rank": 61
   },
