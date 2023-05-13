@@ -1179,6 +1179,7 @@ const decks =
       "Command Tower",
       "Defense Grid",
       "Dockside Extortionist",
+      "Drannith Magistrate",
       "Dualcaster Mage",
       "Eladamri's Call",
       "Eldritch Evolution",
@@ -1201,7 +1202,6 @@ const decks =
       "Goblin Engineer",
       "Grand Abolisher",
       "Greater Good",
-      "Grim Monolith",
       "Imperial Recruiter",
       "Infernal Plunge",
       "Jeweled Lotus",
@@ -5857,7 +5857,7 @@ const decks =
       "Tivit, Seller of Secrets"
     ]
   },
-  "[Competitive] Malcolm Roger Supercharged Mighty Morphin' Turbo Extreme": {
+  "[Cabal] Malcolm Roger Supercharged Mighty Morphin' Turbo Extreme": {
     "mainboard": [
       "Abrade",
       "Ancient Tomb",
@@ -6730,6 +6730,7 @@ const decks =
       "Culling Ritual",
       "Culling the Weak",
       "Dark Ritual",
+      "Dauthi Voidwalker",
       "Deathrite Shaman",
       "Defense Grid",
       "Deflecting Swat",
@@ -6749,7 +6750,6 @@ const decks =
       "Gemstone Caverns",
       "Grim Monolith",
       "Grinding Station",
-      "Guttural Response",
       "Ignoble Hierarch",
       "Imperial Seal",
       "Jeska's Will",
@@ -7858,7 +7858,7 @@ const decks =
       "K'rrik, Son of Yawgmoth"
     ]
   },
-  "A Faster K'rrik Storm  (cEDH w/ Primer)": {
+  "[Cabal] A Faster K'rrik Storm  (cEDH w/ Primer)": {
     "mainboard": [
       "Ancient Tomb",
       "Animate Dead",
@@ -9382,7 +9382,6 @@ const decks =
       "Cragcrown Pathway // Timbercrown Pathway",
       "Darksteel Citadel",
       "Deflecting Swat",
-      "Delayed Blast Fireball",
       "Dockside Extortionist",
       "Eldritch Evolution",
       "Ensnaring Bridge",
@@ -9432,11 +9431,12 @@ const decks =
       "Pithing Needle",
       "Plaza of Heroes",
       "Prismatic Vista",
+      "Pyroblast",
+      "Red Elemental Blast",
       "Scalding Tarn",
       "Sensei's Divining Top",
       "Shared Summons",
       "Shatterskull Smashing // Shatterskull, the Hammer Pass",
-      "Signal the Clans",
       "Simian Spirit Guide",
       "Skirk Prospector",
       "Sol Ring",
@@ -14628,6 +14628,7 @@ const decks =
       "Defense of the Heart",
       "Demonic Tutor",
       "Diabolic Intent",
+      "Drana and Linvala",
       "Drannith Magistrate",
       "Eidolon of Rhetoric",
       "Eiganjo, Seat of the Empire",
@@ -14687,7 +14688,6 @@ const decks =
       "Sylvan Safekeeper",
       "Temple Garden",
       "Vampiric Tutor",
-      "Veil of Summer",
       "Verdant Catacombs",
       "Windswept Heath",
       "Wooded Foothills",
@@ -16890,6 +16890,7 @@ const decks =
       "Arid Mesa",
       "Aven Mindcensor",
       "Blind Obedience",
+      "Blue Elemental Blast",
       "Cephalid Coliseum",
       "Chrome Mox",
       "City of Brass",
@@ -16897,7 +16898,6 @@ const decks =
       "Containment Priest",
       "Counterbalance",
       "Cyclonic Rift",
-      "Defense Grid",
       "Delay",
       "Dig Through Time",
       "Dispel",
@@ -17299,7 +17299,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Doom Farm  ": {
+  "[Cabal] Doom Farm ": {
     "mainboard": [
       "Ad Nauseam",
       "Alchemist's Retrieval",
@@ -17645,6 +17645,7 @@ const decks =
       "Enlightened Tutor",
       "Entomb",
       "Esper Sentinel",
+      "Faerie Mastermind",
       "Fellwar Stone",
       "Fierce Guardianship",
       "Flooded Strand",
@@ -17699,7 +17700,6 @@ const decks =
       "Snow-Covered Island",
       "Snow-Covered Swamp",
       "Sol Ring",
-      "Spectral Sailor",
       "Spellseeker",
       "Spire of Industry",
       "Swan Song",
@@ -18403,9 +18403,9 @@ const decks =
       "Gamble",
       "Gemstone Caverns",
       "Grand Abolisher",
+      "Grazilaxx, Illithid Scholar",
       "Hallowed Fountain",
       "Intuition",
-      "Lavinia, Azorius Renegade",
       "Lion's Eye Diamond",
       "Llanowar Elves",
       "Lotus Petal",
@@ -19131,7 +19131,6 @@ const decks =
       "Endurance",
       "Enlightened Tutor",
       "Esper Sentinel",
-      "Eternal Witness",
       "Finale of Devastation",
       "Flooded Strand",
       "Forest",
@@ -19166,6 +19165,7 @@ const decks =
       "Savannah",
       "Selvala, Heart of the Wilds",
       "Shalai, Voice of Plenty",
+      "Sigarda, Font of Blessings",
       "Silence",
       "Skyclave Apparition",
       "Snow-Covered Forest",
