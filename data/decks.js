@@ -16751,7 +16751,7 @@ const decks =
       "Saryth, the Viper's Fang",
       "Savannah",
       "Serra Ascendant",
-      "Shalai, Voice of Plenty",
+      "Sigarda, Font of Blessings",
       "Skyclave Apparition",
       "Slippery Bogbonder",
       "Sol Ring",
