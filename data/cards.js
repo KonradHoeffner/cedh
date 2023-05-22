@@ -1141,7 +1141,7 @@ const cards =
       "Creature"
     ],
     "supercent": 33,
-    "rank": 169,
+    "rank": 170,
     "superrank": 161,
     "identity_rank": 11
   },
@@ -2725,7 +2725,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 12,
-    "rank": 294,
+    "rank": 295,
     "superrank": 283,
     "identity_rank": 33
   },
@@ -3195,7 +3195,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 11,
-    "rank": 270,
+    "rank": 269,
     "superrank": 293,
     "identity_rank": 33
   },
@@ -4329,7 +4329,7 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 292,
+    "rank": 293,
     "superrank": 280,
     "identity_rank": 32
   },
@@ -4445,7 +4445,7 @@ const cards =
     ],
     "supercent": 22,
     "rank": 131,
-    "superrank": 203,
+    "superrank": 202,
     "identity_rank": 33
   },
   "Caves of Koilos": {
@@ -6064,7 +6064,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 11,
-    "rank": 269,
+    "rank": 268,
     "superrank": 289,
     "identity_rank": 48
   },
@@ -6473,7 +6473,7 @@ const cards =
       "Land"
     ],
     "supercent": 7,
-    "rank": 262,
+    "rank": 261,
     "superrank": 373,
     "identity_rank": 53
   },
@@ -7564,7 +7564,7 @@ const cards =
     "identity_rank": 41
   },
   "Delighted Halfling": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cd87f082-1596-43fd-b971-720090ac6733.jpg?1683414477",
+    "img": "https://cards.scryfall.io/large/front/c/d/cd87f082-1596-43fd-b971-720090ac6733.jpg?1684523691",
     "date": "2023-06-23",
     "colors": [
       "G"
@@ -8289,7 +8289,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 11,
-    "rank": 271,
+    "rank": 270,
     "superrank": 294,
     "identity_rank": 34
   },
@@ -10387,7 +10387,7 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 291,
+    "rank": 292,
     "superrank": 278,
     "identity_rank": 31
   },
@@ -10668,7 +10668,7 @@ const cards =
     "identity_rank": 13
   },
   "Filter Out": {
-    "img": "https://cards.scryfall.io/large/front/f/2/f23ebdda-e000-4333-9f2f-7d17e17a7cf2.jpg?1683079287",
+    "img": "https://cards.scryfall.io/large/front/f/2/f23ebdda-e000-4333-9f2f-7d17e17a7cf2.jpg?1684342142",
     "date": "2023-05-12",
     "colors": [
       "U"
@@ -11319,16 +11319,16 @@ const cards =
       "G"
     ],
     "name": "Forest",
-    "count": 35,
+    "count": 36,
     "percent": 15,
     "types": [
       "Basic",
       "Land"
     ],
     "supercent": 27,
-    "rank": 174,
+    "rank": 169,
     "superrank": 181,
-    "identity_rank": 24
+    "identity_rank": 23
   },
   "Fork": {
     "img": "https://cards.scryfall.io/large/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1559591585",
@@ -12121,7 +12121,7 @@ const cards =
       "Creature"
     ],
     "supercent": 15,
-    "rank": 267,
+    "rank": 266,
     "superrank": 257,
     "identity_rank": 25
   },
@@ -12429,7 +12429,7 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 300,
+    "rank": 301,
     "superrank": 309,
     "identity_rank": 25
   },
@@ -13168,9 +13168,9 @@ const cards =
       "Sorcery"
     ],
     "supercent": 27,
-    "rank": 171,
+    "rank": 172,
     "superrank": 180,
-    "identity_rank": 23
+    "identity_rank": 24
   },
   "Grenzo, Havoc Raiser": {
     "img": "https://cards.scryfall.io/large/front/0/7/075cd558-2557-409a-8244-2de65664be53.jpg?1576381934",
@@ -14451,7 +14451,7 @@ const cards =
     ],
     "supercent": 22,
     "rank": 283,
-    "superrank": 206,
+    "superrank": 205,
     "identity_rank": 6
   },
   "Hullbreaker Horror": {
@@ -15175,7 +15175,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 10,
-    "rank": 305,
+    "rank": 306,
     "superrank": 315,
     "identity_rank": 28
   },
@@ -16725,15 +16725,15 @@ const cards =
     "power": "2",
     "toughness": "2",
     "name": "Laboratory Maniac",
-    "count": 13,
-    "percent": 5,
+    "count": 14,
+    "percent": 6,
     "types": [
       "Creature"
     ],
     "supercent": 9,
-    "rank": 306,
+    "rank": 291,
     "superrank": 333,
-    "identity_rank": 51
+    "identity_rank": 49
   },
   "Lae'zel, Vlaakith's Champion": {
     "img": "https://cards.scryfall.io/large/front/4/8/4833ef6c-3ff8-4a3c-826b-58e4a27480a3.jpg?1681412348",
@@ -17204,7 +17204,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 21,
-    "rank": 266,
+    "rank": 265,
     "superrank": 211,
     "identity_rank": 10
   },
@@ -17417,7 +17417,7 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 295,
+    "rank": 296,
     "superrank": 286,
     "identity_rank": 34
   },
@@ -17757,7 +17757,7 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 293,
+    "rank": 294,
     "superrank": 305,
     "identity_rank": 24
   },
@@ -17901,7 +17901,7 @@ const cards =
       "Land"
     ],
     "supercent": 48,
-    "rank": 172,
+    "rank": 173,
     "superrank": 124,
     "identity_rank": 3
   },
@@ -18647,14 +18647,14 @@ const cards =
     "power": "3",
     "toughness": "3",
     "name": "Mayhem Devil",
-    "count": 17,
-    "percent": 7,
+    "count": 16,
+    "percent": 6,
     "types": [
       "Creature"
     ],
-    "supercent": 23,
-    "rank": 261,
-    "superrank": 201,
+    "supercent": 22,
+    "rank": 271,
+    "superrank": 203,
     "identity_rank": 5
   },
   "Melira, Sylvok Outcast": {
@@ -19665,7 +19665,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 10,
-    "rank": 304,
+    "rank": 305,
     "superrank": 314,
     "identity_rank": 27
   },
@@ -20060,7 +20060,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 201,
-    "superrank": 207,
+    "superrank": 206,
     "identity_rank": 17
   },
   "Mouth of Ronom": {
@@ -22558,9 +22558,9 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 299,
+    "rank": 300,
     "superrank": 324,
-    "identity_rank": 50
+    "identity_rank": 51
   },
   "Phyrexian Revoker": {
     "img": "https://cards.scryfall.io/large/front/7/7/77772c4e-0c93-4bb5-85b5-08b4a6cb0e4f.jpg?1674092086",
@@ -22985,9 +22985,9 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 296,
+    "rank": 297,
     "superrank": 323,
-    "identity_rank": 49
+    "identity_rank": 50
   },
   "Portable Hole": {
     "img": "https://cards.scryfall.io/large/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1627702369",
@@ -24234,7 +24234,7 @@ const cards =
     "identity_rank": 149
   },
   "Reckless Handling": {
-    "img": "https://cards.scryfall.io/large/front/7/2/72c41c82-937e-483a-97bf-58a14401bf11.jpg?1683080469",
+    "img": "https://cards.scryfall.io/large/front/7/2/72c41c82-937e-483a-97bf-58a14401bf11.jpg?1684341493",
     "date": "2023-05-12",
     "colors": [
       "R"
@@ -24529,7 +24529,7 @@ const cards =
       "Land"
     ],
     "supercent": 46,
-    "rank": 173,
+    "rank": 174,
     "superrank": 127,
     "identity_rank": 4
   },
@@ -24733,7 +24733,7 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 268,
+    "rank": 267,
     "superrank": 288,
     "identity_rank": 47
   },
@@ -25638,7 +25638,7 @@ const cards =
       "Land"
     ],
     "supercent": 30,
-    "rank": 263,
+    "rank": 262,
     "superrank": 170,
     "identity_rank": 2
   },
@@ -25846,7 +25846,7 @@ const cards =
     "identity_rank": 136
   },
   "Samut, Vizier of Naktamun": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg?1683072041",
+    "img": "https://cards.scryfall.io/large/front/a/0/a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg?1684340837",
     "date": "2023-05-12",
     "colors": [
       "G",
@@ -26697,7 +26697,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 219,
-    "superrank": 202,
+    "superrank": 201,
     "identity_rank": 17
   },
   "Serra Paragon": {
@@ -26789,7 +26789,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 32,
-    "rank": 170,
+    "rank": 171,
     "superrank": 163,
     "identity_rank": 12
   },
@@ -26909,7 +26909,7 @@ const cards =
       "Instant"
     ],
     "supercent": 12,
-    "rank": 264,
+    "rank": 263,
     "superrank": 277,
     "identity_rank": 32
   },
@@ -27361,7 +27361,7 @@ const cards =
     "identity_rank": 65
   },
   "Sigarda, Font of Blessings": {
-    "img": "https://cards.scryfall.io/large/front/d/e/dedfd30b-24eb-4b2c-a1de-3f7e1f2a5cb2.jpg?1683084156",
+    "img": "https://cards.scryfall.io/large/front/d/e/dedfd30b-24eb-4b2c-a1de-3f7e1f2a5cb2.jpg?1684342453",
     "date": "2023-05-12",
     "colors": [
       "G",
@@ -29720,7 +29720,7 @@ const cards =
       "Instant"
     ],
     "supercent": 10,
-    "rank": 303,
+    "rank": 304,
     "superrank": 313,
     "identity_rank": 39
   },
@@ -30361,8 +30361,8 @@ const cards =
       "Artifact"
     ],
     "supercent": 22,
-    "rank": 265,
-    "superrank": 205,
+    "rank": 264,
+    "superrank": 204,
     "identity_rank": 7
   },
   "Talisman of Dominance": {
@@ -30560,7 +30560,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 5,
-    "rank": 297,
+    "rank": 298,
     "superrank": 428,
     "identity_rank": 60
   },
@@ -31113,7 +31113,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 298,
+    "rank": 299,
     "superrank": 429,
     "identity_rank": 61
   },
@@ -31555,7 +31555,7 @@ const cards =
       "Instant"
     ],
     "supercent": 10,
-    "rank": 301,
+    "rank": 302,
     "superrank": 310,
     "identity_rank": 26
   },
@@ -33243,14 +33243,14 @@ const cards =
       "G"
     ],
     "name": "Utopia Sprawl",
-    "count": 29,
+    "count": 28,
     "percent": 12,
     "types": [
       "Enchantment"
     ],
-    "supercent": 22,
+    "supercent": 21,
     "rank": 197,
-    "superrank": 204,
+    "superrank": 207,
     "identity_rank": 28
   },
   "Valakut Awakening": {
@@ -33433,7 +33433,7 @@ const cards =
       "Land"
     ],
     "supercent": 20,
-    "rank": 302,
+    "rank": 303,
     "superrank": 215,
     "identity_rank": 3
   },
