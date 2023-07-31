@@ -9,7 +9,7 @@ CARDFILE = "./dist/data/cards.json"
 CARDFILE_OLD = "./dist/data/cards.old.json"
 DIFFFILE = "./dist/data/cards.diff.json"
 MIN_COUNT = 3
-MIN_DIFF = 5
+MIN_DIFF = 3
 MIN_SUPER_DIFF = 1
 MAX_DIFF = 1000  # workaround to exclude outliers caused by errors in the data
 
@@ -52,6 +52,8 @@ for key in keys:
     irankdiff = old["identity_rank"] - irank
     supercent = new["supercent"]
     supercentdiff = supercent - old["supercent"]
+    if abs(countdiff) < MIN_DIFF:
+        continue
     # if abs(rank) < MIN_DIFF and abs(superrank) < MIN_SUPER_DIFF:
     #    continue
     # if max(abs(rankdiff), abs(superrankdiff)) > MAX_DIFF:
@@ -93,11 +95,11 @@ COLOR_IDENTITIES = powerset(COLORS.keys())
 def markdown():
     headers = ["Card", "Count", "ΔCount", "Rank", "ΔRank", "SRank", "ΔSRank","% rel","Δ% rel"]
 
-    bydeltarel = sorted(diff_matrix, key=lambda row: row[8], reverse=True)[0:10]
+    bydeltarel = sorted(diff_matrix, key=lambda row: row[8], reverse=True)[0:20]
     writer = ptw.MarkdownTableWriter(table_name="Top Increased Count", headers=headers, value_matrix=bydeltarel)
     writer.write_table()
     print()
-    bydeltarel = sorted(diff_matrix, key=lambda row: row[8])[0:10]
+    bydeltarel = sorted(diff_matrix, key=lambda row: row[8])[0:20]
     writer = ptw.MarkdownTableWriter(table_name="Top Decreased Count", headers=headers, value_matrix=bydeltarel)
     writer.write_table()
 
