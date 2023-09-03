@@ -1,25 +1,31 @@
 import os
 import json
 import pygit2
-#import pandas as pd
+import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
+from matplotlib.dates import DateFormatter
+#import plotly.express as px
 from datetime import datetime
 
+BRANCH_NAME = 'gh-pages'
+FILENAME = 'data/cards.json'
+#COLORS = {'W': 'White', 'U': 'Blue', 'B': 'Black', 'R': 'Red', 'G': 'Green'}
 repo_path = os.getcwd()
-branch_name = 'gh-pages'
-filename = 'data/cards.json'
-COLORS = {'W': 'White', 'U': 'Blue', 'B': 'Black', 'R': 'Red', 'G': 'Green'}
+#dates = []
+data = {}
 
 def collect_json_with_dates(repo):
-    branch = repo.branches[branch_name]
+    branch = repo.branches[BRANCH_NAME]
     cardss = []
     for commit in repo.walk(branch.target, pygit2.GIT_SORT_TOPOLOGICAL | pygit2.GIT_SORT_REVERSE):
-        commit_date = datetime.utcfromtimestamp(commit.commit_time).strftime('%Y%m%d')
-        if filename in commit.tree:
-            data_blob = repo.get(commit.tree[filename].id)
+        commit_date = datetime.utcfromtimestamp(commit.commit_time)#.strftime('%Y%m%d')
+        if FILENAME in commit.tree:
+            data_blob = repo.get(commit.tree[FILENAME].id)
             data_content = json.loads(data_blob.data.decode('utf-8'))
+            #dates.append(commit_date)
             cardss.append((commit_date, data_content))
-            break # faster testing first only
+            #break # faster testing first only
     return cardss
 
 if __name__ == '__main__':
@@ -27,26 +33,40 @@ if __name__ == '__main__':
     cardss = collect_json_with_dates(repo)
    
     for (date,cards) in cardss:
-        #keys = list(cards.keys())
-        #keys.sort()
-        print(cards['Ponder'])
-        #blue = filter(lambda card: card.color_identity == ['U'], cards)
-        blue = {cardname: value for cardname, value in cards.items() if value['color_identity'] == ["U"]}
-        print(list(blue)[0:10])
-        # todo
-        # Create a relative rank change plot
-        plt.plot(time_points, item1_ranks, label='Item 1')
-        plt.plot(time_points, item2_ranks, label='Item 2')
+        blue = {cardname: value['identity_rank'] for cardname, value in cards.items() if value['color_identity'] == ["U"]}
+        #column = {}
+        #for cardname, value in blue.items():
+        #    column[cardname] = {card: cardname, rank: value['identity_rank']}
+        data[date] = blue
+        #print(list(blue.items())[0])
+        #break
+    
+    #print(data)
+    dates = list(data.keys())
+    card_ranks = {card: [data[date].get(card, 999) for date in dates] for card in data[dates[0]].keys()}
 
-        # Customize the plot (remove y-axis label and ticks)
-        plt.ylabel('Relative Rank')
-        plt.tick_params(axis='y', which='both', left=False)
+    # Create the bump chart
+    fig, ax = plt.subplots(figsize=(8, 6))
 
-        # Add legend and title
-        plt.legend()
-        plt.title('Relative Rank Change Over Time')
+    for card, ranks in card_ranks.items():
+        ax.plot(dates, ranks, marker='o', label=card)
 
-        # Show the plot
-        plt.show()
+    # Customize the plot
+    ax.set_title('Bump Chart')
+    ax.set_xlabel('Date')
+    ax.xaxis.set_major_locator(MaxNLocator(integer=True))
+    date_format = DateFormatter("%b %Y")
+    ax.xaxis.set_major_formatter(date_format)
+    #xticks_datetime = [datetime.strptime(label, '%Y%m%d') for label in ax.get_xticklabels()]
+    #xticks_labels = [label.get_text() for label in ax.get_xticklabels()]
+    #ax.set_xticklabels(xticks_datetime, rotation=45)
 
-        break
+    ax.set_ylabel('Rank')
+    ax.set_ylim(1, 20)
+    ax.legend(loc='best')
+    ax.grid()
+
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
