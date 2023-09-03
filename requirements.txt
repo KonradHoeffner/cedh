@@ -9,3 +9,4 @@ graphviz
 requests
 pytablewriter
 pygit2
+numpy
