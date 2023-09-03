@@ -7,6 +7,7 @@ from matplotlib.ticker import MaxNLocator
 from matplotlib.dates import DateFormatter
 #import plotly.express as px
 from datetime import datetime
+from numpy import nan
 
 BRANCH_NAME = 'gh-pages'
 FILENAME = 'data/cards.json'
@@ -42,17 +43,26 @@ if __name__ == '__main__':
         #break
     
     #print(data)
-    dates = list(data.keys())
-    card_ranks = {card: [data[date].get(card, 999) for date in dates] for card in data[dates[0]].keys()}
+    #dates = list(data.keys())
+    #card_ranks = {card: [data[date].get(card, 999) for date in dates] for card in data[dates[0]].keys()}
+
+    df = pd.DataFrame.from_dict(data, orient='index')
+    df = df.reindex(columns=sorted(df.columns), fill_value=nan)
+    
+    # Filter and keep only the cards whose rank is below 20 at least once
+    filtered_cards = df.columns[df.lt(20).any()]
+    df = df[filtered_cards]
 
     # Create the bump chart
-    fig, ax = plt.subplots(figsize=(8, 6))
-
-    for card, ranks in card_ranks.items():
-        ax.plot(dates, ranks, marker='o', label=card)
+    fig, ax = plt.subplots(figsize=(15, 9))
+    for card in df.columns:
+        ax.plot(df.index, df[card], marker='o') #, label=card)
+        ax.text(df.index[-1], df[card].iloc[-1], card, va='center', ha='left', fontsize=9, color='blue')
+ #   for card, ranks in card_ranks.items():
+ #       ax.plot(dates, ranks, marker='o', label=card)
 
     # Customize the plot
-    ax.set_title('Bump Chart')
+    ax.set_title('Most played blue cards over time')
     ax.set_xlabel('Date')
     ax.xaxis.set_major_locator(MaxNLocator(integer=True))
     date_format = DateFormatter("%b %Y")
@@ -62,7 +72,9 @@ if __name__ == '__main__':
     #ax.set_xticklabels(xticks_datetime, rotation=45)
 
     ax.set_ylabel('Rank')
-    ax.set_ylim(1, 20)
+    ax.set_ylim(0, 20.5)
+    ax.set_yticks(range(1, 21))
+    ax.invert_yaxis()
     ax.legend(loc='best')
     ax.grid()
 
