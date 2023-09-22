@@ -15,10 +15,10 @@ jobs:
         with:
           python-version: '3.x'
           cache: 'pip'
-      - run: |
-            pip install -r requirements.crawl.txt
-            python py/savedecks.py
-            python py/cardstats.py
+          cache-dependency-path: 'requirements.crawl.txt'
+      - run: pip install -r requirements.crawl.txt
+      - run: python py/savedecks.py
+      - run: python py/cardstats.py
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
