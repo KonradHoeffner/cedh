@@ -69,7 +69,7 @@ DECKFILE = "./dist/data/decks.json"
 DECKFILE_ERROR = "./dist/data/decks_error.json"
 DECKFILE_JS = "./dist/data/decks.js"
 decks = crawlDecks(links)
-MIN_DECKS = 200
+MIN_DECKS = 180
 size = len(decks)
 
 if size < MIN_DECKS:
