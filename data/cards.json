@@ -3793,15 +3793,15 @@
       "G"
     ],
     "name": "Carpet of Flowers",
-    "count": 73,
-    "percent": 38,
+    "count": 72,
+    "percent": 37,
     "types": [
       "Enchantment"
     ],
     "supercent": 61,
-    "rank": 74,
+    "rank": 75,
     "superrank": 94,
-    "identity_rank": 7
+    "identity_rank": 8
   },
   "Carrion Feeder": {
     "img": "https://cards.scryfall.io/large/front/8/8/88042031-64af-4f84-85d5-95992b43aa6c.jpg?1562531649",
@@ -10380,9 +10380,9 @@
       "Land"
     ],
     "supercent": 61,
-    "rank": 75,
+    "rank": 74,
     "superrank": 93,
-    "identity_rank": 8
+    "identity_rank": 7
   },
   "Gaea's Touch": {
     "img": "https://cards.scryfall.io/large/front/b/7/b7705328-4b5d-4383-9abe-75fca9c32c09.jpg?1562938276",
