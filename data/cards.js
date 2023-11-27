@@ -1083,14 +1083,14 @@ const cards =
     "power": "2",
     "toughness": "2",
     "name": "Archivist of Oghma",
-    "count": 42,
-    "percent": 19,
+    "count": 43,
+    "percent": 20,
     "types": [
       "Creature"
     ],
-    "supercent": 35,
+    "supercent": 36,
     "rank": 141,
-    "superrank": 143,
+    "superrank": 142,
     "identity_rank": 9
   },
   "Archmage Emeritus": {
@@ -1804,7 +1804,7 @@ const cards =
       "Land"
     ],
     "supercent": 94,
-    "rank": 96,
+    "rank": 95,
     "superrank": 24,
     "identity_rank": 1
   },
@@ -4054,7 +4054,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 323,
-    "superrank": 318,
+    "superrank": 319,
     "identity_rank": 42
   },
   "Cauldron Familiar": {
@@ -4993,7 +4993,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 301,
+    "rank": 302,
     "superrank": 400,
     "identity_rank": 57
   },
@@ -7330,8 +7330,8 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 302,
-    "superrank": 323,
+    "rank": 303,
+    "superrank": 324,
     "identity_rank": 39
   },
   "Dispatch": {
@@ -8543,9 +8543,9 @@ const cards =
       "Creature"
     ],
     "supercent": 50,
-    "rank": 97,
-    "superrank": 117,
-    "identity_rank": 13
+    "rank": 96,
+    "superrank": 116,
+    "identity_rank": 12
   },
   "Elvish Reclaimer": {
     "img": "https://cards.scryfall.io/large/front/3/9/39c431d7-d94b-46c4-bb89-f3db56214ab4.jpg?1592517191",
@@ -9109,8 +9109,8 @@ const cards =
       "Creature"
     ],
     "supercent": 25,
-    "rank": 178,
-    "superrank": 188,
+    "rank": 177,
+    "superrank": 187,
     "identity_rank": 27
   },
   "Etherium Sculptor": {
@@ -9498,9 +9498,9 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 298,
-    "superrank": 313,
-    "identity_rank": 51
+    "rank": 299,
+    "superrank": 314,
+    "identity_rank": 52
   },
   "Faerie Seer": {
     "img": "https://cards.scryfall.io/large/front/3/9/3989e920-05df-4b30-9ec3-e6ecaa436fce.jpg?1630616385",
@@ -9696,7 +9696,7 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 299,
+    "rank": 300,
     "superrank": 300,
     "identity_rank": 36
   },
@@ -9716,7 +9716,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 44,
-    "superrank": 116,
+    "superrank": 115,
     "identity_rank": 27
   },
   "Fertile Ground": {
@@ -10173,15 +10173,15 @@ const cards =
     "power": "0",
     "toughness": "0",
     "name": "Flesh Duplicate",
-    "count": 13,
+    "count": 14,
     "percent": 6,
     "types": [
       "Creature"
     ],
-    "supercent": 9,
-    "rank": 305,
-    "superrank": 329,
-    "identity_rank": 52
+    "supercent": 10,
+    "rank": 298,
+    "superrank": 313,
+    "identity_rank": 51
   },
   "Fleshwrither": {
     "img": "https://cards.scryfall.io/large/front/0/8/08e1a646-6925-4a53-a99c-8951af016a7a.jpg?1562896768",
@@ -10338,7 +10338,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 309,
-    "superrank": 317,
+    "superrank": 318,
     "identity_rank": 44
   },
   "Footsteps of the Goryo": {
@@ -10699,15 +10699,15 @@ const cards =
     "power": "1",
     "toughness": "1",
     "name": "Fyndhorn Elves",
-    "count": 66,
+    "count": 65,
     "percent": 30,
     "types": [
       "Creature"
     ],
-    "supercent": 51,
-    "rank": 94,
-    "superrank": 115,
-    "identity_rank": 12
+    "supercent": 50,
+    "rank": 97,
+    "superrank": 117,
+    "identity_rank": 13
   },
   "Gaddock Teeg": {
     "img": "https://cards.scryfall.io/large/front/3/2/32c16e1b-f4ce-409f-928a-42c666adac9d.jpg?1562343893",
@@ -11958,7 +11958,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 231,
-    "superrank": 321,
+    "superrank": 322,
     "identity_rank": 45
   },
   "Grand Abolisher": {
@@ -13279,8 +13279,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 303,
-    "superrank": 324,
+    "rank": 304,
+    "superrank": 325,
     "identity_rank": 40
   },
   "Holdout Settlement": {
@@ -13344,7 +13344,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 233,
-    "superrank": 325,
+    "superrank": 326,
     "identity_rank": 46
   },
   "Honor-Worn Shaku": {
@@ -13556,7 +13556,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 330,
-    "superrank": 322,
+    "superrank": 323,
     "identity_rank": 43
   },
   "Hushwing Gryff": {
@@ -14901,7 +14901,7 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 300,
+    "rank": 301,
     "superrank": 301,
     "identity_rank": 37
   },
@@ -15957,7 +15957,7 @@ const cards =
       "Instant"
     ],
     "supercent": 28,
-    "rank": 177,
+    "rank": 176,
     "superrank": 181,
     "identity_rank": 14
   },
@@ -18886,7 +18886,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 762,
-    "superrank": 315,
+    "superrank": 316,
     "identity_rank": 1
   },
   "Narcomoeba": {
@@ -20596,7 +20596,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 175,
-    "superrank": 190,
+    "superrank": 189,
     "identity_rank": 22
   },
   "Pentad Prism": {
@@ -20875,15 +20875,15 @@ const cards =
     "power": "0",
     "toughness": "0",
     "name": "Phyrexian Metamorph",
-    "count": 33,
+    "count": 32,
     "percent": 15,
     "types": [
       "Artifact",
       "Creature"
     ],
-    "supercent": 25,
-    "rank": 176,
-    "superrank": 186,
+    "supercent": 24,
+    "rank": 178,
+    "superrank": 190,
     "identity_rank": 33
   },
   "Phyrexian Revoker": {
@@ -21259,7 +21259,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 317,
-    "superrank": 327,
+    "superrank": 328,
     "identity_rank": 54
   },
   "Portable Hole": {
@@ -24560,7 +24560,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 219,
-    "superrank": 314,
+    "superrank": 315,
     "identity_rank": 42
   },
   "Serra Ascendant": {
@@ -24730,7 +24730,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 389,
-    "superrank": 316,
+    "superrank": 317,
     "identity_rank": 13
   },
   "Shallow Grave": {
@@ -25323,7 +25323,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 403,
-    "superrank": 326,
+    "superrank": 327,
     "identity_rank": 8
   },
   "Siona, Captain of the Pyleas": {
@@ -25426,7 +25426,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 324,
-    "superrank": 320,
+    "superrank": 321,
     "identity_rank": 23
   },
   "Skrelv, Defector Mite": {
@@ -27195,7 +27195,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 415,
-    "superrank": 319,
+    "superrank": 320,
     "identity_rank": 9
   },
   "Summoner's Pact": {
@@ -27217,7 +27217,7 @@ const cards =
       "Instant"
     ],
     "supercent": 10,
-    "rank": 304,
+    "rank": 305,
     "superrank": 312,
     "identity_rank": 43
   },
@@ -27804,7 +27804,7 @@ const cards =
     ],
     "supercent": 25,
     "rank": 237,
-    "superrank": 187,
+    "superrank": 186,
     "identity_rank": 7
   },
   "Talisman of Dominance": {
@@ -29353,7 +29353,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 186,
-    "superrank": 189,
+    "superrank": 188,
     "identity_rank": 13
   },
   "Toxic Deluge": {
@@ -29719,7 +29719,7 @@ const cards =
       "Land"
     ],
     "supercent": 98,
-    "rank": 95,
+    "rank": 94,
     "superrank": 10,
     "identity_rank": 1
   },
@@ -30063,7 +30063,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 190,
-    "superrank": 142,
+    "superrank": 143,
     "identity_rank": 8
   },
   "Underworld Breach": {
@@ -32227,7 +32227,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 225,
-    "superrank": 328,
+    "superrank": 329,
     "identity_rank": 43
   },
   "Yawgmoth's Will": {
