@@ -5,7 +5,6 @@
       "Archivist of Oghma",
       "Archon of Emeria",
       "Archon of Valor's Reach",
-      "Archon of the Wild Rose",
       "Avacyn's Pilgrim",
       "Aven Mindcensor",
       "Birds of Paradise",
@@ -42,6 +41,7 @@
       "Forest",
       "Gaea's Cradle",
       "Gemstone Caverns",
+      "Gilded Goose",
       "Grafdigger's Cage",
       "Greater Auramancy",
       "Green Sun's Zenith",
@@ -2004,9 +2004,8 @@
       "Enlightened Tutor",
       "Esper Sentinel",
       "Exotic Orchard",
-      "Faeburrow Elder",
       "Fauna Shaman",
-      "Fellwar Stone",
+      "Final Fortune",
       "Finale of Devastation",
       "Flooded Strand",
       "Gaea's Cradle",
@@ -2016,6 +2015,7 @@
       "Grand Abolisher",
       "Heliod, Sun-Crowned",
       "Horizon Canopy",
+      "Invasion of Gobakhan // Lightshield Array",
       "Invasion of Ikoria // Zilortha, Apex of Ikoria",
       "Jeweled Lotus",
       "Kutzil, Malamet Exemplar",
@@ -21050,7 +21050,7 @@
       "Winota, Joiner of Forces"
     ]
   },
-  "Winota Avalanche": {
+  "Winota Avalanche (getting away with murder)": {
     "mainboard": [
       "Abrade",
       "Alseid of Life's Bounty",
@@ -21585,7 +21585,6 @@
       "Birthing Pod",
       "Bloodstained Mire",
       "Boseiju, Who Endures",
-      "Brainstorm",
       "Breeding Pool",
       "Chain of Vapor",
       "Chrome Mox",
@@ -21601,7 +21600,7 @@
       "Dimir Signet",
       "Dramatic Reversal",
       "Eldritch Evolution",
-      "Elvish Spirit Guide",
+      "Elves of Deep Shadow",
       "Exotic Orchard",
       "Fellwar Stone",
       "Fierce Guardianship",
@@ -21636,6 +21635,7 @@
       "Mystical Tutor",
       "Neoform",
       "Nezahal, Primal Tide",
+      "Noxious Revival",
       "Nurturing Peatland",
       "Oko, Thief of Crowns",
       "Opposition Agent",

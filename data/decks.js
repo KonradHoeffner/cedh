@@ -6,7 +6,6 @@ const decks =
       "Archivist of Oghma",
       "Archon of Emeria",
       "Archon of Valor's Reach",
-      "Archon of the Wild Rose",
       "Avacyn's Pilgrim",
       "Aven Mindcensor",
       "Birds of Paradise",
@@ -43,6 +42,7 @@ const decks =
       "Forest",
       "Gaea's Cradle",
       "Gemstone Caverns",
+      "Gilded Goose",
       "Grafdigger's Cage",
       "Greater Auramancy",
       "Green Sun's Zenith",
@@ -2005,9 +2005,8 @@ const decks =
       "Enlightened Tutor",
       "Esper Sentinel",
       "Exotic Orchard",
-      "Faeburrow Elder",
       "Fauna Shaman",
-      "Fellwar Stone",
+      "Final Fortune",
       "Finale of Devastation",
       "Flooded Strand",
       "Gaea's Cradle",
@@ -2017,6 +2016,7 @@ const decks =
       "Grand Abolisher",
       "Heliod, Sun-Crowned",
       "Horizon Canopy",
+      "Invasion of Gobakhan // Lightshield Array",
       "Invasion of Ikoria // Zilortha, Apex of Ikoria",
       "Jeweled Lotus",
       "Kutzil, Malamet Exemplar",
@@ -21051,7 +21051,7 @@ const decks =
       "Winota, Joiner of Forces"
     ]
   },
-  "Winota Avalanche": {
+  "Winota Avalanche (getting away with murder)": {
     "mainboard": [
       "Abrade",
       "Alseid of Life's Bounty",
@@ -21586,7 +21586,6 @@ const decks =
       "Birthing Pod",
       "Bloodstained Mire",
       "Boseiju, Who Endures",
-      "Brainstorm",
       "Breeding Pool",
       "Chain of Vapor",
       "Chrome Mox",
@@ -21602,7 +21601,7 @@ const decks =
       "Dimir Signet",
       "Dramatic Reversal",
       "Eldritch Evolution",
-      "Elvish Spirit Guide",
+      "Elves of Deep Shadow",
       "Exotic Orchard",
       "Fellwar Stone",
       "Fierce Guardianship",
@@ -21637,6 +21636,7 @@ const decks =
       "Mystical Tutor",
       "Neoform",
       "Nezahal, Primal Tide",
+      "Noxious Revival",
       "Nurturing Peatland",
       "Oko, Thief of Crowns",
       "Opposition Agent",
