@@ -6,6 +6,7 @@ const decks =
       "Archivist of Oghma",
       "Archon of Emeria",
       "Archon of Valor's Reach",
+      "Archon of the Wild Rose",
       "Avacyn's Pilgrim",
       "Aven Mindcensor",
       "Birds of Paradise",
@@ -42,7 +43,6 @@ const decks =
       "Forest",
       "Gaea's Cradle",
       "Gemstone Caverns",
-      "Gilded Goose",
       "Grafdigger's Cage",
       "Greater Auramancy",
       "Green Sun's Zenith",
@@ -1445,11 +1445,12 @@ const decks =
     "mainboard": [
       "Abrade",
       "Abrupt Decay",
+      "Adric, Mathematical Genius",
       "Agatha's Soul Cauldron",
       "Aminatou, the Fateshifter",
       "An Offer You Can't Refuse",
       "Arcane Signet",
-      "Arid Mesa",
+      "Badlands",
       "Bayou",
       "Birds of Paradise",
       "Bloom Tender",
@@ -1459,14 +1460,13 @@ const decks =
       "Chrome Mox",
       "City of Brass",
       "Command Tower",
-      "Cultist of the Absolute",
       "Deflecting Swat",
       "Demonic Consultation",
       "Demonic Tutor",
       "Derevi, Empyrial Tactician",
       "Dismember",
+      "Displacer Kitten",
       "Dockside Extortionist",
-      "Eladamri's Call",
       "Emiel the Blessed",
       "Ertai Resurrected",
       "Esper Sentinel",
@@ -1479,15 +1479,16 @@ const decks =
       "Gaea's Cradle",
       "Galadriel's Dismissal",
       "Gemstone Caverns",
+      "Gilded Drake",
       "Ignoble Hierarch",
       "Kalain, Reclusive Painter",
       "Kinnan, Bonder Prodigy",
       "Kutzil, Malamet Exemplar",
       "Lavinia, Azorius Renegade",
-      "Ledger Shredder",
       "Legolas's Quick Reflexes",
       "Lotho, Corrupt Shirriff",
       "Lotus Petal",
+      "Lurrus of the Dream-Den",
       "Mana Confluence",
       "Mana Crypt",
       "Marsh Flats",
@@ -1496,8 +1497,8 @@ const decks =
       "Misty Rainforest",
       "Mount Doom",
       "Mox Amber",
-      "Mox Diamond",
       "Mystic Remora",
+      "Narset, Parter of Veils",
       "Neoform",
       "Nicol Bolas, Dragon-God",
       "Noble Hierarch",
@@ -1513,6 +1514,7 @@ const decks =
       "Relic of Legends",
       "Resculpt",
       "Rhystic Study",
+      "Rocco, Cabaretti Caterer",
       "Saheeli Rai",
       "Sakashima the Impostor",
       "Savannah",
@@ -1522,7 +1524,6 @@ const decks =
       "Silence",
       "Snapback",
       "Sol Ring",
-      "Spell Pierce",
       "Spellseeker",
       "Swan Song",
       "Taiga",
@@ -1540,8 +1541,7 @@ const decks =
       "Volcanic Island",
       "Windswept Heath",
       "Wooded Foothills",
-      "Worldly Tutor",
-      "Yavimaya, Cradle of Growth"
+      "Worldly Tutor"
     ],
     "commanders": [
       "Sisay, Weatherlight Captain"
@@ -9269,7 +9269,7 @@ const decks =
       "Niv-Mizzet, Parun"
     ]
   },
-  "Izzet Dragon Control (cEDH)": {
+  "Izzet Dragon Control ": {
     "mainboard": [
       "An Offer You Can't Refuse",
       "Ancient Tomb",
@@ -21051,7 +21051,7 @@ const decks =
       "Winota, Joiner of Forces"
     ]
   },
-  "Winota Avalanche (getting away with murder)": {
+  "Winota Avalanche": {
     "mainboard": [
       "Abrade",
       "Alseid of Life's Bounty",
@@ -21601,7 +21601,7 @@ const decks =
       "Dimir Signet",
       "Dramatic Reversal",
       "Eldritch Evolution",
-      "Elves of Deep Shadow",
+      "Elvish Spirit Guide",
       "Exotic Orchard",
       "Fellwar Stone",
       "Fierce Guardianship",
@@ -21625,6 +21625,7 @@ const decks =
       "Mana Crypt",
       "Mana Drain",
       "Mana Vault",
+      "March of Swirling Mist",
       "Marsh Flats",
       "Mental Misstep",
       "Miscast",
@@ -21636,7 +21637,6 @@ const decks =
       "Mystical Tutor",
       "Neoform",
       "Nezahal, Primal Tide",
-      "Noxious Revival",
       "Nurturing Peatland",
       "Oko, Thief of Crowns",
       "Opposition Agent",
@@ -21644,8 +21644,8 @@ const decks =
       "Otawara, Soaring City",
       "Overgrown Tomb",
       "Pact of Negation",
-      "Phyrexian Metamorph",
       "Polluted Delta",
+      "Praetor's Grasp",
       "Reanimate",
       "Rejuvenating Springs",
       "Rhystic Study",
