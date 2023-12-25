@@ -167,7 +167,7 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 306,
+    "rank": 307,
     "superrank": 295,
     "identity_rank": 35
   },
@@ -559,7 +559,7 @@ const cards =
     ],
     "supercent": 20,
     "rank": 200,
-    "superrank": 208,
+    "superrank": 209,
     "identity_rank": 29
   },
   "Alseid of Life's Bounty": {
@@ -878,7 +878,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 160,
-    "superrank": 178,
+    "superrank": 179,
     "identity_rank": 20
   },
   "Anje's Ravager": {
@@ -1141,7 +1141,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 178,
-    "superrank": 179,
+    "superrank": 180,
     "identity_rank": 12
   },
   "Archon of Sun's Grace": {
@@ -2683,7 +2683,7 @@ const cards =
     ],
     "supercent": 57,
     "rank": 155,
-    "superrank": 99,
+    "superrank": 100,
     "identity_rank": 2
   },
   "Blood Moon": {
@@ -4288,7 +4288,7 @@ const cards =
       "Land"
     ],
     "supercent": 18,
-    "rank": 207,
+    "rank": 206,
     "superrank": 221,
     "identity_rank": 39
   },
@@ -6687,7 +6687,7 @@ const cards =
     ],
     "supercent": 20,
     "rank": 197,
-    "superrank": 211,
+    "superrank": 212,
     "identity_rank": 26
   },
   "Deafening Silence": {
@@ -7694,7 +7694,7 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 301,
+    "rank": 302,
     "superrank": 287,
     "identity_rank": 22
   },
@@ -7743,8 +7743,8 @@ const cards =
       "Instant"
     ],
     "supercent": 20,
-    "rank": 192,
-    "superrank": 207,
+    "rank": 191,
+    "superrank": 208,
     "identity_rank": 36
   },
   "Drana and Linvala": {
@@ -9010,14 +9010,14 @@ const cards =
       "B"
     ],
     "name": "Entomb",
-    "count": 53,
-    "percent": 25,
+    "count": 52,
+    "percent": 24,
     "types": [
       "Instant"
     ],
-    "supercent": 42,
-    "rank": 117,
-    "superrank": 132,
+    "supercent": 41,
+    "rank": 118,
+    "superrank": 134,
     "identity_rank": 18
   },
   "Ephemerate": {
@@ -9282,8 +9282,8 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 208,
-    "superrank": 212,
+    "rank": 207,
+    "superrank": 213,
     "identity_rank": 16
   },
   "Even the Score": {
@@ -9792,7 +9792,7 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 307,
+    "rank": 308,
     "superrank": 296,
     "identity_rank": 36
   },
@@ -11403,7 +11403,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 121,
-    "superrank": 138,
+    "superrank": 137,
     "identity_rank": 20
   },
   "Giver of Runes": {
@@ -11856,8 +11856,8 @@ const cards =
       "Land"
     ],
     "supercent": 38,
-    "rank": 205,
-    "superrank": 140,
+    "rank": 204,
+    "superrank": 139,
     "identity_rank": 3
   },
   "Godo, Bandit Warlord": {
@@ -12528,7 +12528,7 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 308,
+    "rank": 309,
     "superrank": 312,
     "identity_rank": 37
   },
@@ -14339,7 +14339,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 122,
-    "superrank": 139,
+    "superrank": 138,
     "identity_rank": 21
   },
   "Invasion of Gobakhan": {
@@ -15113,7 +15113,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 6,
-    "rank": 304,
+    "rank": 305,
     "superrank": 397,
     "identity_rank": 58
   },
@@ -15580,7 +15580,7 @@ const cards =
       "Creature"
     ],
     "supercent": 17,
-    "rank": 298,
+    "rank": 299,
     "superrank": 232,
     "identity_rank": 8
   },
@@ -15840,7 +15840,7 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 299,
+    "rank": 300,
     "superrank": 301,
     "identity_rank": 43
   },
@@ -16059,7 +16059,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 17,
-    "rank": 302,
+    "rank": 303,
     "superrank": 227,
     "identity_rank": 10
   },
@@ -16219,7 +16219,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 250,
-    "superrank": 205,
+    "superrank": 204,
     "identity_rank": 6
   },
   "Linvala, Keeper of Silence": {
@@ -16697,14 +16697,14 @@ const cards =
       "R"
     ],
     "name": "Luxury Suite",
-    "count": 25,
+    "count": 24,
     "percent": 11,
     "types": [
       "Land"
     ],
-    "supercent": 39,
-    "rank": 204,
-    "superrank": 137,
+    "supercent": 37,
+    "rank": 208,
+    "superrank": 140,
     "identity_rank": 4
   },
   "L\u00f3rien Revealed": {
@@ -18759,15 +18759,15 @@ const cards =
       "R"
     ],
     "name": "Mount Doom",
-    "count": 13,
+    "count": 14,
     "percent": 6,
     "types": [
       "Legendary",
       "Land"
     ],
-    "supercent": 20,
-    "rank": 309,
-    "superrank": 214,
+    "supercent": 21,
+    "rank": 298,
+    "superrank": 206,
     "identity_rank": 6
   },
   "Mountain": {
@@ -19424,7 +19424,7 @@ const cards =
     ],
     "supercent": 42,
     "rank": 114,
-    "superrank": 134,
+    "superrank": 133,
     "identity_rank": 17
   },
   "Necrotic Ooze": {
@@ -19929,7 +19929,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 300,
+    "rank": 301,
     "superrank": 408,
     "identity_rank": 57
   },
@@ -20857,7 +20857,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 201,
-    "superrank": 206,
+    "superrank": 205,
     "identity_rank": 15
   },
   "Pattern of Rebirth": {
@@ -21182,15 +21182,15 @@ const cards =
     "power": "0",
     "toughness": "0",
     "name": "Phyrexian Metamorph",
-    "count": 35,
-    "percent": 16,
+    "count": 36,
+    "percent": 17,
     "types": [
       "Artifact",
       "Creature"
     ],
-    "supercent": 26,
-    "rank": 159,
-    "superrank": 181,
+    "supercent": 27,
+    "rank": 157,
+    "superrank": 178,
     "identity_rank": 30
   },
   "Phyrexian Revoker": {
@@ -21257,7 +21257,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 162,
-    "superrank": 180,
+    "superrank": 181,
     "identity_rank": 21
   },
   "Phyrexian Unlife": {
@@ -21435,7 +21435,7 @@ const cards =
       "Land"
     ],
     "supercent": 85,
-    "rank": 118,
+    "rank": 117,
     "superrank": 39,
     "identity_rank": 1
   },
@@ -22847,7 +22847,7 @@ const cards =
     ],
     "supercent": 42,
     "rank": 179,
-    "superrank": 133,
+    "superrank": 132,
     "identity_rank": 4
   },
   "Relic Golem": {
@@ -24764,14 +24764,14 @@ const cards =
     "power": "2",
     "toughness": "4",
     "name": "Seedborn Muse",
-    "count": 27,
+    "count": 26,
     "percent": 12,
     "types": [
       "Creature"
     ],
-    "supercent": 21,
-    "rank": 191,
-    "superrank": 204,
+    "supercent": 20,
+    "rank": 193,
+    "superrank": 207,
     "identity_rank": 28
   },
   "Seedcradle Witch": {
@@ -25033,7 +25033,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 31,
-    "rank": 157,
+    "rank": 158,
     "superrank": 163,
     "identity_rank": 10
   },
@@ -26625,8 +26625,8 @@ const cards =
       "Land"
     ],
     "supercent": 20,
-    "rank": 305,
-    "superrank": 210,
+    "rank": 306,
+    "superrank": 211,
     "identity_rank": 3
   },
   "Spectral Sailor": {
@@ -27617,7 +27617,7 @@ const cards =
       "Instant"
     ],
     "supercent": 10,
-    "rank": 303,
+    "rank": 304,
     "superrank": 307,
     "identity_rank": 44
   },
@@ -28163,7 +28163,7 @@ const cards =
     ],
     "supercent": 20,
     "rank": 261,
-    "superrank": 213,
+    "superrank": 214,
     "identity_rank": 8
   },
   "Talisman of Conviction": {
@@ -28667,7 +28667,7 @@ const cards =
     ],
     "supercent": 57,
     "rank": 135,
-    "superrank": 98,
+    "superrank": 99,
     "identity_rank": 4
   },
   "Temporal Manipulation": {
@@ -28994,15 +28994,15 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "The One Ring",
-    "count": 119,
-    "percent": 56,
+    "count": 120,
+    "percent": 57,
     "types": [
       "Legendary",
       "Artifact"
     ],
-    "supercent": 56,
+    "supercent": 57,
     "rank": 34,
-    "superrank": 100,
+    "superrank": 98,
     "identity_rank": 25
   },
   "The Reality Chip": {
@@ -29967,7 +29967,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 18,
-    "rank": 206,
+    "rank": 205,
     "superrank": 220,
     "identity_rank": 38
   },
@@ -30493,7 +30493,7 @@ const cards =
     ],
     "supercent": 20,
     "rank": 256,
-    "superrank": 209,
+    "superrank": 210,
     "identity_rank": 7
   },
   "Underground Sea": {
@@ -30536,7 +30536,7 @@ const cards =
       "Land"
     ],
     "supercent": 36,
-    "rank": 193,
+    "rank": 192,
     "superrank": 142,
     "identity_rank": 8
   },
@@ -32187,7 +32187,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 28,
-    "rank": 158,
+    "rank": 159,
     "superrank": 174,
     "identity_rank": 24
   },
