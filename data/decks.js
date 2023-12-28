@@ -2726,7 +2726,7 @@ const decks =
       "Zur the Enchanter"
     ]
   },
-  "two rhystics in a trench coat (cEDH Zur Tempo)": {
+  "two rhystics and not a guy (cEDH Zur Tempo)": {
     "mainboard": [
       "Ad Nauseam",
       "An Offer You Can't Refuse",
@@ -7184,6 +7184,7 @@ const decks =
       "Mox Diamond",
       "Natural Order",
       "Necromancy",
+      "Null Rod",
       "Opposition Agent",
       "Orcish Bowmasters",
       "Overgrown Tomb",
@@ -7207,7 +7208,6 @@ const decks =
       "Tarnished Citadel",
       "Temple Garden",
       "Thalia, Guardian of Thraben",
-      "Touch the Spirit Realm",
       "Undergrowth Stadium",
       "Vampiric Tutor",
       "Vault of Champions",
@@ -9860,7 +9860,6 @@ const decks =
       "Ad Nauseam",
       "Allosaurus Shepherd",
       "Arbor Elf",
-      "Archivist of Oghma",
       "Assassin's Trophy",
       "Autumn's Veil",
       "Avacyn's Pilgrim",
@@ -9880,7 +9879,6 @@ const decks =
       "Culling Ritual",
       "Dark Ritual",
       "Dauthi Voidwalker",
-      "Deadly Rollick",
       "Deafening Silence",
       "Deathrite Shaman",
       "Demonic Tutor",
@@ -9914,6 +9912,7 @@ const decks =
       "Lotus Petal",
       "Luxior, Giada's Gift",
       "Mana Crypt",
+      "Managorger Hydra",
       "Marsh Flats",
       "Misty Rainforest",
       "Mox Diamond",
@@ -9921,6 +9920,7 @@ const decks =
       "Necropotence",
       "Noxious Revival",
       "Opposition Agent",
+      "Orcish Bowmasters",
       "Overgrown Tomb",
       "Phyrexian Tower",
       "Plains",
