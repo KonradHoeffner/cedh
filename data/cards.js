@@ -532,7 +532,7 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 201,
+    "rank": 200,
     "superrank": 210,
     "identity_rank": 29
   },
@@ -2412,7 +2412,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 208,
-    "superrank": 218,
+    "superrank": 217,
     "identity_rank": 30
   },
   "Bitter Triumph": {
@@ -4728,7 +4728,7 @@ const cards =
     ],
     "supercent": 44,
     "rank": 108,
-    "superrank": 125,
+    "superrank": 126,
     "identity_rank": 15
   },
   "Chromatic Orrery": {
@@ -5845,7 +5845,7 @@ const cards =
     ],
     "supercent": 44,
     "rank": 109,
-    "superrank": 126,
+    "superrank": 127,
     "identity_rank": 16
   },
   "Crucible of Worlds": {
@@ -6522,7 +6522,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 213,
-    "superrank": 219,
+    "superrank": 218,
     "identity_rank": 18
   },
   "Dauthi Voidwalker": {
@@ -6665,8 +6665,8 @@ const cards =
       "Instant"
     ],
     "supercent": 19,
-    "rank": 204,
-    "superrank": 220,
+    "rank": 203,
+    "superrank": 219,
     "identity_rank": 26
   },
   "Deafening Silence": {
@@ -8332,7 +8332,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 214,
-    "superrank": 221,
+    "superrank": 220,
     "identity_rank": 19
   },
   "Eiganjo Castle": {
@@ -11316,7 +11316,7 @@ const cards =
     ],
     "supercent": 44,
     "rank": 103,
-    "superrank": 124,
+    "superrank": 125,
     "identity_rank": 17
   },
   "Gilded Goose": {
@@ -11858,7 +11858,7 @@ const cards =
       "Land"
     ],
     "supercent": 38,
-    "rank": 205,
+    "rank": 204,
     "superrank": 139,
     "identity_rank": 3
   },
@@ -15578,7 +15578,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 289,
-    "superrank": 222,
+    "superrank": 221,
     "identity_rank": 8
   },
   "Laboratory Maniac": {
@@ -19847,7 +19847,7 @@ const cards =
     ],
     "supercent": 43,
     "rank": 112,
-    "superrank": 128,
+    "superrank": 129,
     "identity_rank": 17
   },
   "Null Brooch": {
@@ -21089,7 +21089,7 @@ const cards =
     ],
     "supercent": 43,
     "rank": 105,
-    "superrank": 129,
+    "superrank": 130,
     "identity_rank": 18
   },
   "Phyrexian Censor": {
@@ -22652,14 +22652,14 @@ const cards =
       "B"
     ],
     "name": "Reanimate",
-    "count": 55,
+    "count": 56,
     "percent": 26,
     "types": [
       "Sorcery"
     ],
-    "supercent": 43,
+    "supercent": 44,
     "rank": 107,
-    "superrank": 130,
+    "superrank": 124,
     "identity_rank": 15
   },
   "Reckless Fireweaver": {
@@ -26534,7 +26534,7 @@ const cards =
       "Instant"
     ],
     "supercent": 21,
-    "rank": 206,
+    "rank": 205,
     "superrank": 208,
     "identity_rank": 16
   },
@@ -27813,7 +27813,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 211,
-    "superrank": 223,
+    "superrank": 222,
     "identity_rank": 27
   },
   "Swan Song": {
@@ -28180,7 +28180,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 35,
-    "rank": 202,
+    "rank": 201,
     "superrank": 146,
     "identity_rank": 3
   },
@@ -28291,7 +28291,7 @@ const cards =
     ],
     "supercent": 43,
     "rank": 183,
-    "superrank": 127,
+    "superrank": 128,
     "identity_rank": 3
   },
   "Talisman of Progress": {
@@ -28312,7 +28312,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 35,
-    "rank": 203,
+    "rank": 202,
     "superrank": 147,
     "identity_rank": 3
   },
@@ -29960,14 +29960,14 @@ const cards =
       "U"
     ],
     "name": "Transmute Artifact",
-    "count": 25,
+    "count": 24,
     "percent": 11,
     "types": [
       "Sorcery"
     ],
-    "supercent": 19,
-    "rank": 200,
-    "superrank": 217,
+    "supercent": 18,
+    "rank": 206,
+    "superrank": 223,
     "identity_rank": 38
   },
   "Traumatize": {

@@ -531,7 +531,7 @@
       "Creature"
     ],
     "supercent": 20,
-    "rank": 201,
+    "rank": 200,
     "superrank": 210,
     "identity_rank": 29
   },
@@ -2411,7 +2411,7 @@
     ],
     "supercent": 19,
     "rank": 208,
-    "superrank": 218,
+    "superrank": 217,
     "identity_rank": 30
   },
   "Bitter Triumph": {
@@ -4727,7 +4727,7 @@
     ],
     "supercent": 44,
     "rank": 108,
-    "superrank": 125,
+    "superrank": 126,
     "identity_rank": 15
   },
   "Chromatic Orrery": {
@@ -5844,7 +5844,7 @@
     ],
     "supercent": 44,
     "rank": 109,
-    "superrank": 126,
+    "superrank": 127,
     "identity_rank": 16
   },
   "Crucible of Worlds": {
@@ -6521,7 +6521,7 @@
     ],
     "supercent": 19,
     "rank": 213,
-    "superrank": 219,
+    "superrank": 218,
     "identity_rank": 18
   },
   "Dauthi Voidwalker": {
@@ -6664,8 +6664,8 @@
       "Instant"
     ],
     "supercent": 19,
-    "rank": 204,
-    "superrank": 220,
+    "rank": 203,
+    "superrank": 219,
     "identity_rank": 26
   },
   "Deafening Silence": {
@@ -8331,7 +8331,7 @@
     ],
     "supercent": 19,
     "rank": 214,
-    "superrank": 221,
+    "superrank": 220,
     "identity_rank": 19
   },
   "Eiganjo Castle": {
@@ -11315,7 +11315,7 @@
     ],
     "supercent": 44,
     "rank": 103,
-    "superrank": 124,
+    "superrank": 125,
     "identity_rank": 17
   },
   "Gilded Goose": {
@@ -11857,7 +11857,7 @@
       "Land"
     ],
     "supercent": 38,
-    "rank": 205,
+    "rank": 204,
     "superrank": 139,
     "identity_rank": 3
   },
@@ -15577,7 +15577,7 @@
     ],
     "supercent": 19,
     "rank": 289,
-    "superrank": 222,
+    "superrank": 221,
     "identity_rank": 8
   },
   "Laboratory Maniac": {
@@ -19846,7 +19846,7 @@
     ],
     "supercent": 43,
     "rank": 112,
-    "superrank": 128,
+    "superrank": 129,
     "identity_rank": 17
   },
   "Null Brooch": {
@@ -21088,7 +21088,7 @@
     ],
     "supercent": 43,
     "rank": 105,
-    "superrank": 129,
+    "superrank": 130,
     "identity_rank": 18
   },
   "Phyrexian Censor": {
@@ -22651,14 +22651,14 @@
       "B"
     ],
     "name": "Reanimate",
-    "count": 55,
+    "count": 56,
     "percent": 26,
     "types": [
       "Sorcery"
     ],
-    "supercent": 43,
+    "supercent": 44,
     "rank": 107,
-    "superrank": 130,
+    "superrank": 124,
     "identity_rank": 15
   },
   "Reckless Fireweaver": {
@@ -26533,7 +26533,7 @@
       "Instant"
     ],
     "supercent": 21,
-    "rank": 206,
+    "rank": 205,
     "superrank": 208,
     "identity_rank": 16
   },
@@ -27812,7 +27812,7 @@
     ],
     "supercent": 19,
     "rank": 211,
-    "superrank": 223,
+    "superrank": 222,
     "identity_rank": 27
   },
   "Swan Song": {
@@ -28179,7 +28179,7 @@
       "Artifact"
     ],
     "supercent": 35,
-    "rank": 202,
+    "rank": 201,
     "superrank": 146,
     "identity_rank": 3
   },
@@ -28290,7 +28290,7 @@
     ],
     "supercent": 43,
     "rank": 183,
-    "superrank": 127,
+    "superrank": 128,
     "identity_rank": 3
   },
   "Talisman of Progress": {
@@ -28311,7 +28311,7 @@
       "Artifact"
     ],
     "supercent": 35,
-    "rank": 203,
+    "rank": 202,
     "superrank": 147,
     "identity_rank": 3
   },
@@ -29959,14 +29959,14 @@
       "U"
     ],
     "name": "Transmute Artifact",
-    "count": 25,
+    "count": 24,
     "percent": 11,
     "types": [
       "Sorcery"
     ],
-    "supercent": 19,
-    "rank": 200,
-    "superrank": 217,
+    "supercent": 18,
+    "rank": 206,
+    "superrank": 223,
     "identity_rank": 38
   },
   "Traumatize": {
