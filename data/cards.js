@@ -20294,31 +20294,6 @@ const cards =
     "superrank": 705,
     "identity_rank": 117
   },
-  "Opportunistic Dragon": {
-    "img": "https://cards.scryfall.io/large/front/b/1/b104f257-b3aa-4e7e-987c-7358b6ca7b12.jpg?1572301055",
-    "date": "2019-10-04",
-    "colors": [
-      "R"
-    ],
-    "mana_cost": "{2}{R}{R}",
-    "cmc": 4,
-    "type_line": "Creature \u2014 Dragon",
-    "color_identity": [
-      "R"
-    ],
-    "power": "4",
-    "toughness": "3",
-    "name": "Opportunistic Dragon",
-    "count": 1,
-    "percent": 0,
-    "types": [
-      "Creature"
-    ],
-    "supercent": 0,
-    "rank": 992,
-    "superrank": 1028,
-    "identity_rank": 115
-  },
   "Opposition Agent": {
     "img": "https://cards.scryfall.io/large/front/7/b/7b218531-9f5c-4ffb-9d2f-f2ead5b9f221.jpg?1608918608",
     "date": "2020-11-20",
@@ -21472,9 +21447,9 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 993,
-    "superrank": 1029,
-    "identity_rank": 116
+    "rank": 992,
+    "superrank": 1028,
+    "identity_rank": 115
   },
   "Plunge into Darkness": {
     "img": "https://cards.scryfall.io/large/front/d/2/d21c74b4-dd9e-43d6-ad0a-06e026a8d672.jpg?1562879871",
@@ -26775,8 +26750,8 @@ const cards =
       "Artifact"
     ],
     "supercent": 0,
-    "rank": 994,
-    "superrank": 1030,
+    "rank": 993,
+    "superrank": 1029,
     "identity_rank": 181
   },
   "Spire Garden": {
@@ -27219,9 +27194,9 @@ const cards =
       "Instant"
     ],
     "supercent": 0,
-    "rank": 995,
-    "superrank": 1031,
-    "identity_rank": 117
+    "rank": 994,
+    "superrank": 1030,
+    "identity_rank": 116
   },
   "Stomping Ground": {
     "img": "https://cards.scryfall.io/large/front/e/c/ec5055aa-3c79-4401-b5db-7081ee45cf98.jpg?1705528208",
@@ -27541,9 +27516,9 @@ const cards =
       "Instant"
     ],
     "supercent": 0,
-    "rank": 996,
-    "superrank": 1032,
-    "identity_rank": 118
+    "rank": 995,
+    "superrank": 1031,
+    "identity_rank": 117
   },
   "Sulfurous Springs": {
     "img": "https://cards.scryfall.io/large/front/2/f/2fdeab50-b45f-412b-85a3-c6cf009ce567.jpg?1562903834",
@@ -30166,6 +30141,31 @@ const cards =
     "rank": 437,
     "superrank": 435,
     "identity_rank": 53
+  },
+  "Trumpeting Carnosaur": {
+    "img": "https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357",
+    "date": "2023-11-17",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6,
+    "type_line": "Creature \u2014 Dinosaur",
+    "color_identity": [
+      "R"
+    ],
+    "power": "7",
+    "toughness": "6",
+    "name": "Trumpeting Carnosaur",
+    "count": 1,
+    "percent": 0,
+    "types": [
+      "Creature"
+    ],
+    "supercent": 0,
+    "rank": 996,
+    "superrank": 1032,
+    "identity_rank": 118
   },
   "Tundra": {
     "img": "https://cards.scryfall.io/large/front/a/0/a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb.jpg?1559591617",
