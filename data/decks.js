@@ -662,6 +662,7 @@ const decks =
       "Lightning Bolt",
       "Liquimetal Torque",
       "Lotus Petal",
+      "Lukka, Coppercoat Outcast",
       "Magus of the Moon",
       "Mana Crypt",
       "Mana Vault",
@@ -696,9 +697,7 @@ const decks =
       "The Mycosynth Gardens",
       "The One Ring",
       "Torpor Orb",
-      "Treasonous Ogre",
       "Treasure Vault",
-      "Trumpeting Carnosaur",
       "Twinflame",
       "Twinshot Sniper",
       "Universal Automaton",
@@ -706,7 +705,8 @@ const decks =
       "Urza's Saga",
       "Volatile Fault",
       "Warping Wail",
-      "Xorn"
+      "Xorn",
+      "_____ Goblin"
     ],
     "commanders": [
       "Magda, Brazen Outlaw"
@@ -7207,7 +7207,6 @@ const decks =
       "Sol Ring",
       "Survival of the Fittest",
       "Sylvan Library",
-      "Sylvan Tutor",
       "Tarnished Citadel",
       "Temple Garden",
       "Thalia, Guardian of Thraben",
@@ -7217,6 +7216,7 @@ const decks =
       "Verdant Catacombs",
       "Viscera Seer",
       "Windswept Heath",
+      "Wishclaw Talisman",
       "Wooded Foothills",
       "Worldly Tutor"
     ],
