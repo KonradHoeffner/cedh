@@ -68,7 +68,7 @@ const cards =
       "Instant"
     ],
     "supercent": 22,
-    "rank": 199,
+    "rank": 200,
     "superrank": 201,
     "identity_rank": 15
   },
@@ -2128,7 +2128,7 @@ const cards =
       "Land"
     ],
     "supercent": 98,
-    "rank": 78,
+    "rank": 77,
     "superrank": 10,
     "identity_rank": 1
   },
@@ -2706,7 +2706,7 @@ const cards =
     ],
     "supercent": 59,
     "rank": 149,
-    "superrank": 95,
+    "superrank": 94,
     "identity_rank": 2
   },
   "Blood Moon": {
@@ -3356,7 +3356,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 188,
-    "superrank": 146,
+    "superrank": 147,
     "identity_rank": 5
   },
   "Braids, Arisen Nightmare": {
@@ -3975,14 +3975,14 @@ const cards =
       "G"
     ],
     "name": "Carpet of Flowers",
-    "count": 75,
-    "percent": 36,
+    "count": 74,
+    "percent": 35,
     "types": [
       "Enchantment"
     ],
-    "supercent": 60,
-    "rank": 76,
-    "superrank": 94,
+    "supercent": 59,
+    "rank": 79,
+    "superrank": 95,
     "identity_rank": 8
   },
   "Carrion Feeder": {
@@ -6739,7 +6739,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 139,
-    "superrank": 147,
+    "superrank": 148,
     "identity_rank": 8
   },
   "Deathrite Shaman": {
@@ -7002,7 +7002,7 @@ const cards =
     ],
     "supercent": 35,
     "rank": 135,
-    "superrank": 148,
+    "superrank": 149,
     "identity_rank": 19
   },
   "Delney, Streetwise Lookout": {
@@ -7244,7 +7244,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 58,
-    "rank": 79,
+    "rank": 78,
     "superrank": 96,
     "identity_rank": 11
   },
@@ -8448,7 +8448,7 @@ const cards =
       "Land"
     ],
     "supercent": 22,
-    "rank": 197,
+    "rank": 198,
     "superrank": 205,
     "identity_rank": 16
   },
@@ -19882,7 +19882,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 12,
-    "rank": 200,
+    "rank": 201,
     "superrank": 283,
     "identity_rank": 41
   },
@@ -20826,7 +20826,7 @@ const cards =
       "Instant"
     ],
     "supercent": 22,
-    "rank": 196,
+    "rank": 197,
     "superrank": 204,
     "identity_rank": 15
   },
@@ -23797,7 +23797,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 219,
-    "superrank": 143,
+    "superrank": 144,
     "identity_rank": 2
   },
   "Sacred Guide": {
@@ -24267,7 +24267,7 @@ const cards =
       "Land"
     ],
     "supercent": 97,
-    "rank": 77,
+    "rank": 76,
     "superrank": 17,
     "identity_rank": 1
   },
@@ -28132,7 +28132,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 204,
-    "superrank": 144,
+    "superrank": 145,
     "identity_rank": 3
   },
   "Talisman of Curiosity": {
@@ -28241,7 +28241,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 39,
-    "rank": 198,
+    "rank": 199,
     "superrank": 135,
     "identity_rank": 3
   },
@@ -28264,7 +28264,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 205,
-    "superrank": 145,
+    "superrank": 146,
     "identity_rank": 3
   },
   "Talisman of Resilience": {
@@ -29892,7 +29892,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 19,
-    "rank": 201,
+    "rank": 202,
     "superrank": 224,
     "identity_rank": 38
   },
@@ -31748,14 +31748,14 @@ const cards =
       "U"
     ],
     "name": "Waterlogged Grove",
-    "count": 25,
+    "count": 26,
     "percent": 12,
     "types": [
       "Land"
     ],
-    "supercent": 34,
-    "rank": 202,
-    "superrank": 149,
+    "supercent": 36,
+    "rank": 196,
+    "superrank": 143,
     "identity_rank": 5
   },
   "Watery Grave": {

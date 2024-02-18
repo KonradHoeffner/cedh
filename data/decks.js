@@ -21036,7 +21036,6 @@ const decks =
       "Bloodstained Mire",
       "Boseiju, Who Endures",
       "Breeding Pool",
-      "Carpet of Flowers",
       "Chain of Vapor",
       "Chrome Mox",
       "City of Brass",
@@ -21121,6 +21120,7 @@ const decks =
       "Vampiric Tutor",
       "Veil of Summer",
       "Verdant Catacombs",
+      "Waterlogged Grove",
       "Watery Grave",
       "Windswept Heath",
       "Wooded Foothills"
