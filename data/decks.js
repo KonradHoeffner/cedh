@@ -134,6 +134,7 @@ const decks =
       "Faerie Mastermind",
       "Fellwar Stone",
       "Fierce Guardianship",
+      "Flesh Duplicate",
       "Flooded Strand",
       "Flusterstorm",
       "Forbidden Orchard",
@@ -172,7 +173,6 @@ const decks =
       "Orcish Bowmasters",
       "Otawara, Soaring City",
       "Pact of Negation",
-      "Phantasmal Image",
       "Plaza of Heroes",
       "Polluted Delta",
       "Pongify",
@@ -619,6 +619,7 @@ const decks =
   },
   "Clock-Blocked": {
     "mainboard": [
+      "\"Fomori's Best Egg\"",
       "Abrade",
       "Adaptive Automaton",
       "Ancient Tomb",
@@ -699,7 +700,6 @@ const decks =
       "Sudden Shock",
       "Survivors' Encampment",
       "Tarnished Citadel",
-      "The Mycosynth Gardens",
       "The One Ring",
       "Torpor Orb",
       "Treasure Vault",
@@ -1098,12 +1098,12 @@ const decks =
       "Otawara, Soaring City",
       "Pact of Negation",
       "Perplexing Chimera",
+      "Phantasmal Image",
       "Phyrexian Metamorph",
       "Polluted Delta",
       "Rejuvenating Springs",
       "Resculpt",
       "Reshape",
-      "Retract",
       "Rhystic Study",
       "Scalding Tarn",
       "Seedborn Muse",
@@ -10707,7 +10707,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "[SNC] Turtleguide": {
+  "[SNC] Fck PlayEDH": {
     "mainboard": [
       "Abrupt Decay",
       "Arbor Elf",
@@ -14840,6 +14840,7 @@ const decks =
       "Mana Vault",
       "Marsh Flats",
       "Mizzix's Mastery",
+      "Molten Duplication",
       "Mount Doom",
       "Mox Amber",
       "Mox Diamond",
@@ -14875,7 +14876,6 @@ const decks =
       "Talisman of Indulgence",
       "The One Ring",
       "Tinybones, the Pickpocket",
-      "Twinflame",
       "Underworld Breach",
       "Unearth",
       "Vampiric Tutor",
@@ -18292,7 +18292,7 @@ const decks =
       "Omnath, Locus of Creation"
     ]
   },
-  "Collaborative Ukkima cEDH Primer": {
+  "[DOWN WITH PLAYEDH] Collaborative Ukkima cEDH Primer": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
