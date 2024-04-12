@@ -3564,7 +3564,6 @@ const decks =
   "Sun is Shining, Weather is Sweet- Collaborative Saheeli Primer": {
     "mainboard": [
       "Abrade",
-      "Agatha's Soul Cauldron",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Aphetto Alchemist",
@@ -3600,8 +3599,8 @@ const decks =
       "Force of Will",
       "Gamble",
       "Gemstone Caverns",
-      "Ghostly Pilferer",
       "Gilded Drake",
+      "Gitaxian Probe",
       "Goblin Engineer",
       "Grim Monolith",
       "Hidden Strings",
@@ -3650,6 +3649,7 @@ const decks =
       "Spell Pierce",
       "Spellseeker",
       "Steam Vents",
+      "Step Through",
       "Swan Song",
       "Talisman of Creativity",
       "The One Ring",
@@ -5849,7 +5849,7 @@ const decks =
       "Ob Nixilis, Captive Kingpin"
     ]
   },
-  "Ob's Palace - Ob Nixilis, Captive Kingpin cEDH": {
+  "Ob's Palace [B.A.D.] - Ob Nixilis, Captive Kingpin cEDH": {
     "mainboard": [
       "Abrade",
       "Ad Nauseam",
@@ -11627,13 +11627,13 @@ const decks =
       "Allosaurus Shepherd",
       "Ancient Tomb",
       "Arbor Elf",
+      "Archdruid's Charm",
       "Argothian Elder",
       "Ashaya, Soul of the Wild",
       "Beast Within",
       "Birds of Paradise",
       "Boreal Druid",
       "Boseiju, Who Endures",
-      "Bouncer's Beatdown",
       "Cankerbloom",
       "Castle Garenbrig",
       "Cavern of Souls",
@@ -20235,7 +20235,6 @@ const decks =
       "Morphic Pool",
       "Mox Diamond",
       "Mox Opal",
-      "Muddle the Mixture",
       "Mystic Remora",
       "Mystical Tutor",
       "Neoform",
@@ -20254,6 +20253,7 @@ const decks =
       "Simic Signet",
       "Snow-Covered Island",
       "Sol Ring",
+      "Spell Pierce",
       "Stubborn Denial",
       "Swan Song",
       "Sylvan Library",
