@@ -8912,7 +8912,7 @@ const decks =
       "Niv-Mizzet, Parun"
     ]
   },
-  "Tayam Midrange Adnaus {cEDH}": {
+  "Tayam  Druid Adnaus {cEDH}": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
@@ -14591,6 +14591,7 @@ const decks =
       "Badlands",
       "Bayou",
       "Birds of Paradise",
+      "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
       "Blood Crypt",
       "Bloodstained Mire",
       "Boseiju, Who Endures",
@@ -14624,15 +14625,14 @@ const decks =
       "Gemstone Caverns",
       "Grim Monolith",
       "Grinding Station",
+      "Guttural Response",
       "Ignoble Hierarch",
       "Imperial Seal",
-      "Infernal Plunge",
       "Invasion of Ikoria // Zilortha, Apex of Ikoria",
       "Jeska's Will",
       "Jeweled Lotus",
       "Lightning Bolt",
       "Lion's Eye Diamond",
-      "Llanowar Elves",
       "Lotus Petal",
       "Mana Confluence",
       "Mana Crypt",
@@ -19557,7 +19557,7 @@ const decks =
       "Sythis, Harvest's Hand"
     ]
   },
-  "Winota: Snowball Stax- major changes coming!": {
+  "Winota: Snowball Stax- (Changes coming!)": {
     "mainboard": [
       "Alseid of Life's Bounty",
       "Ancient Tomb",
@@ -20213,7 +20213,6 @@ const decks =
       "Eldritch Evolution",
       "Elves of Deep Shadow",
       "Exotic Orchard",
-      "Fatal Push",
       "Fellwar Stone",
       "Fierce Guardianship",
       "Flooded Strand",
@@ -20240,6 +20239,7 @@ const decks =
       "Mental Misstep",
       "Miscast",
       "Misty Rainforest",
+      "Mnemonic Betrayal",
       "Morphic Pool",
       "Mox Diamond",
       "Mox Opal",
@@ -20255,12 +20255,12 @@ const decks =
       "Overgrown Tomb",
       "Pact of Negation",
       "Polluted Delta",
-      "Reanimate",
       "Rejuvenating Springs",
       "Rhystic Study",
       "Scalding Tarn",
       "Simic Signet",
       "Sol Ring",
+      "Spell Pierce",
       "Stubborn Denial",
       "Swan Song",
       "Sylvan Library",
