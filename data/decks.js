@@ -3324,7 +3324,7 @@ const decks =
       "Mox Diamond",
       "Null Rod",
       "Path to Exile",
-      "Phyrexian Revoker",
+      "Phyrexian Censor",
       "Pick Your Poison",
       "Plains",
       "Ranger-Captain of Eos",
@@ -5843,6 +5843,7 @@ const decks =
       "Swamp",
       "Tainted Pact",
       "Takenuma, Abandoned Mire",
+      "Tibalt's Trickery",
       "Twinflame",
       "Underworld Breach",
       "Vampiric Tutor",
@@ -5851,8 +5852,7 @@ const decks =
       "Wheel of Fortune",
       "Wishclaw Talisman",
       "Wooded Foothills",
-      "Yawgmoth's Will",
-      "Zoyowa's Justice"
+      "Yawgmoth's Will"
     ],
     "commanders": [
       "Ob Nixilis, Captive Kingpin"
