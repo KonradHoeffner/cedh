@@ -108,7 +108,6 @@ const decks =
   },
   "Rhystic in the Command Zone (Talion cEDH)": {
     "mainboard": [
-      "Alchemist's Retrieval",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
@@ -145,7 +144,6 @@ const decks =
       "Hullbreaker Horror",
       "Imperial Seal",
       "Island",
-      "Jace, Wielder of Mysteries",
       "Jeweled Lotus",
       "Karn, the Great Creator",
       "Lotus Petal",
@@ -172,6 +170,7 @@ const decks =
       "Orcish Bowmasters",
       "Otawara, Soaring City",
       "Pact of Negation",
+      "Phantasmal Image",
       "Plaza of Heroes",
       "Polluted Delta",
       "Pongify",
@@ -206,6 +205,7 @@ const decks =
       "Vampiric Tutor",
       "Verdant Catacombs",
       "Watery Grave",
+      "Windfall",
       "Wishclaw Talisman"
     ],
     "commanders": [
@@ -14501,7 +14501,6 @@ const decks =
       "Cabal Ritual",
       "Carpet of Flowers",
       "Chrome Mox",
-      "Chthonian Nightmare",
       "City of Brass",
       "City of Traitors",
       "Command Tower",
@@ -14545,6 +14544,7 @@ const decks =
       "Misty Rainforest",
       "Mox Diamond",
       "Mox Opal",
+      "Necromancy",
       "Necropotence",
       "Noxious Revival",
       "Nurturing Peatland",
@@ -14696,7 +14696,6 @@ const decks =
   },
   "[cEDH] Roger Tevesh Turbo Storm [Primer] ": {
     "mainboard": [
-      "Abrade",
       "Ad Nauseam",
       "Ancient Tomb",
       "Animate Dead",
@@ -14728,11 +14727,11 @@ const decks =
       "Dualcaster Mage",
       "Entomb",
       "Exotic Orchard",
-      "Faithless Looting",
       "Fellwar Stone",
       "Final Fortune",
       "Gamble",
       "Gemstone Caverns",
+      "Goblin Engineer",
       "Goblin Welder",
       "Grim Monolith",
       "Grim Tutor",
