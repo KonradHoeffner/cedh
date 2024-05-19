@@ -464,7 +464,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 251,
-    "superrank": 343,
+    "superrank": 344,
     "identity_rank": 48
   },
   "Alchemist's Retrieval": {
@@ -1096,7 +1096,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 321,
-    "superrank": 332,
+    "superrank": 333,
     "identity_rank": 45
   },
   "Archfiend of Ifnir": {
@@ -1523,7 +1523,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 375,
+    "rank": 376,
     "superrank": 402,
     "identity_rank": 51
   },
@@ -1812,7 +1812,7 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 376,
+    "rank": 377,
     "superrank": 373,
     "identity_rank": 45
   },
@@ -2954,7 +2954,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 431,
-    "superrank": 347,
+    "superrank": 348,
     "identity_rank": 12
   },
   "Blossoming Defense": {
@@ -3189,7 +3189,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 395,
+    "rank": 396,
     "superrank": 425,
     "identity_rank": 53
   },
@@ -3723,7 +3723,7 @@ const cards =
       "Land"
     ],
     "supercent": 11,
-    "rank": 377,
+    "rank": 378,
     "superrank": 301,
     "identity_rank": 10
   },
@@ -3835,7 +3835,7 @@ const cards =
       "Instant"
     ],
     "supercent": 12,
-    "rank": 386,
+    "rank": 387,
     "superrank": 284,
     "identity_rank": 7
   },
@@ -4115,7 +4115,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 336,
-    "superrank": 349,
+    "superrank": 350,
     "identity_rank": 43
   },
   "Cartel Aristocrat": {
@@ -7137,7 +7137,7 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 384,
+    "rank": 385,
     "superrank": 381,
     "identity_rank": 48
   },
@@ -7856,7 +7856,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 343,
-    "superrank": 335,
+    "superrank": 336,
     "identity_rank": 27
   },
   "Dramatic Reversal": {
@@ -8659,7 +8659,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 341,
-    "superrank": 333,
+    "superrank": 334,
     "identity_rank": 40
   },
   "Elesh Norn, Mother of Machines": {
@@ -10081,14 +10081,14 @@ const cards =
       "R"
     ],
     "name": "Final Fortune",
-    "count": 48,
-    "percent": 24,
+    "count": 47,
+    "percent": 23,
     "types": [
       "Instant"
     ],
-    "supercent": 45,
-    "rank": 120,
-    "superrank": 121,
+    "supercent": 44,
+    "rank": 122,
+    "superrank": 125,
     "identity_rank": 11
   },
   "Final Parting": {
@@ -10229,7 +10229,7 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 397,
+    "rank": 398,
     "superrank": 299,
     "identity_rank": 8
   },
@@ -10939,7 +10939,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 107,
-    "superrank": 123,
+    "superrank": 122,
     "identity_rank": 14
   },
   "Gaddock Teeg": {
@@ -11875,7 +11875,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 389,
+    "rank": 390,
     "superrank": 388,
     "identity_rank": 33
   },
@@ -13437,7 +13437,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 388,
+    "rank": 389,
     "superrank": 418,
     "identity_rank": 52
   },
@@ -13528,7 +13528,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 12,
-    "rank": 396,
+    "rank": 397,
     "superrank": 274,
     "identity_rank": 3
   },
@@ -13575,7 +13575,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 335,
-    "superrank": 348,
+    "superrank": 349,
     "identity_rank": 42
   },
   "Holdout Settlement": {
@@ -13639,7 +13639,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 257,
-    "superrank": 346,
+    "superrank": 347,
     "identity_rank": 49
   },
   "Honest Rutstein": {
@@ -13876,7 +13876,7 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 378,
+    "rank": 379,
     "superrank": 374,
     "identity_rank": 46
   },
@@ -14574,7 +14574,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 383,
+    "rank": 384,
     "superrank": 490,
     "identity_rank": 70
   },
@@ -15763,7 +15763,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 313,
-    "superrank": 336,
+    "superrank": 337,
     "identity_rank": 57
   },
   "Lake of the Dead": {
@@ -15830,7 +15830,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 348,
-    "superrank": 338,
+    "superrank": 339,
     "identity_rank": 29
   },
   "Last March of the Ents": {
@@ -15880,7 +15880,7 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 382,
+    "rank": 383,
     "superrank": 282,
     "identity_rank": 6
   },
@@ -16379,7 +16379,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 342,
-    "superrank": 334,
+    "superrank": 335,
     "identity_rank": 41
   },
   "Lion's Eye Diamond": {
@@ -16398,7 +16398,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 54,
-    "superrank": 122,
+    "superrank": 121,
     "identity_rank": 28
   },
   "Liquimetal Torque": {
@@ -17072,7 +17072,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 390,
+    "rank": 391,
     "superrank": 389,
     "identity_rank": 34
   },
@@ -17407,7 +17407,7 @@ const cards =
       "Instant"
     ],
     "supercent": 7,
-    "rank": 381,
+    "rank": 382,
     "superrank": 378,
     "identity_rank": 47
   },
@@ -18185,7 +18185,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 461,
-    "superrank": 342,
+    "superrank": 343,
     "identity_rank": 6
   },
   "Mirage Mirror": {
@@ -18340,7 +18340,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 316,
-    "superrank": 341,
+    "superrank": 342,
     "identity_rank": 58
   },
   "Mishra's Bauble": {
@@ -19591,7 +19591,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 102,
-    "superrank": 125,
+    "superrank": 124,
     "identity_rank": 16
   },
   "Necrotic Ooze": {
@@ -19662,7 +19662,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 68,
-    "rank": 121,
+    "rank": 120,
     "superrank": 74,
     "identity_rank": 2
   },
@@ -19955,14 +19955,14 @@ const cards =
     "power": "3",
     "toughness": "1",
     "name": "Notion Thief",
-    "count": 7,
-    "percent": 3,
+    "count": 8,
+    "percent": 4,
     "types": [
       "Creature"
     ],
-    "supercent": 8,
-    "rank": 399,
-    "superrank": 351,
+    "supercent": 9,
+    "rank": 375,
+    "superrank": 332,
     "identity_rank": 10
   },
   "Noxious Revival": {
@@ -20808,7 +20808,7 @@ const cards =
       "Land"
     ],
     "supercent": 64,
-    "rank": 122,
+    "rank": 121,
     "superrank": 83,
     "identity_rank": 5
   },
@@ -21738,7 +21738,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 352,
-    "superrank": 344,
+    "superrank": 345,
     "identity_rank": 42
   },
   "Portal to Phyrexia": {
@@ -22858,7 +22858,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 100,
-    "superrank": 124,
+    "superrank": 123,
     "identity_rank": 15
   },
   "Reckless Fireweaver": {
@@ -23192,7 +23192,7 @@ const cards =
       "Instant"
     ],
     "supercent": 6,
-    "rank": 391,
+    "rank": 392,
     "superrank": 390,
     "identity_rank": 35
   },
@@ -24765,7 +24765,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 392,
+    "rank": 393,
     "superrank": 515,
     "identity_rank": 71
   },
@@ -25481,7 +25481,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 332,
-    "superrank": 339,
+    "superrank": 340,
     "identity_rank": 41
   },
   "Shield Mate": {
@@ -25594,7 +25594,7 @@ const cards =
       "Land"
     ],
     "supercent": 11,
-    "rank": 379,
+    "rank": 380,
     "superrank": 302,
     "identity_rank": 6
   },
@@ -25988,7 +25988,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 346,
-    "superrank": 337,
+    "superrank": 338,
     "identity_rank": 28
   },
   "Skrelv, Defector Mite": {
@@ -26132,7 +26132,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 315,
-    "superrank": 340,
+    "superrank": 341,
     "identity_rank": 38
   },
   "Slicer, Hired Muscle": {
@@ -26450,7 +26450,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 353,
-    "superrank": 345,
+    "superrank": 346,
     "identity_rank": 43
   },
   "Snow-Covered Swamp": {
@@ -26924,7 +26924,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 393,
+    "rank": 394,
     "superrank": 516,
     "identity_rank": 72
   },
@@ -26965,7 +26965,7 @@ const cards =
       "Land"
     ],
     "supercent": 13,
-    "rank": 385,
+    "rank": 386,
     "superrank": 265,
     "identity_rank": 4
   },
@@ -28269,7 +28269,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 398,
+    "rank": 399,
     "superrank": 429,
     "identity_rank": 54
   },
@@ -31143,7 +31143,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 380,
+    "rank": 381,
     "superrank": 484,
     "identity_rank": 69
   },
@@ -31705,7 +31705,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 338,
-    "superrank": 350,
+    "superrank": 351,
     "identity_rank": 44
   },
   "Vivien on the Hunt": {
@@ -32190,7 +32190,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 7,
-    "rank": 387,
+    "rank": 388,
     "superrank": 384,
     "identity_rank": 32
   },
@@ -33224,7 +33224,7 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 394,
+    "rank": 395,
     "superrank": 310,
     "identity_rank": 10
   },

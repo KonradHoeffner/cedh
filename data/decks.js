@@ -10006,7 +10006,6 @@ const decks =
       "Dockside Extortionist",
       "Entomb",
       "Essence Flux",
-      "Final Fortune",
       "Finale of Promise",
       "Flooded Strand",
       "Flusterstorm",
@@ -10036,6 +10035,7 @@ const decks =
       "Mox Diamond",
       "Mystic Remora",
       "Mystical Tutor",
+      "Notion Thief",
       "Orcish Bowmasters",
       "Otawara, Soaring City",
       "Pact of Negation",
@@ -18304,7 +18304,7 @@ const decks =
       "Omnath, Locus of Creation"
     ]
   },
-  "[DOWN WITH PLAYEDH] Collaborative Ukkima cEDH Primer": {
+  "Collaborative Ukkima cEDH Primer": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
