@@ -646,6 +646,7 @@
       "Cursed Mirror",
       "Dead // Gone",
       "Deflecting Swat",
+      "Disruptor Flute",
       "Dockside Extortionist",
       "Dualcaster Mage",
       "Dwarven Armorer",
@@ -711,7 +712,6 @@
       "The One Ring",
       "Torpor Orb",
       "Treasure Vault",
-      "Twinflame",
       "Twinshot Sniper",
       "Universal Automaton",
       "Unlicensed Hearse",
@@ -3699,7 +3699,6 @@
       "Chain of Vapor",
       "Chrome Mox",
       "City of Brass",
-      "Clock of Omens",
       "Command Tower",
       "Coveted Jewel",
       "Cyclonic Rift",
@@ -3719,6 +3718,7 @@
       "Forbidden Orchard",
       "Force of Negation",
       "Force of Will",
+      "Fury",
       "Gamble",
       "Gemstone Caverns",
       "Gilded Drake",
@@ -3732,7 +3732,6 @@
       "Ledger Shredder",
       "Lightning Bolt",
       "Lotus Petal",
-      "Magda, Brazen Outlaw",
       "Malevolent Hermit // Benevolent Geist",
       "Mana Confluence",
       "Mana Crypt",
@@ -3783,7 +3782,8 @@
       "Underworld Breach",
       "Volcanic Island",
       "Wheel of Fortune",
-      "Whir of Invention"
+      "Whir of Invention",
+      "Yusri, Fortune's Flame"
     ],
     "commanders": [
       "Saheeli, the Sun's Brilliance"
@@ -3910,7 +3910,6 @@
       "Blood Celebrant",
       "Blood Pet",
       "Bloodstained Mire",
-      "Braids, Arisen Nightmare",
       "Buried Alive",
       "Cabal Ritual",
       "Cavern of Souls",
@@ -3918,6 +3917,7 @@
       "Chrome Mox",
       "City of Traitors",
       "Corpse Dance",
+      "Culling the Weak",
       "Dance of the Dead",
       "Dark Ritual",
       "Dauthi Voidwalker",
@@ -3937,7 +3937,6 @@
       "Hoarding Broodlord",
       "Homeward Path",
       "Imperial Seal",
-      "Insatiable Avarice",
       "Jet Medallion",
       "Jeweled Lotus",
       "Lake of the Dead",
@@ -3966,6 +3965,7 @@
       "Reanimate",
       "Sacrifice",
       "Saw in Half",
+      "Shallow Grave",
       "Sheoldred, the Apocalypse",
       "Skirge Familiar",
       "Sol Ring",
@@ -14714,7 +14714,7 @@
       "Tevesh Szat, Doom of Fools"
     ]
   },
-  "[cEDH] True Romance": {
+  "[Archived] True Romance (cEDH)": {
     "mainboard": [
       "Abrade",
       "Ad Nauseam",
@@ -20049,8 +20049,8 @@
       "Imperial Seal",
       "Island",
       "Isochron Scepter",
-      "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
       "Jeweled Lotus",
+      "Ledger Shredder",
       "Lotus Petal",
       "Mana Confluence",
       "Mana Crypt",

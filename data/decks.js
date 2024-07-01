@@ -647,6 +647,7 @@ const decks =
       "Cursed Mirror",
       "Dead // Gone",
       "Deflecting Swat",
+      "Disruptor Flute",
       "Dockside Extortionist",
       "Dualcaster Mage",
       "Dwarven Armorer",
@@ -712,7 +713,6 @@ const decks =
       "The One Ring",
       "Torpor Orb",
       "Treasure Vault",
-      "Twinflame",
       "Twinshot Sniper",
       "Universal Automaton",
       "Unlicensed Hearse",
@@ -3700,7 +3700,6 @@ const decks =
       "Chain of Vapor",
       "Chrome Mox",
       "City of Brass",
-      "Clock of Omens",
       "Command Tower",
       "Coveted Jewel",
       "Cyclonic Rift",
@@ -3720,6 +3719,7 @@ const decks =
       "Forbidden Orchard",
       "Force of Negation",
       "Force of Will",
+      "Fury",
       "Gamble",
       "Gemstone Caverns",
       "Gilded Drake",
@@ -3733,7 +3733,6 @@ const decks =
       "Ledger Shredder",
       "Lightning Bolt",
       "Lotus Petal",
-      "Magda, Brazen Outlaw",
       "Malevolent Hermit // Benevolent Geist",
       "Mana Confluence",
       "Mana Crypt",
@@ -3784,7 +3783,8 @@ const decks =
       "Underworld Breach",
       "Volcanic Island",
       "Wheel of Fortune",
-      "Whir of Invention"
+      "Whir of Invention",
+      "Yusri, Fortune's Flame"
     ],
     "commanders": [
       "Saheeli, the Sun's Brilliance"
@@ -3911,7 +3911,6 @@ const decks =
       "Blood Celebrant",
       "Blood Pet",
       "Bloodstained Mire",
-      "Braids, Arisen Nightmare",
       "Buried Alive",
       "Cabal Ritual",
       "Cavern of Souls",
@@ -3919,6 +3918,7 @@ const decks =
       "Chrome Mox",
       "City of Traitors",
       "Corpse Dance",
+      "Culling the Weak",
       "Dance of the Dead",
       "Dark Ritual",
       "Dauthi Voidwalker",
@@ -3938,7 +3938,6 @@ const decks =
       "Hoarding Broodlord",
       "Homeward Path",
       "Imperial Seal",
-      "Insatiable Avarice",
       "Jet Medallion",
       "Jeweled Lotus",
       "Lake of the Dead",
@@ -3967,6 +3966,7 @@ const decks =
       "Reanimate",
       "Sacrifice",
       "Saw in Half",
+      "Shallow Grave",
       "Sheoldred, the Apocalypse",
       "Skirge Familiar",
       "Sol Ring",
@@ -14715,7 +14715,7 @@ const decks =
       "Tevesh Szat, Doom of Fools"
     ]
   },
-  "[cEDH] True Romance": {
+  "[Archived] True Romance (cEDH)": {
     "mainboard": [
       "Abrade",
       "Ad Nauseam",
@@ -20050,8 +20050,8 @@ const decks =
       "Imperial Seal",
       "Island",
       "Isochron Scepter",
-      "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
       "Jeweled Lotus",
+      "Ledger Shredder",
       "Lotus Petal",
       "Mana Confluence",
       "Mana Crypt",
