@@ -2997,15 +2997,15 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "Bloodstained Mire",
-    "count": 139,
-    "percent": 73,
+    "count": 140,
+    "percent": 74,
     "types": [
       "Land"
     ],
-    "supercent": 73,
-    "rank": 17,
-    "superrank": 61,
-    "identity_rank": 17
+    "supercent": 74,
+    "rank": 16,
+    "superrank": 59,
+    "identity_rank": 16
   },
   "Bloom Tender": {
     "img": "https://cards.scryfall.io/large/front/d/7/d7cc2828-dfe7-410b-9735-10bb7211f0f5.jpg?1562940634",
@@ -8868,7 +8868,7 @@ const cards =
     ],
     "supercent": 46,
     "rank": 169,
-    "superrank": 119,
+    "superrank": 118,
     "identity_rank": 6
   },
   "Elvish Mystic": {
@@ -9239,9 +9239,9 @@ const cards =
       "Instant"
     ],
     "supercent": 45,
-    "rank": 105,
-    "superrank": 121,
-    "identity_rank": 17
+    "rank": 104,
+    "superrank": 120,
+    "identity_rank": 16
   },
   "Ephemerate": {
     "img": "https://cards.scryfall.io/large/front/f/4/f48ab69d-8a01-4dcb-af70-31e2c62278df.jpg?1630616215",
@@ -10267,7 +10267,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 108,
-    "superrank": 122,
+    "superrank": 121,
     "identity_rank": 11
   },
   "Final Parting": {
@@ -19036,7 +19036,7 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "Mox Opal",
-    "count": 113,
+    "count": 112,
     "percent": 59,
     "types": [
       "Legendary",
@@ -19600,9 +19600,9 @@ const cards =
       "Enchantment"
     ],
     "supercent": 46,
-    "rank": 104,
-    "superrank": 120,
-    "identity_rank": 16
+    "rank": 103,
+    "superrank": 119,
+    "identity_rank": 15
   },
   "Necrotic Ooze": {
     "img": "https://cards.scryfall.io/large/front/8/a/8af2c79f-a151-4628-90fe-c0ff7ccd9c2c.jpg?1562820081",
@@ -21953,15 +21953,15 @@ const cards =
       "B"
     ],
     "name": "Praetor's Grasp",
-    "count": 51,
+    "count": 50,
     "percent": 26,
     "types": [
       "Sorcery"
     ],
-    "supercent": 46,
-    "rank": 103,
-    "superrank": 117,
-    "identity_rank": 15
+    "supercent": 45,
+    "rank": 105,
+    "superrank": 122,
+    "identity_rank": 17
   },
   "Preordain": {
     "img": "https://cards.scryfall.io/large/front/f/a/fa6a22a2-2c97-4279-a7c8-4033698ac108.jpg?1681910535",
@@ -22640,7 +22640,7 @@ const cards =
     ],
     "supercent": 74,
     "rank": 61,
-    "superrank": 59,
+    "superrank": 60,
     "identity_rank": 4
   },
   "Rain of Filth": {
@@ -28366,7 +28366,7 @@ const cards =
       "U"
     ],
     "name": "Swan Song",
-    "count": 116,
+    "count": 117,
     "percent": 61,
     "types": [
       "Instant"
@@ -28480,7 +28480,7 @@ const cards =
     ],
     "supercent": 46,
     "rank": 107,
-    "superrank": 118,
+    "superrank": 117,
     "identity_rank": 11
   },
   "Sylvan Safekeeper": {
@@ -31935,9 +31935,9 @@ const cards =
       "Land"
     ],
     "supercent": 74,
-    "rank": 16,
-    "superrank": 60,
-    "identity_rank": 16
+    "rank": 17,
+    "superrank": 61,
+    "identity_rank": 17
   },
   "Veteran Soldier": {
     "img": "https://cards.scryfall.io/large/front/e/0/e011dd48-9238-4e4b-a915-b7ac5fa9b78f.jpg?1681412384",
