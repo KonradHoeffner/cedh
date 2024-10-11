@@ -1783,7 +1783,7 @@ const decks =
       "Vial Smasher the Fierce"
     ]
   },
-  "[CABLE] Clockside Outlaw": {
+  "[CABLE] Clock-Tuah": {
     "mainboard": [
       "Academy Manufactor",
       "Adaptive Automaton",
@@ -7598,6 +7598,7 @@ const decks =
       "Mana Vault",
       "Marsh Flats",
       "Mental Misstep",
+      "Meticulous Archive",
       "Mindbreak Trap",
       "Misty Rainforest",
       "Mockingbird",
@@ -7623,7 +7624,6 @@ const decks =
       "Rite of Flame",
       "Sacred Foundry",
       "Scalding Tarn",
-      "Sea of Clouds",
       "Sevinne's Reclamation",
       "Shadowspear",
       "Silence",
@@ -11030,6 +11030,7 @@ const decks =
       "Culling the Weak",
       "Dark Ritual",
       "Deathrite Shaman",
+      "Defense Grid",
       "Deflecting Swat",
       "Delighted Halfling",
       "Demonic Tutor",
@@ -11074,6 +11075,7 @@ const decks =
       "Ragavan, Nimble Pilferer",
       "Reanimate",
       "Red Elemental Blast",
+      "Rite of Flame",
       "Scalding Tarn",
       "Shifting Woodland",
       "Simian Spirit Guide",
@@ -11086,7 +11088,6 @@ const decks =
       "Sylvan Library",
       "Taiga",
       "Tainted Pact",
-      "Talisman of Indulgence",
       "Talisman of Resilience",
       "The One Ring",
       "Tinder Wall",
@@ -11100,7 +11101,8 @@ const decks =
       "Windswept Heath",
       "Wishclaw Talisman",
       "Wooded Foothills",
-      "Worldly Tutor"
+      "Worldly Tutor",
+      "Yawgmoth's Will"
     ],
     "commanders": [
       "Korvold, Fae-Cursed King"
