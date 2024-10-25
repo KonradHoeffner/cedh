@@ -6917,7 +6917,6 @@ const decks =
     "mainboard": [
       "Agadeem's Awakening // Agadeem, the Undercrypt",
       "An Offer You Can't Refuse",
-      "Bloodchief Ascension",
       "Bloodstained Mire",
       "Boggart Trawler // Boggart Bog",
       "Brainstorm",
