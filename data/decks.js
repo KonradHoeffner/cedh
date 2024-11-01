@@ -1162,7 +1162,6 @@ const decks =
       "Chrome Mox",
       "City of Brass",
       "City of Traitors",
-      "Cloudstone Curio",
       "Command Tower",
       "Commercial District",
       "Crop Rotation",
@@ -1175,6 +1174,7 @@ const decks =
       "Dualcaster Mage",
       "Eldrazi Confluence",
       "Eldritch Evolution",
+      "Electroduplicate",
       "Elvish Spirit Guide",
       "Emergence Zone",
       "Eternal Witness",
@@ -4796,7 +4796,7 @@ const decks =
       "Elsha of the Infinite"
     ]
   },
-  "[CEDH] elsha monk tribal": {
+  "[CEDH Midrange] elsha monk tribal": {
     "mainboard": [
       "An Offer You Can't Refuse",
       "Ancient Tomb",
@@ -7252,11 +7252,11 @@ const decks =
       "Crop Rotation",
       "Cyclonic Rift",
       "Dark Ritual",
+      "Deadly Rollick",
       "Deathrite Shaman",
       "Demonic Consultation",
       "Demonic Tutor",
       "Diabolic Intent",
-      "Dispel",
       "Drannith Magistrate",
       "Dread Return",
       "Eldritch Evolution",
