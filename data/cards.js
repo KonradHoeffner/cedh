@@ -1223,7 +1223,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 212,
-    "superrank": 139,
+    "superrank": 138,
     "identity_rank": 7
   },
   "Aura Shards": {
@@ -2430,9 +2430,9 @@ const cards =
       "Creature"
     ],
     "supercent": 36,
-    "rank": 152,
-    "superrank": 143,
-    "identity_rank": 17
+    "rank": 151,
+    "superrank": 142,
+    "identity_rank": 16
   },
   "Blooming Marsh": {
     "img": "https://cards.scryfall.io/large/front/9/0/90da33d4-fe9c-42fe-b326-2fe337dc3ecd.jpg?1576383503",
@@ -2826,7 +2826,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 93,
-    "superrank": 136,
+    "superrank": 135,
     "identity_rank": 18
   },
   "Brainstorm": {
@@ -5856,7 +5856,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 58,
-    "rank": 74,
+    "rank": 75,
     "superrank": 95,
     "identity_rank": 11
   },
@@ -6091,7 +6091,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 101,
-    "superrank": 141,
+    "superrank": 140,
     "identity_rank": 20
   },
   "Displacer Kitten": {
@@ -8228,14 +8228,14 @@ const cards =
       "G"
     ],
     "name": "Finale of Devastation",
-    "count": 39,
-    "percent": 33,
+    "count": 40,
+    "percent": 34,
     "types": [
       "Sorcery"
     ],
-    "supercent": 70,
-    "rank": 75,
-    "superrank": 69,
+    "supercent": 72,
+    "rank": 74,
+    "superrank": 66,
     "identity_rank": 5
   },
   "Finale of Promise": {
@@ -9354,7 +9354,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 95,
-    "superrank": 137,
+    "superrank": 136,
     "identity_rank": 19
   },
   "Giver of Runes": {
@@ -11530,7 +11530,7 @@ const cards =
       "Creature"
     ],
     "supercent": 31,
-    "rank": 148,
+    "rank": 147,
     "superrank": 158,
     "identity_rank": 13
   },
@@ -11854,8 +11854,8 @@ const cards =
       "Battle"
     ],
     "supercent": 0,
-    "rank": 1157,
-    "superrank": 1114,
+    "rank": 1159,
+    "superrank": 1116,
     "identity_rank": 109
   },
   "Inventors' Fair": {
@@ -13866,8 +13866,8 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1158,
-    "superrank": 1115,
+    "rank": 1157,
+    "superrank": 1114,
     "identity_rank": 212
   },
   "Mana Confluence": {
@@ -17715,7 +17715,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 124,
-    "superrank": 138,
+    "superrank": 137,
     "identity_rank": 16
   },
   "Preordain": {
@@ -17834,7 +17834,7 @@ const cards =
       "Land"
     ],
     "supercent": 18,
-    "rank": 150,
+    "rank": 149,
     "superrank": 229,
     "identity_rank": 37
   },
@@ -20982,8 +20982,8 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1159,
-    "superrank": 1116,
+    "rank": 1158,
+    "superrank": 1115,
     "identity_rank": 213
   },
   "Siren Stormtamer": {
@@ -21992,7 +21992,7 @@ const cards =
       "Land"
     ],
     "supercent": 18,
-    "rank": 149,
+    "rank": 148,
     "superrank": 227,
     "identity_rank": 36
   },
@@ -23102,15 +23102,15 @@ const cards =
       "G"
     ],
     "name": "Sylvan Library",
-    "count": 21,
-    "percent": 18,
+    "count": 20,
+    "percent": 17,
     "types": [
       "Enchantment"
     ],
-    "supercent": 38,
-    "rank": 147,
-    "superrank": 135,
-    "identity_rank": 16
+    "supercent": 36,
+    "rank": 152,
+    "superrank": 143,
+    "identity_rank": 17
   },
   "Sylvan Safekeeper": {
     "img": "https://cards.scryfall.io/large/front/f/1/f1b8413f-c9fc-4cea-b416-a1fcf651b009.jpg?1562632623",
@@ -23341,7 +23341,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 190,
-    "superrank": 142,
+    "superrank": 141,
     "identity_rank": 7
   },
   "Talisman of Dominance": {
@@ -23703,7 +23703,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 222,
-    "superrank": 140,
+    "superrank": 139,
     "identity_rank": 5
   },
   "Temporal Trespass": {
@@ -23993,7 +23993,7 @@ const cards =
     ],
     "supercent": 70,
     "rank": 21,
-    "superrank": 68,
+    "superrank": 69,
     "identity_rank": 18
   },
   "The Reality Chip": {
@@ -26052,7 +26052,7 @@ const cards =
     ],
     "supercent": 71,
     "rank": 19,
-    "superrank": 67,
+    "superrank": 68,
     "identity_rank": 17
   },
   "Vexing Bauble": {
@@ -27139,7 +27139,7 @@ const cards =
     ],
     "supercent": 72,
     "rank": 59,
-    "superrank": 66,
+    "superrank": 67,
     "identity_rank": 8
   },
   "Witch Enchanter": {
@@ -27411,7 +27411,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 30,
-    "rank": 151,
+    "rank": 150,
     "superrank": 168,
     "identity_rank": 21
   },
