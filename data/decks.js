@@ -3355,7 +3355,7 @@ const decks =
       "Atraxa, Grand Unifier"
     ]
   },
-  " Layered Atraxa  cEDH": {
+  " Layered Atraxa (massive update soon)  cEDH": {
     "mainboard": [
       "Abrupt Decay",
       "An Offer You Can't Refuse",
@@ -6947,7 +6947,6 @@ const decks =
       "Force of Will",
       "Gemstone Caverns",
       "Gitaxian Probe",
-      "Grafdigger's Cage",
       "Gush",
       "Hydroelectric Specimen // Hydroelectric Laboratory",
       "Imperial Seal",
@@ -6958,6 +6957,7 @@ const decks =
       "Lim-D\u00fbl's Vault",
       "Lotus Petal",
       "Mana Confluence",
+      "March of Swirling Mist",
       "Marsh Flats",
       "Mausoleum Wanderer",
       "Mental Misstep",
