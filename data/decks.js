@@ -3,7 +3,6 @@ const decks =
   "Doomsday FrAugur (cEDH)": {
     "mainboard": [
       "Ancient Tomb",
-      "Apple of Eden, Isu Relic",
       "Arcane Signet",
       "Bayou",
       "Beseech the Mirror",
@@ -47,6 +46,7 @@ const decks =
       "Gaea's Cradle",
       "Gemstone Caverns",
       "Gush",
+      "High Fae Trickster",
       "Horizon of Progress",
       "Imperial Seal",
       "Into the Flood Maw",
@@ -74,12 +74,12 @@ const decks =
       "Otawara, Soaring City",
       "Polluted Delta",
       "Pollywog Prodigy",
+      "Reanimate",
       "Rhystic Study",
       "Scalding Tarn",
       "Sensei's Divining Top",
       "Shifting Woodland",
       "Sink into Stupor // Soporific Springs",
-      "Six",
       "Snuff Out",
       "Sol Ring",
       "Spell Pierce",
@@ -5747,7 +5747,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "  Warrior Queen [cEDH Najeela]  - UPDATES COMING I PROMISE": {
+  "  Warrior Queen [cEDH Najeela] ": {
     "mainboard": [
       "Ancient Tomb",
       "Arcane Signet",
@@ -5762,7 +5762,6 @@ const decks =
       "City of Brass",
       "Command Tower",
       "Cyclonic Rift",
-      "Dark Ritual",
       "Deadly Rollick",
       "Deathrite Shaman",
       "Deflecting Swat",
@@ -5794,6 +5793,7 @@ const decks =
       "Intuition",
       "Kutzil, Malamet Exemplar",
       "Lion's Eye Diamond",
+      "Lotho, Corrupt Shirriff",
       "Lotus Petal",
       "Mana Confluence",
       "Mana Vault",
@@ -5804,8 +5804,8 @@ const decks =
       "Mox Diamond",
       "Mystic Remora",
       "Mystical Tutor",
+      "Neoform",
       "Noble Hierarch",
-      "Opposition Agent",
       "Orcish Bowmasters",
       "Pact of Negation",
       "Plateau",
