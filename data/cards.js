@@ -209,7 +209,7 @@ const cards =
     ],
     "supercent": 55,
     "rank": 83,
-    "superrank": 100,
+    "superrank": 101,
     "identity_rank": 12
   },
   "Adaptive Automaton": {
@@ -2759,7 +2759,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 385,
-    "superrank": 236,
+    "superrank": 235,
     "identity_rank": 8
   },
   "Bovine Intervention": {
@@ -4212,7 +4212,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 313,
-    "superrank": 230,
+    "superrank": 229,
     "identity_rank": 8
   },
   "Combat Celebrant": {
@@ -5309,7 +5309,7 @@ const cards =
       "Instant"
     ],
     "supercent": 12,
-    "rank": 239,
+    "rank": 238,
     "superrank": 291,
     "identity_rank": 54
   },
@@ -5589,14 +5589,14 @@ const cards =
     "power": "1",
     "toughness": "2",
     "name": "Delighted Halfling",
-    "count": 30,
+    "count": 31,
     "percent": 26,
     "types": [
       "Creature"
     ],
-    "supercent": 54,
-    "rank": 101,
-    "superrank": 101,
+    "supercent": 56,
+    "rank": 98,
+    "superrank": 99,
     "identity_rank": 10
   },
   "Delney, Streetwise Lookout": {
@@ -5787,7 +5787,7 @@ const cards =
       "Instant"
     ],
     "supercent": 13,
-    "rank": 247,
+    "rank": 246,
     "superrank": 272,
     "identity_rank": 21
   },
@@ -5838,9 +5838,9 @@ const cards =
       "Creature"
     ],
     "supercent": 18,
-    "rank": 242,
-    "superrank": 231,
-    "identity_rank": 31
+    "rank": 241,
+    "superrank": 230,
+    "identity_rank": 30
   },
   "Diabolic Intent": {
     "img": "https://cards.scryfall.io/large/front/7/6/76d1b5c5-cc47-465f-8549-4fd1ca4280df.jpg?1562920013",
@@ -6095,7 +6095,7 @@ const cards =
       "Instant"
     ],
     "supercent": 37,
-    "rank": 100,
+    "rank": 101,
     "superrank": 139,
     "identity_rank": 20
   },
@@ -6849,7 +6849,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 267,
-    "superrank": 233,
+    "superrank": 232,
     "identity_rank": 16
   },
   "Eiganjo, Seat of the Empire": {
@@ -7563,7 +7563,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 269,
-    "superrank": 235,
+    "superrank": 234,
     "identity_rank": 17
   },
   "Everflowing Chalice": {
@@ -7624,7 +7624,7 @@ const cards =
     ],
     "supercent": 56,
     "rank": 39,
-    "superrank": 99,
+    "superrank": 100,
     "identity_rank": 25
   },
   "Expedite": {
@@ -7738,7 +7738,7 @@ const cards =
       "Creature"
     ],
     "supercent": 31,
-    "rank": 246,
+    "rank": 245,
     "superrank": 156,
     "identity_rank": 6
   },
@@ -8170,7 +8170,7 @@ const cards =
       "Instant"
     ],
     "supercent": 46,
-    "rank": 98,
+    "rank": 99,
     "superrank": 118,
     "identity_rank": 10
   },
@@ -10323,7 +10323,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 14,
-    "rank": 245,
+    "rank": 244,
     "superrank": 265,
     "identity_rank": 28
   },
@@ -10342,7 +10342,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 7,
-    "rank": 250,
+    "rank": 249,
     "superrank": 379,
     "identity_rank": 49
   },
@@ -11054,7 +11054,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 378,
-    "superrank": 234,
+    "superrank": 233,
     "identity_rank": 4
   },
   "High Tide": {
@@ -13292,8 +13292,8 @@ const cards =
       "Instant"
     ],
     "supercent": 18,
-    "rank": 241,
-    "superrank": 229,
+    "rank": 240,
+    "superrank": 228,
     "identity_rank": 8
   },
   "Linvala, Keeper of Silence": {
@@ -14297,7 +14297,7 @@ const cards =
       "Creature"
     ],
     "supercent": 28,
-    "rank": 248,
+    "rank": 247,
     "superrank": 170,
     "identity_rank": 4
   },
@@ -15018,7 +15018,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 191,
-    "superrank": 238,
+    "superrank": 237,
     "identity_rank": 45
   },
   "Mogg Salvage": {
@@ -15201,7 +15201,7 @@ const cards =
       "Land"
     ],
     "supercent": 58,
-    "rank": 99,
+    "rank": 100,
     "superrank": 96,
     "identity_rank": 4
   },
@@ -15274,7 +15274,7 @@ const cards =
       "Land"
     ],
     "supercent": 28,
-    "rank": 252,
+    "rank": 251,
     "superrank": 171,
     "identity_rank": 5
   },
@@ -17887,7 +17887,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 148,
-    "superrank": 227,
+    "superrank": 226,
     "identity_rank": 37
   },
   "Prized Statue": {
@@ -19541,7 +19541,7 @@ const cards =
       "Land"
     ],
     "supercent": 32,
-    "rank": 251,
+    "rank": 250,
     "superrank": 154,
     "identity_rank": 2
   },
@@ -19908,7 +19908,7 @@ const cards =
       "Instant"
     ],
     "supercent": 14,
-    "rank": 243,
+    "rank": 242,
     "superrank": 264,
     "identity_rank": 27
   },
@@ -20167,7 +20167,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 325,
-    "superrank": 242,
+    "superrank": 241,
     "identity_rank": 5
   },
   "Seat of the Synod": {
@@ -20664,7 +20664,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 226,
-    "superrank": 240,
+    "superrank": 239,
     "identity_rank": 25
   },
   "Shield Mate": {
@@ -20754,7 +20754,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 281,
-    "superrank": 228,
+    "superrank": 227,
     "identity_rank": 6
   },
   "Shizo, Death's Storehouse": {
@@ -21965,7 +21965,7 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 240,
+    "rank": 239,
     "superrank": 292,
     "identity_rank": 55
   },
@@ -22916,7 +22916,7 @@ const cards =
     ],
     "supercent": 17,
     "rank": 398,
-    "superrank": 237,
+    "superrank": 236,
     "identity_rank": 5
   },
   "Sundering Eruption": {
@@ -23185,9 +23185,9 @@ const cards =
       "Creature"
     ],
     "supercent": 18,
-    "rank": 244,
-    "superrank": 232,
-    "identity_rank": 32
+    "rank": 243,
+    "superrank": 231,
+    "identity_rank": 31
   },
   "Sylvan Scrying": {
     "img": "https://cards.scryfall.io/large/front/1/f/1f882c71-dd90-4eac-9756-0bf487cba625.jpg?1619402194",
@@ -25223,7 +25223,7 @@ const cards =
     ],
     "supercent": 16,
     "rank": 223,
-    "superrank": 239,
+    "superrank": 238,
     "identity_rank": 19
   },
   "Twinshot Sniper": {
@@ -25484,8 +25484,8 @@ const cards =
       "Land"
     ],
     "supercent": 16,
-    "rank": 249,
-    "superrank": 241,
+    "rank": 248,
+    "superrank": 240,
     "identity_rank": 9
   },
   "Underground Sea": {
@@ -25868,15 +25868,15 @@ const cards =
       "G"
     ],
     "name": "Utopia Sprawl",
-    "count": 10,
-    "percent": 8,
+    "count": 9,
+    "percent": 7,
     "types": [
       "Enchantment"
     ],
-    "supercent": 18,
-    "rank": 238,
-    "superrank": 226,
-    "identity_rank": 30
+    "supercent": 16,
+    "rank": 252,
+    "superrank": 242,
+    "identity_rank": 32
   },
   "Valakut Awakening": {
     "img": "https://cards.scryfall.io/large/front/a/1/a156b510-8879-4a7b-b15b-71374cb1e6f7.jpg?1608942885",
