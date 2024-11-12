@@ -3249,7 +3249,7 @@ const decks =
       "Atraxa, Grand Unifier"
     ]
   },
-  "[cEDH] Cat Food": {
+  "[ZEN] Cat Food": {
     "mainboard": [
       "Ad Nauseam",
       "An Offer You Can't Refuse",
@@ -4086,6 +4086,7 @@ const decks =
       "Urza's Saga",
       "Weathered Wayfarer",
       "Wild Growth",
+      "Windswept Heath",
       "Witch Enchanter // Witch-Blessed Meadow",
       "Worldly Tutor",
       "Yasharn, Implacable Earth"
@@ -7130,7 +7131,6 @@ const decks =
   "Thrasios Tymna Chain Stasis": {
     "mainboard": [
       "Ad Nauseam",
-      "Aether Vial",
       "Ancient Tomb",
       "Arcane Signet",
       "Banishing Knack",
@@ -7207,6 +7207,7 @@ const decks =
       "Smothering Tithe",
       "Sol Ring",
       "Spellseeker",
+      "Survival of the Fittest",
       "Swan Song",
       "Swift Reconfiguration",
       "Tainted Pact",
