@@ -4906,7 +4906,6 @@
   "Sisay Tutor Chains [cEDH]": {
     "mainboard": [
       "Abrupt Decay",
-      "Adric, Mathematical Genius",
       "Agatha's Soul Cauldron",
       "Aminatou, the Fateshifter",
       "An Offer You Can't Refuse",
@@ -4915,6 +4914,7 @@
       "Arid Mesa",
       "Bayou",
       "Birds of Paradise",
+      "Bloodstained Mire",
       "Bloom Tender",
       "Boseiju, Who Endures",
       "Chromatic Orrery",
@@ -4961,7 +4961,6 @@
       "Mental Misstep",
       "Mindbreak Trap",
       "Misty Rainforest",
-      "Monologue Tax",
       "Mount Doom",
       "Mox Amber",
       "Mox Diamond",
@@ -4978,6 +4977,7 @@
       "Ragavan, Nimble Pilferer",
       "Relic of Legends",
       "Rhystic Study",
+      "Ruby, Daring Tracker",
       "Saheeli Rai",
       "Savannah",
       "Scalding Tarn",
@@ -7550,7 +7550,7 @@
       "Tymna the Weaver"
     ]
   },
-  "Prep time[cEDH]": {
+  "[ZEN] Prep time": {
     "mainboard": [
       "Abrade",
       "Ancient Tomb",
