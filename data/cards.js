@@ -15155,7 +15155,7 @@ const cards =
     "identity_rank": 67
   },
   "Moonsnare Prototype": {
-    "img": "https://cards.scryfall.io/large/front/9/d/9d8bc0e9-a536-4bca-92a6-8dca85e1e984.jpg?1654566863",
+    "img": "https://cards.scryfall.io/large/front/9/d/9d8bc0e9-a536-4bca-92a6-8dca85e1e984.jpg?1731690846",
     "date": "2022-02-18",
     "colors": [
       "U"
@@ -21753,18 +21753,18 @@ const cards =
     "identity_rank": 63
   },
   "Soulstone Sanctuary": {
-    "img": "https://cards.scryfall.io/large/back/b/c/bc9e38e6-a8a6-498c-b56b-861652182980.jpg?1730504025",
+    "img": "https://cards.scryfall.io/large/front/a/b/ab27d7a8-de69-4939-a35b-760b1b42e070.jpg?1730490178",
     "date": "2024-11-15",
+    "colors": [],
+    "mana_cost": "",
     "cmc": 0,
-    "type_line": "Card // Card",
+    "type_line": "Land",
     "color_identity": [],
     "name": "Soulstone Sanctuary",
     "count": 1,
     "percent": 0,
     "types": [
-      "Card",
-      "//",
-      "Card"
+      "Land"
     ],
     "supercent": 0,
     "rank": 863,
