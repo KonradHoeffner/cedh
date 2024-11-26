@@ -1377,7 +1377,7 @@ const cards =
     ],
     "supercent": 44,
     "rank": 203,
-    "superrank": 122,
+    "superrank": 123,
     "identity_rank": 3
   },
   "Aven Interrupter": {
@@ -3157,7 +3157,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 73,
-    "superrank": 89,
+    "superrank": 88,
     "identity_rank": 10
   },
   "Calamity's Wake": {
@@ -5052,14 +5052,14 @@ const cards =
       "U"
     ],
     "name": "Cyclonic Rift",
-    "count": 50,
-    "percent": 43,
+    "count": 49,
+    "percent": 42,
     "types": [
       "Instant"
     ],
-    "supercent": 60,
-    "rank": 57,
-    "superrank": 87,
+    "supercent": 59,
+    "rank": 58,
+    "superrank": 91,
     "identity_rank": 16
   },
   "Dakmor Salvage": {
@@ -8030,7 +8030,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 36,
-    "superrank": 90,
+    "superrank": 89,
     "identity_rank": 24
   },
   "Fiend Artisan": {
@@ -15158,7 +15158,7 @@ const cards =
       "Land"
     ],
     "supercent": 56,
-    "rank": 101,
+    "rank": 102,
     "superrank": 100,
     "identity_rank": 4
   },
@@ -15750,14 +15750,14 @@ const cards =
       "B"
     ],
     "name": "Necropotence",
-    "count": 29,
-    "percent": 25,
+    "count": 30,
+    "percent": 26,
     "types": [
       "Enchantment"
     ],
-    "supercent": 42,
-    "rank": 102,
-    "superrank": 124,
+    "supercent": 44,
+    "rank": 101,
+    "superrank": 122,
     "identity_rank": 14
   },
   "Necrotic Ooze": {
@@ -18229,7 +18229,7 @@ const cards =
       "Creature"
     ],
     "supercent": 75,
-    "rank": 58,
+    "rank": 57,
     "superrank": 63,
     "identity_rank": 4
   },
@@ -22510,7 +22510,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 170,
-    "superrank": 91,
+    "superrank": 90,
     "identity_rank": 2
   },
   "Stonework Packbeast": {
@@ -23446,7 +23446,7 @@ const cards =
     ],
     "supercent": 43,
     "rank": 193,
-    "superrank": 123,
+    "superrank": 124,
     "identity_rank": 3
   },
   "Talisman of Progress": {
@@ -27006,7 +27006,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 35,
-    "superrank": 88,
+    "superrank": 87,
     "identity_rank": 23
   },
   "Wingcrafter": {
