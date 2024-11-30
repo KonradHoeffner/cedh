@@ -70,7 +70,7 @@ const cards =
       "Instant"
     ],
     "supercent": 76,
-    "rank": 122,
+    "rank": 121,
     "superrank": 60,
     "identity_rank": 3
   },
@@ -1677,7 +1677,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 15,
-    "rank": 165,
+    "rank": 166,
     "superrank": 252,
     "identity_rank": 39
   },
@@ -1861,7 +1861,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 38,
-    "rank": 115,
+    "rank": 114,
     "superrank": 132,
     "identity_rank": 15
   },
@@ -2925,7 +2925,7 @@ const cards =
       "Land"
     ],
     "supercent": 68,
-    "rank": 116,
+    "rank": 115,
     "superrank": 73,
     "identity_rank": 2
   },
@@ -4817,7 +4817,7 @@ const cards =
       "Instant"
     ],
     "supercent": 47,
-    "rank": 118,
+    "rank": 117,
     "superrank": 115,
     "identity_rank": 11
   },
@@ -7767,7 +7767,7 @@ const cards =
     ],
     "supercent": 31,
     "rank": 247,
-    "superrank": 157,
+    "superrank": 156,
     "identity_rank": 6
   },
   "Faerie Dreamthief": {
@@ -8718,7 +8718,7 @@ const cards =
     ],
     "supercent": 20,
     "rank": 220,
-    "superrank": 208,
+    "superrank": 209,
     "identity_rank": 27
   },
   "Force of Will": {
@@ -11590,7 +11590,7 @@ const cards =
     ],
     "supercent": 31,
     "rank": 145,
-    "superrank": 158,
+    "superrank": 157,
     "identity_rank": 13
   },
   "Imperial Seal": {
@@ -11894,9 +11894,9 @@ const cards =
       "Instant"
     ],
     "supercent": 31,
-    "rank": 119,
-    "superrank": 159,
-    "identity_rank": 24
+    "rank": 118,
+    "superrank": 158,
+    "identity_rank": 23
   },
   "Invasion of Ikoria": {
     "img": "https://cards.scryfall.io/large/front/5/d/5d59c8f2-f6af-40a6-8dfe-8cc45bf231ce.jpg?1682715265",
@@ -12028,9 +12028,9 @@ const cards =
       "Land"
     ],
     "supercent": 31,
-    "rank": 120,
-    "superrank": 160,
-    "identity_rank": 25
+    "rank": 119,
+    "superrank": 159,
+    "identity_rank": 24
   },
   "Isochron Scepter": {
     "img": "https://cards.scryfall.io/large/front/8/7/878b0159-6917-45d3-b9ea-562ac49f0b8f.jpg?1562149998",
@@ -13715,7 +13715,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 304,
-    "superrank": 205,
+    "superrank": 206,
     "identity_rank": 6
   },
   "L\u00f3rien Revealed": {
@@ -14578,9 +14578,9 @@ const cards =
       "Land"
     ],
     "supercent": 31,
-    "rank": 117,
-    "superrank": 156,
-    "identity_rank": 23
+    "rank": 116,
+    "superrank": 155,
+    "identity_rank": 22
   },
   "Mind Stone": {
     "img": "https://cards.scryfall.io/large/front/1/6/162e81d3-6cd4-4cb8-8ed8-cfbd8d34ca71.jpg?1562799487",
@@ -15048,7 +15048,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 27,
-    "rank": 161,
+    "rank": 162,
     "superrank": 173,
     "identity_rank": 14
   },
@@ -21287,7 +21287,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 50,
-    "rank": 121,
+    "rank": 120,
     "superrank": 109,
     "identity_rank": 8
   },
@@ -21325,15 +21325,15 @@ const cards =
       "U"
     ],
     "name": "Snap",
-    "count": 27,
-    "percent": 23,
+    "count": 26,
+    "percent": 22,
     "types": [
       "Instant"
     ],
-    "supercent": 32,
-    "rank": 114,
-    "superrank": 155,
-    "identity_rank": 22
+    "supercent": 31,
+    "rank": 122,
+    "superrank": 160,
+    "identity_rank": 25
   },
   "Snapback": {
     "img": "https://cards.scryfall.io/large/front/d/e/de9135ba-9b6a-4443-a1c4-882f9bfae626.jpg?1562941947",
@@ -21990,7 +21990,7 @@ const cards =
     ],
     "supercent": 21,
     "rank": 330,
-    "superrank": 207,
+    "superrank": 208,
     "identity_rank": 4
   },
   "Spire of Industry": {
@@ -23471,7 +23471,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 50,
-    "rank": 162,
+    "rank": 163,
     "superrank": 110,
     "identity_rank": 3
   },
@@ -23575,7 +23575,7 @@ const cards =
       "Land"
     ],
     "supercent": 15,
-    "rank": 163,
+    "rank": 164,
     "superrank": 249,
     "identity_rank": 38
   },
@@ -23869,9 +23869,9 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 21,
-    "rank": 164,
-    "superrank": 206,
-    "identity_rank": 39
+    "rank": 165,
+    "superrank": 207,
+    "identity_rank": 40
   },
   "Thalia, Guardian of Thraben": {
     "img": "https://cards.scryfall.io/large/front/8/2/824423ff-6441-4be6-b754-810adf9ca6a2.jpg?1562925761",
@@ -25855,15 +25855,15 @@ const cards =
     "power": "2",
     "toughness": "2",
     "name": "Valley Floodcaller",
-    "count": 17,
-    "percent": 14,
+    "count": 18,
+    "percent": 15,
     "types": [
       "Creature"
     ],
-    "supercent": 20,
-    "rank": 166,
-    "superrank": 209,
-    "identity_rank": 40
+    "supercent": 21,
+    "rank": 161,
+    "superrank": 205,
+    "identity_rank": 39
   },
   "Vampiric Tutor": {
     "img": "https://cards.scryfall.io/large/front/0/a/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d.jpg?1562276960",
