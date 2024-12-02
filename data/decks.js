@@ -65,6 +65,7 @@ const decks =
       "Mystic Remora",
       "Mystical Tutor",
       "Necropotence",
+      "No One Left Behind",
       "Notion Thief",
       "Noxious Revival",
       "Opposition Agent",
@@ -72,7 +73,6 @@ const decks =
       "Otawara, Soaring City",
       "Polluted Delta",
       "Pollywog Prodigy",
-      "Reanimate",
       "Rhystic Study",
       "Scalding Tarn",
       "Sensei's Divining Top",
@@ -1989,7 +1989,6 @@ const decks =
   "The Magdanomicon": {
     "mainboard": [
       "Abrade",
-      "Academy Manufactor",
       "Adaptive Automaton",
       "Agatha's Soul Cauldron",
       "Ancient Tomb",
@@ -2021,6 +2020,7 @@ const decks =
       "Gemstone Caverns",
       "Ghostfire Slice",
       "Goblin Engineer",
+      "God-Pharaoh's Statue",
       "Grafdigger's Cage",
       "Great Furnace",
       "High-Speed Hoverbike",
@@ -6380,7 +6380,7 @@ const decks =
       "Thrasios, Triton Hero"
     ]
   },
-  "[Cabal] Temur Winter": {
+  "[Cabal] Temur Spring": {
     "mainboard": [
       "Ancient Tomb",
       "Arcane Signet",
@@ -6956,7 +6956,6 @@ const decks =
       "Mana Confluence",
       "March of Swirling Mist",
       "Marsh Flats",
-      "Mausoleum Wanderer",
       "Mental Misstep",
       "Mindbreak Trap",
       "Misdirection",
@@ -6979,7 +6978,6 @@ const decks =
       "Ornithopter",
       "Otawara, Soaring City",
       "Otherworldly Gaze",
-      "Phyrexian Walker",
       "Polluted Delta",
       "Prismatic Vista",
       "Prosperous Thief",
@@ -6991,6 +6989,7 @@ const decks =
       "Sea Gate Restoration // Sea Gate, Reborn",
       "Shadow of Mortality",
       "Shizo, Death's Storehouse",
+      "Silver Raven",
       "Silver-Fur Master",
       "Sink into Stupor // Soporific Springs",
       "Skullsnatcher",
@@ -6998,6 +6997,7 @@ const decks =
       "Snow-Covered Swamp",
       "Snuff Out",
       "Spectral Sailor",
+      "Stonecoil Serpent",
       "Street Wraith",
       "Submerge",
       "Swamp",
@@ -9678,7 +9678,6 @@ const decks =
       "Kozilek, Butcher of Truth",
       "Lake of the Dead",
       "Life from the Loam",
-      "Lively Dirge",
       "Llanowar Elves",
       "Llanowar Wastes",
       "Lotus Petal",
@@ -9701,6 +9700,7 @@ const decks =
       "Rain of Filth",
       "Ramunap Excavator",
       "Shifting Woodland",
+      "Six",
       "Snow-Covered Forest",
       "Snow-Covered Swamp",
       "Sol Ring",

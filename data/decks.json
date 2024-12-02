@@ -64,6 +64,7 @@
       "Mystic Remora",
       "Mystical Tutor",
       "Necropotence",
+      "No One Left Behind",
       "Notion Thief",
       "Noxious Revival",
       "Opposition Agent",
@@ -71,7 +72,6 @@
       "Otawara, Soaring City",
       "Polluted Delta",
       "Pollywog Prodigy",
-      "Reanimate",
       "Rhystic Study",
       "Scalding Tarn",
       "Sensei's Divining Top",
@@ -1988,7 +1988,6 @@
   "The Magdanomicon": {
     "mainboard": [
       "Abrade",
-      "Academy Manufactor",
       "Adaptive Automaton",
       "Agatha's Soul Cauldron",
       "Ancient Tomb",
@@ -2020,6 +2019,7 @@
       "Gemstone Caverns",
       "Ghostfire Slice",
       "Goblin Engineer",
+      "God-Pharaoh's Statue",
       "Grafdigger's Cage",
       "Great Furnace",
       "High-Speed Hoverbike",
@@ -6379,7 +6379,7 @@
       "Thrasios, Triton Hero"
     ]
   },
-  "[Cabal] Temur Winter": {
+  "[Cabal] Temur Spring": {
     "mainboard": [
       "Ancient Tomb",
       "Arcane Signet",
@@ -6955,7 +6955,6 @@
       "Mana Confluence",
       "March of Swirling Mist",
       "Marsh Flats",
-      "Mausoleum Wanderer",
       "Mental Misstep",
       "Mindbreak Trap",
       "Misdirection",
@@ -6978,7 +6977,6 @@
       "Ornithopter",
       "Otawara, Soaring City",
       "Otherworldly Gaze",
-      "Phyrexian Walker",
       "Polluted Delta",
       "Prismatic Vista",
       "Prosperous Thief",
@@ -6990,6 +6988,7 @@
       "Sea Gate Restoration // Sea Gate, Reborn",
       "Shadow of Mortality",
       "Shizo, Death's Storehouse",
+      "Silver Raven",
       "Silver-Fur Master",
       "Sink into Stupor // Soporific Springs",
       "Skullsnatcher",
@@ -6997,6 +6996,7 @@
       "Snow-Covered Swamp",
       "Snuff Out",
       "Spectral Sailor",
+      "Stonecoil Serpent",
       "Street Wraith",
       "Submerge",
       "Swamp",
@@ -9677,7 +9677,6 @@
       "Kozilek, Butcher of Truth",
       "Lake of the Dead",
       "Life from the Loam",
-      "Lively Dirge",
       "Llanowar Elves",
       "Llanowar Wastes",
       "Lotus Petal",
@@ -9700,6 +9699,7 @@
       "Rain of Filth",
       "Ramunap Excavator",
       "Shifting Woodland",
+      "Six",
       "Snow-Covered Forest",
       "Snow-Covered Swamp",
       "Sol Ring",
