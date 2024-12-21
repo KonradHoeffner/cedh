@@ -327,7 +327,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 13,
-    "rank": 183,
+    "rank": 184,
     "superrank": 269,
     "identity_rank": 41
   },
@@ -1396,7 +1396,7 @@ const cards =
       "Creature"
     ],
     "supercent": 51,
-    "rank": 185,
+    "rank": 186,
     "superrank": 105,
     "identity_rank": 3
   },
@@ -6193,9 +6193,9 @@ const cards =
       "Creature"
     ],
     "supercent": 19,
-    "rank": 180,
-    "superrank": 221,
-    "identity_rank": 43
+    "rank": 181,
+    "superrank": 222,
+    "identity_rank": 44
   },
   "Display of Power": {
     "img": "https://cards.scryfall.io/large/front/2/9/295b8595-5b4e-4fc8-8249-486d36e15f67.jpg?1686968845",
@@ -7659,7 +7659,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 244,
-    "superrank": 222,
+    "superrank": 223,
     "identity_rank": 16
   },
   "Everflowing Chalice": {
@@ -8759,7 +8759,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 233,
-    "superrank": 223,
+    "superrank": 224,
     "identity_rank": 29
   },
   "Force of Will": {
@@ -11623,7 +11623,7 @@ const cards =
     ],
     "supercent": 73,
     "rank": 230,
-    "superrank": 66,
+    "superrank": 65,
     "identity_rank": 1
   },
   "Imp's Mischief": {
@@ -14548,7 +14548,7 @@ const cards =
       "Instant"
     ],
     "supercent": 100,
-    "rank": 18,
+    "rank": 17,
     "superrank": 3,
     "identity_rank": 1
   },
@@ -16866,7 +16866,7 @@ const cards =
       "Land"
     ],
     "supercent": 47,
-    "rank": 181,
+    "rank": 182,
     "superrank": 116,
     "identity_rank": 6
   },
@@ -17325,9 +17325,9 @@ const cards =
       "Creature"
     ],
     "supercent": 19,
-    "rank": 178,
-    "superrank": 220,
-    "identity_rank": 42
+    "rank": 179,
+    "superrank": 221,
+    "identity_rank": 43
   },
   "Phelia, Exuberant Shepherd": {
     "img": "https://cards.scryfall.io/large/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1719466227",
@@ -17485,7 +17485,7 @@ const cards =
       "Land"
     ],
     "supercent": 23,
-    "rank": 182,
+    "rank": 183,
     "superrank": 198,
     "identity_rank": 22
   },
@@ -17720,15 +17720,15 @@ const cards =
     "power": "1",
     "toughness": "3",
     "name": "Pollywog Prodigy",
-    "count": 15,
+    "count": 16,
     "percent": 13,
     "types": [
       "Creature"
     ],
-    "supercent": 18,
-    "rank": 186,
-    "superrank": 224,
-    "identity_rank": 44
+    "supercent": 19,
+    "rank": 176,
+    "superrank": 219,
+    "identity_rank": 42
   },
   "Polymorph": {
     "img": "https://cards.scryfall.io/large/front/f/b/fbae8702-a152-4c53-8a76-691a221f2475.jpg?1562722872",
@@ -18096,7 +18096,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 209,
-    "superrank": 219,
+    "superrank": 220,
     "identity_rank": 18
   },
   "Prophet of Distortion": {
@@ -19011,7 +19011,7 @@ const cards =
       "Land"
     ],
     "supercent": 42,
-    "rank": 176,
+    "rank": 177,
     "superrank": 126,
     "identity_rank": 5
   },
@@ -22750,7 +22750,7 @@ const cards =
       "Land"
     ],
     "supercent": 57,
-    "rank": 179,
+    "rank": 180,
     "superrank": 97,
     "identity_rank": 2
   },
@@ -24331,15 +24331,15 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "The One Ring",
-    "count": 84,
-    "percent": 73,
+    "count": 83,
+    "percent": 72,
     "types": [
       "Legendary",
       "Artifact"
     ],
-    "supercent": 73,
-    "rank": 17,
-    "superrank": 65,
+    "supercent": 72,
+    "rank": 18,
+    "superrank": 66,
     "identity_rank": 17
   },
   "The Reality Chip": {
@@ -25010,7 +25010,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 22,
-    "rank": 184,
+    "rank": 185,
     "superrank": 199,
     "identity_rank": 23
   },
@@ -27164,7 +27164,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 29,
-    "rank": 177,
+    "rank": 178,
     "superrank": 168,
     "identity_rank": 21
   },
