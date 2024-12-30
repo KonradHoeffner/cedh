@@ -893,7 +893,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 212,
-    "superrank": 192,
+    "superrank": 193,
     "identity_rank": 12
   },
   "Archmage Emeritus": {
@@ -968,7 +968,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 219,
-    "superrank": 196,
+    "superrank": 197,
     "identity_rank": 13
   },
   "Archon of Valor's Reach": {
@@ -1396,7 +1396,7 @@ const cards =
       "Creature"
     ],
     "supercent": 51,
-    "rank": 185,
+    "rank": 184,
     "superrank": 105,
     "identity_rank": 3
   },
@@ -5429,7 +5429,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 220,
-    "superrank": 197,
+    "superrank": 198,
     "identity_rank": 14
   },
   "Deathrite Shaman": {
@@ -5524,7 +5524,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 17,
-    "rank": 149,
+    "rank": 150,
     "superrank": 230,
     "identity_rank": 36
   },
@@ -6191,9 +6191,9 @@ const cards =
       "Creature"
     ],
     "supercent": 19,
-    "rank": 181,
-    "superrank": 222,
-    "identity_rank": 43
+    "rank": 180,
+    "superrank": 221,
+    "identity_rank": 42
   },
   "Display of Power": {
     "img": "https://cards.scryfall.io/large/front/2/9/295b8595-5b4e-4fc8-8249-486d36e15f67.jpg?1686968845",
@@ -7653,7 +7653,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 207,
-    "superrank": 193,
+    "superrank": 194,
     "identity_rank": 25
   },
   "Ethersworn Canonist": {
@@ -7679,7 +7679,7 @@ const cards =
     ],
     "supercent": 19,
     "rank": 244,
-    "superrank": 223,
+    "superrank": 222,
     "identity_rank": 16
   },
   "Everflowing Chalice": {
@@ -8691,7 +8691,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 210,
-    "superrank": 194,
+    "superrank": 195,
     "identity_rank": 26
   },
   "Forbidden Orchard": {
@@ -8710,7 +8710,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 110,
-    "superrank": 190,
+    "superrank": 191,
     "identity_rank": 32
   },
   "Force of Despair": {
@@ -11690,7 +11690,7 @@ const cards =
       "Creature"
     ],
     "supercent": 30,
-    "rank": 148,
+    "rank": 149,
     "superrank": 162,
     "identity_rank": 13
   },
@@ -14882,9 +14882,9 @@ const cards =
       "Instant"
     ],
     "supercent": 24,
-    "rank": 151,
-    "superrank": 189,
-    "identity_rank": 35
+    "rank": 152,
+    "superrank": 190,
+    "identity_rank": 36
   },
   "Misdirection": {
     "img": "https://cards.scryfall.io/large/front/5/8/581ad59c-29e9-4498-a6fd-33bf21e8e7c4.jpg?1562380872",
@@ -16356,7 +16356,7 @@ const cards =
       "Instant"
     ],
     "supercent": 34,
-    "rank": 152,
+    "rank": 153,
     "superrank": 145,
     "identity_rank": 17
   },
@@ -16417,7 +16417,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 288,
-    "superrank": 195,
+    "superrank": 196,
     "identity_rank": 9
   },
   "Nykthos, Shrine to Nyx": {
@@ -16863,7 +16863,7 @@ const cards =
       "Land"
     ],
     "supercent": 47,
-    "rank": 182,
+    "rank": 181,
     "superrank": 116,
     "identity_rank": 6
   },
@@ -17316,15 +17316,15 @@ const cards =
     "power": "0",
     "toughness": "0",
     "name": "Phantasmal Image",
-    "count": 16,
+    "count": 15,
     "percent": 13,
     "types": [
       "Creature"
     ],
-    "supercent": 19,
-    "rank": 179,
-    "superrank": 221,
-    "identity_rank": 42
+    "supercent": 18,
+    "rank": 187,
+    "superrank": 225,
+    "identity_rank": 44
   },
   "Phelia, Exuberant Shepherd": {
     "img": "https://cards.scryfall.io/large/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1719466227",
@@ -17482,8 +17482,8 @@ const cards =
       "Land"
     ],
     "supercent": 23,
-    "rank": 183,
-    "superrank": 198,
+    "rank": 182,
+    "superrank": 199,
     "identity_rank": 22
   },
   "Phyrexian Unlife": {
@@ -17723,9 +17723,9 @@ const cards =
       "Creature"
     ],
     "supercent": 18,
-    "rank": 186,
-    "superrank": 224,
-    "identity_rank": 44
+    "rank": 185,
+    "superrank": 223,
+    "identity_rank": 43
   },
   "Polymorph": {
     "img": "https://cards.scryfall.io/large/front/f/b/fbae8702-a152-4c53-8a76-691a221f2475.jpg?1562722872",
@@ -18048,7 +18048,7 @@ const cards =
       "Land"
     ],
     "supercent": 17,
-    "rank": 150,
+    "rank": 151,
     "superrank": 231,
     "identity_rank": 37
   },
@@ -22243,7 +22243,7 @@ const cards =
     ],
     "supercent": 18,
     "rank": 143,
-    "superrank": 225,
+    "superrank": 224,
     "identity_rank": 35
   },
   "Spirebluff Canal": {
@@ -22724,7 +22724,7 @@ const cards =
       "Land"
     ],
     "supercent": 57,
-    "rank": 180,
+    "rank": 179,
     "superrank": 97,
     "identity_rank": 2
   },
@@ -23769,7 +23769,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 111,
-    "superrank": 191,
+    "superrank": 192,
     "identity_rank": 33
   },
   "Tamiyo, Inquisitive Student": {
@@ -23929,7 +23929,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 41,
-    "rank": 187,
+    "rank": 186,
     "superrank": 127,
     "identity_rank": 4
   },
@@ -24962,8 +24962,8 @@ const cards =
       "Sorcery"
     ],
     "supercent": 22,
-    "rank": 184,
-    "superrank": 200,
+    "rank": 183,
+    "superrank": 201,
     "identity_rank": 23
   },
   "Toxrill, the Corrosive": {
@@ -25523,7 +25523,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 292,
-    "superrank": 199,
+    "superrank": 200,
     "identity_rank": 10
   },
   "Ulamog, the Infinite Gyre": {
@@ -26088,15 +26088,15 @@ const cards =
     "power": "2",
     "toughness": "2",
     "name": "Valley Floodcaller",
-    "count": 19,
-    "percent": 16,
+    "count": 20,
+    "percent": 17,
     "types": [
       "Creature"
     ],
-    "supercent": 22,
-    "rank": 153,
-    "superrank": 201,
-    "identity_rank": 36
+    "supercent": 24,
+    "rank": 148,
+    "superrank": 189,
+    "identity_rank": 35
   },
   "Vampiric Tutor": {
     "img": "https://cards.scryfall.io/large/front/0/a/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d.jpg?1562276960",
