@@ -21,7 +21,6 @@ const decks =
       "Command Tower",
       "Crop Rotation",
       "Culling Ritual",
-      "Culling the Weak",
       "Dark Ritual",
       "Deathrite Shaman",
       "Deflecting Swat",
@@ -42,10 +41,11 @@ const decks =
       "Force of Will",
       "Gamble",
       "Gemstone Caverns",
-      "Gitaxian Probe",
       "Grand Abolisher",
       "Imperial Seal",
       "Intuition",
+      "Kinnan, Bonder Prodigy",
+      "Kutzil, Malamet Exemplar",
       "Lion's Eye Diamond",
       "Lotho, Corrupt Shirriff",
       "Lotus Petal",
@@ -56,6 +56,8 @@ const decks =
       "Mindbreak Trap",
       "Misty Rainforest",
       "Mnemonic Betrayal",
+      "Mockingbird",
+      "Mox Amber",
       "Mox Diamond",
       "Mox Opal",
       "Mystic Remora",
@@ -71,7 +73,6 @@ const decks =
       "Ragavan, Nimble Pilferer",
       "Ranger-Captain of Eos",
       "Rhystic Study",
-      "Rite of Flame",
       "Savannah",
       "Scalding Tarn",
       "Scrubland",
@@ -86,7 +87,6 @@ const decks =
       "Tainted Pact",
       "Thassa's Oracle",
       "The One Ring",
-      "Tinder Wall",
       "Tropical Island",
       "Tundra",
       "Underground Sea",
@@ -1469,6 +1469,7 @@ const decks =
       "Arid Mesa",
       "Bayou",
       "Birds of Paradise",
+      "Borne Upon a Wind",
       "Boseiju, Who Endures",
       "Brain Freeze",
       "Carpet of Flowers",
@@ -1554,7 +1555,6 @@ const decks =
       "Verdant Catacombs",
       "Volcanic Island",
       "Wild Growth",
-      "Winds of Change",
       "Windswept Heath",
       "Wishclaw Talisman",
       "Wooded Foothills",
@@ -7959,7 +7959,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Breakfast Hulk (cEDH)": {
+  "Second Breakfast Hulk (cEDH)": {
     "mainboard": [
       "Abrupt Decay",
       "Academy Rector",
@@ -8382,7 +8382,7 @@ const decks =
       "Jeska, Thrice Reborn"
     ]
   },
-  "Jeska/Ishai Jeskai CEDH": {
+  "Jeska/Ishai Jeskai cEDH": {
     "mainboard": [
       "Abrade",
       "An Offer You Can't Refuse",
@@ -11145,6 +11145,7 @@ const decks =
       "Ignoble Hierarch",
       "Imperial Seal",
       "Impulsive Pilferer",
+      "Krosan Wayfarer",
       "Last Chance",
       "Lion's Eye Diamond",
       "Lotus Petal",
@@ -11160,7 +11161,6 @@ const decks =
       "Necrodominance",
       "Necropotence",
       "Noxious Revival",
-      "Opposition Agent",
       "Orcish Bowmasters",
       "Overgrown Tomb",
       "Polluted Delta",
@@ -11171,8 +11171,6 @@ const decks =
       "Reanimate",
       "Red Elemental Blast",
       "Rite of Flame",
-      "Scalding Tarn",
-      "Scheming Symmetry",
       "Shifting Woodland",
       "Simian Spirit Guide",
       "Six",
@@ -11182,6 +11180,7 @@ const decks =
       "Taiga",
       "Tainted Pact",
       "Talisman of Resilience",
+      "Talon Gates of Madara",
       "The One Ring",
       "Tinder Wall",
       "Torch the Tower",
