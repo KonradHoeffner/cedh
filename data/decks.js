@@ -5079,6 +5079,7 @@ const decks =
       "Manifold Key",
       "Mastermind's Acquisition",
       "Mox Diamond",
+      "Mutavault",
       "Nashi, Moon Sage's Scion",
       "Necropotence",
       "Nykthos, Shrine to Nyx",
