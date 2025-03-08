@@ -32,7 +32,6 @@ const decks =
       "Emergence Zone",
       "Enlightened Tutor",
       "Esper Sentinel",
-      "Faerie Mastermind",
       "Fellwar Stone",
       "Fierce Guardianship",
       "Final Fortune",
@@ -94,6 +93,7 @@ const decks =
       "Underworld Breach",
       "Valley Floodcaller",
       "Vampiric Tutor",
+      "Veil of Summer",
       "Verdant Catacombs",
       "Volcanic Island",
       "Wheel of Fortune",
@@ -639,7 +639,6 @@ const decks =
       "Agatha's Soul Cauldron",
       "Ancient Tomb",
       "Arcane Signet",
-      "Astral Dragon",
       "Bayou",
       "Beseech the Mirror",
       "Birds of Paradise",
@@ -682,6 +681,7 @@ const decks =
       "Gush",
       "High Fae Trickster",
       "Horizon of Progress",
+      "Hullbreaker Horror",
       "Imperial Seal",
       "Into the Flood Maw",
       "Kinnan, Bonder Prodigy",
@@ -4634,7 +4634,6 @@ const decks =
       "Calix, Guided by Fate",
       "Carpet of Flowers",
       "Cavern of Souls",
-      "Champion of Lambholt",
       "Chrome Mox",
       "City of Brass",
       "Collector Ouphe",
@@ -4672,6 +4671,7 @@ const decks =
       "Kataki, War's Wage",
       "Kodama of the West Tree",
       "Kutzil, Malamet Exemplar",
+      "Land Tax",
       "Last March of the Ents",
       "Legolas's Quick Reflexes",
       "Leonin Arbiter",
@@ -4679,7 +4679,6 @@ const decks =
       "Llanowar Elves",
       "Lotus Petal",
       "Mana Confluence",
-      "March of the World Ooze",
       "Mox Diamond",
       "Null Rod",
       "Ocelot Pride",
@@ -4696,6 +4695,7 @@ const decks =
       "Serra Ascendant",
       "Serra's Sanctum",
       "Shalai, Voice of Plenty",
+      "Sheltered by Ghosts",
       "Sigarda, Font of Blessings",
       "Silence",
       "Sol Ring",
@@ -7115,7 +7115,7 @@ const decks =
       "Thrasios, Triton Hero"
     ]
   },
-  "[Cabal] Temur Spring": {
+  "Temur Spring": {
     "mainboard": [
       "Aether Channeler",
       "Ancient Tomb",
