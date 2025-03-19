@@ -9,7 +9,9 @@ const decks =
       "Arid Mesa",
       "Badlands",
       "Bayou",
+      "Beseech the Mirror",
       "Birds of Paradise",
+      "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
       "Bloodstained Mire",
       "Borne Upon a Wind",
       "Boseiju, Who Endures",
@@ -26,6 +28,7 @@ const decks =
       "Deathrite Shaman",
       "Deflecting Swat",
       "Demonic Consultation",
+      "Demonic Counsel",
       "Demonic Tutor",
       "Diabolic Intent",
       "Elvish Spirit Guide",
@@ -42,7 +45,6 @@ const decks =
       "Gamble",
       "Gemstone Caverns",
       "Grand Abolisher",
-      "Ignoble Hierarch",
       "Imperial Seal",
       "Intuition",
       "Kinnan, Bonder Prodigy",
@@ -67,7 +69,6 @@ const decks =
       "Orcish Bowmasters",
       "Otawara, Soaring City",
       "Pact of Negation",
-      "Plateau",
       "Polluted Delta",
       "Praetor's Grasp",
       "Ragavan, Nimble Pilferer",
@@ -84,10 +85,8 @@ const decks =
       "Snap",
       "Sol Ring",
       "Swan Song",
-      "Taiga",
       "Tainted Pact",
       "Thassa's Oracle",
-      "The One Ring",
       "Tinder Wall",
       "Tropical Island",
       "Tundra",
@@ -98,6 +97,7 @@ const decks =
       "Verdant Catacombs",
       "Volcanic Island",
       "Wheel of Fortune",
+      "Windfall",
       "Windswept Heath",
       "Wishclaw Talisman",
       "Wooded Foothills"
@@ -587,7 +587,6 @@ const decks =
       "Mox Amber",
       "Mox Diamond",
       "Mox Opal",
-      "Myrel, Shield of Argive",
       "Necropotence",
       "Opposition Agent",
       "Orcish Bowmasters",
@@ -625,6 +624,7 @@ const decks =
       "Valki, God of Lies // Tibalt, Cosmic Impostor",
       "Vampiric Tutor",
       "Verdant Catacombs",
+      "Voice of Victory",
       "Wheel of Fortune",
       "Windswept Heath",
       "Wishclaw Talisman",
@@ -706,6 +706,7 @@ const decks =
       "Mystic Remora",
       "Mystical Tutor",
       "Necropotence",
+      "Notion Thief",
       "Noxious Revival",
       "Opposition Agent",
       "Overgrown Tomb",
@@ -733,7 +734,6 @@ const decks =
       "Valley Floodcaller",
       "Vampiric Tutor",
       "Verdant Catacombs",
-      "Wandering Archaic // Explore the Vastlands",
       "Watery Grave"
     ],
     "commanders": [
@@ -5020,7 +5020,7 @@ const decks =
       "K'rrik, Son of Yawgmoth"
     ]
   },
-  "[Cabal] A Faster K'rrik Storm  (cEDH w/ Primer) *NEW*": {
+  "[Cabal] A Faster K'rrik Storm  (cEDH w/ Primer)": {
     "mainboard": [
       "Aetherflux Reservoir",
       "Agatha's Soul Cauldron",
