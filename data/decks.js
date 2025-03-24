@@ -740,7 +740,7 @@ const decks =
       "Glarb, Calamity's Augur"
     ]
   },
-  "FrogSi - CEDH Glarb Midrange Hulk/Reanimator": {
+  "[PROWESS] FrogSi - CEDH Glarb Hulk": {
     "mainboard": [
       "Abrupt Decay",
       "Activated Sleeper",
@@ -982,7 +982,6 @@ const decks =
       "Command Tower",
       "Crop Rotation",
       "Deadly Rollick",
-      "Deafening Silence",
       "Deathrite Shaman",
       "Delighted Halfling",
       "Delney, Streetwise Lookout",
@@ -1009,6 +1008,7 @@ const decks =
       "Gemstone Caverns",
       "Godless Shrine",
       "Grand Abolisher",
+      "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",
       "Imperial Seal",
       "Invasion of Ikoria // Zilortha, Apex of Ikoria",
       "Karmic Guide",
@@ -8441,6 +8441,7 @@ const decks =
       "Mana Vault",
       "Marsh Flats",
       "Mental Misstep",
+      "Mistrise Village",
       "Misty Rainforest",
       "Mockingbird",
       "Mountain",
@@ -8467,7 +8468,6 @@ const decks =
       "Shivan Reef",
       "Silence",
       "Simian Spirit Guide",
-      "Smothering Tithe",
       "Snap",
       "Sol Ring",
       "Spectator Seating",
