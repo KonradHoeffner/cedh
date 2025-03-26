@@ -2539,7 +2539,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 144,
-    "superrank": 141,
+    "superrank": 140,
     "identity_rank": 15
   },
   "Body Snatcher": {
@@ -4093,7 +4093,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 71,
-    "superrank": 138,
+    "superrank": 137,
     "identity_rank": 29
   },
   "Clearwater Pathway": {
@@ -5949,7 +5949,7 @@ const cards =
     ],
     "supercent": 97,
     "rank": 34,
-    "superrank": 16,
+    "superrank": 15,
     "identity_rank": 2
   },
   "Den of the Bugbear": {
@@ -6330,7 +6330,7 @@ const cards =
       "Instant"
     ],
     "supercent": 31,
-    "rank": 124,
+    "rank": 123,
     "superrank": 156,
     "identity_rank": 25
   },
@@ -8901,7 +8901,7 @@ const cards =
       "Land"
     ],
     "supercent": 22,
-    "rank": 125,
+    "rank": 124,
     "superrank": 194,
     "identity_rank": 34
   },
@@ -12386,7 +12386,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 41,
-    "rank": 121,
+    "rank": 120,
     "superrank": 124,
     "identity_rank": 11
   },
@@ -15410,7 +15410,7 @@ const cards =
       "Land"
     ],
     "supercent": 49,
-    "rank": 126,
+    "rank": 125,
     "superrank": 108,
     "identity_rank": 4
   },
@@ -17972,15 +17972,15 @@ const cards =
       "B"
     ],
     "name": "Praetor's Grasp",
-    "count": 26,
-    "percent": 22,
+    "count": 25,
+    "percent": 21,
     "types": [
       "Sorcery"
     ],
-    "supercent": 36,
-    "rank": 120,
-    "superrank": 137,
-    "identity_rank": 17
+    "supercent": 35,
+    "rank": 126,
+    "superrank": 141,
+    "identity_rank": 18
   },
   "Priest of Fell Rites": {
     "img": "https://cards.scryfall.io/large/front/d/1/d116329d-6de7-402c-821d-e9aeba9ad2b1.jpg?1626098629",
@@ -18776,9 +18776,9 @@ const cards =
       "Sorcery"
     ],
     "supercent": 36,
-    "rank": 123,
-    "superrank": 139,
-    "identity_rank": 18
+    "rank": 122,
+    "superrank": 138,
+    "identity_rank": 17
   },
   "Reckless Fireweaver": {
     "img": "https://cards.scryfall.io/large/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1576382167",
@@ -19303,14 +19303,14 @@ const cards =
       "U"
     ],
     "name": "Rhystic Study",
-    "count": 82,
+    "count": 81,
     "percent": 71,
     "types": [
       "Enchantment"
     ],
-    "supercent": 98,
-    "rank": 19,
-    "superrank": 14,
+    "supercent": 97,
+    "rank": 21,
+    "superrank": 17,
     "identity_rank": 3
   },
   "Ricochet Trap": {
@@ -20364,7 +20364,7 @@ const cards =
     ],
     "supercent": 97,
     "rank": 85,
-    "superrank": 17,
+    "superrank": 16,
     "identity_rank": 1
   },
   "Scryb Ranger": {
@@ -22207,7 +22207,7 @@ const cards =
       "Creature"
     ],
     "supercent": 31,
-    "rank": 122,
+    "rank": 121,
     "superrank": 155,
     "identity_rank": 24
   },
@@ -23688,7 +23688,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 214,
-    "superrank": 140,
+    "superrank": 139,
     "identity_rank": 3
   },
   "Talisman of Progress": {
@@ -24286,16 +24286,16 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "The One Ring",
-    "count": 81,
+    "count": 82,
     "percent": 71,
     "types": [
       "Legendary",
       "Artifact"
     ],
     "supercent": 71,
-    "rank": 21,
-    "superrank": 67,
-    "identity_rank": 18
+    "rank": 19,
+    "superrank": 66,
+    "identity_rank": 17
   },
   "The Reality Chip": {
     "img": "https://cards.scryfall.io/large/front/d/8/d859de3a-0be1-4e66-b438-1c3d4ee756cd.jpg?1654566909",
@@ -26278,7 +26278,7 @@ const cards =
     ],
     "supercent": 98,
     "rank": 32,
-    "superrank": 15,
+    "superrank": 14,
     "identity_rank": 1
   },
   "Vanquish the Horde": {
@@ -26479,8 +26479,8 @@ const cards =
     ],
     "supercent": 71,
     "rank": 20,
-    "superrank": 66,
-    "identity_rank": 17
+    "superrank": 67,
+    "identity_rank": 18
   },
   "Verity Circle": {
     "img": "https://cards.scryfall.io/large/front/3/d/3d866d26-b630-46d3-bcc2-b810c844cc89.jpg?1584830413",
