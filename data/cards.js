@@ -1173,14 +1173,14 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "Arid Mesa",
-    "count": 69,
-    "percent": 60,
+    "count": 68,
+    "percent": 59,
     "types": [
       "Land"
     ],
-    "supercent": 60,
-    "rank": 34,
-    "superrank": 88,
+    "supercent": 59,
+    "rank": 36,
+    "superrank": 91,
     "identity_rank": 24
   },
   "Artificial Evolution": {
@@ -1303,7 +1303,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 203,
-    "superrank": 145,
+    "superrank": 144,
     "identity_rank": 7
   },
   "Aura Shards": {
@@ -2053,8 +2053,8 @@ const cards =
       "Artifact"
     ],
     "supercent": 27,
-    "rank": 185,
-    "superrank": 167,
+    "rank": 186,
+    "superrank": 168,
     "identity_rank": 20
   },
   "Bitter Triumph": {
@@ -3472,7 +3472,7 @@ const cards =
     ],
     "supercent": 26,
     "rank": 102,
-    "superrank": 171,
+    "superrank": 172,
     "identity_rank": 30
   },
   "Caves of Koilos": {
@@ -5247,7 +5247,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 57,
-    "superrank": 91,
+    "superrank": 90,
     "identity_rank": 16
   },
   "Dakmor Salvage": {
@@ -5476,9 +5476,9 @@ const cards =
       "Creature"
     ],
     "supercent": 33,
-    "rank": 132,
-    "superrank": 148,
-    "identity_rank": 20
+    "rank": 131,
+    "superrank": 147,
+    "identity_rank": 19
   },
   "Daze": {
     "img": "https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1562632115",
@@ -5761,7 +5761,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 92,
-    "superrank": 90,
+    "superrank": 89,
     "identity_rank": 9
   },
   "Delightful Discovery": {
@@ -5901,7 +5901,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 97,
-    "rank": 35,
+    "rank": 34,
     "superrank": 16,
     "identity_rank": 2
   },
@@ -7532,15 +7532,15 @@ const cards =
       "B"
     ],
     "name": "Entomb",
-    "count": 25,
+    "count": 24,
     "percent": 21,
     "types": [
       "Instant"
     ],
-    "supercent": 35,
-    "rank": 126,
-    "superrank": 142,
-    "identity_rank": 19
+    "supercent": 33,
+    "rank": 132,
+    "superrank": 148,
+    "identity_rank": 20
   },
   "Ephemerate": {
     "img": "https://cards.scryfall.io/large/front/f/4/f48ab69d-8a01-4dcb-af70-31e2c62278df.jpg?1630616215",
@@ -7908,7 +7908,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 268,
-    "superrank": 168,
+    "superrank": 169,
     "identity_rank": 6
   },
   "Faerie Dreamthief": {
@@ -9184,8 +9184,8 @@ const cards =
       "Creature"
     ],
     "supercent": 27,
-    "rank": 188,
-    "superrank": 169,
+    "rank": 189,
+    "superrank": 170,
     "identity_rank": 21
   },
   "Gadrak, the Crown-Scourge": {
@@ -12124,7 +12124,7 @@ const cards =
     ],
     "supercent": 33,
     "rank": 109,
-    "superrank": 146,
+    "superrank": 145,
     "identity_rank": 22
   },
   "Isochron Scepter": {
@@ -13442,7 +13442,7 @@ const cards =
     ],
     "supercent": 33,
     "rank": 139,
-    "superrank": 147,
+    "superrank": 146,
     "identity_rank": 12
   },
   "Lightning Greaves": {
@@ -14159,7 +14159,7 @@ const cards =
     ],
     "supercent": 26,
     "rank": 135,
-    "superrank": 172,
+    "superrank": 173,
     "identity_rank": 30
   },
   "Mana Vault": {
@@ -14750,7 +14750,7 @@ const cards =
       "Land"
     ],
     "supercent": 28,
-    "rank": 131,
+    "rank": 130,
     "superrank": 163,
     "identity_rank": 27
   },
@@ -15171,7 +15171,7 @@ const cards =
     ],
     "supercent": 26,
     "rank": 134,
-    "superrank": 170,
+    "superrank": 171,
     "identity_rank": 29
   },
   "Mogg Salvage": {
@@ -15308,7 +15308,7 @@ const cards =
       "Land"
     ],
     "supercent": 47,
-    "rank": 128,
+    "rank": 127,
     "superrank": 113,
     "identity_rank": 5
   },
@@ -15403,7 +15403,7 @@ const cards =
       "Land"
     ],
     "supercent": 22,
-    "rank": 189,
+    "rank": 190,
     "superrank": 189,
     "identity_rank": 15
   },
@@ -15597,7 +15597,7 @@ const cards =
       "Instant"
     ],
     "supercent": 83,
-    "rank": 36,
+    "rank": 35,
     "superrank": 49,
     "identity_rank": 10
   },
@@ -17403,7 +17403,7 @@ const cards =
     ],
     "supercent": 28,
     "rank": 133,
-    "superrank": 165,
+    "superrank": 166,
     "identity_rank": 28
   },
   "Phyrexian Revoker": {
@@ -17696,7 +17696,7 @@ const cards =
       "Creature"
     ],
     "supercent": 16,
-    "rank": 191,
+    "rank": 192,
     "superrank": 227,
     "identity_rank": 46
   },
@@ -19353,7 +19353,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 80,
-    "superrank": 89,
+    "superrank": 88,
     "identity_rank": 8
   },
   "Riverglide Pathway": {
@@ -19653,7 +19653,7 @@ const cards =
     ],
     "supercent": 35,
     "rank": 240,
-    "superrank": 143,
+    "superrank": 142,
     "identity_rank": 2
   },
   "Sacred Guide": {
@@ -20537,7 +20537,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 13,
-    "rank": 186,
+    "rank": 187,
     "superrank": 263,
     "identity_rank": 42
   },
@@ -20632,7 +20632,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 45,
-    "rank": 129,
+    "rank": 128,
     "superrank": 116,
     "identity_rank": 9
   },
@@ -21576,7 +21576,7 @@ const cards =
       "Instant"
     ],
     "supercent": 28,
-    "rank": 130,
+    "rank": 129,
     "superrank": 162,
     "identity_rank": 26
   },
@@ -23570,7 +23570,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 47,
-    "rank": 127,
+    "rank": 126,
     "superrank": 110,
     "identity_rank": 4
   },
@@ -23722,7 +23722,7 @@ const cards =
     ],
     "supercent": 26,
     "rank": 105,
-    "superrank": 174,
+    "superrank": 175,
     "identity_rank": 32
   },
   "Tamiyo, Inquisitive Student": {
@@ -23954,7 +23954,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 243,
-    "superrank": 144,
+    "superrank": 143,
     "identity_rank": 5
   },
   "Temporal Trespass": {
@@ -24074,7 +24074,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 18,
-    "rank": 187,
+    "rank": 188,
     "superrank": 217,
     "identity_rank": 45
   },
@@ -25057,7 +25057,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 212,
-    "superrank": 166,
+    "superrank": 167,
     "identity_rank": 4
   },
   "Training Grounds": {
@@ -25673,14 +25673,14 @@ const cards =
       "U"
     ],
     "name": "Undercity Sewers",
-    "count": 14,
-    "percent": 12,
+    "count": 15,
+    "percent": 13,
     "types": [
       "Land"
     ],
-    "supercent": 26,
-    "rank": 192,
-    "superrank": 175,
+    "supercent": 28,
+    "rank": 185,
+    "superrank": 165,
     "identity_rank": 6
   },
   "Underground Mortuary": {
@@ -26114,7 +26114,7 @@ const cards =
     ],
     "supercent": 26,
     "rank": 104,
-    "superrank": 173,
+    "superrank": 174,
     "identity_rank": 31
   },
   "Utopia Sprawl": {
@@ -27331,7 +27331,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 25,
-    "rank": 190,
+    "rank": 191,
     "superrank": 182,
     "identity_rank": 22
   },
