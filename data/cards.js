@@ -646,7 +646,7 @@ const cards =
     ],
     "supercent": 63,
     "rank": 49,
-    "superrank": 82,
+    "superrank": 81,
     "identity_rank": 14
   },
   "Ancestral Anger": {
@@ -8322,14 +8322,14 @@ const cards =
       "G"
     ],
     "name": "Finale of Devastation",
-    "count": 36,
-    "percent": 31,
+    "count": 35,
+    "percent": 30,
     "types": [
       "Sorcery"
     ],
-    "supercent": 65,
-    "rank": 88,
-    "superrank": 79,
+    "supercent": 63,
+    "rank": 89,
+    "superrank": 84,
     "identity_rank": 8
   },
   "Finale of Promise": {
@@ -15431,7 +15431,7 @@ const cards =
     ],
     "supercent": 64,
     "rank": 28,
-    "superrank": 80,
+    "superrank": 79,
     "identity_rank": 21
   },
   "Muddle the Mixture": {
@@ -16512,7 +16512,7 @@ const cards =
     ],
     "supercent": 63,
     "rank": 66,
-    "superrank": 84,
+    "superrank": 83,
     "identity_rank": 9
   },
   "Opt": {
@@ -27181,7 +27181,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 55,
-    "rank": 89,
+    "rank": 88,
     "superrank": 99,
     "identity_rank": 9
   },
@@ -27408,7 +27408,7 @@ const cards =
     ],
     "supercent": 63,
     "rank": 30,
-    "superrank": 83,
+    "superrank": 82,
     "identity_rank": 22
   },
   "Wingcrafter": {
@@ -27500,7 +27500,7 @@ const cards =
     ],
     "supercent": 64,
     "rank": 63,
-    "superrank": 81,
+    "superrank": 80,
     "identity_rank": 8
   },
   "Witch Enchanter": {
