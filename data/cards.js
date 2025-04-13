@@ -96,7 +96,7 @@ const cards =
     ],
     "supercent": 73,
     "rank": 111,
-    "superrank": 62,
+    "superrank": 63,
     "identity_rank": 4
   },
   "Abstergo Entertainment": {
@@ -1771,7 +1771,7 @@ const cards =
       "Land"
     ],
     "supercent": 100,
-    "rank": 77,
+    "rank": 78,
     "superrank": 1,
     "identity_rank": 1
   },
@@ -5757,7 +5757,7 @@ const cards =
     ],
     "supercent": 71,
     "rank": 53,
-    "superrank": 63,
+    "superrank": 64,
     "identity_rank": 7
   },
   "Demonic Counsel": {
@@ -10074,14 +10074,14 @@ const cards =
     "power": "2",
     "toughness": "2",
     "name": "Grand Abolisher",
-    "count": 38,
-    "percent": 33,
+    "count": 39,
+    "percent": 34,
     "types": [
       "Creature"
     ],
-    "supercent": 71,
-    "rank": 78,
-    "superrank": 64,
+    "supercent": 73,
+    "rank": 77,
+    "superrank": 61,
     "identity_rank": 6
   },
   "Grapeshot": {
@@ -18291,7 +18291,7 @@ const cards =
     ],
     "supercent": 73,
     "rank": 62,
-    "superrank": 61,
+    "superrank": 62,
     "identity_rank": 3
   },
   "Rain of Filth": {

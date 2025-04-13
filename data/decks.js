@@ -1778,7 +1778,7 @@ const decks =
       "Stella Lee, Wild Card"
     ]
   },
-  "[cEDH] Flintstone Gummy ": {
+  "[cEDH Etali] Flintstone Gummy ": {
     "mainboard": [
       "Ancient Tomb",
       "Arcane Signet",
@@ -6521,6 +6521,7 @@ const decks =
       "Gamble",
       "Gemstone Caverns",
       "Gitaxian Probe",
+      "Grand Abolisher",
       "Ignoble Hierarch",
       "Imperial Seal",
       "Intuition",
@@ -6532,7 +6533,6 @@ const decks =
       "Marsh Flats",
       "Mental Misstep",
       "Mindbreak Trap",
-      "Mistrise Village",
       "Misty Rainforest",
       "Mockingbird",
       "Mox Diamond",
