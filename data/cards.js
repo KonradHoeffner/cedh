@@ -3981,14 +3981,14 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "City of Traitors",
-    "count": 43,
-    "percent": 37,
+    "count": 42,
+    "percent": 36,
     "types": [
       "Land"
     ],
-    "supercent": 37,
-    "rank": 70,
-    "superrank": 134,
+    "supercent": 36,
+    "rank": 72,
+    "superrank": 135,
     "identity_rank": 29
   },
   "Clearwater Pathway": {
@@ -5328,7 +5328,7 @@ const cards =
     ],
     "supercent": 83,
     "rank": 42,
-    "superrank": 47,
+    "superrank": 48,
     "identity_rank": 5
   },
   "Darkslick Shores": {
@@ -5972,7 +5972,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 59,
-    "rank": 71,
+    "rank": 70,
     "superrank": 90,
     "identity_rank": 10
   },
@@ -16031,7 +16031,7 @@ const cards =
     ],
     "supercent": 84,
     "rank": 178,
-    "superrank": 46,
+    "superrank": 47,
     "identity_rank": 1
   },
   "Noose Constrictor": {
@@ -16152,7 +16152,7 @@ const cards =
     ],
     "supercent": 36,
     "rank": 141,
-    "superrank": 135,
+    "superrank": 134,
     "identity_rank": 13
   },
   "Nuclear Fallout": {
@@ -16645,7 +16645,7 @@ const cards =
     ],
     "supercent": 84,
     "rank": 33,
-    "superrank": 45,
+    "superrank": 46,
     "identity_rank": 9
   },
   "Otherworldly Gaze": {
@@ -19977,14 +19977,14 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "Scalding Tarn",
-    "count": 95,
-    "percent": 83,
+    "count": 96,
+    "percent": 84,
     "types": [
       "Land"
     ],
-    "supercent": 83,
+    "supercent": 84,
     "rank": 14,
-    "superrank": 48,
+    "superrank": 44,
     "identity_rank": 14
   },
   "Scheming Symmetry": {
@@ -23395,7 +23395,7 @@ const cards =
     ],
     "supercent": 84,
     "rank": 41,
-    "superrank": 44,
+    "superrank": 45,
     "identity_rank": 4
   },
   "Takenuma, Abandoned Mire": {
@@ -27062,7 +27062,7 @@ const cards =
       "Land"
     ],
     "supercent": 79,
-    "rank": 72,
+    "rank": 71,
     "superrank": 55,
     "identity_rank": 2
   },
