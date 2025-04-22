@@ -3987,7 +3987,7 @@ const cards =
       "Land"
     ],
     "supercent": 36,
-    "rank": 72,
+    "rank": 71,
     "superrank": 135,
     "identity_rank": 29
   },
@@ -5195,7 +5195,7 @@ const cards =
     ],
     "supercent": 59,
     "rank": 59,
-    "superrank": 91,
+    "superrank": 90,
     "identity_rank": 16
   },
   "Dakmor Salvage": {
@@ -5471,7 +5471,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 118,
-    "superrank": 131,
+    "superrank": 132,
     "identity_rank": 16
   },
   "Deafening Silence": {
@@ -5684,7 +5684,7 @@ const cards =
     ],
     "supercent": 58,
     "rank": 96,
-    "superrank": 92,
+    "superrank": 91,
     "identity_rank": 9
   },
   "Delightful Discovery": {
@@ -5966,14 +5966,14 @@ const cards =
       "B"
     ],
     "name": "Diabolic Intent",
-    "count": 42,
-    "percent": 36,
+    "count": 41,
+    "percent": 35,
     "types": [
       "Sorcery"
     ],
-    "supercent": 59,
-    "rank": 70,
-    "superrank": 90,
+    "supercent": 57,
+    "rank": 72,
+    "superrank": 93,
     "identity_rank": 10
   },
   "Diabolic Tutor": {
@@ -9441,7 +9441,7 @@ const cards =
       "Creature"
     ],
     "supercent": 25,
-    "rank": 138,
+    "rank": 139,
     "superrank": 182,
     "identity_rank": 32
   },
@@ -9538,7 +9538,7 @@ const cards =
     ],
     "supercent": 37,
     "rank": 97,
-    "superrank": 133,
+    "superrank": 134,
     "identity_rank": 21
   },
   "Giver of Runes": {
@@ -13387,7 +13387,7 @@ const cards =
       "Instant"
     ],
     "supercent": 31,
-    "rank": 140,
+    "rank": 141,
     "superrank": 152,
     "identity_rank": 12
   },
@@ -13543,9 +13543,9 @@ const cards =
       "Creature"
     ],
     "supercent": 38,
-    "rank": 137,
-    "superrank": 132,
-    "identity_rank": 12
+    "rank": 138,
+    "superrank": 133,
+    "identity_rank": 13
   },
   "Llanowar Wastes": {
     "img": "https://cards.scryfall.io/large/front/6/1/610b7cd5-5532-45a9-acfe-24a818034d1c.jpg?1562917833",
@@ -16195,15 +16195,15 @@ const cards =
       "G"
     ],
     "name": "Noxious Revival",
-    "count": 20,
-    "percent": 17,
+    "count": 21,
+    "percent": 18,
     "types": [
       "Instant"
     ],
-    "supercent": 36,
-    "rank": 141,
-    "superrank": 134,
-    "identity_rank": 13
+    "supercent": 38,
+    "rank": 137,
+    "superrank": 131,
+    "identity_rank": 12
   },
   "Nuclear Fallout": {
     "img": "https://cards.scryfall.io/large/front/e/7/e717e4b0-a8c1-4411-b18a-1d17e7225503.jpg?1708742051",
@@ -18686,7 +18686,7 @@ const cards =
     ],
     "supercent": 58,
     "rank": 83,
-    "superrank": 93,
+    "superrank": 92,
     "identity_rank": 8
   },
   "Redshift, Rocketeer Chief": {
@@ -25089,7 +25089,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 25,
-    "rank": 139,
+    "rank": 140,
     "superrank": 183,
     "identity_rank": 33
   },
@@ -27017,7 +27017,7 @@ const cards =
       "Land"
     ],
     "supercent": 79,
-    "rank": 71,
+    "rank": 70,
     "superrank": 55,
     "identity_rank": 2
   },
