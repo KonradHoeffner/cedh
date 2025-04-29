@@ -1,5 +1,7 @@
 # Magic the Gathering cEDH Database Analysis
 
+[![build](https://github.com/KonradHoeffner/cedh/actions/workflows/build.yml/badge.svg)](https://github.com/KonradHoeffner/cedh/actions/workflows/build.yml)
+
 ## Requirements
 
 * python
