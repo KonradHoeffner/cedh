@@ -1800,6 +1800,7 @@ const decks =
       "Carpet of Flowers",
       "Chrome Mox",
       "City of Brass",
+      "Clever Impersonator",
       "Command Tower",
       "Copy Enchantment",
       "Crop Rotation",
@@ -1864,7 +1865,6 @@ const decks =
       "Survival of the Fittest",
       "Swan Song",
       "Tainted Pact",
-      "Talion, the Kindly Lord",
       "Talon Gates of Madara",
       "Thassa's Oracle",
       "Toxrill, the Corrosive",
@@ -6186,7 +6186,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "[SNC] Turtleguide": {
+  "[ZEN] Turtleguide": {
     "mainboard": [
       "Abrupt Decay",
       "Agatha's Soul Cauldron",
@@ -6258,7 +6258,6 @@ const decks =
       "Otawara, Soaring City",
       "Pact of Negation",
       "Polluted Delta",
-      "Retraction Helix",
       "Rhystic Study",
       "Sacred Guide",
       "Savannah",
@@ -6285,7 +6284,8 @@ const decks =
       "Watery Grave",
       "Wild Growth",
       "Windswept Heath",
-      "Worldly Tutor"
+      "Worldly Tutor",
+      "Yisan, the Wanderer Bard"
     ],
     "commanders": [
       "Thrasios, Triton Hero",
