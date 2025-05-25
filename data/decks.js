@@ -8690,6 +8690,7 @@ const decks =
       "Vampiric Tutor",
       "Veil of Summer",
       "Verdant Catacombs",
+      "Vexing Bauble",
       "Warren Soultrader",
       "Wheel of Fortune",
       "Windswept Heath",

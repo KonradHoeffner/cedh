@@ -636,7 +636,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 334,
-    "superrank": 315,
+    "superrank": 316,
     "identity_rank": 26
   },
   "Angrath's Marauders": {
@@ -1084,7 +1084,7 @@ const cards =
       "Instant"
     ],
     "supercent": 28,
-    "rank": 231,
+    "rank": 232,
     "superrank": 163,
     "identity_rank": 7
   },
@@ -1446,7 +1446,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 266,
-    "superrank": 310,
+    "superrank": 311,
     "identity_rank": 65
   },
   "Barbarian Ring": {
@@ -3940,7 +3940,7 @@ const cards =
       "Instant"
     ],
     "supercent": 12,
-    "rank": 232,
+    "rank": 233,
     "superrank": 269,
     "identity_rank": 58
   },
@@ -4054,7 +4054,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 267,
-    "superrank": 311,
+    "superrank": 312,
     "identity_rank": 66
   },
   "Consider": {
@@ -5656,7 +5656,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 294,
-    "superrank": 312,
+    "superrank": 313,
     "identity_rank": 39
   },
   "Doorkeeper Thrull": {
@@ -5707,7 +5707,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 333,
-    "superrank": 314,
+    "superrank": 315,
     "identity_rank": 38
   },
   "Dovin's Veto": {
@@ -7038,7 +7038,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 254,
-    "superrank": 304,
+    "superrank": 305,
     "identity_rank": 64
   },
   "Faeburrow Elder": {
@@ -7631,7 +7631,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 270,
-    "superrank": 316,
+    "superrank": 317,
     "identity_rank": 67
   },
   "Flare of Duplication": {
@@ -8155,7 +8155,7 @@ const cards =
       "Creature"
     ],
     "supercent": 21,
-    "rank": 223,
+    "rank": 224,
     "superrank": 200,
     "identity_rank": 29
   },
@@ -9377,7 +9377,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 14,
-    "rank": 228,
+    "rank": 229,
     "superrank": 246,
     "identity_rank": 28
   },
@@ -10875,9 +10875,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 10,
-    "rank": 226,
-    "superrank": 305,
-    "identity_rank": 46
+    "rank": 227,
+    "superrank": 306,
+    "identity_rank": 47
   },
   "Izzet Signet": {
     "img": "https://cards.scryfall.io/large/front/a/b/ab29ff99-b246-49e8-bb77-c7906b502232.jpg?1668111058",
@@ -12758,7 +12758,7 @@ const cards =
       "Instant"
     ],
     "supercent": 13,
-    "rank": 222,
+    "rank": 223,
     "superrank": 259,
     "identity_rank": 57
   },
@@ -15092,7 +15092,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 329,
-    "superrank": 308,
+    "superrank": 309,
     "identity_rank": 25
   },
   "Overgrown Tomb": {
@@ -15728,7 +15728,7 @@ const cards =
       "Land"
     ],
     "supercent": 20,
-    "rank": 225,
+    "rank": 226,
     "superrank": 207,
     "identity_rank": 14
   },
@@ -16450,7 +16450,7 @@ const cards =
       "Instant"
     ],
     "supercent": 16,
-    "rank": 224,
+    "rank": 225,
     "superrank": 234,
     "identity_rank": 27
   },
@@ -16963,7 +16963,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 253,
-    "superrank": 303,
+    "superrank": 304,
     "identity_rank": 63
   },
   "Reshape": {
@@ -17601,7 +17601,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 629,
-    "superrank": 306,
+    "superrank": 307,
     "identity_rank": 8
   },
   "Samut, Voice of Dissent": {
@@ -17842,7 +17842,7 @@ const cards =
       "Instant"
     ],
     "supercent": 14,
-    "rank": 229,
+    "rank": 230,
     "superrank": 247,
     "identity_rank": 29
   },
@@ -17885,7 +17885,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 293,
-    "superrank": 309,
+    "superrank": 310,
     "identity_rank": 38
   },
   "Scholar of the Ages": {
@@ -18999,7 +18999,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 331,
-    "superrank": 313,
+    "superrank": 314,
     "identity_rank": 37
   },
   "Skirge Familiar": {
@@ -19371,7 +19371,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 306,
-    "superrank": 317,
+    "superrank": 318,
     "identity_rank": 40
   },
   "Snuff Out": {
@@ -20400,7 +20400,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 276,
-    "superrank": 318,
+    "superrank": 319,
     "identity_rank": 68
   },
   "Stubborn Denial": {
@@ -21125,7 +21125,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 33,
-    "rank": 230,
+    "rank": 231,
     "superrank": 143,
     "identity_rank": 3
   },
@@ -22243,7 +22243,7 @@ const cards =
       "Creature"
     ],
     "supercent": 42,
-    "rank": 227,
+    "rank": 228,
     "superrank": 121,
     "identity_rank": 2
   },
@@ -22474,7 +22474,7 @@ const cards =
       "Land"
     ],
     "supercent": 25,
-    "rank": 233,
+    "rank": 234,
     "superrank": 175,
     "identity_rank": 4
   },
@@ -23067,7 +23067,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 517,
-    "superrank": 307,
+    "superrank": 308,
     "identity_rank": 9
   },
   "Underworld Breach": {
@@ -23715,15 +23715,15 @@ const cards =
     "type_line": "Artifact",
     "color_identity": [],
     "name": "Vexing Bauble",
-    "count": 8,
-    "percent": 9,
+    "count": 9,
+    "percent": 10,
     "types": [
       "Artifact"
     ],
-    "supercent": 9,
-    "rank": 234,
-    "superrank": 319,
-    "identity_rank": 47
+    "supercent": 10,
+    "rank": 222,
+    "superrank": 303,
+    "identity_rank": 46
   },
   "Vexing Shusher": {
     "img": "https://cards.scryfall.io/large/front/a/e/ae04d776-c9e3-4ff7-998d-d264754d61db.jpg?1562834647",
