@@ -187,7 +187,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 82,
-    "superrank": 100,
+    "superrank": 101,
     "identity_rank": 12
   },
   "Adaptive Automaton": {
@@ -2273,7 +2273,7 @@ const cards =
       "Creature"
     ],
     "supercent": 36,
-    "rank": 146,
+    "rank": 145,
     "superrank": 135,
     "identity_rank": 14
   },
@@ -4142,15 +4142,15 @@ const cards =
       "U"
     ],
     "name": "Copy Artifact",
-    "count": 16,
-    "percent": 18,
+    "count": 15,
+    "percent": 17,
     "types": [
       "Enchantment"
     ],
-    "supercent": 24,
-    "rank": 139,
-    "superrank": 175,
-    "identity_rank": 32
+    "supercent": 23,
+    "rank": 146,
+    "superrank": 185,
+    "identity_rank": 35
   },
   "Copy Enchantment": {
     "img": "https://cards.scryfall.io/large/front/d/c/dc25aaff-8ed8-43ce-9340-d9a76d922da8.jpg?1705528103",
@@ -4444,7 +4444,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 75,
-    "rank": 111,
+    "rank": 112,
     "superrank": 56,
     "identity_rank": 3
   },
@@ -4468,7 +4468,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 84,
-    "superrank": 101,
+    "superrank": 102,
     "identity_rank": 13
   },
   "Cultist of the Absolute": {
@@ -4878,7 +4878,7 @@ const cards =
       "Instant"
     ],
     "supercent": 40,
-    "rank": 108,
+    "rank": 109,
     "superrank": 129,
     "identity_rank": 16
   },
@@ -5541,7 +5541,7 @@ const cards =
       "Instant"
     ],
     "supercent": 33,
-    "rank": 110,
+    "rank": 111,
     "superrank": 147,
     "identity_rank": 24
   },
@@ -6581,7 +6581,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 206,
-    "superrank": 184,
+    "superrank": 183,
     "identity_rank": 25
   },
   "Enduring Vitality": {
@@ -6974,7 +6974,7 @@ const cards =
     ],
     "supercent": 52,
     "rank": 43,
-    "superrank": 99,
+    "superrank": 100,
     "identity_rank": 26
   },
   "Expedite": {
@@ -7448,7 +7448,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 103,
-    "superrank": 102,
+    "superrank": 103,
     "identity_rank": 9
   },
   "Final Parting": {
@@ -7678,7 +7678,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 183,
-    "superrank": 181,
+    "superrank": 180,
     "identity_rank": 15
   },
   "Flare of Fortitude": {
@@ -8012,7 +8012,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 200,
-    "superrank": 179,
+    "superrank": 178,
     "identity_rank": 23
   },
   "Force of Will": {
@@ -8082,7 +8082,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 201,
-    "superrank": 180,
+    "superrank": 179,
     "identity_rank": 24
   },
   "Forsaken Miner": {
@@ -8462,9 +8462,9 @@ const cards =
       "Instant"
     ],
     "supercent": 23,
-    "rank": 143,
-    "superrank": 185,
-    "identity_rank": 35
+    "rank": 142,
+    "superrank": 184,
+    "identity_rank": 34
   },
   "Gilded Drake": {
     "img": "https://cards.scryfall.io/large/front/8/d/8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf.jpg?1562924943",
@@ -10510,7 +10510,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 184,
-    "superrank": 182,
+    "superrank": 181,
     "identity_rank": 16
   },
   "Imperial Seal": {
@@ -11411,7 +11411,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 138,
-    "superrank": 103,
+    "superrank": 104,
     "identity_rank": 3
   },
   "Kitsa, Otterball Elite": {
@@ -12123,7 +12123,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 44,
-    "superrank": 105,
+    "superrank": 106,
     "identity_rank": 27
   },
   "Liquimetal Torque": {
@@ -13169,7 +13169,7 @@ const cards =
       "Land"
     ],
     "supercent": 33,
-    "rank": 109,
+    "rank": 110,
     "superrank": 146,
     "identity_rank": 23
   },
@@ -13476,9 +13476,9 @@ const cards =
       "Land"
     ],
     "supercent": 24,
-    "rank": 140,
-    "superrank": 176,
-    "identity_rank": 33
+    "rank": 139,
+    "superrank": 175,
+    "identity_rank": 32
   },
   "Misty Rainforest": {
     "img": "https://cards.scryfall.io/large/front/c/6/c6cad746-a1dc-4739-9707-9c12c42e141a.jpg?1626103881",
@@ -13537,14 +13537,14 @@ const cards =
       "U"
     ],
     "name": "Mnemonic Betrayal",
-    "count": 21,
-    "percent": 24,
+    "count": 22,
+    "percent": 25,
     "types": [
       "Sorcery"
     ],
-    "supercent": 50,
-    "rank": 112,
-    "superrank": 106,
+    "supercent": 52,
+    "rank": 108,
+    "superrank": 98,
     "identity_rank": 3
   },
   "Mobile Homestead": {
@@ -13866,7 +13866,7 @@ const cards =
     ],
     "supercent": 52,
     "rank": 42,
-    "superrank": 98,
+    "superrank": 99,
     "identity_rank": 25
   },
   "Mox Diamond": {
@@ -14625,7 +14625,7 @@ const cards =
       "Instant"
     ],
     "supercent": 36,
-    "rank": 144,
+    "rank": 143,
     "superrank": 134,
     "identity_rank": 13
   },
@@ -18641,7 +18641,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 197,
-    "superrank": 177,
+    "superrank": 176,
     "identity_rank": 21
   },
   "Shinka, the Bloodsoaked Keep": {
@@ -20853,7 +20853,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 198,
-    "superrank": 178,
+    "superrank": 177,
     "identity_rank": 22
   },
   "Sylvan Safekeeper": {
@@ -21194,7 +21194,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 48,
-    "rank": 142,
+    "rank": 141,
     "superrank": 111,
     "identity_rank": 2
   },
@@ -22607,9 +22607,9 @@ const cards =
       "Sorcery"
     ],
     "supercent": 24,
-    "rank": 141,
-    "superrank": 183,
-    "identity_rank": 34
+    "rank": 140,
+    "superrank": 182,
+    "identity_rank": 33
   },
   "Treasonous Ogre": {
     "img": "https://cards.scryfall.io/large/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.jpg?1562866402",
@@ -23062,7 +23062,7 @@ const cards =
       "Land"
     ],
     "supercent": 35,
-    "rank": 145,
+    "rank": 144,
     "superrank": 140,
     "identity_rank": 6
   },
@@ -23703,7 +23703,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 114,
-    "superrank": 104,
+    "superrank": 105,
     "identity_rank": 11
   },
   "Veilstone Amulet": {
