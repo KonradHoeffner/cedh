@@ -1697,7 +1697,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 46,
-    "rank": 95,
+    "rank": 94,
     "superrank": 113,
     "identity_rank": 15
   },
@@ -4362,7 +4362,7 @@ const cards =
     ],
     "supercent": 53,
     "rank": 107,
-    "superrank": 97,
+    "superrank": 98,
     "identity_rank": 10
   },
   "Cryptic Trilobite": {
@@ -5273,7 +5273,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 326,
-    "superrank": 161,
+    "superrank": 160,
     "identity_rank": 2
   },
   "Deserted Temple": {
@@ -6951,15 +6951,15 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "Exotic Orchard",
-    "count": 46,
-    "percent": 52,
+    "count": 47,
+    "percent": 54,
     "types": [
       "Land"
     ],
-    "supercent": 52,
-    "rank": 43,
-    "superrank": 100,
-    "identity_rank": 26
+    "supercent": 54,
+    "rank": 41,
+    "superrank": 97,
+    "identity_rank": 25
   },
   "Expedite": {
     "img": "https://cards.scryfall.io/large/front/5/9/59c65eb7-4353-45ce-9c2e-1791c2804ccf.jpg?1562913245",
@@ -11565,7 +11565,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 257,
-    "superrank": 160,
+    "superrank": 159,
     "identity_rank": 5
   },
   "Laboratory Maniac": {
@@ -12176,7 +12176,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 178,
-    "superrank": 159,
+    "superrank": 158,
     "identity_rank": 18
   },
   "Llanowar Wastes": {
@@ -12274,7 +12274,7 @@ const cards =
       "Creature"
     ],
     "supercent": 83,
-    "rank": 96,
+    "rank": 95,
     "superrank": 48,
     "identity_rank": 2
   },
@@ -13530,7 +13530,7 @@ const cards =
     ],
     "supercent": 52,
     "rank": 108,
-    "superrank": 98,
+    "superrank": 99,
     "identity_rank": 3
   },
   "Mobile Homestead": {
@@ -13851,9 +13851,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 52,
-    "rank": 42,
-    "superrank": 99,
-    "identity_rank": 25
+    "rank": 43,
+    "superrank": 100,
+    "identity_rank": 26
   },
   "Mox Diamond": {
     "img": "https://cards.scryfall.io/large/front/2/8/28028830-83ed-45e2-b495-3b9ad9d3e988.jpg?1562596376",
@@ -16142,7 +16142,7 @@ const cards =
     ],
     "supercent": 28,
     "rank": 160,
-    "superrank": 162,
+    "superrank": 161,
     "identity_rank": 12
   },
   "Prophet of Distortion": {
@@ -20955,7 +20955,7 @@ const cards =
       "Instant"
     ],
     "supercent": 85,
-    "rank": 41,
+    "rank": 42,
     "superrank": 45,
     "identity_rank": 5
   },
@@ -21216,15 +21216,15 @@ const cards =
     "type_line": "Land \u2014 Gate",
     "color_identity": [],
     "name": "Talon Gates of Madara",
-    "count": 26,
-    "percent": 29,
+    "count": 25,
+    "percent": 28,
     "types": [
       "Land"
     ],
-    "supercent": 29,
-    "rank": 94,
-    "superrank": 158,
-    "identity_rank": 31
+    "supercent": 28,
+    "rank": 97,
+    "superrank": 163,
+    "identity_rank": 32
   },
   "Tamiyo, Inquisitive Student": {
     "img": "https://cards.scryfall.io/large/front/f/3/f3c4fb55-5b01-4013-b7f3-d8ec3585cde2.jpg?1748260644",
@@ -23483,9 +23483,9 @@ const cards =
       "Land"
     ],
     "supercent": 28,
-    "rank": 97,
-    "superrank": 163,
-    "identity_rank": 32
+    "rank": 96,
+    "superrank": 162,
+    "identity_rank": 31
   },
   "Utopia Sprawl": {
     "img": "https://cards.scryfall.io/large/front/0/f/0fc7bf24-381f-459c-b6b5-8bd4d3b5cd3f.jpg?1702416111",
@@ -24347,7 +24347,7 @@ const cards =
     "identity_rank": 3
   },
   "Warping Wail": {
-    "img": "https://cards.scryfall.io/large/front/f/2/f2ef4db8-b51c-4f52-84f1-6fee31c4a14c.jpg?1562943843",
+    "img": "https://cards.scryfall.io/large/front/f/2/f2ef4db8-b51c-4f52-84f1-6fee31c4a14c.jpg?1748988247",
     "date": "2016-01-22",
     "colors": [],
     "mana_cost": "{1}{C}",
