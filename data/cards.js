@@ -737,7 +737,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 307,
-    "superrank": 273,
+    "superrank": 272,
     "identity_rank": 36
   },
   "Arcane Signet": {
@@ -756,7 +756,7 @@ const cards =
     ],
     "supercent": 80,
     "rank": 15,
-    "superrank": 52,
+    "superrank": 53,
     "identity_rank": 15
   },
   "Archdruid's Charm": {
@@ -1257,7 +1257,7 @@ const cards =
       "Creature"
     ],
     "supercent": 41,
-    "rank": 205,
+    "rank": 206,
     "superrank": 126,
     "identity_rank": 3
   },
@@ -1771,7 +1771,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 347,
-    "superrank": 274,
+    "superrank": 273,
     "identity_rank": 8
   },
   "Biophagus": {
@@ -1863,7 +1863,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 21,
-    "rank": 211,
+    "rank": 212,
     "superrank": 191,
     "identity_rank": 26
   },
@@ -2276,9 +2276,9 @@ const cards =
       "Land"
     ],
     "supercent": 70,
-    "rank": 22,
-    "superrank": 66,
-    "identity_rank": 17
+    "rank": 21,
+    "superrank": 65,
+    "identity_rank": 16
   },
   "Bloom Tender": {
     "img": "https://cards.scryfall.io/large/front/d/7/d7cc2828-dfe7-410b-9735-10bb7211f0f5.jpg?1562940634",
@@ -2370,7 +2370,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 262,
-    "superrank": 283,
+    "superrank": 282,
     "identity_rank": 34
   },
   "Bolt Bend": {
@@ -2535,7 +2535,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 478,
-    "superrank": 281,
+    "superrank": 280,
     "identity_rank": 7
   },
   "Bovine Intervention": {
@@ -4176,7 +4176,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 13,
-    "rank": 214,
+    "rank": 215,
     "superrank": 256,
     "identity_rank": 53
   },
@@ -4362,7 +4362,7 @@ const cards =
     ],
     "supercent": 53,
     "rank": 107,
-    "superrank": 98,
+    "superrank": 99,
     "identity_rank": 10
   },
   "Cryptic Trilobite": {
@@ -4424,7 +4424,7 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 216,
+    "rank": 217,
     "superrank": 299,
     "identity_rank": 45
   },
@@ -4450,7 +4450,7 @@ const cards =
     ],
     "supercent": 75,
     "rank": 113,
-    "superrank": 56,
+    "superrank": 57,
     "identity_rank": 3
   },
   "Culling the Weak": {
@@ -4561,7 +4561,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 10,
-    "rank": 217,
+    "rank": 218,
     "superrank": 300,
     "identity_rank": 46
   },
@@ -4812,7 +4812,7 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 188,
+    "rank": 187,
     "superrank": 205,
     "identity_rank": 23
   },
@@ -5197,7 +5197,7 @@ const cards =
     ],
     "supercent": 75,
     "rank": 49,
-    "superrank": 57,
+    "superrank": 58,
     "identity_rank": 6
   },
   "Demonic Counsel": {
@@ -5524,7 +5524,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 274,
-    "superrank": 286,
+    "superrank": 285,
     "identity_rank": 35
   },
   "Dispel": {
@@ -6013,7 +6013,7 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 208,
+    "rank": 209,
     "superrank": 199,
     "identity_rank": 17
   },
@@ -6419,7 +6419,7 @@ const cards =
       "Creature"
     ],
     "supercent": 26,
-    "rank": 189,
+    "rank": 188,
     "superrank": 170,
     "identity_rank": 19
   },
@@ -6445,7 +6445,7 @@ const cards =
     ],
     "supercent": 78,
     "rank": 69,
-    "superrank": 54,
+    "superrank": 55,
     "identity_rank": 4
   },
   "Emergence Zone": {
@@ -6585,7 +6585,7 @@ const cards =
       "Creature"
     ],
     "supercent": 24,
-    "rank": 204,
+    "rank": 205,
     "superrank": 185,
     "identity_rank": 25
   },
@@ -6957,9 +6957,9 @@ const cards =
       "Land"
     ],
     "supercent": 54,
-    "rank": 41,
-    "superrank": 97,
-    "identity_rank": 25
+    "rank": 42,
+    "superrank": 98,
+    "identity_rank": 26
   },
   "Expedite": {
     "img": "https://cards.scryfall.io/large/front/5/9/59c65eb7-4353-45ce-9c2e-1791c2804ccf.jpg?1562913245",
@@ -9294,7 +9294,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 26,
-    "rank": 190,
+    "rank": 189,
     "superrank": 171,
     "identity_rank": 20
   },
@@ -10441,14 +10441,14 @@ const cards =
     "power": "0",
     "toughness": "1",
     "name": "Ignoble Hierarch",
-    "count": 9,
-    "percent": 10,
+    "count": 10,
+    "percent": 11,
     "types": [
       "Creature"
     ],
-    "supercent": 75,
-    "rank": 220,
-    "superrank": 58,
+    "supercent": 83,
+    "rank": 192,
+    "superrank": 48,
     "identity_rank": 1
   },
   "Imp's Mischief": {
@@ -12275,7 +12275,7 @@ const cards =
     ],
     "supercent": 83,
     "rank": 95,
-    "superrank": 48,
+    "superrank": 49,
     "identity_rank": 2
   },
   "Lotus Bloom": {
@@ -12769,7 +12769,7 @@ const cards =
       "Instant"
     ],
     "supercent": 13,
-    "rank": 219,
+    "rank": 220,
     "superrank": 259,
     "identity_rank": 55
   },
@@ -13111,7 +13111,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 371,
-    "superrank": 279,
+    "superrank": 278,
     "identity_rank": 7
   },
   "Might of the Meek": {
@@ -13530,7 +13530,7 @@ const cards =
     ],
     "supercent": 52,
     "rank": 108,
-    "superrank": 99,
+    "superrank": 100,
     "identity_rank": 3
   },
   "Mobile Homestead": {
@@ -13844,16 +13844,16 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "Mox Amber",
-    "count": 46,
-    "percent": 52,
+    "count": 47,
+    "percent": 54,
     "types": [
       "Legendary",
       "Artifact"
     ],
-    "supercent": 52,
-    "rank": 43,
-    "superrank": 100,
-    "identity_rank": 26
+    "supercent": 54,
+    "rank": 41,
+    "superrank": 97,
+    "identity_rank": 25
   },
   "Mox Diamond": {
     "img": "https://cards.scryfall.io/large/front/2/8/28028830-83ed-45e2-b495-3b9ad9d3e988.jpg?1562596376",
@@ -14026,7 +14026,7 @@ const cards =
     ],
     "supercent": 80,
     "rank": 37,
-    "superrank": 53,
+    "superrank": 54,
     "identity_rank": 12
   },
   "Najeela, the Blade-Blossom": {
@@ -14056,7 +14056,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 834,
-    "superrank": 282,
+    "superrank": 281,
     "identity_rank": 1
   },
   "Nanogene Conversion": {
@@ -14264,7 +14264,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 16,
-    "rank": 210,
+    "rank": 211,
     "superrank": 222,
     "identity_rank": 25
   },
@@ -14491,7 +14491,7 @@ const cards =
     ],
     "supercent": 82,
     "rank": 155,
-    "superrank": 51,
+    "superrank": 52,
     "identity_rank": 1
   },
   "Noose Constrictor": {
@@ -15278,7 +15278,7 @@ const cards =
       "Instant"
     ],
     "supercent": 23,
-    "rank": 207,
+    "rank": 208,
     "superrank": 188,
     "identity_rank": 13
   },
@@ -15346,7 +15346,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 258,
-    "superrank": 278,
+    "superrank": 277,
     "identity_rank": 33
   },
   "Pentad Prism": {
@@ -15871,7 +15871,7 @@ const cards =
       "Creature"
     ],
     "supercent": 13,
-    "rank": 209,
+    "rank": 210,
     "superrank": 254,
     "identity_rank": 52
   },
@@ -15940,7 +15940,7 @@ const cards =
       "Instant"
     ],
     "supercent": 13,
-    "rank": 215,
+    "rank": 216,
     "superrank": 257,
     "identity_rank": 54
   },
@@ -16907,7 +16907,7 @@ const cards =
       "Land"
     ],
     "supercent": 29,
-    "rank": 212,
+    "rank": 213,
     "superrank": 156,
     "identity_rank": 6
   },
@@ -17529,7 +17529,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 256,
-    "superrank": 277,
+    "superrank": 276,
     "identity_rank": 32
   },
   "Saheeli Rai": {
@@ -17895,7 +17895,7 @@ const cards =
     ],
     "supercent": 83,
     "rank": 14,
-    "superrank": 49,
+    "superrank": 50,
     "identity_rank": 14
   },
   "Scheming Symmetry": {
@@ -18299,9 +18299,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 12,
-    "rank": 192,
-    "superrank": 280,
-    "identity_rank": 44
+    "rank": 191,
+    "superrank": 279,
+    "identity_rank": 43
   },
   "Sephiroth, Fabled SOLDIER": {
     "img": "https://cards.scryfall.io/large/front/f/1/f150d6e9-3da6-4655-9c63-dd34525d08a1.jpg?1748707859",
@@ -19754,7 +19754,7 @@ const cards =
       "Instant"
     ],
     "supercent": 15,
-    "rank": 202,
+    "rank": 203,
     "superrank": 241,
     "identity_rank": 51
   },
@@ -20392,7 +20392,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 300,
-    "superrank": 284,
+    "superrank": 283,
     "identity_rank": 23
   },
   "Strip Mine": {
@@ -20770,7 +20770,7 @@ const cards =
       "Instant"
     ],
     "supercent": 93,
-    "rank": 23,
+    "rank": 22,
     "superrank": 27,
     "identity_rank": 6
   },
@@ -20955,7 +20955,7 @@ const cards =
       "Instant"
     ],
     "supercent": 85,
-    "rank": 42,
+    "rank": 43,
     "superrank": 45,
     "identity_rank": 5
   },
@@ -21071,7 +21071,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 32,
-    "rank": 203,
+    "rank": 204,
     "superrank": 150,
     "identity_rank": 5
   },
@@ -21546,7 +21546,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 16,
-    "rank": 191,
+    "rank": 190,
     "superrank": 230,
     "identity_rank": 47
   },
@@ -21707,16 +21707,16 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "The One Ring",
-    "count": 62,
-    "percent": 71,
+    "count": 61,
+    "percent": 70,
     "types": [
       "Legendary",
       "Artifact"
     ],
-    "supercent": 71,
-    "rank": 21,
-    "superrank": 65,
-    "identity_rank": 16
+    "supercent": 70,
+    "rank": 24,
+    "superrank": 67,
+    "identity_rank": 18
   },
   "The Sibsig Ceremony": {
     "img": "https://cards.scryfall.io/large/front/6/d/6daa156c-478f-47dd-9284-b95e82ccfd68.jpg?1748265235",
@@ -22173,7 +22173,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 302,
-    "superrank": 285,
+    "superrank": 284,
     "identity_rank": 24
   },
   "Tidal Barracuda": {
@@ -22246,7 +22246,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 234,
-    "superrank": 275,
+    "superrank": 274,
     "identity_rank": 58
   },
   "Time Spiral": {
@@ -22451,7 +22451,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 23,
-    "rank": 206,
+    "rank": 207,
     "superrank": 187,
     "identity_rank": 12
   },
@@ -22474,7 +22474,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 16,
-    "rank": 218,
+    "rank": 219,
     "superrank": 225,
     "identity_rank": 26
   },
@@ -23750,9 +23750,9 @@ const cards =
       "Land"
     ],
     "supercent": 70,
-    "rank": 24,
-    "superrank": 67,
-    "identity_rank": 18
+    "rank": 23,
+    "superrank": 66,
+    "identity_rank": 17
   },
   "Verity Circle": {
     "img": "https://cards.scryfall.io/large/front/3/d/3d866d26-b630-46d3-bcc2-b810c844cc89.jpg?1584830413",
@@ -23786,15 +23786,15 @@ const cards =
     "type_line": "Artifact",
     "color_identity": [],
     "name": "Vexing Bauble",
-    "count": 11,
-    "percent": 12,
+    "count": 10,
+    "percent": 11,
     "types": [
       "Artifact"
     ],
-    "supercent": 12,
-    "rank": 187,
-    "superrank": 272,
-    "identity_rank": 43
+    "supercent": 11,
+    "rank": 202,
+    "superrank": 286,
+    "identity_rank": 44
   },
   "Vexing Shusher": {
     "img": "https://cards.scryfall.io/large/front/a/e/ae04d776-c9e3-4ff7-998d-d264754d61db.jpg?1562834647",
@@ -24454,7 +24454,7 @@ const cards =
     ],
     "supercent": 76,
     "rank": 75,
-    "superrank": 55,
+    "superrank": 56,
     "identity_rank": 2
   },
   "Wax // Wane": {
@@ -24660,7 +24660,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 21,
-    "rank": 213,
+    "rank": 214,
     "superrank": 194,
     "identity_rank": 27
   },
@@ -24974,7 +24974,7 @@ const cards =
     ],
     "supercent": 82,
     "rank": 64,
-    "superrank": 50,
+    "superrank": 51,
     "identity_rank": 3
   },
   "Xorn": {
@@ -25072,7 +25072,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 359,
-    "superrank": 276,
+    "superrank": 275,
     "identity_rank": 9
   },
   "Yavimaya, Cradle of Growth": {
