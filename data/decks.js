@@ -218,7 +218,6 @@ const decks =
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
-      "Azami, Lady of Scrolls",
       "Banishing Knack",
       "Bayou",
       "Beseech the Mirror",
@@ -255,6 +254,7 @@ const decks =
       "Force of Will",
       "Gaea's Cradle",
       "Gemstone Caverns",
+      "Gifts Ungiven",
       "Gush",
       "Hedge Maze",
       "Horizon of Progress",
@@ -299,6 +299,7 @@ const decks =
       "Subtlety",
       "Swan Song",
       "Tainted Pact",
+      "Talion, the Kindly Lord",
       "Talisman of Dominance",
       "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",
       "Thassa's Oracle",
@@ -311,7 +312,6 @@ const decks =
       "Verdant Catacombs",
       "Watery Grave",
       "Winter, Cynical Opportunist",
-      "Wishclaw Talisman",
       "Worldly Tutor"
     ],
     "commanders": [
