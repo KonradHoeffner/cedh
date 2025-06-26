@@ -1538,7 +1538,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 17,
-    "rank": 150,
+    "rank": 149,
     "superrank": 221,
     "identity_rank": 35
   },
@@ -2111,7 +2111,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 179,
-    "superrank": 116,
+    "superrank": 115,
     "identity_rank": 2
   },
   "Blood Moon": {
@@ -2275,7 +2275,7 @@ const cards =
       "Creature"
     ],
     "supercent": 36,
-    "rank": 146,
+    "rank": 145,
     "superrank": 135,
     "identity_rank": 14
   },
@@ -2980,7 +2980,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 68,
-    "rank": 85,
+    "rank": 86,
     "superrank": 68,
     "identity_rank": 5
   },
@@ -4102,7 +4102,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 23,
-    "rank": 147,
+    "rank": 146,
     "superrank": 184,
     "identity_rank": 35
   },
@@ -4415,14 +4415,14 @@ const cards =
       "B"
     ],
     "name": "Culling the Weak",
-    "count": 27,
-    "percent": 31,
+    "count": 28,
+    "percent": 32,
     "types": [
       "Instant"
     ],
-    "supercent": 50,
-    "rank": 86,
-    "superrank": 105,
+    "supercent": 51,
+    "rank": 84,
+    "superrank": 101,
     "identity_rank": 13
   },
   "Cultist of the Absolute": {
@@ -5520,7 +5520,7 @@ const cards =
       "Creature"
     ],
     "supercent": 23,
-    "rank": 148,
+    "rank": 147,
     "superrank": 185,
     "identity_rank": 36
   },
@@ -7381,7 +7381,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 101,
-    "superrank": 101,
+    "superrank": 102,
     "identity_rank": 9
   },
   "Final Parting": {
@@ -9289,7 +9289,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 56,
-    "superrank": 118,
+    "superrank": 117,
     "identity_rank": 28
   },
   "Grim Tutor": {
@@ -9519,9 +9519,9 @@ const cards =
       "Land"
     ],
     "supercent": 45,
-    "rank": 149,
-    "superrank": 117,
-    "identity_rank": 3
+    "rank": 148,
+    "superrank": 116,
+    "identity_rank": 2
   },
   "Halvar, God of Battle": {
     "img": "https://cards.scryfall.io/large/front/f/e/feddb683-a8f8-4def-bd3e-6d630c42cd34.jpg?1631054082",
@@ -10681,7 +10681,7 @@ const cards =
     ],
     "supercent": 46,
     "rank": 80,
-    "superrank": 115,
+    "superrank": 114,
     "identity_rank": 19
   },
   "Intuition": {
@@ -10926,7 +10926,7 @@ const cards =
     ],
     "supercent": 46,
     "rank": 117,
-    "superrank": 114,
+    "superrank": 113,
     "identity_rank": 11
   },
   "Jet Medallion": {
@@ -11366,7 +11366,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 139,
-    "superrank": 102,
+    "superrank": 103,
     "identity_rank": 3
   },
   "Kitsa, Otterball Elite": {
@@ -14606,7 +14606,7 @@ const cards =
       "Instant"
     ],
     "supercent": 36,
-    "rank": 144,
+    "rank": 143,
     "superrank": 134,
     "identity_rank": 13
   },
@@ -17197,7 +17197,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 62,
-    "rank": 84,
+    "rank": 85,
     "superrank": 79,
     "identity_rank": 6
   },
@@ -18132,7 +18132,7 @@ const cards =
       "Creature"
     ],
     "supercent": 36,
-    "rank": 151,
+    "rank": 150,
     "superrank": 137,
     "identity_rank": 15
   },
@@ -18339,7 +18339,7 @@ const cards =
     ],
     "supercent": 46,
     "rank": 122,
-    "superrank": 112,
+    "superrank": 111,
     "identity_rank": 10
   },
   "Shadow of Mortality": {
@@ -21099,15 +21099,15 @@ const cards =
       "W"
     ],
     "name": "Talisman of Progress",
-    "count": 16,
-    "percent": 18,
+    "count": 15,
+    "percent": 17,
     "types": [
       "Artifact"
     ],
-    "supercent": 48,
-    "rank": 143,
-    "superrank": 111,
-    "identity_rank": 2
+    "supercent": 45,
+    "rank": 152,
+    "superrank": 118,
+    "identity_rank": 3
   },
   "Talisman of Resilience": {
     "img": "https://cards.scryfall.io/large/front/c/a/ca1f4df7-6c34-406d-9cb5-84e18f6a7f3f.jpg?1630617142",
@@ -22957,7 +22957,7 @@ const cards =
       "Land"
     ],
     "supercent": 35,
-    "rank": 145,
+    "rank": 144,
     "superrank": 141,
     "identity_rank": 6
   },
@@ -23598,7 +23598,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 115,
-    "superrank": 103,
+    "superrank": 104,
     "identity_rank": 11
   },
   "Veilstone Amulet": {
@@ -23957,7 +23957,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 107,
-    "superrank": 104,
+    "superrank": 105,
     "identity_rank": 9
   },
   "Void Snare": {
@@ -24456,7 +24456,7 @@ const cards =
     ],
     "supercent": 46,
     "rank": 116,
-    "superrank": 113,
+    "superrank": 112,
     "identity_rank": 10
   },
   "Wheel of Misfortune": {
@@ -25003,7 +25003,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 27,
-    "rank": 152,
+    "rank": 151,
     "superrank": 169,
     "identity_rank": 20
   },
