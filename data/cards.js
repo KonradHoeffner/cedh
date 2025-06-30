@@ -4979,9 +4979,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 13,
-    "rank": 169,
-    "superrank": 253,
-    "identity_rank": 39
+    "rank": 170,
+    "superrank": 254,
+    "identity_rank": 40
   },
   "Deflecting Swat": {
     "img": "https://cards.scryfall.io/large/front/8/4/84f035e1-6c89-457b-b05f-85680a50ed91.jpg?1591319579",
@@ -5734,7 +5734,7 @@ const cards =
       "Instant"
     ],
     "supercent": 20,
-    "rank": 166,
+    "rank": 167,
     "superrank": 207,
     "identity_rank": 41
   },
@@ -7882,7 +7882,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 274,
-    "superrank": 248,
+    "superrank": 249,
     "identity_rank": 34
   },
   "Footsteps of the Goryo": {
@@ -8983,9 +8983,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 14,
-    "rank": 164,
-    "superrank": 249,
-    "identity_rank": 36
+    "rank": 165,
+    "superrank": 250,
+    "identity_rank": 37
   },
   "Grand Abolisher": {
     "img": "https://cards.scryfall.io/large/front/6/7/67e35a40-37dd-436c-b4ac-b17b04508c1f.jpg?1562645447",
@@ -12034,7 +12034,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 270,
-    "superrank": 247,
+    "superrank": 248,
     "identity_rank": 9
   },
   "Linvala, Keeper of Silence": {
@@ -13617,7 +13617,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 266,
-    "superrank": 254,
+    "superrank": 255,
     "identity_rank": 19
   },
   "Monologue Tax": {
@@ -14355,7 +14355,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 41,
-    "rank": 161,
+    "rank": 162,
     "superrank": 122,
     "identity_rank": 4
   },
@@ -19472,7 +19472,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 642,
-    "superrank": 252,
+    "superrank": 253,
     "identity_rank": 1
   },
   "Soul Exchange": {
@@ -19841,9 +19841,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 14,
-    "rank": 165,
-    "superrank": 250,
-    "identity_rank": 37
+    "rank": 166,
+    "superrank": 251,
+    "identity_rank": 38
   },
   "Squee, the Immortal": {
     "img": "https://cards.scryfall.io/large/front/a/3/a3974c62-a524-454e-9ce7-2c23b704e5cb.jpg?1562740600",
@@ -19899,15 +19899,15 @@ const cards =
     "type_line": "Land \u2014 Town",
     "color_identity": [],
     "name": "Starting Town",
-    "count": 12,
-    "percent": 13,
+    "count": 13,
+    "percent": 14,
     "types": [
       "Land"
     ],
-    "supercent": 13,
-    "rank": 170,
-    "superrank": 255,
-    "identity_rank": 40
+    "supercent": 14,
+    "rank": 161,
+    "superrank": 246,
+    "identity_rank": 36
   },
   "Static Orb": {
     "img": "https://cards.scryfall.io/large/front/b/6/b69e0877-c792-45f2-9cc3-d86eaa90d85c.jpg?1675830527",
@@ -20609,7 +20609,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 31,
-    "rank": 168,
+    "rank": 169,
     "superrank": 153,
     "identity_rank": 17
   },
@@ -20909,7 +20909,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 269,
-    "superrank": 246,
+    "superrank": 247,
     "identity_rank": 8
   },
   "Talisman of Conviction": {
@@ -20952,7 +20952,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 40,
-    "rank": 163,
+    "rank": 164,
     "superrank": 129,
     "identity_rank": 3
   },
@@ -21209,9 +21209,9 @@ const cards =
       "Land"
     ],
     "supercent": 14,
-    "rank": 167,
-    "superrank": 251,
-    "identity_rank": 38
+    "rank": 168,
+    "superrank": 252,
+    "identity_rank": 39
   },
   "Tataru Taru": {
     "img": "https://cards.scryfall.io/large/front/9/3/93176e85-2343-43a8-8578-69699b464b86.jpg?1748704301",
@@ -21312,7 +21312,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 39,
-    "rank": 162,
+    "rank": 163,
     "superrank": 131,
     "identity_rank": 4
   },
