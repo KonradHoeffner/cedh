@@ -358,7 +358,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 13,
-    "rank": 171,
+    "rank": 170,
     "superrank": 255,
     "identity_rank": 40
   },
@@ -5100,7 +5100,7 @@ const cards =
       "Creature"
     ],
     "supercent": 60,
-    "rank": 97,
+    "rank": 98,
     "superrank": 87,
     "identity_rank": 7
   },
@@ -6370,7 +6370,7 @@ const cards =
       "Creature"
     ],
     "supercent": 42,
-    "rank": 172,
+    "rank": 171,
     "superrank": 122,
     "identity_rank": 5
   },
@@ -7117,14 +7117,14 @@ const cards =
     "power": "2",
     "toughness": "1",
     "name": "Faerie Mastermind",
-    "count": 24,
-    "percent": 27,
+    "count": 25,
+    "percent": 28,
     "types": [
       "Creature"
     ],
-    "supercent": 36,
-    "rank": 99,
-    "superrank": 133,
+    "supercent": 38,
+    "rank": 95,
+    "superrank": 132,
     "identity_rank": 21
   },
   "Faerie Seer": {
@@ -7432,7 +7432,7 @@ const cards =
       "Instant"
     ],
     "supercent": 55,
-    "rank": 95,
+    "rank": 96,
     "superrank": 94,
     "identity_rank": 9
   },
@@ -8425,7 +8425,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 124,
-    "superrank": 155,
+    "superrank": 154,
     "identity_rank": 28
   },
   "Gilded Drake": {
@@ -10519,7 +10519,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 18,
-    "rank": 173,
+    "rank": 172,
     "superrank": 214,
     "identity_rank": 43
   },
@@ -10756,7 +10756,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 125,
-    "superrank": 156,
+    "superrank": 155,
     "identity_rank": 29
   },
   "Invasion of Ikoria": {
@@ -12010,7 +12010,7 @@ const cards =
       "Instant"
     ],
     "supercent": 26,
-    "rank": 174,
+    "rank": 173,
     "superrank": 171,
     "identity_rank": 13
   },
@@ -12175,9 +12175,9 @@ const cards =
       "Creature"
     ],
     "supercent": 29,
-    "rank": 178,
-    "superrank": 161,
-    "identity_rank": 18
+    "rank": 177,
+    "superrank": 160,
+    "identity_rank": 17
   },
   "Llanowar Wastes": {
     "img": "https://cards.scryfall.io/large/front/6/1/610b7cd5-5532-45a9-acfe-24a818034d1c.jpg?1562917833",
@@ -12274,7 +12274,7 @@ const cards =
       "Creature"
     ],
     "supercent": 83,
-    "rank": 96,
+    "rank": 97,
     "superrank": 49,
     "identity_rank": 2
   },
@@ -13311,7 +13311,7 @@ const cards =
       "Instant"
     ],
     "supercent": 18,
-    "rank": 175,
+    "rank": 174,
     "superrank": 215,
     "identity_rank": 44
   },
@@ -13463,7 +13463,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 129,
-    "superrank": 157,
+    "superrank": 156,
     "identity_rank": 30
   },
   "Misty Rainforest": {
@@ -13714,7 +13714,7 @@ const cards =
     ],
     "supercent": 38,
     "rank": 140,
-    "superrank": 132,
+    "superrank": 133,
     "identity_rank": 5
   },
   "Mothdust Changeling": {
@@ -13808,7 +13808,7 @@ const cards =
       "Land"
     ],
     "supercent": 26,
-    "rank": 176,
+    "rank": 175,
     "superrank": 172,
     "identity_rank": 14
   },
@@ -15559,7 +15559,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 131,
-    "superrank": 158,
+    "superrank": 157,
     "identity_rank": 31
   },
   "Phyrexian Revoker": {
@@ -16117,7 +16117,7 @@ const cards =
       "Creature"
     ],
     "supercent": 26,
-    "rank": 170,
+    "rank": 169,
     "superrank": 170,
     "identity_rank": 12
   },
@@ -16840,7 +16840,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 213,
-    "superrank": 159,
+    "superrank": 158,
     "identity_rank": 6
   },
   "Relic of Legends": {
@@ -19687,7 +19687,7 @@ const cards =
     ],
     "supercent": 30,
     "rank": 123,
-    "superrank": 154,
+    "superrank": 153,
     "identity_rank": 27
   },
   "Spellskite": {
@@ -20609,15 +20609,15 @@ const cards =
       "G"
     ],
     "name": "Survival of the Fittest",
-    "count": 13,
-    "percent": 14,
+    "count": 12,
+    "percent": 13,
     "types": [
       "Enchantment"
     ],
-    "supercent": 31,
-    "rank": 169,
-    "superrank": 153,
-    "identity_rank": 17
+    "supercent": 29,
+    "rank": 178,
+    "superrank": 161,
+    "identity_rank": 18
   },
   "Survivors' Encampment": {
     "img": "https://cards.scryfall.io/large/front/c/7/c7b0404e-0f42-456b-91ce-f960195c4951.jpg?1562814201",
@@ -21346,7 +21346,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 251,
-    "superrank": 160,
+    "superrank": 159,
     "identity_rank": 4
   },
   "Temporal Trespass": {
@@ -22144,7 +22144,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 18,
-    "rank": 177,
+    "rank": 176,
     "superrank": 216,
     "identity_rank": 45
   },
@@ -23362,7 +23362,7 @@ const cards =
       "Land"
     ],
     "supercent": 28,
-    "rank": 98,
+    "rank": 99,
     "superrank": 164,
     "identity_rank": 32
   },
