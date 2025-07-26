@@ -3754,7 +3754,6 @@ const decks =
   " Sisay for Dummies ": {
     "mainboard": [
       "Abrupt Decay",
-      "Agatha's Soul Cauldron",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
@@ -3797,6 +3796,7 @@ const decks =
       "Imperial Seal",
       "Intuition",
       "Kinnan, Bonder Prodigy",
+      "Knuckles the Echidna",
       "Kutzil, Malamet Exemplar",
       "Lion's Eye Diamond",
       "Lotho, Corrupt Shirriff",
