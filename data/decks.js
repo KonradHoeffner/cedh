@@ -4057,6 +4057,7 @@ const decks =
       "Unwinding Clock",
       "Urza's Saga",
       "Valley Floodcaller",
+      "Vanquish the Horde",
       "Voice of Victory",
       "Voltaic Key",
       "Whir of Invention"
