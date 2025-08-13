@@ -3749,7 +3749,7 @@ const decks =
       "Sisay, Weatherlight Captain"
     ]
   },
-  " Sisay for Dummies ": {
+  "5C Ranch": {
     "mainboard": [
       "Abrupt Decay",
       "An Offer You Can't Refuse",
@@ -3968,7 +3968,6 @@ const decks =
       "Arcane Signet",
       "Archivist of Oghma",
       "Arid Mesa",
-      "Azorius Signet",
       "Blind Obedience",
       "Cephalid Coliseum",
       "Chrome Mox",
@@ -7879,11 +7878,11 @@ const decks =
       "Culling Ritual",
       "Culling the Weak",
       "Dark Ritual",
+      "Defense Grid",
       "Deflecting Swat",
       "Delighted Halfling",
       "Demonic Tutor",
       "Diabolic Intent",
-      "Disruptor Flute",
       "Dosan the Falling Leaf",
       "Dryad Arbor",
       "Eldritch Evolution",
@@ -7891,6 +7890,7 @@ const decks =
       "Emergence Zone",
       "Entomb",
       "Evendo Brushrazer",
+      "Exotic Orchard",
       "Exploration",
       "Exploration Broodship",
       "Final Fortune",
@@ -7904,6 +7904,7 @@ const decks =
       "Imperial Seal",
       "Impulsive Pilferer",
       "Krosan Wayfarer",
+      "Legolas's Quick Reflexes",
       "Life from the Loam",
       "Lion's Eye Diamond",
       "Lotus Cobra",
