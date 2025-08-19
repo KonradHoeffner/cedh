@@ -1510,7 +1510,7 @@ const cards =
       "Land"
     ],
     "supercent": 100,
-    "rank": 98,
+    "rank": 97,
     "superrank": 2,
     "identity_rank": 1
   },
@@ -2112,7 +2112,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 22,
-    "superrank": 70,
+    "superrank": 69,
     "identity_rank": 18
   },
   "Bloom Tender": {
@@ -2277,7 +2277,7 @@ const cards =
     ],
     "supercent": 66,
     "rank": 51,
-    "superrank": 74,
+    "superrank": 73,
     "identity_rank": 14
   },
   "Boromir, Warden of the Tower": {
@@ -2461,7 +2461,7 @@ const cards =
       "Instant"
     ],
     "supercent": 41,
-    "rank": 97,
+    "rank": 96,
     "superrank": 129,
     "identity_rank": 21
   },
@@ -2833,14 +2833,14 @@ const cards =
       "G"
     ],
     "name": "Carpet of Flowers",
-    "count": 23,
-    "percent": 29,
+    "count": 22,
+    "percent": 27,
     "types": [
       "Enchantment"
     ],
-    "supercent": 69,
-    "rank": 95,
-    "superrank": 67,
+    "supercent": 66,
+    "rank": 98,
+    "superrank": 74,
     "identity_rank": 6
   },
   "Carrion Feeder": {
@@ -2975,7 +2975,7 @@ const cards =
       "Land"
     ],
     "supercent": 17,
-    "rank": 190,
+    "rank": 191,
     "superrank": 229,
     "identity_rank": 44
   },
@@ -3045,7 +3045,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 48,
-    "superrank": 72,
+    "superrank": 71,
     "identity_rank": 13
   },
   "Chainer, Dementia Master": {
@@ -3508,7 +3508,7 @@ const cards =
       "Creature"
     ],
     "supercent": 16,
-    "rank": 196,
+    "rank": 197,
     "superrank": 234,
     "identity_rank": 46
   },
@@ -4260,7 +4260,7 @@ const cards =
     ],
     "supercent": 68,
     "rank": 137,
-    "superrank": 69,
+    "superrank": 68,
     "identity_rank": 3
   },
   "Culling the Weak": {
@@ -4642,7 +4642,7 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 192,
+    "rank": 193,
     "superrank": 213,
     "identity_rank": 25
   },
@@ -4885,7 +4885,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 12,
-    "rank": 189,
+    "rank": 190,
     "superrank": 285,
     "identity_rank": 42
   },
@@ -6511,9 +6511,9 @@ const cards =
       "Creature"
     ],
     "supercent": 30,
-    "rank": 193,
-    "superrank": 170,
-    "identity_rank": 24
+    "rank": 194,
+    "superrank": 171,
+    "identity_rank": 25
   },
   "Energy Tap": {
     "img": "https://cards.scryfall.io/large/front/3/7/37e69940-bdc8-48ff-a296-540343910adf.jpg?1562858700",
@@ -7633,7 +7633,7 @@ const cards =
       "Creature"
     ],
     "supercent": 16,
-    "rank": 197,
+    "rank": 198,
     "superrank": 235,
     "identity_rank": 47
   },
@@ -8742,7 +8742,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 212,
-    "superrank": 171,
+    "superrank": 172,
     "identity_rank": 3
   },
   "Gogo, Mysterious Mime": {
@@ -10114,7 +10114,7 @@ const cards =
       "Creature"
     ],
     "supercent": 17,
-    "rank": 191,
+    "rank": 192,
     "superrank": 230,
     "identity_rank": 45
   },
@@ -12745,7 +12745,7 @@ const cards =
     ],
     "supercent": 68,
     "rank": 21,
-    "superrank": 68,
+    "superrank": 67,
     "identity_rank": 17
   },
   "Marvin, Murderous Mimic": {
@@ -12885,7 +12885,7 @@ const cards =
     ],
     "supercent": 28,
     "rank": 265,
-    "superrank": 173,
+    "superrank": 174,
     "identity_rank": 3
   },
   "Memnite": {
@@ -15185,7 +15185,7 @@ const cards =
       "Instant"
     ],
     "supercent": 24,
-    "rank": 194,
+    "rank": 195,
     "superrank": 189,
     "identity_rank": 12
   },
@@ -18929,7 +18929,7 @@ const cards =
     ],
     "supercent": 30,
     "rank": 128,
-    "superrank": 169,
+    "superrank": 170,
     "identity_rank": 32
   },
   "Snapback": {
@@ -20801,7 +20801,7 @@ const cards =
     ],
     "supercent": 28,
     "rank": 267,
-    "superrank": 174,
+    "superrank": 175,
     "identity_rank": 4
   },
   "Talisman of Progress": {
@@ -20952,7 +20952,7 @@ const cards =
       "Creature"
     ],
     "supercent": 21,
-    "rank": 195,
+    "rank": 196,
     "superrank": 197,
     "identity_rank": 13
   },
@@ -21336,7 +21336,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 24,
-    "superrank": 71,
+    "superrank": 70,
     "identity_rank": 19
   },
   "The Sibsig Ceremony": {
@@ -22127,7 +22127,7 @@ const cards =
     ],
     "supercent": 29,
     "rank": 223,
-    "superrank": 172,
+    "superrank": 173,
     "identity_rank": 4
   },
   "Training Grounds": {
@@ -22149,7 +22149,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 16,
-    "rank": 198,
+    "rank": 199,
     "superrank": 236,
     "identity_rank": 48
   },
@@ -22331,7 +22331,7 @@ const cards =
       "Land"
     ],
     "supercent": 100,
-    "rank": 96,
+    "rank": 95,
     "superrank": 6,
     "identity_rank": 1
   },
@@ -24197,15 +24197,15 @@ const cards =
       "G"
     ],
     "name": "Wild Growth",
-    "count": 9,
-    "percent": 11,
+    "count": 10,
+    "percent": 12,
     "types": [
       "Enchantment"
     ],
-    "supercent": 27,
-    "rank": 199,
-    "superrank": 175,
-    "identity_rank": 25
+    "supercent": 30,
+    "rank": 189,
+    "superrank": 169,
+    "identity_rank": 24
   },
   "Wild Slash": {
     "img": "https://cards.scryfall.io/large/front/6/9/6975490f-7679-48b3-ba34-04dec97a29c2.jpg?1562826120",
@@ -24426,7 +24426,7 @@ const cards =
     ],
     "supercent": 66,
     "rank": 59,
-    "superrank": 73,
+    "superrank": 72,
     "identity_rank": 8
   },
   "Witch Enchanter": {
