@@ -1,6 +1,6 @@
 const decks =
 {
-  "[BzE cEDH] Binder of the Breach": {
+  "[Mardu cEDH] Binder of the Breach": {
     "mainboard": [
       "Ad Nauseam",
       "Ancient Tomb",
