@@ -3877,7 +3877,6 @@ const decks =
       "Dispel",
       "Dramatic Reversal",
       "Dress Down",
-      "Eiganjo, Seat of the Empire",
       "Emergence Zone",
       "Enlightened Tutor",
       "Fabricate",
@@ -3885,7 +3884,6 @@ const decks =
       "Fierce Guardianship",
       "Flooded Strand",
       "Flusterstorm",
-      "Fomori Vault",
       "Force of Negation",
       "Force of Will",
       "Gemstone Caverns",
@@ -3906,6 +3904,7 @@ const decks =
       "March of Swirling Mist",
       "Mental Misstep",
       "Merchant Scroll",
+      "Meticulous Archive",
       "Minamo, School at Water's Edge",
       "Mindbreak Trap",
       "Mistrise Village",
@@ -3927,8 +3926,10 @@ const decks =
       "Resculpt",
       "Rhystic Study",
       "Scalding Tarn",
+      "Sea Gate Restoration // Sea Gate, Reborn",
       "Sea of Clouds",
       "Silence",
+      "Sink into Stupor // Soporific Springs",
       "Skullclamp",
       "Smothering Tithe",
       "Snap",
@@ -3942,7 +3943,6 @@ const decks =
       "Swords to Plowshares",
       "Talisman of Progress",
       "Tezzeret the Seeker",
-      "The Mycosynth Gardens",
       "The One Ring",
       "The Tabernacle at Pendrell Vale",
       "Tidespout Tyrant",
@@ -3954,8 +3954,7 @@ const decks =
       "Urza's Saga",
       "Vexing Bauble",
       "Voltaic Key",
-      "Whir of Invention",
-      "Windswept Heath"
+      "Whir of Invention"
     ],
     "commanders": [
       "Shorikai, Genesis Engine"
@@ -7856,11 +7855,12 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Korvold, the MAD KING King's Landing": {
+  "The MAD King  Korvold's Cradle Storm ": {
     "mainboard": [
       "Aftermath Analyst",
       "Ancient Tomb",
       "Animate Dead",
+      "Archdruid's Charm",
       "Arid Mesa",
       "Badlands",
       "Bayou",
@@ -7890,6 +7890,7 @@ const decks =
       "Exploration",
       "Exploration Broodship",
       "Final Fortune",
+      "Finale of Devastation",
       "Forest",
       "Gaea's Cradle",
       "Gamble",
@@ -7904,7 +7905,6 @@ const decks =
       "Legolas's Quick Reflexes",
       "Life from the Loam",
       "Lion's Eye Diamond",
-      "Lively Dirge",
       "Lotus Cobra",
       "Lotus Petal",
       "Lumra, Bellow of the Woods",
@@ -7920,6 +7920,7 @@ const decks =
       "Orcish Lumberjack",
       "Overgrown Tomb",
       "Polluted Delta",
+      "Praetor's Grasp",
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Rain of Filth",
@@ -7950,6 +7951,7 @@ const decks =
       "Vampiric Tutor",
       "Veil of Summer",
       "Verdant Catacombs",
+      "Vexing Bauble",
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor",
