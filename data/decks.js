@@ -7855,7 +7855,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "The MAD King  Korvold's Cradle Storm ": {
+  "The MAD King  Korvold's Cradle Storm": {
     "mainboard": [
       "Aftermath Analyst",
       "Ancient Tomb",
