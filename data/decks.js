@@ -3938,10 +3938,10 @@ const decks =
       "Spell Pierce",
       "Spire of Industry",
       "Stern Dismissal",
-      "Stifle",
       "Swan Song",
       "Swords to Plowshares",
       "Talisman of Progress",
+      "Teferi, Time Raveler",
       "Tezzeret the Seeker",
       "The One Ring",
       "The Tabernacle at Pendrell Vale",
@@ -7903,6 +7903,7 @@ const decks =
       "Imperial Seal",
       "Impulsive Pilferer",
       "Krosan Wayfarer",
+      "Lake of the Dead",
       "Life from the Loam",
       "Lion's Eye Diamond",
       "Lively Dirge",
@@ -7921,7 +7922,7 @@ const decks =
       "Orcish Lumberjack",
       "Overgrown Tomb",
       "Polluted Delta",
-      "Praetor's Grasp",
+      "Prismatic Vista",
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Rain of Filth",
@@ -7952,10 +7953,10 @@ const decks =
       "Veil of Summer",
       "Verdant Catacombs",
       "Windswept Heath",
+      "Wishclaw Talisman",
       "Wooded Foothills",
       "Worldly Tutor",
-      "Yavimaya, Cradle of Growth",
-      "Zuran Orb"
+      "Yavimaya, Cradle of Growth"
     ],
     "commanders": [
       "Korvold, Fae-Cursed King"
