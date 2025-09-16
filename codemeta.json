@@ -1,0 +1,51 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "applicationCategory": "SoftwareSourceCode",
+    "author": [
+        {
+            "familyName": "Höffner",
+            "givenName": "Konrad",
+            "@id": "https://github.com/KonradHoeffner",
+            "@type": "Person"
+        }
+    ],
+    "codeRepository": "https://github.com/KonradHoeffner/cedh",
+    "dateCreated": "2021-09-17",
+    "datePublished": "2022-01-23",
+    "keywords": [
+        {
+            "name": "mtg",
+            "@id": "http://dbpedia.org/resource/Magic_The_Gathering",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "edh",
+            "@id": "http://dbpedia.org/resource/Magic:_The_Gathering_Commander",
+            "@type": "DefinedTerm"
+        }
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Magic the Gathering cEDH Database Analysis",
+    "programmingLanguage": "Python",
+    "softwareRequirements": [
+        "wheel",
+        "beautifulsoup4",
+        "scikit-learn",
+        "pandas",
+        "matplotlib",
+        "networkx",
+        "pydot",
+        "graphviz",
+        "requests",
+        "pytablewriter",
+        "pygit2",
+        "numpy"
+    ],
+    "codemeta:contIntegration": {
+        "@id": "https://github.com/KonradHoeffner/cedh/actions"
+    },
+    "continuousIntegration": "https://github.com/KonradHoeffner/cedh/actions",
+    "developmentStatus": "active",
+    "issueTracker": "https://github.com/KonradHoeffner/cedh/issues",
+    "@type": "SoftwareSourceCode"
+}
