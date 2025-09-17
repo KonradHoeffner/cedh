@@ -116,7 +116,6 @@ const decks =
       "Beseech the Mirror",
       "Birds of Paradise",
       "Bloodstained Mire",
-      "Blue Elemental Blast",
       "Borne Upon a Wind",
       "Boseiju, Who Endures",
       "Breeding Pool",
@@ -192,6 +191,7 @@ const decks =
       "Shifting Woodland",
       "Sink into Stupor // Soporific Springs",
       "Sol Ring",
+      "Spell Snare",
       "Starting Town",
       "Subtlety",
       "Swan Song",
@@ -7861,6 +7861,7 @@ const decks =
     "mainboard": [
       "Ad Nauseam",
       "Aftermath Analyst",
+      "Amulet of Vigor",
       "Ancient Tomb",
       "Animate Dead",
       "Arid Mesa",
@@ -7881,7 +7882,6 @@ const decks =
       "Culling Ritual",
       "Culling the Weak",
       "Dark Ritual",
-      "Defense Grid",
       "Deflecting Swat",
       "Delighted Halfling",
       "Demonic Tutor",
@@ -7900,7 +7900,6 @@ const decks =
       "Gamble",
       "Gemstone Caverns",
       "Green Sun's Zenith",
-      "Grim Monolith",
       "Icetill Explorer",
       "Ignoble Hierarch",
       "Imperial Seal",
@@ -7957,7 +7956,8 @@ const decks =
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor",
-      "Yavimaya, Cradle of Growth"
+      "Yavimaya, Cradle of Growth",
+      "Zuran Orb"
     ],
     "commanders": [
       "Korvold, Fae-Cursed King"
