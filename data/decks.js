@@ -5658,6 +5658,7 @@ const decks =
   },
   "[ZEN] Prep time": {
     "mainboard": [
+      "Agatha's Soul Cauldron",
       "Ancient Tomb",
       "Angel's Grace",
       "Arcane Signet",
@@ -5729,7 +5730,6 @@ const decks =
       "Ragavan, Nimble Pilferer",
       "Ranger-Captain of Eos",
       "Red Elemental Blast",
-      "Retraction Helix",
       "Rhystic Study",
       "Rite of Flame",
       "Sacred Foundry",
@@ -6768,7 +6768,6 @@ const decks =
       "Power Artifact",
       "Prismatic Vista",
       "Prized Statue",
-      "Rapid Hybridization",
       "Retraction Helix",
       "Rhystic Study",
       "Rings of Brighthearth",
@@ -6780,6 +6779,7 @@ const decks =
       "Sol Ring",
       "Spellskite",
       "Steal Enchantment",
+      "Submerge",
       "Swan Song",
       "Talon Gates of Madara",
       "Tezzeret the Seeker",
