@@ -354,7 +354,6 @@ const decks =
       "Faeburrow Elder",
       "Faerie Mastermind",
       "Fierce Guardianship",
-      "Finale of Devastation",
       "Flare of Denial",
       "Flesh Duplicate",
       "Flooded Strand",
@@ -382,6 +381,7 @@ const decks =
       "Mox Diamond",
       "Mox Opal",
       "Mystic Remora",
+      "Nature's Rhythm",
       "Neoform",
       "Noble Hierarch",
       "Noxious Revival",
@@ -2866,6 +2866,7 @@ const decks =
       "Command Tower",
       "Containment Priest",
       "Crop Rotation",
+      "Damping Sphere",
       "Dawnbringer Cleric",
       "Deafening Silence",
       "Delighted Halfling",
@@ -2918,7 +2919,6 @@ const decks =
       "Savannah",
       "Serra's Sanctum",
       "Sigarda, Font of Blessings",
-      "Silence",
       "Skybind",
       "Sol Ring",
       "Soulless Jailer",
@@ -7858,7 +7858,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "The MAD King  Squandered Resources Storm": {
+  "Korvold, the MAD King King's Landing": {
     "mainboard": [
       "Abrupt Decay",
       "Aftermath Analyst",
