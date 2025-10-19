@@ -138,7 +138,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 85,
-    "superrank": 106,
+    "superrank": 105,
     "identity_rank": 11
   },
   "Adaptive Automaton": {
@@ -818,7 +818,7 @@ const cards =
       "Creature"
     ],
     "supercent": 36,
-    "rank": 137,
+    "rank": 138,
     "superrank": 146,
     "identity_rank": 11
   },
@@ -1181,7 +1181,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 193,
-    "superrank": 112,
+    "superrank": 111,
     "identity_rank": 3
   },
   "Aven Interrupter": {
@@ -1574,7 +1574,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 86,
-    "superrank": 107,
+    "superrank": 106,
     "identity_rank": 12
   },
   "Beseech the Queen": {
@@ -1984,14 +1984,14 @@ const cards =
       "R"
     ],
     "name": "Blood Crypt",
-    "count": 11,
-    "percent": 13,
+    "count": 10,
+    "percent": 12,
     "types": [
       "Land"
     ],
-    "supercent": 52,
-    "rank": 165,
-    "superrank": 99,
+    "supercent": 47,
+    "rank": 177,
+    "superrank": 118,
     "identity_rank": 2
   },
   "Blood Moon": {
@@ -3285,7 +3285,7 @@ const cards =
       "Instant"
     ],
     "supercent": 45,
-    "rank": 135,
+    "rank": 136,
     "superrank": 122,
     "identity_rank": 13
   },
@@ -4161,7 +4161,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 68,
-    "rank": 134,
+    "rank": 135,
     "superrank": 68,
     "identity_rank": 3
   },
@@ -4185,7 +4185,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 91,
-    "superrank": 109,
+    "superrank": 108,
     "identity_rank": 14
   },
   "Cultist of the Absolute": {
@@ -4320,7 +4320,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 69,
-    "superrank": 100,
+    "superrank": 99,
     "identity_rank": 17
   },
   "Dakmor Salvage": {
@@ -5171,7 +5171,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 87,
-    "superrank": 108,
+    "superrank": 107,
     "identity_rank": 13
   },
   "Diabolic Tutor": {
@@ -5562,7 +5562,7 @@ const cards =
       "Instant"
     ],
     "supercent": 19,
-    "rank": 177,
+    "rank": 176,
     "superrank": 220,
     "identity_rank": 41
   },
@@ -5616,7 +5616,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 106,
-    "superrank": 104,
+    "superrank": 103,
     "identity_rank": 9
   },
   "Dread Return": {
@@ -6033,7 +6033,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 181,
-    "superrank": 111,
+    "superrank": 110,
     "identity_rank": 2
   },
   "Eldrazi Confluence": {
@@ -6465,7 +6465,7 @@ const cards =
       "Creature"
     ],
     "supercent": 33,
-    "rank": 174,
+    "rank": 173,
     "superrank": 158,
     "identity_rank": 20
   },
@@ -6811,7 +6811,7 @@ const cards =
     ],
     "supercent": 48,
     "rank": 47,
-    "superrank": 116,
+    "superrank": 115,
     "identity_rank": 27
   },
   "Expedite": {
@@ -7168,7 +7168,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 41,
-    "superrank": 102,
+    "superrank": 101,
     "identity_rank": 25
   },
   "Fierce Guardianship": {
@@ -7844,7 +7844,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 198,
-    "superrank": 176,
+    "superrank": 177,
     "identity_rank": 24
   },
   "Force of Will": {
@@ -9316,8 +9316,8 @@ const cards =
       "Land"
     ],
     "supercent": 51,
-    "rank": 136,
-    "superrank": 101,
+    "rank": 137,
+    "superrank": 100,
     "identity_rank": 2
   },
   "Halvar, God of Battle": {
@@ -10337,7 +10337,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 19,
-    "rank": 170,
+    "rank": 169,
     "superrank": 217,
     "identity_rank": 39
   },
@@ -10526,7 +10526,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 70,
-    "superrank": 103,
+    "superrank": 102,
     "identity_rank": 18
   },
   "Intuition": {
@@ -10721,7 +10721,7 @@ const cards =
     ],
     "supercent": 48,
     "rank": 107,
-    "superrank": 114,
+    "superrank": 113,
     "identity_rank": 10
   },
   "Jet Medallion": {
@@ -11932,7 +11932,7 @@ const cards =
     ],
     "supercent": 49,
     "rank": 43,
-    "superrank": 113,
+    "superrank": 112,
     "identity_rank": 26
   },
   "Liquimetal Torque": {
@@ -13232,7 +13232,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 19,
-    "rank": 171,
+    "rank": 170,
     "superrank": 218,
     "identity_rank": 40
   },
@@ -13425,14 +13425,14 @@ const cards =
       "U"
     ],
     "name": "Mistrise Village",
-    "count": 15,
-    "percent": 18,
+    "count": 16,
+    "percent": 20,
     "types": [
       "Land"
     ],
-    "supercent": 26,
-    "rank": 138,
-    "superrank": 179,
+    "supercent": 28,
+    "rank": 132,
+    "superrank": 173,
     "identity_rank": 32
   },
   "Misty Rainforest": {
@@ -13524,7 +13524,7 @@ const cards =
     ],
     "supercent": 48,
     "rank": 76,
-    "superrank": 117,
+    "superrank": 116,
     "identity_rank": 19
   },
   "Mogg Salvage": {
@@ -13756,7 +13756,7 @@ const cards =
       "Land"
     ],
     "supercent": 26,
-    "rank": 172,
+    "rank": 171,
     "superrank": 180,
     "identity_rank": 14
   },
@@ -14254,7 +14254,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 47,
-    "rank": 168,
+    "rank": 167,
     "superrank": 119,
     "identity_rank": 3
   },
@@ -15066,8 +15066,8 @@ const cards =
       "Land"
     ],
     "supercent": 50,
-    "rank": 169,
-    "superrank": 110,
+    "rank": 168,
+    "superrank": 109,
     "identity_rank": 5
   },
   "Overmaster": {
@@ -15587,7 +15587,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 149,
-    "superrank": 174,
+    "superrank": 175,
     "identity_rank": 20
   },
   "Phyrexian Unlife": {
@@ -16097,7 +16097,7 @@ const cards =
       "Creature"
     ],
     "supercent": 36,
-    "rank": 133,
+    "rank": 134,
     "superrank": 143,
     "identity_rank": 12
   },
@@ -16739,7 +16739,7 @@ const cards =
     ],
     "supercent": 26,
     "rank": 271,
-    "superrank": 178,
+    "superrank": 179,
     "identity_rank": 5
   },
   "Relic of Legends": {
@@ -18157,7 +18157,7 @@ const cards =
     ],
     "supercent": 48,
     "rank": 109,
-    "superrank": 115,
+    "superrank": 114,
     "identity_rank": 10
   },
   "Shadow of Mortality": {
@@ -18342,7 +18342,7 @@ const cards =
       "Land"
     ],
     "supercent": 33,
-    "rank": 166,
+    "rank": 165,
     "superrank": 153,
     "identity_rank": 19
   },
@@ -19704,7 +19704,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 13,
-    "rank": 167,
+    "rank": 166,
     "superrank": 271,
     "identity_rank": 40
   },
@@ -19880,7 +19880,7 @@ const cards =
       "Land"
     ],
     "supercent": 59,
-    "rank": 132,
+    "rank": 133,
     "superrank": 88,
     "identity_rank": 2
   },
@@ -20513,7 +20513,7 @@ const cards =
       "Land"
     ],
     "supercent": 22,
-    "rank": 173,
+    "rank": 172,
     "superrank": 198,
     "identity_rank": 22
   },
@@ -20606,7 +20606,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 195,
-    "superrank": 175,
+    "superrank": 176,
     "identity_rank": 23
   },
   "Sylvan Safekeeper": {
@@ -20948,7 +20948,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 142,
-    "superrank": 105,
+    "superrank": 104,
     "identity_rank": 3
   },
   "Talisman of Resilience": {
@@ -21051,7 +21051,7 @@ const cards =
       "Land"
     ],
     "supercent": 13,
-    "rank": 176,
+    "rank": 175,
     "superrank": 272,
     "identity_rank": 41
   },
@@ -22780,7 +22780,7 @@ const cards =
     ],
     "supercent": 28,
     "rank": 191,
-    "superrank": 173,
+    "superrank": 174,
     "identity_rank": 6
   },
   "Underground Mortuary": {
@@ -23262,7 +23262,7 @@ const cards =
     ],
     "supercent": 48,
     "rank": 77,
-    "superrank": 118,
+    "superrank": 117,
     "identity_rank": 20
   },
   "Vampiric Tutor": {
@@ -24353,7 +24353,7 @@ const cards =
     ],
     "supercent": 27,
     "rank": 201,
-    "superrank": 177,
+    "superrank": 178,
     "identity_rank": 25
   },
   "Wild Slash": {
@@ -24846,7 +24846,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 22,
-    "rank": 175,
+    "rank": 174,
     "superrank": 199,
     "identity_rank": 23
   },
