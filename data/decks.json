@@ -186,7 +186,6 @@
       "Sol Ring",
       "Spell Pierce",
       "Springleaf Drum",
-      "Starting Town",
       "Subtlety",
       "Swan Song",
       "Tainted Pact",
@@ -205,6 +204,7 @@
       "Whirlwind Denial",
       "Windswept Heath",
       "Wishclaw Talisman",
+      "Wooded Foothills",
       "Zagoth Triome"
     ],
     "commanders": [
@@ -3751,7 +3751,7 @@
       "Sisay, Weatherlight Captain"
     ]
   },
-  "5C Ranch": {
+  "NBC Sisay": {
     "mainboard": [
       "Abrupt Decay",
       "An Offer You Can't Refuse",

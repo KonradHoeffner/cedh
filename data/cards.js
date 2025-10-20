@@ -702,7 +702,7 @@ const cards =
     ],
     "supercent": 22,
     "rank": 164,
-    "superrank": 197,
+    "superrank": 196,
     "identity_rank": 21
   },
   "Anje's Ravager": {
@@ -1740,7 +1740,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 214,
-    "superrank": 189,
+    "superrank": 188,
     "identity_rank": 26
   },
   "Birthing Ritual": {
@@ -3912,7 +3912,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 152,
-    "superrank": 194,
+    "superrank": 193,
     "identity_rank": 36
   },
   "Copy Enchantment": {
@@ -4743,7 +4743,7 @@ const cards =
       "Creature"
     ],
     "supercent": 86,
-    "rank": 117,
+    "rank": 116,
     "superrank": 40,
     "identity_rank": 2
   },
@@ -4884,7 +4884,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 111,
-    "superrank": 84,
+    "superrank": 85,
     "identity_rank": 9
   },
   "Delightful Discovery": {
@@ -5001,7 +5001,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 97,
-    "rank": 30,
+    "rank": 31,
     "superrank": 13,
     "identity_rank": 1
   },
@@ -5032,7 +5032,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 494,
-    "superrank": 196,
+    "superrank": 195,
     "identity_rank": 2
   },
   "Deserted Temple": {
@@ -6440,7 +6440,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 227,
-    "superrank": 191,
+    "superrank": 190,
     "identity_rank": 27
   },
   "Enduring Vitality": {
@@ -7327,7 +7327,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 57,
-    "rank": 118,
+    "rank": 117,
     "superrank": 93,
     "identity_rank": 12
   },
@@ -7464,7 +7464,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 188,
-    "superrank": 190,
+    "superrank": 189,
     "identity_rank": 15
   },
   "Flare of Fortitude": {
@@ -8387,7 +8387,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 33,
-    "rank": 122,
+    "rank": 121,
     "superrank": 155,
     "identity_rank": 27
   },
@@ -10548,7 +10548,7 @@ const cards =
       "Instant"
     ],
     "supercent": 33,
-    "rank": 124,
+    "rank": 123,
     "superrank": 159,
     "identity_rank": 29
   },
@@ -10630,7 +10630,7 @@ const cards =
       "Land"
     ],
     "supercent": 33,
-    "rank": 123,
+    "rank": 122,
     "superrank": 156,
     "identity_rank": 28
   },
@@ -11999,7 +11999,7 @@ const cards =
     ],
     "supercent": 24,
     "rank": 228,
-    "superrank": 192,
+    "superrank": 191,
     "identity_rank": 28
   },
   "Llanowar Wastes": {
@@ -12873,7 +12873,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 284,
-    "superrank": 193,
+    "superrank": 192,
     "identity_rank": 4
   },
   "Memnite": {
@@ -13099,7 +13099,7 @@ const cards =
       "Land"
     ],
     "supercent": 33,
-    "rank": 119,
+    "rank": 118,
     "superrank": 152,
     "identity_rank": 25
   },
@@ -14113,7 +14113,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 113,
-    "superrank": 86,
+    "superrank": 87,
     "identity_rank": 11
   },
   "Necrodominance": {
@@ -17613,7 +17613,7 @@ const cards =
       "Land"
     ],
     "supercent": 95,
-    "rank": 121,
+    "rank": 120,
     "superrank": 20,
     "identity_rank": 1
   },
@@ -19517,7 +19517,7 @@ const cards =
       "Creature"
     ],
     "supercent": 33,
-    "rank": 120,
+    "rank": 119,
     "superrank": 154,
     "identity_rank": 26
   },
@@ -19787,14 +19787,14 @@ const cards =
     "type_line": "Land \u2014 Town",
     "color_identity": [],
     "name": "Starting Town",
-    "count": 19,
-    "percent": 24,
+    "count": 18,
+    "percent": 22,
     "types": [
       "Land"
     ],
-    "supercent": 24,
-    "rank": 116,
-    "superrank": 188,
+    "supercent": 22,
+    "rank": 124,
+    "superrank": 197,
     "identity_rank": 34
   },
   "Static Orb": {
@@ -22344,7 +22344,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 154,
-    "superrank": 195,
+    "superrank": 194,
     "identity_rank": 37
   },
   "Treasonous Ogre": {
@@ -23284,7 +23284,7 @@ const cards =
       "Instant"
     ],
     "supercent": 97,
-    "rank": 31,
+    "rank": 32,
     "superrank": 15,
     "identity_rank": 2
   },
@@ -23400,7 +23400,7 @@ const cards =
     ],
     "supercent": 60,
     "rank": 112,
-    "superrank": 85,
+    "superrank": 86,
     "identity_rank": 10
   },
   "Veilstone Amulet": {
@@ -24653,14 +24653,14 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "Wooded Foothills",
-    "count": 47,
-    "percent": 59,
+    "count": 48,
+    "percent": 60,
     "types": [
       "Land"
     ],
-    "supercent": 59,
-    "rank": 32,
-    "superrank": 87,
+    "supercent": 60,
+    "rank": 30,
+    "superrank": 84,
     "identity_rank": 22
   },
   "Word of Command": {

@@ -187,7 +187,6 @@ const decks =
       "Sol Ring",
       "Spell Pierce",
       "Springleaf Drum",
-      "Starting Town",
       "Subtlety",
       "Swan Song",
       "Tainted Pact",
@@ -206,6 +205,7 @@ const decks =
       "Whirlwind Denial",
       "Windswept Heath",
       "Wishclaw Talisman",
+      "Wooded Foothills",
       "Zagoth Triome"
     ],
     "commanders": [
@@ -3752,7 +3752,7 @@ const decks =
       "Sisay, Weatherlight Captain"
     ]
   },
-  "5C Ranch": {
+  "NBC Sisay": {
     "mainboard": [
       "Abrupt Decay",
       "An Offer You Can't Refuse",
