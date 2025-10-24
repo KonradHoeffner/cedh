@@ -3770,6 +3770,7 @@ const decks =
       "Chord of Calling",
       "Chrome Mox",
       "City of Brass",
+      "Colossal Skyturtle",
       "Command Tower",
       "Crop Rotation",
       "Dark Ritual",
@@ -3818,7 +3819,6 @@ const decks =
       "Necropotence",
       "Noxious Revival",
       "Otawara, Soaring City",
-      "Plateau",
       "Polluted Delta",
       "Ragavan, Nimble Pilferer",
       "Ranger-Captain of Eos",
@@ -6379,6 +6379,7 @@ const decks =
       "Talisman of Indulgence",
       "Tarnished Citadel",
       "Thassa's Oracle",
+      "Thundertrap Trainer",
       "Undercity Sewers",
       "Underground Sea",
       "Underworld Breach",
@@ -6389,8 +6390,7 @@ const decks =
       "Verdant Catacombs",
       "Volcanic Island",
       "Watery Grave",
-      "Wishclaw Talisman",
-      "Wooded Foothills"
+      "Wishclaw Talisman"
     ],
     "commanders": [
       "Inalla, Archmage Ritualist"
@@ -7769,7 +7769,6 @@ const decks =
       "Chrome Mox",
       "City of Brass",
       "Command Tower",
-      "Copy Artifact",
       "Copy Enchantment",
       "Culling the Weak",
       "Dark Ritual",
@@ -7840,6 +7839,7 @@ const decks =
       "Swan Song",
       "Swords to Plowshares",
       "Tainted Pact",
+      "Tataru Taru",
       "Thassa's Oracle",
       "Tundra",
       "Underground Sea",

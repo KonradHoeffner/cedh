@@ -3769,6 +3769,7 @@
       "Chord of Calling",
       "Chrome Mox",
       "City of Brass",
+      "Colossal Skyturtle",
       "Command Tower",
       "Crop Rotation",
       "Dark Ritual",
@@ -3817,7 +3818,6 @@
       "Necropotence",
       "Noxious Revival",
       "Otawara, Soaring City",
-      "Plateau",
       "Polluted Delta",
       "Ragavan, Nimble Pilferer",
       "Ranger-Captain of Eos",
@@ -6378,6 +6378,7 @@
       "Talisman of Indulgence",
       "Tarnished Citadel",
       "Thassa's Oracle",
+      "Thundertrap Trainer",
       "Undercity Sewers",
       "Underground Sea",
       "Underworld Breach",
@@ -6388,8 +6389,7 @@
       "Verdant Catacombs",
       "Volcanic Island",
       "Watery Grave",
-      "Wishclaw Talisman",
-      "Wooded Foothills"
+      "Wishclaw Talisman"
     ],
     "commanders": [
       "Inalla, Archmage Ritualist"
@@ -7768,7 +7768,6 @@
       "Chrome Mox",
       "City of Brass",
       "Command Tower",
-      "Copy Artifact",
       "Copy Enchantment",
       "Culling the Weak",
       "Dark Ritual",
@@ -7839,6 +7838,7 @@
       "Swan Song",
       "Swords to Plowshares",
       "Tainted Pact",
+      "Tataru Taru",
       "Thassa's Oracle",
       "Tundra",
       "Underground Sea",
