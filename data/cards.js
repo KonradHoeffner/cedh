@@ -11153,7 +11153,7 @@ const cards =
     "identity_rank": 33
   },
   "Kinnan, Bonder Prodigy": {
-    "img": "https://cards.scryfall.io/large/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1591228085",
+    "img": "https://cards.scryfall.io/large/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1761053650",
     "date": "2020-04-24",
     "colors": [
       "G",
