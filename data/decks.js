@@ -426,6 +426,7 @@ const decks =
   },
   "[cEDH] MadPod": {
     "mainboard": [
+      "Academy Rector",
       "Ad Nauseam",
       "Altar of Dementia",
       "Ancient Tomb",
@@ -478,7 +479,6 @@ const decks =
       "Lively Dirge",
       "Lotho, Corrupt Shirriff",
       "Lotus Petal",
-      "Loyal Apprentice",
       "Lukka, Coppercoat Outcast",
       "Luxury Suite",
       "Mana Confluence",
@@ -3969,7 +3969,6 @@ const decks =
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
-      "Archivist of Oghma",
       "Arid Mesa",
       "Blind Obedience",
       "Cephalid Coliseum",
@@ -4061,6 +4060,7 @@ const decks =
       "Vanquish the Horde",
       "Voice of Victory",
       "Voltaic Key",
+      "Wan Shi Tong, Librarian",
       "Whir of Invention"
     ],
     "commanders": [
