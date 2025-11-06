@@ -4167,6 +4167,7 @@ const decks =
       "Valley Floodcaller",
       "Vanquish the Horde",
       "Voltaic Key",
+      "Wan Shi Tong, Librarian",
       "Windswept Heath"
     ],
     "commanders": [
@@ -7397,7 +7398,6 @@ const decks =
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Red Elemental Blast",
-      "Redirect Lightning",
       "Rhystic Study",
       "Rite of Flame",
       "Scalding Tarn",
@@ -7413,6 +7413,7 @@ const decks =
       "Talisman of Dominance",
       "Talisman of Indulgence",
       "Thassa's Oracle",
+      "Timetwister",
       "Undercity Sewers",
       "Underground Sea",
       "Underworld Breach",
