@@ -4089,7 +4089,6 @@ const decks =
       "Copy Artifact",
       "Copy Enchantment",
       "Coveted Jewel",
-      "Cursed Totem",
       "Dispel",
       "Displacer Kitten",
       "Disrupting Shoal",
