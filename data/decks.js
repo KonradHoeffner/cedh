@@ -6294,7 +6294,6 @@ const decks =
   },
   "cEDH Inalla - Wizard's Chess": {
     "mainboard": [
-      "Ad Nauseam",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Animate Dead",
@@ -6315,7 +6314,6 @@ const decks =
       "City of Traitors",
       "Command Tower",
       "Corpse Dance",
-      "Crystal Vein",
       "Culling the Weak",
       "Dance of the Dead",
       "Dark Ritual",
@@ -6323,8 +6321,8 @@ const decks =
       "Demonic Tutor",
       "Entomb",
       "Essence Flux",
+      "Faithless Looting",
       "Fatestitcher",
-      "Fellwar Stone",
       "Final Fortune",
       "Finale of Promise",
       "Flooded Strand",
@@ -6333,7 +6331,6 @@ const decks =
       "Force of Will",
       "Gamble",
       "Gemstone Caverns",
-      "Gemstone Mine",
       "Ghostly Pilferer",
       "Grim Monolith",
       "Hoarding Broodlord",
@@ -6380,6 +6377,7 @@ const decks =
       "Starting Town",
       "Step Through",
       "Tainted Pact",
+      "Talisman of Dominance",
       "Tarnished Citadel",
       "Thassa's Oracle",
       "Thundertrap Trainer",
@@ -6389,10 +6387,12 @@ const decks =
       "Unearth",
       "Unmarked Grave",
       "Vampiric Tutor",
+      "Vedalken Aethermage",
       "Verdant Catacombs",
       "Volcanic Island",
       "Watery Grave",
-      "Wishclaw Talisman"
+      "Wishclaw Talisman",
+      "Wooded Foothills"
     ],
     "commanders": [
       "Inalla, Archmage Ritualist"
