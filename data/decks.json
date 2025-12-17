@@ -6807,6 +6807,7 @@
       "Borne Upon a Wind",
       "Brain Freeze",
       "Brainstorm",
+      "Chakra Meditation",
       "Chrome Mox",
       "City of Brass",
       "City of Traitors",
@@ -6827,7 +6828,6 @@
       "Flooded Strand",
       "Flusterstorm",
       "Force of Will",
-      "Fork",
       "Gamble",
       "Gemstone Caverns",
       "Gitaxian Probe",
@@ -6860,7 +6860,6 @@
       "Otawara, Soaring City",
       "Overmaster",
       "Pact of Negation",
-      "Peek",
       "Phyrexian Metamorph",
       "Pinnacle Monk // Mystic Peak",
       "Polluted Delta",
@@ -6893,7 +6892,8 @@
       "Veyran, Voice of Duality",
       "Vivi Ornitier",
       "Volcanic Island",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "_____ Goblin"
     ],
     "commanders": [
       "Krark, the Thumbless",

@@ -6808,6 +6808,7 @@ const decks =
       "Borne Upon a Wind",
       "Brain Freeze",
       "Brainstorm",
+      "Chakra Meditation",
       "Chrome Mox",
       "City of Brass",
       "City of Traitors",
@@ -6828,7 +6829,6 @@ const decks =
       "Flooded Strand",
       "Flusterstorm",
       "Force of Will",
-      "Fork",
       "Gamble",
       "Gemstone Caverns",
       "Gitaxian Probe",
@@ -6861,7 +6861,6 @@ const decks =
       "Otawara, Soaring City",
       "Overmaster",
       "Pact of Negation",
-      "Peek",
       "Phyrexian Metamorph",
       "Pinnacle Monk // Mystic Peak",
       "Polluted Delta",
@@ -6894,7 +6893,8 @@ const decks =
       "Veyran, Voice of Duality",
       "Vivi Ornitier",
       "Volcanic Island",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "_____ Goblin"
     ],
     "commanders": [
       "Krark, the Thumbless",
