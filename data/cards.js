@@ -45,7 +45,7 @@ const cards =
     ],
     "supercent": 57,
     "rank": 156,
-    "superrank": 90,
+    "superrank": 91,
     "identity_rank": 4
   },
   "Abstergo Entertainment": {
@@ -563,14 +563,14 @@ const cards =
       "U"
     ],
     "name": "An Offer You Can't Refuse",
-    "count": 31,
-    "percent": 39,
+    "count": 32,
+    "percent": 41,
     "types": [
       "Instant"
     ],
-    "supercent": 56,
-    "rank": 61,
-    "superrank": 96,
+    "supercent": 58,
+    "rank": 59,
+    "superrank": 90,
     "identity_rank": 16
   },
   "Ancestral Knowledge": {
@@ -942,7 +942,7 @@ const cards =
     ],
     "supercent": 56,
     "rank": 36,
-    "superrank": 93,
+    "superrank": 94,
     "identity_rank": 23
   },
   "Artificial Evolution": {
@@ -4237,7 +4237,7 @@ const cards =
     ],
     "supercent": 57,
     "rank": 72,
-    "superrank": 91,
+    "superrank": 92,
     "identity_rank": 10
   },
   "Cultist of the Absolute": {
@@ -13869,7 +13869,7 @@ const cards =
     ],
     "supercent": 56,
     "rank": 37,
-    "superrank": 94,
+    "superrank": 95,
     "identity_rank": 24
   },
   "Mox Diamond": {
@@ -14227,7 +14227,7 @@ const cards =
     ],
     "supercent": 56,
     "rank": 122,
-    "superrank": 95,
+    "superrank": 96,
     "identity_rank": 11
   },
   "Necrodominance": {
@@ -21065,7 +21065,7 @@ const cards =
       "Land"
     ],
     "supercent": 39,
-    "rank": 60,
+    "rank": 61,
     "superrank": 140,
     "identity_rank": 30
   },
@@ -21538,7 +21538,7 @@ const cards =
     ],
     "supercent": 57,
     "rank": 34,
-    "superrank": 92,
+    "superrank": 93,
     "identity_rank": 22
   },
   "The Soul Stone": {
@@ -24560,7 +24560,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 65,
-    "rank": 59,
+    "rank": 60,
     "superrank": 73,
     "identity_rank": 8
   },

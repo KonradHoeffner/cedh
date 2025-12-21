@@ -4918,6 +4918,7 @@ const decks =
   },
   "Temur Necro [Punchy]": {
     "mainboard": [
+      "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
       "Arid Mesa",
