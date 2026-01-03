@@ -3705,6 +3705,7 @@ const decks =
       "Mox Opal",
       "Mystic Remora",
       "Necrodominance",
+      "Necropotence",
       "Noxious Revival",
       "Orim's Chant",
       "Otawara, Soaring City",
@@ -3725,7 +3726,6 @@ const decks =
       "Starting Town",
       "Submerge",
       "Swan Song",
-      "Sylvan Library",
       "Taiga",
       "Tainted Pact",
       "Teferi, Time Raveler",
@@ -7773,7 +7773,6 @@ const decks =
       "Culling Ritual",
       "Culling the Weak",
       "Dark Ritual",
-      "Defense Grid",
       "Deflecting Swat",
       "Delighted Halfling",
       "Demonic Tutor",
@@ -7815,6 +7814,7 @@ const decks =
       "Orcish Lumberjack",
       "Overgrown Tomb",
       "Polluted Delta",
+      "Prismatic Vista",
       "Pyroblast",
       "Ragavan, Nimble Pilferer",
       "Rain of Filth",
@@ -7831,7 +7831,6 @@ const decks =
       "Skittering Precursor",
       "Sol Ring",
       "Squandered Resources",
-      "Starting Town",
       "Stomping Ground",
       "Summoner's Pact",
       "Swamp",
@@ -7850,7 +7849,8 @@ const decks =
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor",
-      "Yavimaya, Cradle of Growth"
+      "Yavimaya, Cradle of Growth",
+      "Zuran Orb"
     ],
     "commanders": [
       "Korvold, Fae-Cursed King"
