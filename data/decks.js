@@ -7012,7 +7012,6 @@ const decks =
     "mainboard": [
       "Academy Rector",
       "Ancient Tomb",
-      "Angel's Grace",
       "Arcane Signet",
       "Archivist of Oghma",
       "Arid Mesa",
@@ -7105,6 +7104,7 @@ const decks =
       "Village Bell-Ringer",
       "Voice of Victory",
       "Weathered Wayfarer",
+      "Wheel of Fortune",
       "Windswept Heath",
       "Wirewood Symbiote",
       "Wooded Foothills",
