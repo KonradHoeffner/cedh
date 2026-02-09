@@ -137,7 +137,7 @@ const cards =
       "Instant"
     ],
     "supercent": 51,
-    "rank": 86,
+    "rank": 85,
     "superrank": 101,
     "identity_rank": 11
   },
@@ -1181,7 +1181,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 207,
-    "superrank": 125,
+    "superrank": 124,
     "identity_rank": 3
   },
   "Aven Interrupter": {
@@ -2507,7 +2507,7 @@ const cards =
       "Instant"
     ],
     "supercent": 43,
-    "rank": 94,
+    "rank": 95,
     "superrank": 129,
     "identity_rank": 22
   },
@@ -3336,7 +3336,7 @@ const cards =
     ],
     "supercent": 43,
     "rank": 137,
-    "superrank": 128,
+    "superrank": 127,
     "identity_rank": 14
   },
   "Chromatic Orrery": {
@@ -5225,7 +5225,7 @@ const cards =
     "identity_rank": 143
   },
   "Devoted Druid": {
-    "img": "https://cards.scryfall.io/large/front/8/2/820e2f07-f637-4144-b45a-0e1430dcf55e.jpg?1562832416",
+    "img": "https://cards.scryfall.io/large/front/8/2/820e2f07-f637-4144-b45a-0e1430dcf55e.jpg?1770144698",
     "date": "2008-05-02",
     "colors": [
       "G"
@@ -5262,15 +5262,15 @@ const cards =
       "B"
     ],
     "name": "Diabolic Intent",
-    "count": 23,
-    "percent": 29,
+    "count": 24,
+    "percent": 30,
     "types": [
       "Sorcery"
     ],
-    "supercent": 48,
-    "rank": 95,
-    "superrank": 112,
-    "identity_rank": 14
+    "supercent": 51,
+    "rank": 86,
+    "superrank": 102,
+    "identity_rank": 12
   },
   "Diabolic Tutor": {
     "img": "https://cards.scryfall.io/large/front/f/6/f6cf7e1b-00ea-46f8-a20a-76c307167854.jpg?1562941335",
@@ -7069,14 +7069,14 @@ const cards =
     "power": "2",
     "toughness": "1",
     "name": "Faerie Mastermind",
-    "count": 25,
-    "percent": 32,
+    "count": 24,
+    "percent": 30,
     "types": [
       "Creature"
     ],
-    "supercent": 45,
-    "rank": 85,
-    "superrank": 123,
+    "supercent": 43,
+    "rank": 93,
+    "superrank": 128,
     "identity_rank": 21
   },
   "Faerie Seer": {
@@ -7376,7 +7376,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 102,
-    "superrank": 102,
+    "superrank": 103,
     "identity_rank": 9
   },
   "Final Parting": {
@@ -8263,7 +8263,7 @@ const cards =
       "Land"
     ],
     "supercent": 75,
-    "rank": 93,
+    "rank": 94,
     "superrank": 58,
     "identity_rank": 5
   },
@@ -9493,7 +9493,7 @@ const cards =
     ],
     "supercent": 43,
     "rank": 53,
-    "superrank": 127,
+    "superrank": 126,
     "identity_rank": 28
   },
   "Grim Tutor": {
@@ -9698,7 +9698,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 130,
-    "superrank": 106,
+    "superrank": 107,
     "identity_rank": 2
   },
   "Halvar, God of Battle": {
@@ -10915,7 +10915,7 @@ const cards =
     ],
     "supercent": 49,
     "rank": 74,
-    "superrank": 111,
+    "superrank": 112,
     "identity_rank": 18
   },
   "Intuition": {
@@ -11541,7 +11541,7 @@ const cards =
     ],
     "supercent": 45,
     "rank": 184,
-    "superrank": 124,
+    "superrank": 123,
     "identity_rank": 4
   },
   "Knight of the Reliquary": {
@@ -13825,7 +13825,7 @@ const cards =
     ],
     "supercent": 49,
     "rank": 73,
-    "superrank": 110,
+    "superrank": 111,
     "identity_rank": 17
   },
   "Mogg Salvage": {
@@ -14529,8 +14529,8 @@ const cards =
     ],
     "supercent": 51,
     "rank": 88,
-    "superrank": 103,
-    "identity_rank": 12
+    "superrank": 104,
+    "identity_rank": 13
   },
   "Necrotic Ooze": {
     "img": "https://cards.scryfall.io/large/front/8/a/8af2c79f-a151-4628-90fe-c0ff7ccd9c2c.jpg?1562820081",
@@ -14601,7 +14601,7 @@ const cards =
     ],
     "supercent": 50,
     "rank": 166,
-    "superrank": 109,
+    "superrank": 110,
     "identity_rank": 3
   },
   "Nested Shambler": {
@@ -15104,8 +15104,8 @@ const cards =
     ],
     "supercent": 51,
     "rank": 90,
-    "superrank": 105,
-    "identity_rank": 13
+    "superrank": 106,
+    "identity_rank": 14
   },
   "Orcish Bowmasters": {
     "img": "https://cards.scryfall.io/large/front/d/e/de2de055-5246-408b-80fe-cd01688c145e.jpg?1686972486",
@@ -18385,7 +18385,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 103,
-    "superrank": 104,
+    "superrank": 105,
     "identity_rank": 9
   },
   "Shadow of Mortality": {
@@ -20128,7 +20128,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 140,
-    "superrank": 107,
+    "superrank": 108,
     "identity_rank": 2
   },
   "Step Through": {
@@ -21220,7 +21220,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 134,
-    "superrank": 108,
+    "superrank": 109,
     "identity_rank": 3
   },
   "Talon Gates of Madara": {
@@ -24401,7 +24401,7 @@ const cards =
     ],
     "supercent": 43,
     "rank": 116,
-    "superrank": 126,
+    "superrank": 125,
     "identity_rank": 11
   },
   "Wheel of Misfortune": {
