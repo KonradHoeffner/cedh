@@ -5762,7 +5762,7 @@ const decks =
       "Niv-Mizzet, Parun"
     ]
   },
-  "Tayam Druid Naus {cEDH}": {
+  "Tayam Midrange Adnaus": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
@@ -5830,7 +5830,6 @@ const decks =
       "Orcish Bowmasters",
       "Overgrown Tomb",
       "Phyrexian Tower",
-      "Praetor's Grasp",
       "Ranger-Captain of Eos",
       "Reprieve",
       "Rishkar, Peema Renegade",
@@ -5849,6 +5848,7 @@ const decks =
       "Talon Gates of Madara",
       "Temple Garden",
       "The One Ring",
+      "Touch the Spirit Realm",
       "Twilight Mire",
       "Tymna the Weaver",
       "Undergrowth Stadium",
