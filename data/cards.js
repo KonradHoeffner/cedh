@@ -2139,7 +2139,7 @@ const cards =
     ],
     "supercent": 65,
     "rank": 23,
-    "superrank": 73,
+    "superrank": 72,
     "identity_rank": 18
   },
   "Bloom Tender": {
@@ -2304,7 +2304,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 48,
-    "superrank": 71,
+    "superrank": 70,
     "identity_rank": 13
   },
   "Boromir, Warden of the Tower": {
@@ -2534,7 +2534,7 @@ const cards =
     ],
     "supercent": 68,
     "rank": 128,
-    "superrank": 68,
+    "superrank": 67,
     "identity_rank": 2
   },
   "Breena, the Demagogue": {
@@ -2749,7 +2749,7 @@ const cards =
     ],
     "supercent": 61,
     "rank": 67,
-    "superrank": 80,
+    "superrank": 81,
     "identity_rank": 9
   },
   "Cabal Therapy": {
@@ -3048,7 +3048,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 50,
-    "superrank": 72,
+    "superrank": 71,
     "identity_rank": 14
   },
   "Chainer, Dementia Master": {
@@ -3310,15 +3310,15 @@ const cards =
       "G"
     ],
     "name": "Chord of Calling",
-    "count": 14,
-    "percent": 17,
+    "count": 13,
+    "percent": 16,
     "types": [
       "Instant"
     ],
-    "supercent": 43,
-    "rank": 136,
-    "superrank": 127,
-    "identity_rank": 14
+    "supercent": 40,
+    "rank": 148,
+    "superrank": 137,
+    "identity_rank": 17
   },
   "Chromatic Orrery": {
     "img": "https://cards.scryfall.io/large/front/d/5/d5d9ddf6-9283-4c93-9932-70362068ce72.jpg?1615019622",
@@ -4216,7 +4216,7 @@ const cards =
     ],
     "supercent": 61,
     "rank": 145,
-    "superrank": 81,
+    "superrank": 82,
     "identity_rank": 3
   },
   "Culling the Weak": {
@@ -4373,7 +4373,7 @@ const cards =
       "Instant"
     ],
     "supercent": 47,
-    "rank": 79,
+    "rank": 80,
     "superrank": 115,
     "identity_rank": 19
   },
@@ -4963,7 +4963,7 @@ const cards =
     ],
     "supercent": 62,
     "rank": 107,
-    "superrank": 78,
+    "superrank": 79,
     "identity_rank": 8
   },
   "Delightful Discovery": {
@@ -6131,7 +6131,7 @@ const cards =
     ],
     "supercent": 62,
     "rank": 108,
-    "superrank": 79,
+    "superrank": 80,
     "identity_rank": 9
   },
   "Electro, Assaulting Battery": {
@@ -9087,14 +9087,14 @@ const cards =
     "power": "2",
     "toughness": "2",
     "name": "Grand Abolisher",
-    "count": 28,
-    "percent": 35,
+    "count": 27,
+    "percent": 34,
     "types": [
       "Creature"
     ],
-    "supercent": 68,
-    "rank": 68,
-    "superrank": 66,
+    "supercent": 65,
+    "rank": 70,
+    "superrank": 73,
     "identity_rank": 6
   },
   "Grapeshot": {
@@ -13039,7 +13039,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 20,
-    "superrank": 70,
+    "superrank": 69,
     "identity_rank": 17
   },
   "Marvin, Murderous Mimic": {
@@ -14071,7 +14071,7 @@ const cards =
     ],
     "supercent": 62,
     "rank": 26,
-    "superrank": 76,
+    "superrank": 77,
     "identity_rank": 19
   },
   "Muddle the Mixture": {
@@ -16420,8 +16420,8 @@ const cards =
       "Instant"
     ],
     "supercent": 60,
-    "rank": 81,
-    "superrank": 83,
+    "rank": 82,
+    "superrank": 84,
     "identity_rank": 7
   },
   "Pyrokinesis": {
@@ -16782,8 +16782,8 @@ const cards =
       "Instant"
     ],
     "supercent": 60,
-    "rank": 82,
-    "superrank": 84,
+    "rank": 83,
+    "superrank": 85,
     "identity_rank": 8
   },
   "Redirect Lightning": {
@@ -17867,7 +17867,7 @@ const cards =
     "identity_rank": 171
   },
   "Scholar of the Lost Trove": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aa254a86-3c30-408d-9c14-befd472f9740.jpg?1651525848",
+    "img": "https://cards.scryfall.io/large/front/a/a/aa254a86-3c30-408d-9c14-befd472f9740.jpg?1770635117",
     "date": "2020-07-17",
     "colors": [
       "U"
@@ -19117,9 +19117,9 @@ const cards =
       "Enchantment"
     ],
     "supercent": 60,
-    "rank": 83,
-    "superrank": 85,
-    "identity_rank": 7
+    "rank": 84,
+    "superrank": 86,
+    "identity_rank": 8
   },
   "Smuggler's Copter": {
     "img": "https://cards.scryfall.io/large/front/7/8/7832abb5-5107-4603-904e-491b221bd3e3.jpg?1705435031",
@@ -20644,15 +20644,15 @@ const cards =
       "G"
     ],
     "name": "Survival of the Fittest",
-    "count": 13,
-    "percent": 16,
+    "count": 14,
+    "percent": 17,
     "types": [
       "Enchantment"
     ],
-    "supercent": 40,
-    "rank": 148,
-    "superrank": 137,
-    "identity_rank": 17
+    "supercent": 43,
+    "rank": 135,
+    "superrank": 127,
+    "identity_rank": 14
   },
   "Survivors' Encampment": {
     "img": "https://cards.scryfall.io/large/front/c/7/c7b0404e-0f42-456b-91ce-f960195c4951.jpg?1562814201",
@@ -21474,7 +21474,7 @@ const cards =
     ],
     "supercent": 61,
     "rank": 54,
-    "superrank": 82,
+    "superrank": 83,
     "identity_rank": 15
   },
   "The Cabbage Merchant": {
@@ -22554,7 +22554,7 @@ const cards =
       "Land"
     ],
     "supercent": 96,
-    "rank": 70,
+    "rank": 69,
     "superrank": 19,
     "identity_rank": 1
   },
@@ -22925,8 +22925,8 @@ const cards =
       "Enchantment"
     ],
     "supercent": 68,
-    "rank": 69,
-    "superrank": 67,
+    "rank": 68,
+    "superrank": 66,
     "identity_rank": 5
   },
   "Undying Malice": {
@@ -23316,7 +23316,7 @@ const cards =
       "Creature"
     ],
     "supercent": 47,
-    "rank": 80,
+    "rank": 81,
     "superrank": 117,
     "identity_rank": 20
   },
@@ -23455,7 +23455,7 @@ const cards =
     ],
     "supercent": 68,
     "rank": 101,
-    "superrank": 69,
+    "superrank": 68,
     "identity_rank": 7
   },
   "Veilstone Amulet": {
@@ -23534,7 +23534,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 17,
-    "rank": 135,
+    "rank": 136,
     "superrank": 233,
     "identity_rank": 35
   },
@@ -23784,15 +23784,15 @@ const cards =
     "power": "1",
     "toughness": "3",
     "name": "Voice of Victory",
-    "count": 25,
-    "percent": 32,
+    "count": 26,
+    "percent": 33,
     "types": [
       "Creature"
     ],
-    "supercent": 60,
-    "rank": 84,
-    "superrank": 86,
-    "identity_rank": 8
+    "supercent": 63,
+    "rank": 79,
+    "superrank": 76,
+    "identity_rank": 7
   },
   "Void Snare": {
     "img": "https://cards.scryfall.io/large/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1562791143",
@@ -24536,7 +24536,7 @@ const cards =
     ],
     "supercent": 62,
     "rank": 27,
-    "superrank": 77,
+    "superrank": 78,
     "identity_rank": 20
   },
   "Winter Orb": {
