@@ -4610,7 +4610,7 @@ const decks =
       "Niv-Mizzet, Parun"
     ]
   },
-  "Tayam Midrange Adnaus cEDH": {
+  "Tayam Midrange Adnaus [cEDH PRIMER]": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
