@@ -3343,7 +3343,6 @@ const decks =
   "Iso-Rev Shorikai": {
     "mainboard": [
       "Adarkar Wastes",
-      "Amphibian Downpour",
       "An Offer You Can't Refuse",
       "Ancient Tomb",
       "Arcane Signet",
@@ -3400,6 +3399,7 @@ const decks =
       "Mockingbird",
       "Mox Diamond",
       "Mox Opal",
+      "Muddle the Mixture",
       "Mystic Remora",
       "Mystical Tutor",
       "Otawara, Soaring City",
@@ -3409,7 +3409,6 @@ const decks =
       "Phyrexian Metamorph",
       "Plains",
       "Polluted Delta",
-      "Portable Hole",
       "Ranger-Captain of Eos",
       "Rest in Peace",
       "Rhystic Study",
@@ -3440,6 +3439,7 @@ const decks =
       "Voice of Victory",
       "Voltaic Key",
       "Wan Shi Tong, Librarian",
+      "Whir of Invention",
       "Windswept Heath"
     ],
     "commanders": [
@@ -6323,9 +6323,11 @@ const decks =
       "Deflecting Swat",
       "Delighted Halfling",
       "Demonic Tutor",
+      "Dosan the Falling Leaf",
       "Dryad Arbor",
       "Elvish Spirit Guide",
       "Emergence Zone",
+      "Endurance",
       "Entomb",
       "Exploration",
       "Exploration Broodship",
@@ -6382,6 +6384,7 @@ const decks =
       "Sylvan Safekeeper",
       "Taiga",
       "Talon Gates of Madara",
+      "The Cabbage Merchant",
       "Tinder Wall",
       "Tireless Provisioner",
       "Underworld Breach",
@@ -6391,9 +6394,11 @@ const decks =
       "Verdant Catacombs",
       "Vexing Bauble",
       "Windswept Heath",
+      "Wishclaw Talisman",
       "Wooded Foothills",
       "Worldly Tutor",
-      "Yavimaya, Cradle of Growth"
+      "Yavimaya, Cradle of Growth",
+      "Zuran Orb"
     ],
     "commanders": [
       "Korvold, Fae-Cursed King"
