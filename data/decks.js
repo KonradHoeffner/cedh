@@ -2630,7 +2630,7 @@ const decks =
       "K'rrik, Son of Yawgmoth"
     ]
   },
-  "Krriko cEDH (FEB19 UPDATE)": {
+  "Krriko cEDH (MAR26 UPDATE)": {
     "mainboard": [
       "Ancient Tomb",
       "Animate Dead",
@@ -2641,6 +2641,7 @@ const decks =
       "Beseech the Mirror",
       "Beseech the Queen",
       "Bile Blight",
+      "Blinkmoth Nexus",
       "Blood Celebrant",
       "Blood Pet",
       "Bloodstained Mire",
@@ -2651,6 +2652,7 @@ const decks =
       "Chrome Mox",
       "City of Traitors",
       "Corpse Dance",
+      "Culling the Weak",
       "Cut Down",
       "Dance of the Dead",
       "Dark Ritual",
@@ -2658,7 +2660,6 @@ const decks =
       "Demonic Tutor",
       "Dimir House Guard",
       "Dismember",
-      "Elegy Acolyte",
       "Emergence Zone",
       "Entomb",
       "Everflowing Chalice",
@@ -2673,6 +2674,7 @@ const decks =
       "Heartless Summoning",
       "Hoarding Broodlord",
       "Imperial Seal",
+      "Inkmoth Nexus",
       "Insatiable Avarice",
       "Jet Medallion",
       "Lake of the Dead",
@@ -2707,12 +2709,12 @@ const decks =
       "Swamp",
       "Talon Gates of Madara",
       "Tezzeret, Cruel Captain",
-      "The One Ring",
       "Ulcerate",
       "Unmarked Grave",
       "Urza's Saga",
       "Vampiric Tutor",
       "Verdant Catacombs",
+      "Vexing Bauble",
       "Vile Entomber",
       "Vilis, Broker of Blood",
       "Yawgmoth's Will"
@@ -6312,6 +6314,7 @@ const decks =
       "Bloodstained Mire",
       "Boseiju, Who Endures",
       "Cabal Ritual",
+      "Carpet of Flowers",
       "Chrome Mox",
       "City of Brass",
       "City of Traitors",
@@ -6397,8 +6400,7 @@ const decks =
       "Wishclaw Talisman",
       "Wooded Foothills",
       "Worldly Tutor",
-      "Yavimaya, Cradle of Growth",
-      "Zuran Orb"
+      "Yavimaya, Cradle of Growth"
     ],
     "commanders": [
       "Korvold, Fae-Cursed King"
