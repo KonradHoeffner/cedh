@@ -4080,7 +4080,7 @@ const cards =
     "identity_rank": 53
   },
   "Coveted Jewel": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f83ed433-fae3-4fa5-acad-bb8a5b535ce3.jpg?1592710349",
+    "img": "https://cards.scryfall.io/large/front/f/8/f83ed433-fae3-4fa5-acad-bb8a5b535ce3.jpg?1775013541",
     "date": "2018-08-10",
     "colors": [],
     "mana_cost": "{6}",
@@ -4168,7 +4168,7 @@ const cards =
     "identity_rank": 7
   },
   "Cryptolith Rite": {
-    "img": "https://cards.scryfall.io/large/front/3/d/3d6e6f2c-30ad-4d7f-ab47-1bcfcaf10da0.jpg?1736551213",
+    "img": "https://cards.scryfall.io/large/front/3/d/3d6e6f2c-30ad-4d7f-ab47-1bcfcaf10da0.jpg?1775051951",
     "date": "2016-04-08",
     "colors": [
       "G"
@@ -4737,7 +4737,7 @@ const cards =
     "identity_rank": 19
   },
   "Deadpool, Trading Card": {
-    "img": "https://cards.scryfall.io/large/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1743765756",
+    "img": "https://cards.scryfall.io/large/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1775149615",
     "date": "2025-04-01",
     "colors": [
       "B",
@@ -7275,7 +7275,7 @@ const cards =
     "identity_rank": 72
   },
   "Fire Covenant": {
-    "img": "https://cards.scryfall.io/large/front/6/a/6a0139c2-ad86-4c71-ab6d-4840c37d5d20.jpg?1562914627",
+    "img": "https://cards.scryfall.io/large/front/6/a/6a0139c2-ad86-4c71-ab6d-4840c37d5d20.jpg?1775013389",
     "date": "1995-06-03",
     "colors": [
       "B",
@@ -9502,7 +9502,7 @@ const cards =
     "identity_rank": 37
   },
   "Heartless Summoning": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fbac3bc3-e4b7-4320-b7b9-eaebc9cf829e.jpg?1736551747",
+    "img": "https://cards.scryfall.io/large/front/f/b/fbac3bc3-e4b7-4320-b7b9-eaebc9cf829e.jpg?1775051958",
     "date": "2011-09-30",
     "colors": [
       "B"
@@ -19821,7 +19821,7 @@ const cards =
     "identity_rank": 73
   },
   "Survival of the Fittest": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c060c178-3c0e-493f-b6f0-ead5b1d6f191.jpg?1562088786",
+    "img": "https://cards.scryfall.io/large/front/c/0/c060c178-3c0e-493f-b6f0-ead5b1d6f191.jpg?1775013477",
     "date": "1998-06-15",
     "colors": [
       "G"
