@@ -5573,6 +5573,7 @@ const decks =
       "Birthing Pod",
       "Bloodstained Mire",
       "Bloom Tender",
+      "Borrowed Knowledge",
       "Boseiju, Who Endures",
       "Carpet of Flowers",
       "Cavern of Souls",
@@ -5657,7 +5658,6 @@ const decks =
       "Verdant Catacombs",
       "Village Bell-Ringer",
       "Voice of Victory",
-      "Wheel of Fortune",
       "Windswept Heath",
       "Wooded Foothills",
       "Worldly Tutor"
