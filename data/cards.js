@@ -2939,7 +2939,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 83,
-    "superrank": 152,
+    "superrank": 151,
     "identity_rank": 32
   },
   "Caves of Chaos Adventurer": {
@@ -3982,7 +3982,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 20,
-    "rank": 168,
+    "rank": 167,
     "superrank": 199,
     "identity_rank": 33
   },
@@ -4906,7 +4906,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 12,
-    "rank": 182,
+    "rank": 181,
     "superrank": 276,
     "identity_rank": 42
   },
@@ -5072,7 +5072,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 97,
-    "rank": 22,
+    "rank": 23,
     "superrank": 11,
     "identity_rank": 1
   },
@@ -5103,7 +5103,7 @@ const cards =
     ],
     "supercent": 33,
     "rank": 326,
-    "superrank": 151,
+    "superrank": 150,
     "identity_rank": 2
   },
   "Deserted Temple": {
@@ -5360,7 +5360,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 124,
-    "superrank": 154,
+    "superrank": 153,
     "identity_rank": 25
   },
   "Displacer Kitten": {
@@ -6033,7 +6033,7 @@ const cards =
       "Instant"
     ],
     "supercent": 50,
-    "rank": 165,
+    "rank": 164,
     "superrank": 105,
     "identity_rank": 2
   },
@@ -6392,9 +6392,9 @@ const cards =
       "Creature"
     ],
     "supercent": 34,
-    "rank": 179,
-    "superrank": 148,
-    "identity_rank": 19
+    "rank": 178,
+    "superrank": 147,
+    "identity_rank": 18
   },
   "Enlightened Tutor": {
     "img": "https://cards.scryfall.io/large/front/c/b/cbac1d27-15e2-4e2f-82ab-625a16e096cb.jpg?1764758757",
@@ -8755,7 +8755,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 14,
-    "rank": 169,
+    "rank": 168,
     "superrank": 254,
     "identity_rank": 40
   },
@@ -10212,7 +10212,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 20,
-    "rank": 170,
+    "rank": 169,
     "superrank": 200,
     "identity_rank": 34
   },
@@ -10426,7 +10426,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 119,
-    "superrank": 149,
+    "superrank": 148,
     "identity_rank": 24
   },
   "Invasion of Ikoria": {
@@ -11035,7 +11035,7 @@ const cards =
       "Creature"
     ],
     "supercent": 52,
-    "rank": 166,
+    "rank": 165,
     "superrank": 101,
     "identity_rank": 4
   },
@@ -12692,7 +12692,7 @@ const cards =
       "Instant"
     ],
     "supercent": 100,
-    "rank": 20,
+    "rank": 21,
     "superrank": 3,
     "identity_rank": 1
   },
@@ -12874,7 +12874,7 @@ const cards =
       "Land"
     ],
     "supercent": 20,
-    "rank": 171,
+    "rank": 170,
     "superrank": 201,
     "identity_rank": 35
   },
@@ -12962,7 +12962,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 20,
-    "rank": 172,
+    "rank": 171,
     "superrank": 202,
     "identity_rank": 36
   },
@@ -13461,7 +13461,7 @@ const cards =
       "Land"
     ],
     "supercent": 25,
-    "rank": 167,
+    "rank": 166,
     "superrank": 177,
     "identity_rank": 15
   },
@@ -13513,16 +13513,16 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "Mox Opal",
-    "count": 42,
-    "percent": 65,
+    "count": 43,
+    "percent": 67,
     "types": [
       "Legendary",
       "Artifact"
     ],
-    "supercent": 65,
-    "rank": 23,
-    "superrank": 74,
-    "identity_rank": 20
+    "supercent": 67,
+    "rank": 19,
+    "superrank": 71,
+    "identity_rank": 19
   },
   "Muddle the Mixture": {
     "img": "https://cards.scryfall.io/large/front/e/3/e3585baf-be10-456e-968d-7a3fa4f06060.jpg?1702420982",
@@ -13655,7 +13655,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 100,
-    "rank": 21,
+    "rank": 22,
     "superrank": 4,
     "identity_rank": 2
   },
@@ -16861,7 +16861,7 @@ const cards =
     ],
     "supercent": 31,
     "rank": 222,
-    "superrank": 155,
+    "superrank": 154,
     "identity_rank": 2
   },
   "Sacred Guide": {
@@ -19378,7 +19378,7 @@ const cards =
       "Land"
     ],
     "supercent": 42,
-    "rank": 176,
+    "rank": 175,
     "superrank": 129,
     "identity_rank": 2
   },
@@ -19513,7 +19513,7 @@ const cards =
     ],
     "supercent": 33,
     "rank": 295,
-    "superrank": 150,
+    "superrank": 149,
     "identity_rank": 3
   },
   "Stony Silence": {
@@ -19945,7 +19945,7 @@ const cards =
       "Land"
     ],
     "supercent": 20,
-    "rank": 173,
+    "rank": 172,
     "superrank": 203,
     "identity_rank": 24
   },
@@ -20031,15 +20031,15 @@ const cards =
       "G"
     ],
     "name": "Sylvan Library",
-    "count": 9,
-    "percent": 14,
+    "count": 8,
+    "percent": 12,
     "types": [
       "Enchantment"
     ],
-    "supercent": 34,
-    "rank": 164,
-    "superrank": 145,
-    "identity_rank": 18
+    "supercent": 30,
+    "rank": 182,
+    "superrank": 156,
+    "identity_rank": 19
   },
   "Sylvan Safekeeper": {
     "img": "https://cards.scryfall.io/large/front/f/1/f1b8413f-c9fc-4cea-b416-a1fcf651b009.jpg?1562632623",
@@ -20399,7 +20399,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 81,
-    "superrank": 147,
+    "superrank": 146,
     "identity_rank": 31
   },
   "Tam, Mindful First-Year": {
@@ -20567,7 +20567,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 187,
-    "superrank": 153,
+    "superrank": 152,
     "identity_rank": 4
   },
   "Temple Garden": {
@@ -20655,7 +20655,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 14,
-    "rank": 177,
+    "rank": 176,
     "superrank": 255,
     "identity_rank": 41
   },
@@ -21157,7 +21157,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 20,
-    "rank": 174,
+    "rank": 173,
     "superrank": 204,
     "identity_rank": 37
   },
@@ -21184,7 +21184,7 @@ const cards =
     ],
     "supercent": 66,
     "rank": 191,
-    "superrank": 73,
+    "superrank": 74,
     "identity_rank": 2
   },
   "Tireless Provisioner": {
@@ -21458,7 +21458,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 20,
-    "rank": 181,
+    "rank": 180,
     "superrank": 208,
     "identity_rank": 39
   },
@@ -21779,7 +21779,7 @@ const cards =
       "Land"
     ],
     "supercent": 29,
-    "rank": 175,
+    "rank": 174,
     "superrank": 163,
     "identity_rank": 6
   },
@@ -22753,7 +22753,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 117,
-    "superrank": 146,
+    "superrank": 145,
     "identity_rank": 23
   },
   "Wandering Archaic": {
@@ -22955,7 +22955,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 85,
-    "superrank": 72,
+    "superrank": 73,
     "identity_rank": 2
   },
   "Wear // Tear": {
@@ -23049,7 +23049,7 @@ const cards =
     ],
     "supercent": 31,
     "rank": 141,
-    "superrank": 156,
+    "superrank": 155,
     "identity_rank": 13
   },
   "Wheel of Misfortune": {
@@ -23238,7 +23238,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 20,
-    "rank": 180,
+    "rank": 179,
     "superrank": 206,
     "identity_rank": 38
   },
@@ -23257,9 +23257,9 @@ const cards =
       "Land"
     ],
     "supercent": 67,
-    "rank": 19,
-    "superrank": 71,
-    "identity_rank": 19
+    "rank": 20,
+    "superrank": 72,
+    "identity_rank": 20
   },
   "Wingcrafter": {
     "img": "https://cards.scryfall.io/large/front/0/4/04a3059f-92f2-4163-b79a-154118a4e36d.jpg?1592708742",
@@ -23584,7 +23584,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 20,
-    "rank": 178,
+    "rank": 177,
     "superrank": 205,
     "identity_rank": 25
   },
