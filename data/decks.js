@@ -6304,7 +6304,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Korvold, the MAD King ": {
+  "Korvold, the MAD King  Jund Storm  ": {
     "mainboard": [
       "Abrupt Decay",
       "Ad Nauseam",
