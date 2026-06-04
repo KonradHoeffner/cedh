@@ -44,7 +44,7 @@ const cards =
       "Instant"
     ],
     "supercent": 50,
-    "rank": 150,
+    "rank": 149,
     "superrank": 104,
     "identity_rank": 5
   },
@@ -523,7 +523,7 @@ const cards =
     ],
     "supercent": 53,
     "rank": 76,
-    "superrank": 99,
+    "superrank": 100,
     "identity_rank": 17
   },
   "Ancient Cellarspawn": {
@@ -826,7 +826,7 @@ const cards =
       "Creature"
     ],
     "supercent": 30,
-    "rank": 146,
+    "rank": 145,
     "superrank": 159,
     "identity_rank": 12
   },
@@ -1044,7 +1044,7 @@ const cards =
     ],
     "supercent": 25,
     "rank": 265,
-    "superrank": 183,
+    "superrank": 182,
     "identity_rank": 7
   },
   "Aura Thief": {
@@ -1998,7 +1998,7 @@ const cards =
       "Land"
     ],
     "supercent": 47,
-    "rank": 149,
+    "rank": 148,
     "superrank": 113,
     "identity_rank": 2
   },
@@ -2533,7 +2533,7 @@ const cards =
       "Land"
     ],
     "supercent": 58,
-    "rank": 151,
+    "rank": 150,
     "superrank": 85,
     "identity_rank": 2
   },
@@ -4968,7 +4968,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 97,
-    "rank": 22,
+    "rank": 23,
     "superrank": 13,
     "identity_rank": 1
   },
@@ -6434,7 +6434,7 @@ const cards =
       "Creature"
     ],
     "supercent": 91,
-    "rank": 42,
+    "rank": 43,
     "superrank": 25,
     "identity_rank": 2
   },
@@ -6962,15 +6962,15 @@ const cards =
     "type_line": "Artifact",
     "color_identity": [],
     "name": "Fellwar Stone",
-    "count": 33,
-    "percent": 51,
+    "count": 34,
+    "percent": 53,
     "types": [
       "Artifact"
     ],
-    "supercent": 51,
-    "rank": 45,
-    "superrank": 102,
-    "identity_rank": 25
+    "supercent": 53,
+    "rank": 41,
+    "superrank": 99,
+    "identity_rank": 24
   },
   "Fiend Artisan": {
     "img": "https://cards.scryfall.io/large/front/6/c/6cd9d800-6d31-42e2-87d2-772db0ff95ed.jpg?1591228355",
@@ -7109,7 +7109,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 42,
-    "rank": 148,
+    "rank": 147,
     "superrank": 127,
     "identity_rank": 14
   },
@@ -11693,9 +11693,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 51,
-    "rank": 43,
-    "superrank": 100,
-    "identity_rank": 24
+    "rank": 44,
+    "superrank": 101,
+    "identity_rank": 25
   },
   "Liquimetal Torque": {
     "img": "https://cards.scryfall.io/large/front/4/b/4b548fdf-7130-4a94-bd7e-09591b395513.jpg?1626103623",
@@ -12565,7 +12565,7 @@ const cards =
       "Instant"
     ],
     "supercent": 100,
-    "rank": 20,
+    "rank": 21,
     "superrank": 4,
     "identity_rank": 1
   },
@@ -13336,7 +13336,7 @@ const cards =
     ],
     "supercent": 25,
     "rank": 168,
-    "superrank": 181,
+    "superrank": 180,
     "identity_rank": 16
   },
   "Mox Amber": {
@@ -13504,7 +13504,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 100,
-    "rank": 21,
+    "rank": 22,
     "superrank": 5,
     "identity_rank": 2
   },
@@ -13527,7 +13527,7 @@ const cards =
       "Instant"
     ],
     "supercent": 79,
-    "rank": 41,
+    "rank": 42,
     "superrank": 53,
     "identity_rank": 12
   },
@@ -13739,9 +13739,9 @@ const cards =
       "Enchantment"
     ],
     "supercent": 23,
-    "rank": 152,
-    "superrank": 186,
-    "identity_rank": 22
+    "rank": 151,
+    "superrank": 185,
+    "identity_rank": 21
   },
   "Necropotence": {
     "img": "https://cards.scryfall.io/large/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1562910576",
@@ -13763,7 +13763,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 79,
-    "superrank": 101,
+    "superrank": 102,
     "identity_rank": 14
   },
   "Necrotic Ooze": {
@@ -13834,7 +13834,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 58,
-    "rank": 153,
+    "rank": 152,
     "superrank": 87,
     "identity_rank": 3
   },
@@ -13887,7 +13887,7 @@ const cards =
       "Creature"
     ],
     "supercent": 91,
-    "rank": 145,
+    "rank": 144,
     "superrank": 27,
     "identity_rank": 1
   },
@@ -13985,7 +13985,7 @@ const cards =
       "Instant"
     ],
     "supercent": 38,
-    "rank": 154,
+    "rank": 153,
     "superrank": 133,
     "identity_rank": 15
   },
@@ -14335,7 +14335,7 @@ const cards =
     ],
     "supercent": 25,
     "rank": 351,
-    "superrank": 182,
+    "superrank": 181,
     "identity_rank": 4
   },
   "Orim's Chant": {
@@ -14357,7 +14357,7 @@ const cards =
       "Instant"
     ],
     "supercent": 30,
-    "rank": 147,
+    "rank": 146,
     "superrank": 160,
     "identity_rank": 13
   },
@@ -14980,16 +14980,16 @@ const cards =
       "B"
     ],
     "name": "Phyrexian Tower",
-    "count": 11,
-    "percent": 17,
+    "count": 10,
+    "percent": 15,
     "types": [
       "Legendary",
       "Land"
     ],
-    "supercent": 25,
-    "rank": 144,
-    "superrank": 180,
-    "identity_rank": 21
+    "supercent": 23,
+    "rank": 154,
+    "superrank": 186,
+    "identity_rank": 22
   },
   "Phyrexian Unlife": {
     "img": "https://cards.scryfall.io/large/front/b/4/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18.jpg?1562880895",
@@ -17870,7 +17870,7 @@ const cards =
       "Instant"
     ],
     "supercent": 91,
-    "rank": 44,
+    "rank": 45,
     "superrank": 26,
     "identity_rank": 3
   },
@@ -19813,7 +19813,7 @@ const cards =
     ],
     "supercent": 66,
     "rank": 71,
-    "superrank": 72,
+    "superrank": 73,
     "identity_rank": 6
   },
   "Sylvan Library": {
@@ -20156,7 +20156,7 @@ const cards =
     ],
     "supercent": 23,
     "rank": 248,
-    "superrank": 185,
+    "superrank": 184,
     "identity_rank": 3
   },
   "Talisman of Progress": {
@@ -21052,7 +21052,7 @@ const cards =
     ],
     "supercent": 66,
     "rank": 187,
-    "superrank": 73,
+    "superrank": 74,
     "identity_rank": 2
   },
   "Tithe Taker": {
@@ -21556,7 +21556,7 @@ const cards =
     ],
     "supercent": 25,
     "rank": 274,
-    "superrank": 184,
+    "superrank": 183,
     "identity_rank": 8
   },
   "Ulamog, the Infinite Gyre": {
@@ -22058,7 +22058,7 @@ const cards =
       "Instant"
     ],
     "supercent": 97,
-    "rank": 23,
+    "rank": 24,
     "superrank": 14,
     "identity_rank": 2
   },
@@ -22796,7 +22796,7 @@ const cards =
     ],
     "supercent": 67,
     "rank": 84,
-    "superrank": 71,
+    "superrank": 72,
     "identity_rank": 2
   },
   "Wear // Tear": {
@@ -23069,14 +23069,14 @@ const cards =
     "type_line": "Land",
     "color_identity": [],
     "name": "Windswept Heath",
-    "count": 42,
-    "percent": 65,
+    "count": 43,
+    "percent": 67,
     "types": [
       "Land"
     ],
-    "supercent": 65,
-    "rank": 24,
-    "superrank": 74,
+    "supercent": 67,
+    "rank": 20,
+    "superrank": 71,
     "identity_rank": 20
   },
   "Wingcrafter": {
