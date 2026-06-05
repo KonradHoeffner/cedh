@@ -523,7 +523,7 @@ const cards =
     ],
     "supercent": 53,
     "rank": 76,
-    "superrank": 100,
+    "superrank": 99,
     "identity_rank": 17
   },
   "Ancient Cellarspawn": {
@@ -638,7 +638,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 25,
-    "rank": 140,
+    "rank": 141,
     "superrank": 179,
     "identity_rank": 20
   },
@@ -2790,7 +2790,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 46,
-    "rank": 132,
+    "rank": 133,
     "superrank": 114,
     "identity_rank": 12
   },
@@ -2860,7 +2860,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 82,
-    "superrank": 149,
+    "superrank": 150,
     "identity_rank": 31
   },
   "Caves of Chaos Adventurer": {
@@ -4128,7 +4128,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 60,
-    "rank": 133,
+    "rank": 134,
     "superrank": 83,
     "identity_rank": 3
   },
@@ -4656,7 +4656,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 115,
-    "superrank": 143,
+    "superrank": 144,
     "identity_rank": 19
   },
   "Deadpool, Trading Card": {
@@ -4999,7 +4999,7 @@ const cards =
     ],
     "supercent": 33,
     "rank": 336,
-    "superrank": 148,
+    "superrank": 149,
     "identity_rank": 2
   },
   "Deserted Temple": {
@@ -5256,7 +5256,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 121,
-    "superrank": 151,
+    "superrank": 152,
     "identity_rank": 25
   },
   "Displacer Kitten": {
@@ -6292,7 +6292,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 178,
-    "superrank": 145,
+    "superrank": 146,
     "identity_rank": 17
   },
   "Enlightened Tutor": {
@@ -6434,7 +6434,7 @@ const cards =
       "Creature"
     ],
     "supercent": 91,
-    "rank": 43,
+    "rank": 42,
     "superrank": 25,
     "identity_rank": 2
   },
@@ -6962,15 +6962,15 @@ const cards =
     "type_line": "Artifact",
     "color_identity": [],
     "name": "Fellwar Stone",
-    "count": 34,
-    "percent": 53,
+    "count": 33,
+    "percent": 51,
     "types": [
       "Artifact"
     ],
-    "supercent": 53,
-    "rank": 41,
-    "superrank": 99,
-    "identity_rank": 24
+    "supercent": 51,
+    "rank": 45,
+    "superrank": 102,
+    "identity_rank": 25
   },
   "Fiend Artisan": {
     "img": "https://cards.scryfall.io/large/front/6/c/6cd9d800-6d31-42e2-87d2-772db0ff95ed.jpg?1591228355",
@@ -9244,7 +9244,7 @@ const cards =
       "Land"
     ],
     "supercent": 48,
-    "rank": 135,
+    "rank": 136,
     "superrank": 109,
     "identity_rank": 2
   },
@@ -10350,7 +10350,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 119,
-    "superrank": 146,
+    "superrank": 147,
     "identity_rank": 24
   },
   "Invasion of Ikoria": {
@@ -10457,7 +10457,7 @@ const cards =
       "Land"
     ],
     "supercent": 27,
-    "rank": 138,
+    "rank": 139,
     "superrank": 170,
     "identity_rank": 29
   },
@@ -11693,9 +11693,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 51,
-    "rank": 44,
-    "superrank": 101,
-    "identity_rank": 25
+    "rank": 43,
+    "superrank": 100,
+    "identity_rank": 24
   },
   "Liquimetal Torque": {
     "img": "https://cards.scryfall.io/large/front/4/b/4b548fdf-7130-4a94-bd7e-09591b395513.jpg?1626103623",
@@ -13527,7 +13527,7 @@ const cards =
       "Instant"
     ],
     "supercent": 79,
-    "rank": 42,
+    "rank": 41,
     "superrank": 53,
     "identity_rank": 12
   },
@@ -13763,7 +13763,7 @@ const cards =
     ],
     "supercent": 51,
     "rank": 79,
-    "superrank": 102,
+    "superrank": 101,
     "identity_rank": 14
   },
   "Necrotic Ooze": {
@@ -14943,7 +14943,7 @@ const cards =
       "Creature"
     ],
     "supercent": 27,
-    "rank": 136,
+    "rank": 137,
     "superrank": 169,
     "identity_rank": 28
   },
@@ -16102,9 +16102,9 @@ const cards =
       "Instant"
     ],
     "supercent": 31,
-    "rank": 141,
-    "superrank": 153,
-    "identity_rank": 13
+    "rank": 142,
+    "superrank": 154,
+    "identity_rank": 14
   },
   "Rejuvenating Springs": {
     "img": "https://cards.scryfall.io/large/front/5/8/5888b82e-79e0-4b8e-9c16-07dddc2bfeff.jpg?1608919124",
@@ -16684,7 +16684,7 @@ const cards =
     ],
     "supercent": 31,
     "rank": 220,
-    "superrank": 154,
+    "superrank": 155,
     "identity_rank": 2
   },
   "Sacred Guide": {
@@ -17870,7 +17870,7 @@ const cards =
       "Instant"
     ],
     "supercent": 91,
-    "rank": 45,
+    "rank": 44,
     "superrank": 26,
     "identity_rank": 3
   },
@@ -19337,7 +19337,7 @@ const cards =
     ],
     "supercent": 33,
     "rank": 302,
-    "superrank": 147,
+    "superrank": 148,
     "identity_rank": 3
   },
   "Stony Silence": {
@@ -19702,7 +19702,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 46,
-    "rank": 134,
+    "rank": 135,
     "superrank": 116,
     "identity_rank": 13
   },
@@ -19928,7 +19928,7 @@ const cards =
       "Land"
     ],
     "supercent": 100,
-    "rank": 137,
+    "rank": 138,
     "superrank": 9,
     "identity_rank": 1
   },
@@ -20177,7 +20177,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 48,
-    "rank": 139,
+    "rank": 140,
     "superrank": 112,
     "identity_rank": 3
   },
@@ -20219,7 +20219,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 87,
-    "superrank": 152,
+    "superrank": 153,
     "identity_rank": 32
   },
   "Tam, Mindful First-Year": {
@@ -20412,7 +20412,7 @@ const cards =
     ],
     "supercent": 32,
     "rank": 184,
-    "superrank": 150,
+    "superrank": 151,
     "identity_rank": 4
   },
   "Temple Garden": {
@@ -22596,7 +22596,7 @@ const cards =
     ],
     "supercent": 34,
     "rank": 117,
-    "superrank": 144,
+    "superrank": 145,
     "identity_rank": 23
   },
   "Wandering Archaic": {
@@ -22883,15 +22883,15 @@ const cards =
       "R"
     ],
     "name": "Wheel of Fortune",
-    "count": 11,
-    "percent": 17,
+    "count": 12,
+    "percent": 18,
     "types": [
       "Sorcery"
     ],
-    "supercent": 31,
-    "rank": 142,
-    "superrank": 155,
-    "identity_rank": 14
+    "supercent": 34,
+    "rank": 132,
+    "superrank": 143,
+    "identity_rank": 13
   },
   "Wheel of Misfortune": {
     "img": "https://cards.scryfall.io/large/front/9/4/943aa774-e149-431b-804a-310cca6de006.jpg?1608918797",
