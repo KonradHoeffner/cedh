@@ -6304,7 +6304,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Korvold, the MAD King  Citadel Storm ": {
+  "Korvold, the MAD King  Storm ": {
     "mainboard": [
       "Ad Nauseam",
       "Ancient Tomb",
@@ -6361,6 +6361,7 @@ const decks =
       "Mana Confluence",
       "Mana Vault",
       "Marsh Flats",
+      "Mayhem Devil",
       "Misty Rainforest",
       "Mox Amber",
       "Mox Diamond",
@@ -6399,7 +6400,6 @@ const decks =
       "Verdant Catacombs",
       "Vexing Bauble",
       "Warren Soultrader",
-      "Wheel of Fortune",
       "Windswept Heath",
       "Wishclaw Talisman",
       "Witherbloom Apprentice",
