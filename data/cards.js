@@ -19,9 +19,9 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 308,
-    "superrank": 304,
-    "identity_rank": 32
+    "rank": 307,
+    "superrank": 303,
+    "identity_rank": 31
   },
   "Abrupt Decay": {
     "img": "https://cards.scryfall.io/large/front/5/7/57010ba9-52be-484d-9976-7576c4ce48d0.jpg?1619402275",
@@ -114,7 +114,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 453,
+    "rank": 452,
     "superrank": 546,
     "identity_rank": 69
   },
@@ -181,8 +181,8 @@ const cards =
       "Land"
     ],
     "supercent": 12,
-    "rank": 433,
-    "superrank": 286,
+    "rank": 432,
+    "superrank": 287,
     "identity_rank": 7
   },
   "Aerial Extortionist": {
@@ -206,7 +206,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 705,
+    "rank": 706,
     "superrank": 758,
     "identity_rank": 60
   },
@@ -246,7 +246,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 432,
+    "rank": 431,
     "superrank": 601,
     "identity_rank": 93
   },
@@ -307,7 +307,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 211,
-    "superrank": 327,
+    "superrank": 326,
     "identity_rank": 45
   },
   "Ainok Strike Leader": {
@@ -331,7 +331,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 586,
+    "rank": 587,
     "superrank": 530,
     "identity_rank": 44
   },
@@ -357,7 +357,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 587,
+    "rank": 588,
     "superrank": 531,
     "identity_rank": 91
   },
@@ -382,9 +382,9 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 443,
-    "superrank": 324,
-    "identity_rank": 42
+    "rank": 442,
+    "superrank": 323,
+    "identity_rank": 41
   },
   "Alseid of Life's Bounty": {
     "img": "https://cards.scryfall.io/large/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926",
@@ -427,7 +427,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 463,
+    "rank": 462,
     "superrank": 637,
     "identity_rank": 96
   },
@@ -476,7 +476,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 5,
-    "rank": 758,
+    "rank": 759,
     "superrank": 513,
     "identity_rank": 2
   },
@@ -499,7 +499,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 780,
+    "rank": 781,
     "superrank": 804,
     "identity_rank": 123
   },
@@ -831,7 +831,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 577,
+    "rank": 578,
     "superrank": 628,
     "identity_rank": 99
   },
@@ -923,7 +923,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 695,
+    "rank": 696,
     "superrank": 751,
     "identity_rank": 109
   },
@@ -998,7 +998,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 410,
+    "rank": 409,
     "superrank": 451,
     "identity_rank": 54
   },
@@ -1090,15 +1090,15 @@ const cards =
       "G"
     ],
     "name": "Autumn's Veil",
-    "count": 3,
-    "percent": 4,
+    "count": 2,
+    "percent": 3,
     "types": [
       "Instant"
     ],
-    "supercent": 11,
-    "rank": 350,
-    "superrank": 297,
-    "identity_rank": 40
+    "supercent": 7,
+    "rank": 470,
+    "superrank": 405,
+    "identity_rank": 44
   },
   "Avacyn's Pilgrim": {
     "img": "https://cards.scryfall.io/large/front/7/e/7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f.jpg?1562832870",
@@ -1147,8 +1147,8 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 328,
-    "superrank": 317,
+    "rank": 327,
+    "superrank": 316,
     "identity_rank": 27
   },
   "Aven Mindcensor": {
@@ -1173,7 +1173,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 252,
-    "superrank": 272,
+    "superrank": 273,
     "identity_rank": 19
   },
   "Axgard Cavalry": {
@@ -1292,7 +1292,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 411,
+    "rank": 410,
     "superrank": 452,
     "identity_rank": 55
   },
@@ -1315,7 +1315,7 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 458,
+    "rank": 457,
     "superrank": 551,
     "identity_rank": 79
   },
@@ -1336,7 +1336,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 668,
+    "rank": 669,
     "superrank": 737,
     "identity_rank": 111
   },
@@ -1358,7 +1358,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 360,
+    "rank": 359,
     "superrank": 563,
     "identity_rank": 69
   },
@@ -1431,7 +1431,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 233,
-    "superrank": 345,
+    "superrank": 344,
     "identity_rank": 49
   },
   "Basking Broodscale": {
@@ -1475,7 +1475,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 309,
+    "rank": 308,
     "superrank": 433,
     "identity_rank": 57
   },
@@ -1497,8 +1497,8 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 588,
-    "superrank": 330,
+    "rank": 589,
+    "superrank": 329,
     "identity_rank": 5
   },
   "Bayou": {
@@ -1584,7 +1584,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 412,
+    "rank": 411,
     "superrank": 453,
     "identity_rank": 56
   },
@@ -1607,7 +1607,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 741,
+    "rank": 742,
     "superrank": 780,
     "identity_rank": 109
   },
@@ -1634,7 +1634,7 @@ const cards =
       "Creature"
     ],
     "supercent": 17,
-    "rank": 358,
+    "rank": 357,
     "superrank": 232,
     "identity_rank": 5
   },
@@ -1659,7 +1659,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 759,
+    "rank": 760,
     "superrank": 669,
     "identity_rank": 78
   },
@@ -1822,8 +1822,8 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 589,
-    "superrank": 331,
+    "rank": 590,
+    "superrank": 330,
     "identity_rank": 6
   },
   "Blasphemous Act": {
@@ -1931,7 +1931,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 609,
+    "rank": 610,
     "superrank": 706,
     "identity_rank": 93
   },
@@ -1956,7 +1956,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 413,
+    "rank": 412,
     "superrank": 454,
     "identity_rank": 57
   },
@@ -2004,7 +2004,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 280,
-    "superrank": 321,
+    "superrank": 320,
     "identity_rank": 39
   },
   "Bloodchief Ascension": {
@@ -2051,7 +2051,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 361,
+    "rank": 360,
     "superrank": 371,
     "identity_rank": 42
   },
@@ -2145,7 +2145,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 454,
+    "rank": 453,
     "superrank": 547,
     "identity_rank": 70
   },
@@ -2351,7 +2351,7 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 362,
+    "rank": 361,
     "superrank": 372,
     "identity_rank": 43
   },
@@ -2373,7 +2373,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 706,
+    "rank": 707,
     "superrank": 503,
     "identity_rank": 11
   },
@@ -2422,7 +2422,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 404,
+    "rank": 403,
     "superrank": 448,
     "identity_rank": 52
   },
@@ -2564,7 +2564,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 781,
+    "rank": 782,
     "superrank": 805,
     "identity_rank": 124
   },
@@ -2592,7 +2592,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 616,
+    "rank": 617,
     "superrank": 476,
     "identity_rank": 9
   },
@@ -2614,7 +2614,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 707,
+    "rank": 708,
     "superrank": 504,
     "identity_rank": 12
   },
@@ -2637,8 +2637,8 @@ const cards =
       "Sorcery"
     ],
     "supercent": 9,
-    "rank": 327,
-    "superrank": 349,
+    "rank": 326,
+    "superrank": 348,
     "identity_rank": 43
   },
   "Burnt Offering": {
@@ -2728,7 +2728,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 610,
+    "rank": 611,
     "superrank": 707,
     "identity_rank": 94
   },
@@ -2747,7 +2747,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 675,
+    "rank": 676,
     "superrank": 944,
     "identity_rank": 132
   },
@@ -2820,7 +2820,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 682,
+    "rank": 683,
     "superrank": 745,
     "identity_rank": 102
   },
@@ -2885,7 +2885,7 @@ const cards =
       "Land"
     ],
     "supercent": 7,
-    "rank": 566,
+    "rank": 567,
     "superrank": 423,
     "identity_rank": 57
   },
@@ -2907,7 +2907,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 260,
-    "superrank": 299,
+    "superrank": 298,
     "identity_rank": 55
   },
   "Chain Stasis": {
@@ -3048,7 +3048,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 2,
-    "rank": 632,
+    "rank": 633,
     "superrank": 719,
     "identity_rank": 98
   },
@@ -3073,7 +3073,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 557,
+    "rank": 558,
     "superrank": 614,
     "identity_rank": 90
   },
@@ -3121,7 +3121,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 669,
+    "rank": 670,
     "superrank": 738,
     "identity_rank": 112
   },
@@ -3173,8 +3173,8 @@ const cards =
       "Creature"
     ],
     "supercent": 15,
-    "rank": 402,
-    "superrank": 253,
+    "rank": 401,
+    "superrank": 255,
     "identity_rank": 9
   },
   "Children of Korlis": {
@@ -3198,7 +3198,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 701,
+    "rank": 702,
     "superrank": 755,
     "identity_rank": 58
   },
@@ -3241,7 +3241,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 459,
+    "rank": 458,
     "superrank": 635,
     "identity_rank": 95
   },
@@ -3260,7 +3260,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 626,
+    "rank": 627,
     "superrank": 938,
     "identity_rank": 126
   },
@@ -3302,7 +3302,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 627,
+    "rank": 628,
     "superrank": 715,
     "identity_rank": 97
   },
@@ -3435,8 +3435,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 303,
-    "superrank": 341,
+    "rank": 302,
+    "superrank": 340,
     "identity_rank": 64
   },
   "Clock of Omens": {
@@ -3454,7 +3454,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 363,
+    "rank": 362,
     "superrank": 564,
     "identity_rank": 70
   },
@@ -3502,7 +3502,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 617,
+    "rank": 618,
     "superrank": 710,
     "identity_rank": 52
   },
@@ -3523,7 +3523,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 364,
+    "rank": 363,
     "superrank": 565,
     "identity_rank": 71
   },
@@ -3542,7 +3542,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 430,
+    "rank": 429,
     "superrank": 600,
     "identity_rank": 92
   },
@@ -3615,7 +3615,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 590,
+    "rank": 591,
     "superrank": 532,
     "identity_rank": 92
   },
@@ -3635,7 +3635,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 235,
-    "superrank": 348,
+    "superrank": 347,
     "identity_rank": 50
   },
   "Command Tower": {
@@ -3698,9 +3698,9 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 633,
+    "rank": 634,
     "superrank": 359,
-    "identity_rank": 7
+    "identity_rank": 8
   },
   "Conqueror's Flail": {
     "img": "https://cards.scryfall.io/large/front/1/6/1644f535-9281-4a88-8fac-916bc0021d1d.jpg?1562389358",
@@ -3742,7 +3742,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 406,
+    "rank": 405,
     "superrank": 449,
     "identity_rank": 73
   },
@@ -3765,7 +3765,7 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 578,
+    "rank": 579,
     "superrank": 629,
     "identity_rank": 100
   },
@@ -3813,7 +3813,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 708,
+    "rank": 709,
     "superrank": 759,
     "identity_rank": 61
   },
@@ -3835,9 +3835,9 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 634,
+    "rank": 635,
     "superrank": 360,
-    "identity_rank": 8
+    "identity_rank": 9
   },
   "Copy Artifact": {
     "img": "https://cards.scryfall.io/large/front/f/d/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063.jpg?1559591569",
@@ -3858,7 +3858,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 20,
-    "rank": 169,
+    "rank": 170,
     "superrank": 202,
     "identity_rank": 34
   },
@@ -3882,7 +3882,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 228,
-    "superrank": 273,
+    "superrank": 274,
     "identity_rank": 49
   },
   "Corpse Dance": {
@@ -3930,7 +3930,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 760,
+    "rank": 761,
     "superrank": 793,
     "identity_rank": 115
   },
@@ -3972,7 +3972,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 782,
+    "rank": 783,
     "superrank": 956,
     "identity_rank": 144
   },
@@ -4064,7 +4064,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 7,
-    "rank": 567,
+    "rank": 568,
     "superrank": 424,
     "identity_rank": 58
   },
@@ -4084,7 +4084,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 225,
-    "superrank": 340,
+    "superrank": 339,
     "identity_rank": 47
   },
   "Culling Ritual": {
@@ -4155,7 +4155,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 761,
+    "rank": 762,
     "superrank": 794,
     "identity_rank": 119
   },
@@ -4244,7 +4244,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 229,
-    "superrank": 342,
+    "superrank": 341,
     "identity_rank": 48
   },
   "Cut Down": {
@@ -4314,7 +4314,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 745,
+    "rank": 746,
     "superrank": 782,
     "identity_rank": 111
   },
@@ -4359,7 +4359,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 790,
+    "rank": 791,
     "superrank": 613,
     "identity_rank": 9
   },
@@ -4378,7 +4378,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 310,
+    "rank": 309,
     "superrank": 434,
     "identity_rank": 58
   },
@@ -4401,7 +4401,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 6,
-    "rank": 407,
+    "rank": 406,
     "superrank": 450,
     "identity_rank": 53
   },
@@ -4515,7 +4515,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 234,
-    "superrank": 277,
+    "superrank": 278,
     "identity_rank": 34
   },
   "Dawnbringer Cleric": {
@@ -4539,7 +4539,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 709,
+    "rank": 710,
     "superrank": 760,
     "identity_rank": 62
   },
@@ -4587,7 +4587,7 @@ const cards =
       "Instant"
     ],
     "supercent": 6,
-    "rank": 445,
+    "rank": 444,
     "superrank": 471,
     "identity_rank": 77
   },
@@ -4612,7 +4612,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 670,
+    "rank": 671,
     "superrank": 739,
     "identity_rank": 113
   },
@@ -4663,8 +4663,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 465,
-    "superrank": 338,
+    "rank": 464,
+    "superrank": 337,
     "identity_rank": 8
   },
   "Deafening Silence": {
@@ -4738,7 +4738,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 762,
+    "rank": 763,
     "superrank": 795,
     "identity_rank": 116
   },
@@ -4782,9 +4782,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 14,
-    "rank": 162,
-    "superrank": 256,
-    "identity_rank": 40
+    "rank": 163,
+    "superrank": 258,
+    "identity_rank": 41
   },
   "Deflecting Swat": {
     "img": "https://cards.scryfall.io/large/front/8/4/84f035e1-6c89-457b-b05f-85680a50ed91.jpg?1591319579",
@@ -4879,7 +4879,7 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 293,
+    "rank": 292,
     "superrank": 292,
     "identity_rank": 23
   },
@@ -4926,7 +4926,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 217,
-    "superrank": 268,
+    "superrank": 269,
     "identity_rank": 29
   },
   "Demonic Tutor": {
@@ -4978,7 +4978,7 @@ const cards =
       "Creature"
     ],
     "supercent": 33,
-    "rank": 336,
+    "rank": 335,
     "superrank": 148,
     "identity_rank": 2
   },
@@ -4997,7 +4997,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 676,
+    "rank": 677,
     "superrank": 945,
     "identity_rank": 133
   },
@@ -5021,7 +5021,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 255,
-    "superrank": 261,
+    "superrank": 263,
     "identity_rank": 26
   },
   "Devastating Onslaught": {
@@ -5114,7 +5114,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 746,
+    "rank": 747,
     "superrank": 783,
     "identity_rank": 112
   },
@@ -5142,7 +5142,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 7,
-    "rank": 763,
+    "rank": 764,
     "superrank": 419,
     "identity_rank": 2
   },
@@ -5167,7 +5167,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 414,
+    "rank": 413,
     "superrank": 455,
     "identity_rank": 58
   },
@@ -5189,8 +5189,8 @@ const cards =
       "Artifact"
     ],
     "supercent": 12,
-    "rank": 304,
-    "superrank": 283,
+    "rank": 303,
+    "superrank": 284,
     "identity_rank": 9
   },
   "Dismember": {
@@ -5212,8 +5212,8 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 305,
-    "superrank": 343,
+    "rank": 304,
+    "superrank": 342,
     "identity_rank": 42
   },
   "Dispel": {
@@ -5260,7 +5260,7 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 166,
+    "rank": 167,
     "superrank": 200,
     "identity_rank": 33
   },
@@ -5448,7 +5448,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 245,
-    "superrank": 257,
+    "superrank": 259,
     "identity_rank": 23
   },
   "Dramatic Reversal": {
@@ -5498,7 +5498,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 686,
+    "rank": 687,
     "superrank": 580,
     "identity_rank": 7
   },
@@ -5546,7 +5546,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 687,
+    "rank": 688,
     "superrank": 747,
     "identity_rank": 103
   },
@@ -5594,7 +5594,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 6,
-    "rank": 357,
+    "rank": 356,
     "superrank": 432,
     "identity_rank": 68
   },
@@ -5619,7 +5619,7 @@ const cards =
       "Instant"
     ],
     "supercent": 3,
-    "rank": 650,
+    "rank": 651,
     "superrank": 640,
     "identity_rank": 12
   },
@@ -5671,7 +5671,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 246,
-    "superrank": 258,
+    "superrank": 260,
     "identity_rank": 24
   },
   "Dwarven Armorer": {
@@ -5695,7 +5695,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 365,
+    "rank": 364,
     "superrank": 373,
     "identity_rank": 44
   },
@@ -5720,7 +5720,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 366,
+    "rank": 365,
     "superrank": 374,
     "identity_rank": 45
   },
@@ -5745,7 +5745,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 367,
+    "rank": 366,
     "superrank": 375,
     "identity_rank": 46
   },
@@ -5791,7 +5791,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 368,
+    "rank": 367,
     "superrank": 376,
     "identity_rank": 47
   },
@@ -5816,7 +5816,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 369,
+    "rank": 368,
     "superrank": 377,
     "identity_rank": 48
   },
@@ -5865,8 +5865,8 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 329,
-    "superrank": 318,
+    "rank": 328,
+    "superrank": 317,
     "identity_rank": 28
   },
   "Eiganjo, Seat of the Empire": {
@@ -5912,7 +5912,7 @@ const cards =
       "Instant"
     ],
     "supercent": 50,
-    "rank": 167,
+    "rank": 168,
     "superrank": 105,
     "identity_rank": 2
   },
@@ -6003,7 +6003,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 635,
+    "rank": 636,
     "superrank": 720,
     "identity_rank": 99
   },
@@ -6051,7 +6051,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 710,
+    "rank": 711,
     "superrank": 761,
     "identity_rank": 63
   },
@@ -6173,7 +6173,7 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 460,
+    "rank": 459,
     "superrank": 293,
     "identity_rank": 7
   },
@@ -6220,7 +6220,7 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 783,
+    "rank": 784,
     "superrank": 957,
     "identity_rank": 145
   },
@@ -6319,7 +6319,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 370,
+    "rank": 369,
     "superrank": 378,
     "identity_rank": 49
   },
@@ -6388,7 +6388,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 692,
+    "rank": 693,
     "superrank": 749,
     "identity_rank": 57
   },
@@ -6460,7 +6460,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 702,
+    "rank": 703,
     "superrank": 756,
     "identity_rank": 112
   },
@@ -6512,7 +6512,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 273,
-    "superrank": 279,
+    "superrank": 280,
     "identity_rank": 20
   },
   "Evendo Brushrazer": {
@@ -6536,7 +6536,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 636,
+    "rank": 637,
     "superrank": 721,
     "identity_rank": 100
   },
@@ -6555,7 +6555,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 415,
+    "rank": 414,
     "superrank": 588,
     "identity_rank": 86
   },
@@ -6578,7 +6578,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 747,
+    "rank": 748,
     "superrank": 784,
     "identity_rank": 113
   },
@@ -6639,7 +6639,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 568,
+    "rank": 569,
     "superrank": 679,
     "identity_rank": 113
   },
@@ -6662,7 +6662,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 611,
+    "rank": 612,
     "superrank": 632,
     "identity_rank": 62
   },
@@ -6685,7 +6685,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 769,
+    "rank": 770,
     "superrank": 796,
     "identity_rank": 117
   },
@@ -6787,7 +6787,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 558,
+    "rank": 559,
     "superrank": 615,
     "identity_rank": 92
   },
@@ -6860,7 +6860,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 688,
+    "rank": 689,
     "superrank": 656,
     "identity_rank": 72
   },
@@ -6883,7 +6883,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 748,
+    "rank": 749,
     "superrank": 785,
     "identity_rank": 114
   },
@@ -6908,8 +6908,8 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 323,
-    "superrank": 311,
+    "rank": 322,
+    "superrank": 310,
     "identity_rank": 25
   },
   "Fell the Profane": {
@@ -7066,7 +7066,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 416,
+    "rank": 415,
     "superrank": 456,
     "identity_rank": 59
   },
@@ -7132,7 +7132,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 371,
+    "rank": 370,
     "superrank": 566,
     "identity_rank": 72
   },
@@ -7158,7 +7158,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 492,
-    "superrank": 346,
+    "superrank": 345,
     "identity_rank": 10
   },
   "Fire Magic": {
@@ -7180,7 +7180,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 621,
+    "rank": 622,
     "superrank": 712,
     "identity_rank": 95
   },
@@ -7202,7 +7202,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 711,
+    "rank": 712,
     "superrank": 762,
     "identity_rank": 64
   },
@@ -7246,7 +7246,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 222,
-    "superrank": 271,
+    "superrank": 272,
     "identity_rank": 48
   },
   "Flare of Duplication": {
@@ -7291,7 +7291,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 677,
+    "rank": 678,
     "superrank": 742,
     "identity_rank": 54
   },
@@ -7337,7 +7337,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 399,
+    "rank": 398,
     "superrank": 443,
     "identity_rank": 70
   },
@@ -7410,7 +7410,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 417,
+    "rank": 416,
     "superrank": 457,
     "identity_rank": 60
   },
@@ -7433,7 +7433,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 607,
+    "rank": 608,
     "superrank": 705,
     "identity_rank": 51
   },
@@ -7474,7 +7474,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 777,
+    "rank": 778,
     "superrank": 607,
     "identity_rank": 10
   },
@@ -7518,7 +7518,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 372,
+    "rank": 371,
     "superrank": 567,
     "identity_rank": 73
   },
@@ -7583,7 +7583,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 612,
+    "rank": 613,
     "superrank": 708,
     "identity_rank": 95
   },
@@ -7603,7 +7603,7 @@ const cards =
     ],
     "supercent": 15,
     "rank": 158,
-    "superrank": 250,
+    "superrank": 251,
     "identity_rank": 38
   },
   "Force of Negation": {
@@ -7648,8 +7648,8 @@ const cards =
       "Instant"
     ],
     "supercent": 15,
-    "rank": 300,
-    "superrank": 249,
+    "rank": 299,
+    "superrank": 250,
     "identity_rank": 35
   },
   "Force of Will": {
@@ -7743,8 +7743,8 @@ const cards =
       "Creature"
     ],
     "supercent": 15,
-    "rank": 330,
-    "superrank": 254,
+    "rank": 329,
+    "superrank": 256,
     "identity_rank": 37
   },
   "Forsaken Miner": {
@@ -7768,7 +7768,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 613,
+    "rank": 614,
     "superrank": 709,
     "identity_rank": 96
   },
@@ -7931,7 +7931,7 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 373,
+    "rank": 372,
     "superrank": 379,
     "identity_rank": 50
   },
@@ -8015,7 +8015,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 297,
+    "rank": 296,
     "superrank": 430,
     "identity_rank": 56
   },
@@ -8038,7 +8038,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 637,
+    "rank": 638,
     "superrank": 722,
     "identity_rank": 101
   },
@@ -8057,7 +8057,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 618,
+    "rank": 619,
     "superrank": 936,
     "identity_rank": 124
   },
@@ -8101,7 +8101,7 @@ const cards =
       "Instant"
     ],
     "supercent": 20,
-    "rank": 163,
+    "rank": 164,
     "superrank": 196,
     "identity_rank": 31
   },
@@ -8176,7 +8176,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 712,
+    "rank": 713,
     "superrank": 660,
     "identity_rank": 74
   },
@@ -8198,7 +8198,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 591,
+    "rank": 592,
     "superrank": 699,
     "identity_rank": 118
   },
@@ -8246,7 +8246,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 592,
+    "rank": 593,
     "superrank": 533,
     "identity_rank": 45
   },
@@ -8267,7 +8267,7 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 778,
+    "rank": 779,
     "superrank": 955,
     "identity_rank": 143
   },
@@ -8286,7 +8286,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 755,
+    "rank": 756,
     "superrank": 952,
     "identity_rank": 140
   },
@@ -8309,7 +8309,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 654,
+    "rank": 655,
     "superrank": 731,
     "identity_rank": 103
   },
@@ -8328,7 +8328,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 622,
+    "rank": 623,
     "superrank": 937,
     "identity_rank": 125
   },
@@ -8351,7 +8351,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 638,
+    "rank": 639,
     "superrank": 723,
     "identity_rank": 102
   },
@@ -8398,7 +8398,7 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 655,
+    "rank": 656,
     "superrank": 642,
     "identity_rank": 13
   },
@@ -8424,7 +8424,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 665,
+    "rank": 666,
     "superrank": 736,
     "identity_rank": 110
   },
@@ -8473,7 +8473,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 247,
-    "superrank": 259,
+    "superrank": 261,
     "identity_rank": 25
   },
   "Goblin Welder": {
@@ -8498,7 +8498,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 288,
-    "superrank": 287,
+    "superrank": 288,
     "identity_rank": 29
   },
   "God-Pharaoh's Statue": {
@@ -8565,7 +8565,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 374,
+    "rank": 373,
     "superrank": 380,
     "identity_rank": 51
   },
@@ -8659,9 +8659,9 @@ const cards =
       "Artifact"
     ],
     "supercent": 14,
-    "rank": 170,
-    "superrank": 263,
-    "identity_rank": 41
+    "rank": 171,
+    "superrank": 265,
+    "identity_rank": 42
   },
   "Gran-Gran": {
     "img": "https://cards.scryfall.io/large/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1764120269",
@@ -8781,7 +8781,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 418,
+    "rank": 417,
     "superrank": 458,
     "identity_rank": 61
   },
@@ -8876,7 +8876,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 628,
+    "rank": 629,
     "superrank": 716,
     "identity_rank": 98
   },
@@ -8899,7 +8899,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 38,
-    "rank": 161,
+    "rank": 162,
     "superrank": 135,
     "identity_rank": 16
   },
@@ -8925,7 +8925,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 593,
+    "rank": 594,
     "superrank": 534,
     "identity_rank": 46
   },
@@ -8975,7 +8975,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 398,
+    "rank": 397,
     "superrank": 442,
     "identity_rank": 50
   },
@@ -9036,7 +9036,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 464,
+    "rank": 463,
     "superrank": 638,
     "identity_rank": 97
   },
@@ -9084,9 +9084,9 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 639,
+    "rank": 640,
     "superrank": 361,
-    "identity_rank": 9
+    "identity_rank": 10
   },
   "Growing Rites of Itlimoc": {
     "img": "https://cards.scryfall.io/large/front/b/3/b3b87bfc-f97f-4734-94f6-e3e2f335fc4d.jpg?1562562539",
@@ -9177,7 +9177,7 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 579,
+    "rank": 580,
     "superrank": 523,
     "identity_rank": 86
   },
@@ -9202,9 +9202,9 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 640,
+    "rank": 641,
     "superrank": 362,
-    "identity_rank": 10
+    "identity_rank": 11
   },
   "Hallowed Fountain": {
     "img": "https://cards.scryfall.io/large/front/4/5/45bf2038-aaa5-418b-8d2f-46e1c492f778.jpg?1705528201",
@@ -9286,7 +9286,7 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 375,
+    "rank": 374,
     "superrank": 381,
     "identity_rank": 52
   },
@@ -9311,8 +9311,8 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 441,
-    "superrank": 398,
+    "rank": 440,
+    "superrank": 397,
     "identity_rank": 64
   },
   "Hashep Oasis": {
@@ -9358,7 +9358,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 272,
-    "superrank": 309,
+    "superrank": 308,
     "identity_rank": 37
   },
   "Heartless Summoning": {
@@ -9380,7 +9380,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 6,
-    "rank": 419,
+    "rank": 418,
     "superrank": 459,
     "identity_rank": 62
   },
@@ -9425,7 +9425,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 693,
+    "rank": 694,
     "superrank": 499,
     "identity_rank": 9
   },
@@ -9450,7 +9450,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 641,
+    "rank": 642,
     "superrank": 724,
     "identity_rank": 103
   },
@@ -9469,7 +9469,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 427,
+    "rank": 426,
     "superrank": 597,
     "identity_rank": 90
   },
@@ -9628,7 +9628,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 753,
+    "rank": 754,
     "superrank": 790,
     "identity_rank": 113
   },
@@ -9653,8 +9653,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 307,
-    "superrank": 347,
+    "rank": 306,
+    "superrank": 346,
     "identity_rank": 66
   },
   "High Noon": {
@@ -9698,7 +9698,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 666,
+    "rank": 667,
     "superrank": 941,
     "identity_rank": 129
   },
@@ -9724,7 +9724,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 218,
-    "superrank": 269,
+    "superrank": 270,
     "identity_rank": 30
   },
   "Holdout Settlement": {
@@ -9742,7 +9742,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 376,
+    "rank": 375,
     "superrank": 568,
     "identity_rank": 74
   },
@@ -9784,7 +9784,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 594,
+    "rank": 595,
     "superrank": 700,
     "identity_rank": 119
   },
@@ -9807,7 +9807,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 525,
-    "superrank": 319,
+    "superrank": 318,
     "identity_rank": 8
   },
   "Howlsquad Heavy": {
@@ -9857,7 +9857,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 230,
-    "superrank": 274,
+    "superrank": 275,
     "identity_rank": 50
   },
   "Humility": {
@@ -9879,7 +9879,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 770,
+    "rank": 771,
     "superrank": 797,
     "identity_rank": 77
   },
@@ -9904,7 +9904,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 642,
+    "rank": 643,
     "superrank": 725,
     "identity_rank": 104
   },
@@ -9926,7 +9926,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 713,
+    "rank": 714,
     "superrank": 506,
     "identity_rank": 13
   },
@@ -10016,7 +10016,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 734,
+    "rank": 735,
     "superrank": 775,
     "identity_rank": 104
   },
@@ -10116,7 +10116,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 20,
-    "rank": 171,
+    "rank": 172,
     "superrank": 203,
     "identity_rank": 35
   },
@@ -10141,7 +10141,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 466,
+    "rank": 465,
     "superrank": 478,
     "identity_rank": 67
   },
@@ -10235,7 +10235,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 742,
+    "rank": 743,
     "superrank": 950,
     "identity_rank": 138
   },
@@ -10258,7 +10258,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 420,
+    "rank": 419,
     "superrank": 460,
     "identity_rank": 63
   },
@@ -10283,7 +10283,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 623,
+    "rank": 624,
     "superrank": 713,
     "identity_rank": 96
   },
@@ -10368,7 +10368,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 421,
+    "rank": 420,
     "superrank": 590,
     "identity_rank": 87
   },
@@ -10415,7 +10415,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 563,
+    "rank": 564,
     "superrank": 621,
     "identity_rank": 96
   },
@@ -10546,7 +10546,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 422,
+    "rank": 421,
     "superrank": 591,
     "identity_rank": 88
   },
@@ -10565,7 +10565,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 428,
+    "rank": 427,
     "superrank": 598,
     "identity_rank": 91
   },
@@ -10618,7 +10618,7 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 569,
+    "rank": 570,
     "superrank": 425,
     "identity_rank": 59
   },
@@ -10695,8 +10695,8 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 324,
-    "superrank": 312,
+    "rank": 323,
+    "superrank": 311,
     "identity_rank": 26
   },
   "Karplusan Forest": {
@@ -10717,9 +10717,9 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 643,
+    "rank": 644,
     "superrank": 363,
-    "identity_rank": 11
+    "identity_rank": 12
   },
   "Kataki, War's Wage": {
     "img": "https://cards.scryfall.io/large/front/a/5/a5c99ac4-6551-4cc2-9a70-6e66b259b2a2.jpg?1562495157",
@@ -10743,7 +10743,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 714,
+    "rank": 715,
     "superrank": 763,
     "identity_rank": 65
   },
@@ -10769,7 +10769,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 575,
+    "rank": 576,
     "superrank": 627,
     "identity_rank": 98
   },
@@ -10790,7 +10790,7 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 377,
+    "rank": 376,
     "superrank": 382,
     "identity_rank": 53
   },
@@ -10816,7 +10816,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 696,
+    "rank": 697,
     "superrank": 752,
     "identity_rank": 115
   },
@@ -10839,7 +10839,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 658,
+    "rank": 659,
     "superrank": 644,
     "identity_rank": 66
   },
@@ -10887,9 +10887,9 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 325,
-    "superrank": 313,
-    "identity_rank": 37
+    "rank": 324,
+    "superrank": 312,
+    "identity_rank": 36
   },
   "Kindle the Inner Flame": {
     "img": "https://cards.scryfall.io/large/front/9/a/9a2adcea-f6b1-4611-b8b8-f19fdee2c571.jpg?1767871968",
@@ -10911,7 +10911,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 644,
+    "rank": 645,
     "superrank": 726,
     "identity_rank": 105
   },
@@ -11018,7 +11018,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 715,
+    "rank": 716,
     "superrank": 661,
     "identity_rank": 75
   },
@@ -11129,7 +11129,7 @@ const cards =
       "Creature"
     ],
     "supercent": 22,
-    "rank": 321,
+    "rank": 320,
     "superrank": 194,
     "identity_rank": 6
   },
@@ -11154,7 +11154,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 785,
+    "rank": 786,
     "superrank": 807,
     "identity_rank": 126
   },
@@ -11175,8 +11175,8 @@ const cards =
       "Land"
     ],
     "supercent": 9,
-    "rank": 291,
-    "superrank": 334,
+    "rank": 290,
+    "superrank": 333,
     "identity_rank": 40
   },
   "Land Tax": {
@@ -11198,7 +11198,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 716,
+    "rank": 717,
     "superrank": 764,
     "identity_rank": 66
   },
@@ -11221,8 +11221,8 @@ const cards =
       "Sorcery"
     ],
     "supercent": 8,
-    "rank": 447,
-    "superrank": 401,
+    "rank": 446,
+    "superrank": 400,
     "identity_rank": 65
   },
   "Lazotep Quarry": {
@@ -11336,8 +11336,8 @@ const cards =
       "Instant"
     ],
     "supercent": 15,
-    "rank": 331,
-    "superrank": 255,
+    "rank": 330,
+    "superrank": 257,
     "identity_rank": 38
   },
   "Lena, Selfless Champion": {
@@ -11387,7 +11387,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 717,
+    "rank": 718,
     "superrank": 765,
     "identity_rank": 67
   },
@@ -11412,7 +11412,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 689,
+    "rank": 690,
     "superrank": 748,
     "identity_rank": 56
   },
@@ -11460,7 +11460,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 378,
+    "rank": 377,
     "superrank": 383,
     "identity_rank": 54
   },
@@ -11504,7 +11504,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 379,
+    "rank": 378,
     "superrank": 569,
     "identity_rank": 75
   },
@@ -11603,7 +11603,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 718,
+    "rank": 719,
     "superrank": 766,
     "identity_rank": 68
   },
@@ -11654,7 +11654,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 719,
+    "rank": 720,
     "superrank": 767,
     "identity_rank": 69
   },
@@ -11692,7 +11692,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 311,
+    "rank": 310,
     "superrank": 435,
     "identity_rank": 59
   },
@@ -11788,7 +11788,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 683,
+    "rank": 684,
     "superrank": 746,
     "identity_rank": 55
   },
@@ -11877,7 +11877,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 678,
+    "rank": 679,
     "superrank": 743,
     "identity_rank": 107
   },
@@ -11902,8 +11902,8 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 448,
-    "superrank": 402,
+    "rank": 447,
+    "superrank": 401,
     "identity_rank": 66
   },
   "Lukka, Coppercoat Outcast": {
@@ -11926,7 +11926,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 2,
-    "rank": 624,
+    "rank": 625,
     "superrank": 714,
     "identity_rank": 97
   },
@@ -11954,8 +11954,8 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 340,
-    "superrank": 282,
+    "rank": 339,
+    "superrank": 283,
     "identity_rank": 4
   },
   "Luxior, Giada's Gift": {
@@ -11996,7 +11996,7 @@ const cards =
       "Land"
     ],
     "supercent": 19,
-    "rank": 298,
+    "rank": 297,
     "superrank": 212,
     "identity_rank": 6
   },
@@ -12017,7 +12017,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 397,
+    "rank": 396,
     "superrank": 441,
     "identity_rank": 69
   },
@@ -12036,16 +12036,16 @@ const cards =
     "power": "2",
     "toughness": "1",
     "name": "Magda, Brazen Outlaw",
-    "count": 4,
-    "percent": 6,
+    "count": 3,
+    "percent": 4,
     "types": [
       "Legendary",
       "Creature"
     ],
-    "supercent": 11,
-    "rank": 289,
-    "superrank": 288,
-    "identity_rank": 30
+    "supercent": 8,
+    "rank": 340,
+    "superrank": 355,
+    "identity_rank": 37
   },
   "Magda, the Hoardmaster": {
     "img": "https://cards.scryfall.io/large/front/a/d/adf42a57-02f0-4a3f-8677-d68ffe3090c0.jpg?1712356674",
@@ -12069,7 +12069,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 380,
+    "rank": 379,
     "superrank": 384,
     "identity_rank": 55
   },
@@ -12117,7 +12117,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 595,
+    "rank": 596,
     "superrank": 537,
     "identity_rank": 93
   },
@@ -12218,15 +12218,15 @@ const cards =
       "R"
     ],
     "name": "Manamorphose",
-    "count": 1,
-    "percent": 1,
+    "count": 2,
+    "percent": 3,
     "types": [
       "Instant"
     ],
-    "supercent": 8,
-    "rank": 793,
-    "superrank": 397,
-    "identity_rank": 16
+    "supercent": 16,
+    "rank": 557,
+    "superrank": 247,
+    "identity_rank": 7
   },
   "Manglehorn": {
     "img": "https://cards.scryfall.io/large/front/0/a/0aa3a844-97e6-4f5d-a36f-56fea4e06932.jpg?1543675886",
@@ -12269,7 +12269,7 @@ const cards =
     ],
     "supercent": 9,
     "rank": 243,
-    "superrank": 352,
+    "superrank": 351,
     "identity_rank": 51
   },
   "March of Swirling Mist": {
@@ -12291,8 +12291,8 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 306,
-    "superrank": 344,
+    "rank": 305,
+    "superrank": 343,
     "identity_rank": 65
   },
   "Mardu Devotee": {
@@ -12318,8 +12318,8 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 629,
-    "superrank": 405,
+    "rank": 630,
+    "superrank": 404,
     "identity_rank": 1
   },
   "Marsh Flats": {
@@ -12360,7 +12360,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 570,
+    "rank": 571,
     "superrank": 681,
     "identity_rank": 114
   },
@@ -12379,7 +12379,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 381,
+    "rank": 380,
     "superrank": 570,
     "identity_rank": 76
   },
@@ -12402,7 +12402,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 656,
+    "rank": 657,
     "superrank": 732,
     "identity_rank": 101
   },
@@ -12448,7 +12448,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 749,
+    "rank": 750,
     "superrank": 786,
     "identity_rank": 115
   },
@@ -12568,7 +12568,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 434,
+    "rank": 433,
     "superrank": 465,
     "identity_rank": 74
   },
@@ -12590,7 +12590,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 382,
+    "rank": 381,
     "superrank": 571,
     "identity_rank": 77
   },
@@ -12657,8 +12657,8 @@ const cards =
       "Land"
     ],
     "supercent": 12,
-    "rank": 405,
-    "superrank": 285,
+    "rank": 404,
+    "superrank": 286,
     "identity_rank": 6
   },
   "Might of the Meek": {
@@ -12702,7 +12702,7 @@ const cards =
       "Land"
     ],
     "supercent": 20,
-    "rank": 172,
+    "rank": 173,
     "superrank": 204,
     "identity_rank": 36
   },
@@ -12725,7 +12725,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 784,
+    "rank": 785,
     "superrank": 806,
     "identity_rank": 125
   },
@@ -12794,7 +12794,7 @@ const cards =
     ],
     "supercent": 8,
     "rank": 927,
-    "superrank": 400,
+    "superrank": 399,
     "identity_rank": 17
   },
   "Mirrormade": {
@@ -12900,7 +12900,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 743,
+    "rank": 744,
     "superrank": 951,
     "identity_rank": 139
   },
@@ -12919,7 +12919,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 319,
+    "rank": 318,
     "superrank": 440,
     "identity_rank": 64
   },
@@ -12969,7 +12969,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 400,
+    "rank": 399,
     "superrank": 444,
     "identity_rank": 71
   },
@@ -13032,7 +13032,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 694,
+    "rank": 695,
     "superrank": 750,
     "identity_rank": 114
   },
@@ -13105,7 +13105,7 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 580,
+    "rank": 581,
     "superrank": 524,
     "identity_rank": 87
   },
@@ -13130,7 +13130,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 614,
+    "rank": 615,
     "superrank": 633,
     "identity_rank": 63
   },
@@ -13245,7 +13245,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 559,
+    "rank": 560,
     "superrank": 616,
     "identity_rank": 93
   },
@@ -13270,7 +13270,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 720,
+    "rank": 721,
     "superrank": 768,
     "identity_rank": 70
   },
@@ -13294,7 +13294,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 341,
-    "superrank": 260,
+    "superrank": 262,
     "identity_rank": 7
   },
   "Mountain": {
@@ -13315,7 +13315,7 @@ const cards =
       "Land"
     ],
     "supercent": 25,
-    "rank": 168,
+    "rank": 169,
     "superrank": 180,
     "identity_rank": 16
   },
@@ -13398,7 +13398,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 261,
-    "superrank": 300,
+    "superrank": 299,
     "identity_rank": 56
   },
   "Multiversal Passage": {
@@ -13416,7 +13416,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 735,
+    "rank": 736,
     "superrank": 948,
     "identity_rank": 136
   },
@@ -13435,7 +13435,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 312,
+    "rank": 311,
     "superrank": 436,
     "identity_rank": 60
   },
@@ -13530,7 +13530,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 659,
+    "rank": 660,
     "superrank": 733,
     "identity_rank": 104
   },
@@ -13554,7 +13554,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 2,
-    "rank": 771,
+    "rank": 772,
     "superrank": 798,
     "identity_rank": 118
   },
@@ -13580,7 +13580,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 560,
+    "rank": 561,
     "superrank": 617,
     "identity_rank": 91
   },
@@ -13603,7 +13603,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 3,
-    "rank": 615,
+    "rank": 616,
     "superrank": 634,
     "identity_rank": 64
   },
@@ -13649,9 +13649,9 @@ const cards =
       "Instant"
     ],
     "supercent": 7,
-    "rank": 455,
-    "superrank": 403,
-    "identity_rank": 43
+    "rank": 454,
+    "superrank": 402,
+    "identity_rank": 42
   },
   "Nature's Rhythm": {
     "img": "https://cards.scryfall.io/large/front/c/e/ce0ee309-b6c4-455d-8af6-48d8ac1426cb.jpg?1743205369",
@@ -13696,8 +13696,8 @@ const cards =
       "Enchantment"
     ],
     "supercent": 9,
-    "rank": 337,
-    "superrank": 353,
+    "rank": 336,
+    "superrank": 352,
     "identity_rank": 46
   },
   "Necromancy": {
@@ -13767,8 +13767,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 333,
-    "superrank": 350,
+    "rank": 332,
+    "superrank": 349,
     "identity_rank": 44
   },
   "Needleverge Pathway": {
@@ -13840,7 +13840,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 672,
+    "rank": 673,
     "superrank": 740,
     "identity_rank": 105
   },
@@ -13919,7 +13919,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 657,
+    "rank": 658,
     "superrank": 643,
     "identity_rank": 14
   },
@@ -13942,7 +13942,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 736,
+    "rank": 737,
     "superrank": 776,
     "identity_rank": 105
   },
@@ -13988,7 +13988,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 651,
+    "rank": 652,
     "superrank": 729,
     "identity_rank": 100
   },
@@ -14007,7 +14007,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 721,
+    "rank": 722,
     "superrank": 947,
     "identity_rank": 135
   },
@@ -14074,7 +14074,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 423,
+    "rank": 422,
     "superrank": 593,
     "identity_rank": 89
   },
@@ -14122,7 +14122,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 679,
+    "rank": 680,
     "superrank": 744,
     "identity_rank": 108
   },
@@ -14169,7 +14169,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 408,
+    "rank": 407,
     "superrank": 391,
     "identity_rank": 32
   },
@@ -14314,7 +14314,7 @@ const cards =
       "Creature"
     ],
     "supercent": 25,
-    "rank": 351,
+    "rank": 350,
     "superrank": 181,
     "identity_rank": 4
   },
@@ -14359,7 +14359,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 339,
+    "rank": 338,
     "superrank": 469,
     "identity_rank": 65
   },
@@ -14381,7 +14381,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 596,
+    "rank": 597,
     "superrank": 701,
     "identity_rank": 120
   },
@@ -14426,7 +14426,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 11,
-    "rank": 290,
+    "rank": 289,
     "superrank": 289,
     "identity_rank": 22
   },
@@ -14496,7 +14496,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 581,
+    "rank": 582,
     "superrank": 525,
     "identity_rank": 88
   },
@@ -14538,7 +14538,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 584,
+    "rank": 585,
     "superrank": 698,
     "identity_rank": 117
   },
@@ -14586,8 +14586,8 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 332,
-    "superrank": 320,
+    "rank": 331,
+    "superrank": 319,
     "identity_rank": 29
   },
   "Patrol Signaler": {
@@ -14634,7 +14634,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 684,
+    "rank": 685,
     "superrank": 655,
     "identity_rank": 71
   },
@@ -14655,7 +14655,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 429,
+    "rank": 428,
     "superrank": 464,
     "identity_rank": 67
   },
@@ -14701,7 +14701,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 403,
+    "rank": 402,
     "superrank": 447,
     "identity_rank": 51
   },
@@ -14720,7 +14720,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 756,
+    "rank": 757,
     "superrank": 953,
     "identity_rank": 141
   },
@@ -14808,7 +14808,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 313,
+    "rank": 312,
     "superrank": 437,
     "identity_rank": 61
   },
@@ -14827,7 +14827,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 663,
+    "rank": 664,
     "superrank": 940,
     "identity_rank": 128
   },
@@ -14852,7 +14852,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 401,
+    "rank": 400,
     "superrank": 445,
     "identity_rank": 72
   },
@@ -14878,8 +14878,8 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 322,
-    "superrank": 310,
+    "rank": 321,
+    "superrank": 309,
     "identity_rank": 24
   },
   "Phyrexian Altar": {
@@ -14945,7 +14945,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 597,
+    "rank": 598,
     "superrank": 702,
     "identity_rank": 121
   },
@@ -14990,7 +14990,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 703,
+    "rank": 704,
     "superrank": 757,
     "identity_rank": 59
   },
@@ -15012,7 +15012,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 439,
+    "rank": 438,
     "superrank": 618,
     "identity_rank": 94
   },
@@ -15076,7 +15076,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 671,
+    "rank": 672,
     "superrank": 943,
     "identity_rank": 131
   },
@@ -15139,7 +15139,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 697,
+    "rank": 698,
     "superrank": 946,
     "identity_rank": 134
   },
@@ -15164,7 +15164,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 383,
+    "rank": 382,
     "superrank": 385,
     "identity_rank": 56
   },
@@ -15208,8 +15208,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 294,
-    "superrank": 336,
+    "rank": 293,
+    "superrank": 335,
     "identity_rank": 62
   },
   "Polymorph": {
@@ -15231,7 +15231,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 772,
+    "rank": 773,
     "superrank": 799,
     "identity_rank": 119
   },
@@ -15254,7 +15254,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 436,
+    "rank": 435,
     "superrank": 467,
     "identity_rank": 76
   },
@@ -15300,7 +15300,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 630,
+    "rank": 631,
     "superrank": 717,
     "identity_rank": 53
   },
@@ -15319,7 +15319,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 384,
+    "rank": 383,
     "superrank": 572,
     "identity_rank": 78
   },
@@ -15365,7 +15365,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 8,
-    "rank": 431,
+    "rank": 430,
     "superrank": 393,
     "identity_rank": 62
   },
@@ -15415,7 +15415,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 690,
+    "rank": 691,
     "superrank": 581,
     "identity_rank": 8
   },
@@ -15434,9 +15434,9 @@ const cards =
       "Land"
     ],
     "supercent": 15,
-    "rank": 160,
-    "superrank": 251,
-    "identity_rank": 39
+    "rank": 161,
+    "superrank": 253,
+    "identity_rank": 40
   },
   "Prized Statue": {
     "img": "https://cards.scryfall.io/large/front/5/8/58a49829-c354-4823-8cc1-a159fc46c0d7.jpg?1674138012",
@@ -15528,9 +15528,9 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 456,
-    "superrank": 404,
-    "identity_rank": 44
+    "rank": 455,
+    "superrank": 403,
+    "identity_rank": 43
   },
   "Proteus Staff": {
     "img": "https://cards.scryfall.io/large/front/8/2/825889d4-a0ed-4950-a8b0-bfbc2a2d1ea0.jpg?1723224564",
@@ -15549,7 +15549,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 773,
+    "rank": 774,
     "superrank": 800,
     "identity_rank": 120
   },
@@ -15649,9 +15649,9 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 301,
-    "superrank": 298,
-    "identity_rank": 31
+    "rank": 300,
+    "superrank": 297,
+    "identity_rank": 30
   },
   "Pyroblast": {
     "img": "https://cards.scryfall.io/large/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1562931528",
@@ -15695,7 +15695,7 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 352,
+    "rank": 351,
     "superrank": 364,
     "identity_rank": 38
   },
@@ -15750,7 +15750,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 704,
+    "rank": 705,
     "superrank": 502,
     "identity_rank": 1
   },
@@ -15799,7 +15799,7 @@ const cards =
       "Instant"
     ],
     "supercent": 20,
-    "rank": 164,
+    "rank": 165,
     "superrank": 197,
     "identity_rank": 23
   },
@@ -15820,7 +15820,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 664,
+    "rank": 665,
     "superrank": 735,
     "identity_rank": 109
   },
@@ -15868,7 +15868,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 652,
+    "rank": 653,
     "superrank": 730,
     "identity_rank": 102
   },
@@ -15890,8 +15890,8 @@ const cards =
       "Land"
     ],
     "supercent": 9,
-    "rank": 467,
-    "superrank": 339,
+    "rank": 466,
+    "superrank": 338,
     "identity_rank": 9
   },
   "Razaketh, the Foulblooded": {
@@ -15941,7 +15941,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 660,
+    "rank": 661,
     "superrank": 734,
     "identity_rank": 108
   },
@@ -15963,7 +15963,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 722,
+    "rank": 723,
     "superrank": 507,
     "identity_rank": 14
   },
@@ -16011,7 +16011,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 645,
+    "rank": 646,
     "superrank": 727,
     "identity_rank": 106
   },
@@ -16036,8 +16036,8 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 444,
-    "superrank": 399,
+    "rank": 443,
+    "superrank": 398,
     "identity_rank": 34
   },
   "Red Elemental Blast": {
@@ -16104,7 +16104,7 @@ const cards =
       "Land"
     ],
     "supercent": 17,
-    "rank": 359,
+    "rank": 358,
     "superrank": 233,
     "identity_rank": 6
   },
@@ -16124,7 +16124,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 209,
-    "superrank": 325,
+    "superrank": 324,
     "identity_rank": 44
   },
   "Rending Volley": {
@@ -16146,7 +16146,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 646,
+    "rank": 647,
     "superrank": 728,
     "identity_rank": 107
   },
@@ -16169,7 +16169,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 774,
+    "rank": 775,
     "superrank": 801,
     "identity_rank": 121
   },
@@ -16192,7 +16192,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 565,
+    "rank": 566,
     "superrank": 624,
     "identity_rank": 97
   },
@@ -16215,7 +16215,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 779,
+    "rank": 780,
     "superrank": 803,
     "identity_rank": 78
   },
@@ -16238,8 +16238,8 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 295,
-    "superrank": 337,
+    "rank": 294,
+    "superrank": 336,
     "identity_rank": 63
   },
   "Return the Favor": {
@@ -16261,7 +16261,7 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 385,
+    "rank": 384,
     "superrank": 386,
     "identity_rank": 57
   },
@@ -16287,7 +16287,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 791,
+    "rank": 792,
     "superrank": 812,
     "identity_rank": 120
   },
@@ -16310,7 +16310,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 723,
+    "rank": 724,
     "superrank": 769,
     "identity_rank": 71
   },
@@ -16352,7 +16352,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 576,
+    "rank": 577,
     "superrank": 690,
     "identity_rank": 116
   },
@@ -16378,7 +16378,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 353,
+    "rank": 352,
     "superrank": 365,
     "identity_rank": 39
   },
@@ -16404,7 +16404,7 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 571,
+    "rank": 572,
     "superrank": 426,
     "identity_rank": 60
   },
@@ -16520,7 +16520,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 754,
+    "rank": 755,
     "superrank": 791,
     "identity_rank": 116
   },
@@ -16543,7 +16543,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 724,
+    "rank": 725,
     "superrank": 662,
     "identity_rank": 76
   },
@@ -16616,9 +16616,9 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 764,
+    "rank": 765,
     "superrank": 394,
-    "identity_rank": 15
+    "identity_rank": 16
   },
   "Ruthless Technomancer": {
     "img": "https://cards.scryfall.io/large/front/d/d/dddeb5cc-b535-4484-8a0e-ce32c4c09000.jpg?1651655501",
@@ -16641,7 +16641,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 468,
+    "rank": 467,
     "superrank": 554,
     "identity_rank": 72
   },
@@ -16737,7 +16737,7 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 4,
-    "rank": 765,
+    "rank": 766,
     "superrank": 602,
     "identity_rank": 10
   },
@@ -16762,7 +16762,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 561,
+    "rank": 562,
     "superrank": 619,
     "identity_rank": 94
   },
@@ -16818,7 +16818,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 685,
+    "rank": 686,
     "superrank": 496,
     "identity_rank": 10
   },
@@ -16843,7 +16843,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 598,
+    "rank": 599,
     "superrank": 538,
     "identity_rank": 47
   },
@@ -16869,7 +16869,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 725,
+    "rank": 726,
     "superrank": 663,
     "identity_rank": 77
   },
@@ -16911,7 +16911,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 786,
+    "rank": 787,
     "superrank": 808,
     "identity_rank": 127
   },
@@ -16957,7 +16957,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 221,
-    "superrank": 270,
+    "superrank": 271,
     "identity_rank": 31
   },
   "Scalding Tarn": {
@@ -17048,7 +17048,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 673,
+    "rank": 674,
     "superrank": 741,
     "identity_rank": 106
   },
@@ -17200,7 +17200,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 314,
+    "rank": 313,
     "superrank": 438,
     "identity_rank": 62
   },
@@ -17290,7 +17290,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 435,
+    "rank": 434,
     "superrank": 466,
     "identity_rank": 75
   },
@@ -17407,7 +17407,7 @@ const cards =
     ],
     "supercent": 10,
     "rank": 215,
-    "superrank": 328,
+    "superrank": 327,
     "identity_rank": 46
   },
   "Serra Ascendant": {
@@ -17431,7 +17431,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 599,
+    "rank": 600,
     "superrank": 539,
     "identity_rank": 48
   },
@@ -17453,7 +17453,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 726,
+    "rank": 727,
     "superrank": 770,
     "identity_rank": 72
   },
@@ -17546,7 +17546,7 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 449,
+    "rank": 448,
     "superrank": 356,
     "identity_rank": 5
   },
@@ -17570,7 +17570,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 274,
-    "superrank": 314,
+    "superrank": 313,
     "identity_rank": 38
   },
   "Shatterskull Smashing": {
@@ -17617,7 +17617,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 231,
-    "superrank": 275,
+    "superrank": 276,
     "identity_rank": 32
   },
   "Shield Mate": {
@@ -17684,7 +17684,7 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 386,
+    "rank": 385,
     "superrank": 387,
     "identity_rank": 58
   },
@@ -17706,8 +17706,8 @@ const cards =
       "Land"
     ],
     "supercent": 14,
-    "rank": 442,
-    "superrank": 267,
+    "rank": 441,
+    "superrank": 268,
     "identity_rank": 8
   },
   "Shizo, Death's Storehouse": {
@@ -17728,7 +17728,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 424,
+    "rank": 423,
     "superrank": 461,
     "identity_rank": 64
   },
@@ -17751,7 +17751,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 750,
+    "rank": 751,
     "superrank": 787,
     "identity_rank": 116
   },
@@ -17777,7 +17777,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 751,
+    "rank": 752,
     "superrank": 788,
     "identity_rank": 117
   },
@@ -17805,7 +17805,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 727,
+    "rank": 728,
     "superrank": 508,
     "identity_rank": 15
   },
@@ -17827,7 +17827,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 600,
+    "rank": 601,
     "superrank": 703,
     "identity_rank": 122
   },
@@ -17948,7 +17948,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 698,
+    "rank": 699,
     "superrank": 753,
     "identity_rank": 110
   },
@@ -17999,7 +17999,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 425,
+    "rank": 424,
     "superrank": 462,
     "identity_rank": 65
   },
@@ -18024,7 +18024,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 469,
+    "rank": 468,
     "superrank": 479,
     "identity_rank": 68
   },
@@ -18051,7 +18051,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 601,
+    "rank": 602,
     "superrank": 540,
     "identity_rank": 49
   },
@@ -18118,7 +18118,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 728,
+    "rank": 729,
     "superrank": 771,
     "identity_rank": 73
   },
@@ -18166,7 +18166,7 @@ const cards =
       "Instant"
     ],
     "supercent": 6,
-    "rank": 440,
+    "rank": 439,
     "superrank": 470,
     "identity_rank": 68
   },
@@ -18231,7 +18231,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 387,
+    "rank": 386,
     "superrank": 573,
     "identity_rank": 79
   },
@@ -18254,7 +18254,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 661,
+    "rank": 662,
     "superrank": 645,
     "identity_rank": 67
   },
@@ -18278,7 +18278,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 239,
-    "superrank": 278,
+    "superrank": 279,
     "identity_rank": 51
   },
   "Snapback": {
@@ -18301,7 +18301,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 262,
-    "superrank": 301,
+    "superrank": 300,
     "identity_rank": 57
   },
   "Snapcaster Mage": {
@@ -18325,7 +18325,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 792,
+    "rank": 793,
     "superrank": 813,
     "identity_rank": 129
   },
@@ -18348,7 +18348,7 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 674,
+    "rank": 675,
     "superrank": 652,
     "identity_rank": 68
   },
@@ -18417,7 +18417,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 356,
+    "rank": 355,
     "superrank": 431,
     "identity_rank": 49
   },
@@ -18462,9 +18462,9 @@ const cards =
       "Land"
     ],
     "supercent": 11,
-    "rank": 320,
-    "superrank": 308,
-    "identity_rank": 36
+    "rank": 319,
+    "superrank": 307,
+    "identity_rank": 35
   },
   "Sol Ring": {
     "img": "https://cards.scryfall.io/large/front/e/0/e07f656c-97b5-4147-821a-edbb49f34e19.jpg?1559592026",
@@ -18506,7 +18506,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 752,
+    "rank": 753,
     "superrank": 789,
     "identity_rank": 118
   },
@@ -18532,7 +18532,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 279,
-    "superrank": 280,
+    "superrank": 281,
     "identity_rank": 21
   },
   "Solve the Equation": {
@@ -18582,7 +18582,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 798,
-    "superrank": 265,
+    "superrank": 266,
     "identity_rank": 1
   },
   "Soul Partition": {
@@ -18604,7 +18604,7 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 450,
+    "rank": 449,
     "superrank": 473,
     "identity_rank": 35
   },
@@ -18626,7 +18626,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 602,
+    "rank": 603,
     "superrank": 704,
     "identity_rank": 123
   },
@@ -18649,7 +18649,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 680,
+    "rank": 681,
     "superrank": 653,
     "identity_rank": 69
   },
@@ -18674,7 +18674,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 388,
+    "rank": 387,
     "superrank": 388,
     "identity_rank": 59
   },
@@ -18696,8 +18696,8 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 603,
-    "superrank": 332,
+    "rank": 604,
+    "superrank": 331,
     "identity_rank": 7
   },
   "Spectral Sailor": {
@@ -18721,7 +18721,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 699,
+    "rank": 700,
     "superrank": 754,
     "identity_rank": 111
   },
@@ -18745,7 +18745,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 276,
-    "superrank": 316,
+    "superrank": 315,
     "identity_rank": 60
   },
   "Spell Snare": {
@@ -18792,7 +18792,7 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 165,
+    "rank": 166,
     "superrank": 198,
     "identity_rank": 32
   },
@@ -18842,7 +18842,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 585,
+    "rank": 586,
     "superrank": 528,
     "identity_rank": 90
   },
@@ -18870,7 +18870,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 766,
+    "rank": 767,
     "superrank": 603,
     "identity_rank": 9
   },
@@ -18892,9 +18892,9 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 647,
+    "rank": 648,
     "superrank": 366,
-    "identity_rank": 12
+    "identity_rank": 13
   },
   "Spire of Industry": {
     "img": "https://cards.scryfall.io/large/front/1/0/10b8e3a0-2a3e-401a-80a1-a3c8744f0c28.jpg?1673301192",
@@ -18912,7 +18912,7 @@ const cards =
     ],
     "supercent": 15,
     "rank": 157,
-    "superrank": 248,
+    "superrank": 249,
     "identity_rank": 37
   },
   "Spirit of the Labyrinth": {
@@ -18937,7 +18937,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 604,
+    "rank": 605,
     "superrank": 541,
     "identity_rank": 50
   },
@@ -18960,7 +18960,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 564,
+    "rank": 565,
     "superrank": 622,
     "identity_rank": 92
   },
@@ -19012,7 +19012,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 681,
+    "rank": 682,
     "superrank": 654,
     "identity_rank": 70
   },
@@ -19032,7 +19032,7 @@ const cards =
     ],
     "supercent": 12,
     "rank": 192,
-    "superrank": 284,
+    "superrank": 285,
     "identity_rank": 43
   },
   "Squee, the Immortal": {
@@ -19137,7 +19137,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 5,
-    "rank": 451,
+    "rank": 450,
     "superrank": 474,
     "identity_rank": 36
   },
@@ -19161,7 +19161,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 265,
-    "superrank": 303,
+    "superrank": 302,
     "identity_rank": 59
   },
   "Steam Vents": {
@@ -19182,7 +19182,7 @@ const cards =
       "Land"
     ],
     "supercent": 42,
-    "rank": 175,
+    "rank": 176,
     "superrank": 128,
     "identity_rank": 2
   },
@@ -19205,7 +19205,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 446,
+    "rank": 445,
     "superrank": 472,
     "identity_rank": 78
   },
@@ -19251,7 +19251,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 775,
+    "rank": 776,
     "superrank": 802,
     "identity_rank": 122
   },
@@ -19294,7 +19294,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 787,
+    "rank": 788,
     "superrank": 809,
     "identity_rank": 128
   },
@@ -19316,7 +19316,7 @@ const cards =
       "Land"
     ],
     "supercent": 33,
-    "rank": 302,
+    "rank": 301,
     "superrank": 147,
     "identity_rank": 3
   },
@@ -19339,7 +19339,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 729,
+    "rank": 730,
     "superrank": 772,
     "identity_rank": 74
   },
@@ -19365,7 +19365,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 286,
-    "superrank": 266,
+    "superrank": 267,
     "identity_rank": 28
   },
   "Street Wraith": {
@@ -19501,7 +19501,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 244,
-    "superrank": 281,
+    "superrank": 282,
     "identity_rank": 52
   },
   "Subtlety": {
@@ -19526,7 +19526,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 263,
-    "superrank": 302,
+    "superrank": 301,
     "identity_rank": 58
   },
   "Sudden Shock": {
@@ -19548,7 +19548,7 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 389,
+    "rank": 388,
     "superrank": 389,
     "identity_rank": 60
   },
@@ -19571,9 +19571,9 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 437,
-    "superrank": 323,
-    "identity_rank": 41
+    "rank": 436,
+    "superrank": 322,
+    "identity_rank": 40
   },
   "Sunbaked Canyon": {
     "img": "https://cards.scryfall.io/large/front/c/3/c36820fa-ee86-4206-9a0d-737a67cf5208.jpg?1562202603",
@@ -19593,8 +19593,8 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 605,
-    "superrank": 333,
+    "rank": 606,
+    "superrank": 332,
     "identity_rank": 8
   },
   "Sundering Eruption": {
@@ -19659,7 +19659,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 730,
+    "rank": 731,
     "superrank": 773,
     "identity_rank": 75
   },
@@ -19701,7 +19701,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 390,
+    "rank": 389,
     "superrank": 574,
     "identity_rank": 80
   },
@@ -19981,7 +19981,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 700,
+    "rank": 701,
     "superrank": 659,
     "identity_rank": 15
   },
@@ -20003,7 +20003,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 21,
-    "rank": 299,
+    "rank": 298,
     "superrank": 195,
     "identity_rank": 3
   },
@@ -20048,7 +20048,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 516,
-    "superrank": 315,
+    "superrank": 314,
     "identity_rank": 7
   },
   "Talisman of Dominance": {
@@ -20091,7 +20091,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 608,
+    "rank": 609,
     "superrank": 545,
     "identity_rank": 6
   },
@@ -20226,7 +20226,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 767,
+    "rank": 768,
     "superrank": 514,
     "identity_rank": 10
   },
@@ -20270,7 +20270,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 667,
+    "rank": 668,
     "superrank": 942,
     "identity_rank": 130
   },
@@ -20340,7 +20340,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 582,
+    "rank": 583,
     "superrank": 526,
     "identity_rank": 89
   },
@@ -20365,7 +20365,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 731,
+    "rank": 732,
     "superrank": 774,
     "identity_rank": 76
   },
@@ -20461,7 +20461,7 @@ const cards =
     ],
     "supercent": 11,
     "rank": 283,
-    "superrank": 322,
+    "superrank": 321,
     "identity_rank": 61
   },
   "Tezzeret, Cruel Captain": {
@@ -20473,16 +20473,16 @@ const cards =
     "type_line": "Legendary Planeswalker \u2014 Tezzeret",
     "color_identity": [],
     "name": "Tezzeret, Cruel Captain",
-    "count": 9,
-    "percent": 14,
+    "count": 10,
+    "percent": 15,
     "types": [
       "Legendary",
       "Planeswalker"
     ],
-    "supercent": 14,
-    "rank": 176,
-    "superrank": 264,
-    "identity_rank": 42
+    "supercent": 15,
+    "rank": 160,
+    "superrank": 252,
+    "identity_rank": 39
   },
   "Thalia, Guardian of Thraben": {
     "img": "https://cards.scryfall.io/large/front/8/2/824423ff-6441-4be6-b754-810adf9ca6a2.jpg?1562925761",
@@ -20611,8 +20611,8 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 470,
-    "superrank": 326,
+    "rank": 469,
+    "superrank": 325,
     "identity_rank": 4
   },
   "The Mycosynth Gardens": {
@@ -20630,7 +20630,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 737,
+    "rank": 738,
     "superrank": 949,
     "identity_rank": 137
   },
@@ -20674,7 +20674,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 738,
+    "rank": 739,
     "superrank": 777,
     "identity_rank": 106
   },
@@ -20694,7 +20694,7 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 776,
+    "rank": 777,
     "superrank": 954,
     "identity_rank": 142
   },
@@ -20742,9 +20742,9 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 648,
+    "rank": 649,
     "superrank": 367,
-    "identity_rank": 13
+    "identity_rank": 14
   },
   "Thought Lash": {
     "img": "https://cards.scryfall.io/large/front/d/5/d59bbac1-ca51-4c72-9f1f-5fc6c82a4a27.jpg?1562770616",
@@ -20765,7 +20765,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 757,
+    "rank": 758,
     "superrank": 792,
     "identity_rank": 114
   },
@@ -20832,7 +20832,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 562,
+    "rank": 563,
     "superrank": 620,
     "identity_rank": 95
   },
@@ -20934,7 +20934,7 @@ const cards =
       "Land"
     ],
     "supercent": 19,
-    "rank": 335,
+    "rank": 334,
     "superrank": 219,
     "identity_rank": 7
   },
@@ -20957,9 +20957,9 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 315,
-    "superrank": 305,
-    "identity_rank": 33
+    "rank": 314,
+    "superrank": 304,
+    "identity_rank": 32
   },
   "Tidespout Tyrant": {
     "img": "https://cards.scryfall.io/large/front/c/a/ca7d9ed5-30c7-4d9f-b2b6-ce959de53e30.jpg?1702423253",
@@ -21005,7 +21005,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 20,
-    "rank": 173,
+    "rank": 174,
     "superrank": 205,
     "identity_rank": 37
   },
@@ -21056,7 +21056,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 788,
+    "rank": 789,
     "superrank": 810,
     "identity_rank": 79
   },
@@ -21104,7 +21104,7 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 768,
+    "rank": 769,
     "superrank": 670,
     "identity_rank": 79
   },
@@ -21142,7 +21142,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 396,
+    "rank": 395,
     "superrank": 579,
     "identity_rank": 85
   },
@@ -21189,7 +21189,7 @@ const cards =
     ],
     "supercent": 13,
     "rank": 232,
-    "superrank": 276,
+    "superrank": 277,
     "identity_rank": 33
   },
   "Training Center": {
@@ -21258,7 +21258,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 619,
+    "rank": 620,
     "superrank": 711,
     "identity_rank": 101
   },
@@ -21307,7 +21307,7 @@ const cards =
     ],
     "supercent": 14,
     "rank": 259,
-    "superrank": 262,
+    "superrank": 264,
     "identity_rank": 27
   },
   "Treasure Vault": {
@@ -21326,7 +21326,7 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 316,
+    "rank": 315,
     "superrank": 439,
     "identity_rank": 63
   },
@@ -21390,7 +21390,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 5,
-    "rank": 452,
+    "rank": 451,
     "superrank": 475,
     "identity_rank": 37
   },
@@ -21435,7 +21435,7 @@ const cards =
       "Instant"
     ],
     "supercent": 3,
-    "rank": 691,
+    "rank": 692,
     "superrank": 657,
     "identity_rank": 73
   },
@@ -21483,7 +21483,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 8,
-    "rank": 354,
+    "rank": 353,
     "superrank": 368,
     "identity_rank": 40
   },
@@ -21509,9 +21509,9 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 317,
-    "superrank": 306,
-    "identity_rank": 34
+    "rank": 316,
+    "superrank": 305,
+    "identity_rank": 33
   },
   "Tyvar, Jubilant Brawler": {
     "img": "https://cards.scryfall.io/large/front/c/7/c7bc261c-fb79-4397-9a47-b9f601a1341b.jpg?1675957546",
@@ -21580,7 +21580,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 744,
+    "rank": 745,
     "superrank": 781,
     "identity_rank": 110
   },
@@ -21602,7 +21602,7 @@ const cards =
       "Land"
     ],
     "supercent": 29,
-    "rank": 174,
+    "rank": 175,
     "superrank": 164,
     "identity_rank": 6
   },
@@ -21668,8 +21668,8 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 572,
-    "superrank": 329,
+    "rank": 573,
+    "superrank": 328,
     "identity_rank": 10
   },
   "Underworld Breach": {
@@ -21736,7 +21736,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 391,
+    "rank": 390,
     "superrank": 575,
     "identity_rank": 81
   },
@@ -21757,7 +21757,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 392,
+    "rank": 391,
     "superrank": 576,
     "identity_rank": 82
   },
@@ -21780,8 +21780,8 @@ const cards =
       "Sorcery"
     ],
     "supercent": 9,
-    "rank": 334,
-    "superrank": 351,
+    "rank": 333,
+    "superrank": 350,
     "identity_rank": 45
   },
   "Untimely Malfunction": {
@@ -21803,9 +21803,9 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 318,
-    "superrank": 307,
-    "identity_rank": 35
+    "rank": 317,
+    "superrank": 306,
+    "identity_rank": 34
   },
   "Unwanted Remake": {
     "img": "https://cards.scryfall.io/large/front/b/e/be897dda-8603-4264-a022-87870f635b40.jpg?1726287021",
@@ -21826,7 +21826,7 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 789,
+    "rank": 790,
     "superrank": 811,
     "identity_rank": 80
   },
@@ -21887,7 +21887,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 739,
+    "rank": 740,
     "superrank": 778,
     "identity_rank": 107
   },
@@ -21926,7 +21926,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 393,
+    "rank": 392,
     "superrank": 577,
     "identity_rank": 83
   },
@@ -21969,7 +21969,7 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 620,
+    "rank": 621,
     "superrank": 636,
     "identity_rank": 65
   },
@@ -22083,7 +22083,7 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 740,
+    "rank": 741,
     "superrank": 779,
     "identity_rank": 108
   },
@@ -22216,8 +22216,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 583,
-    "superrank": 355,
+    "rank": 584,
+    "superrank": 354,
     "identity_rank": 9
   },
   "Vile Entomber": {
@@ -22241,7 +22241,7 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 426,
+    "rank": 425,
     "superrank": 463,
     "identity_rank": 66
   },
@@ -22317,7 +22317,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 457,
+    "rank": 456,
     "superrank": 550,
     "identity_rank": 71
   },
@@ -22369,8 +22369,8 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 15,
-    "rank": 326,
-    "superrank": 252,
+    "rank": 325,
+    "superrank": 254,
     "identity_rank": 36
   },
   "Voice of Victory": {
@@ -22436,7 +22436,7 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 394,
+    "rank": 393,
     "superrank": 578,
     "identity_rank": 84
   },
@@ -22461,7 +22461,7 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 461,
+    "rank": 460,
     "superrank": 552,
     "identity_rank": 80
   },
@@ -22549,7 +22549,7 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 573,
+    "rank": 574,
     "superrank": 427,
     "identity_rank": 61
   },
@@ -22619,7 +22619,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 16,
-    "rank": 462,
+    "rank": 461,
     "superrank": 239,
     "identity_rank": 3
   },
@@ -22667,8 +22667,8 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 292,
-    "superrank": 335,
+    "rank": 291,
+    "superrank": 334,
     "identity_rank": 41
   },
   "Warrior's Oath": {
@@ -22690,7 +22690,7 @@ const cards =
       "Sorcery"
     ],
     "supercent": 8,
-    "rank": 438,
+    "rank": 437,
     "superrank": 396,
     "identity_rank": 63
   },
@@ -22753,7 +22753,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 662,
+    "rank": 663,
     "superrank": 487,
     "identity_rank": 8
   },
@@ -22802,7 +22802,7 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 625,
+    "rank": 626,
     "superrank": 477,
     "identity_rank": 9
   },
@@ -22821,7 +22821,7 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 653,
+    "rank": 654,
     "superrank": 939,
     "identity_rank": 127
   },
@@ -22846,7 +22846,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 409,
+    "rank": 408,
     "superrank": 392,
     "identity_rank": 33
   },
@@ -22915,8 +22915,8 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 338,
-    "superrank": 354,
+    "rank": 337,
+    "superrank": 353,
     "identity_rank": 67
   },
   "White Plume Adventurer": {
@@ -22967,9 +22967,9 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 649,
+    "rank": 650,
     "superrank": 369,
-    "identity_rank": 14
+    "identity_rank": 15
   },
   "Wild Growth": {
     "img": "https://cards.scryfall.io/large/front/f/d/fd896dfa-66c0-4327-8e5b-489bbe350c95.jpg?1559591624",
@@ -22990,8 +22990,8 @@ const cards =
       "Enchantment"
     ],
     "supercent": 15,
-    "rank": 296,
-    "superrank": 247,
+    "rank": 295,
+    "superrank": 248,
     "identity_rank": 34
   },
   "Wild Slash": {
@@ -23196,7 +23196,7 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 732,
+    "rank": 733,
     "superrank": 509,
     "identity_rank": 16
   },
@@ -23263,7 +23263,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 395,
+    "rank": 394,
     "superrank": 390,
     "identity_rank": 61
   },
@@ -23314,7 +23314,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 733,
+    "rank": 734,
     "superrank": 510,
     "identity_rank": 17
   },
@@ -23334,7 +23334,7 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 574,
+    "rank": 575,
     "superrank": 682,
     "identity_rank": 115
   },
@@ -23383,7 +23383,7 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 631,
+    "rank": 632,
     "superrank": 718,
     "identity_rank": 99
   },
@@ -23480,7 +23480,7 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 606,
+    "rank": 607,
     "superrank": 542,
     "identity_rank": 94
   },
@@ -23505,7 +23505,7 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 355,
+    "rank": 354,
     "superrank": 370,
     "identity_rank": 41
   }
