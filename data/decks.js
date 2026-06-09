@@ -6304,7 +6304,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Korvold, the MAD King  Storm ": {
+  "Korvold, the MAD King ": {
     "mainboard": [
       "Ad Nauseam",
       "Ancient Tomb",
