@@ -5351,6 +5351,7 @@ const decks =
   "Krark Sakashima Storm [TOODEEP]": {
     "mainboard": [
       "An Offer You Can't Refuse",
+      "Ancestral Anger",
       "Ancient Tomb",
       "Archmage Emeritus",
       "Arid Mesa",
@@ -5385,6 +5386,7 @@ const decks =
       "Gut Shot",
       "Harmonic Prodigy",
       "Heroes' Hangout",
+      "Impolite Entrance",
       "Into the Flood Maw",
       "Irma, Part-Time Mutant",
       "Island",
@@ -5407,7 +5409,6 @@ const decks =
       "Muse Seeker",
       "Mystic Remora",
       "Mystical Tutor",
-      "Opt",
       "Otawara, Soaring City",
       "Overmaster",
       "Pact of Negation",
@@ -5436,7 +5437,6 @@ const decks =
       "Tarnished Citadel",
       "Tavern Scoundrel",
       "The Vision and Scarlet Witch",
-      "Thought Scour",
       "Thundering Falls",
       "Training Center",
       "Treasonous Ogre",
