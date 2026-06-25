@@ -1,7 +1,7 @@
 const cards =
 {
   "Abrade": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cccbc616-5592-4051-a066-a325209f349e.jpg?1673300483",
+    "img": "https://cards.scryfall.io/large/front/c/c/cccbc616-5592-4051-a066-a325209f349e.jpg?1782128965",
     "date": "2017-07-14",
     "colors": [
       "R"
@@ -767,7 +767,7 @@ const cards =
     "identity_rank": 47
   },
   "Arcane Signet": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d5a30a51-3afb-45e9-aab6-40fec44ec55a.jpg?1673300645",
+    "img": "https://cards.scryfall.io/large/front/d/5/d5a30a51-3afb-45e9-aab6-40fec44ec55a.jpg?1782130030",
     "date": "2019-10-04",
     "colors": [],
     "mana_cost": "{2}",
@@ -884,7 +884,7 @@ const cards =
     "identity_rank": 17
   },
   "Arena Rector": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f38fb75a-3880-4ffb-bd71-69ba93b39f88.jpg?1781625223",
+    "img": "https://cards.scryfall.io/large/front/f/3/f38fb75a-3880-4ffb-bd71-69ba93b39f88.jpg?1782114157",
     "date": "2018-06-08",
     "colors": [
       "W"
@@ -1783,7 +1783,7 @@ const cards =
     "identity_rank": 160
   },
   "Birthing Pod": {
-    "img": "https://cards.scryfall.io/large/front/8/6/86c499a6-1f5e-4f13-8d7d-bc7ca65910eb.jpg?1779272249",
+    "img": "https://cards.scryfall.io/large/front/8/6/86c499a6-1f5e-4f13-8d7d-bc7ca65910eb.jpg?1782113384",
     "date": "2011-05-13",
     "colors": [
       "G"
@@ -1924,7 +1924,7 @@ const cards =
     "identity_rank": 6
   },
   "Blasphemous Act": {
-    "img": "https://cards.scryfall.io/large/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1673300500",
+    "img": "https://cards.scryfall.io/large/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1782128978",
     "date": "2011-09-30",
     "colors": [
       "R"
@@ -2570,7 +2570,7 @@ const cards =
     "identity_rank": 48
   },
   "Breath of Fury": {
-    "img": "https://cards.scryfall.io/large/front/7/6/76b4f5b1-9a5f-442b-9990-4c0d654df6f0.jpg?1778573956",
+    "img": "https://cards.scryfall.io/large/front/7/6/76b4f5b1-9a5f-442b-9990-4c0d654df6f0.jpg?1782113417",
     "date": "2005-10-07",
     "colors": [
       "R"
@@ -3200,7 +3200,7 @@ const cards =
     "identity_rank": 82
   },
   "Chaos Warp": {
-    "img": "https://cards.scryfall.io/large/front/8/4/84b7ef85-5751-4dd1-9cde-1cbb8097bbba.jpg?1673300508",
+    "img": "https://cards.scryfall.io/large/front/8/4/84b7ef85-5751-4dd1-9cde-1cbb8097bbba.jpg?1782128988",
     "date": "2011-06-17",
     "colors": [
       "R"
@@ -4303,7 +4303,7 @@ const cards =
     "identity_rank": 140
   },
   "Cursed Mirror": {
-    "img": "https://cards.scryfall.io/large/front/a/2/a29473ee-1a11-42b8-8d14-34051208f35b.jpg?1673300516",
+    "img": "https://cards.scryfall.io/large/front/a/2/a29473ee-1a11-42b8-8d14-34051208f35b.jpg?1782129002",
     "date": "2021-04-23",
     "colors": [
       "R"
@@ -4571,7 +4571,7 @@ const cards =
     "identity_rank": 10
   },
   "Darksteel Citadel": {
-    "img": "https://cards.scryfall.io/large/front/d/f/df29d8e6-f195-46db-9307-41687b5f0f20.jpg?1673301013",
+    "img": "https://cards.scryfall.io/large/front/d/f/df29d8e6-f195-46db-9307-41687b5f0f20.jpg?1782129902",
     "date": "2004-02-06",
     "colors": [],
     "mana_cost": "",
@@ -6680,7 +6680,7 @@ const cards =
     "identity_rank": 115
   },
   "Exotic Orchard": {
-    "img": "https://cards.scryfall.io/large/front/9/5/95d63eac-469f-454f-a575-7f19abb554cf.jpg?1673301057",
+    "img": "https://cards.scryfall.io/large/front/9/5/95d63eac-469f-454f-a575-7f19abb554cf.jpg?1782129935",
     "date": "2009-02-06",
     "colors": [],
     "mana_cost": "",
@@ -6889,7 +6889,7 @@ const cards =
     "identity_rank": 92
   },
   "Faithless Looting": {
-    "img": "https://cards.scryfall.io/large/front/b/7/b78f314a-a7c2-4441-9d46-67521ad570ba.jpg?1673300524",
+    "img": "https://cards.scryfall.io/large/front/b/7/b78f314a-a7c2-4441-9d46-67521ad570ba.jpg?1782129009",
     "date": "2012-02-03",
     "colors": [
       "R"
@@ -8831,7 +8831,7 @@ const cards =
     "identity_rank": 60
   },
   "Great Furnace": {
-    "img": "https://cards.scryfall.io/large/front/3/f/3fde36b4-95e0-4592-b67c-05548bbb1679.jpg?1674431696",
+    "img": "https://cards.scryfall.io/large/front/3/f/3fde36b4-95e0-4592-b67c-05548bbb1679.jpg?1782129346",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "",
@@ -12139,7 +12139,7 @@ const cards =
     "identity_rank": 124
   },
   "Machine God's Effigy": {
-    "img": "https://cards.scryfall.io/large/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1688125570",
+    "img": "https://cards.scryfall.io/large/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1782124557",
     "date": "2022-11-18",
     "colors": [],
     "mana_cost": "{4}",
@@ -13497,7 +13497,7 @@ const cards =
     "identity_rank": 5
   },
   "Mox Opal": {
-    "img": "https://cards.scryfall.io/large/front/6/a/6a2dbb1a-4b83-47b6-92ca-145fa5c9c16b.jpg?1776598332",
+    "img": "https://cards.scryfall.io/large/front/6/a/6a2dbb1a-4b83-47b6-92ca-145fa5c9c16b.jpg?1782193998",
     "date": "2010-10-01",
     "colors": [],
     "mana_cost": "{0}",
@@ -13698,7 +13698,7 @@ const cards =
     "identity_rank": 104
   },
   "Narset, Parter of Veils": {
-    "img": "https://cards.scryfall.io/large/front/1/e/1e5e5f25-41c8-4626-bb14-a121167a9d79.jpg?1780300356",
+    "img": "https://cards.scryfall.io/large/front/1/e/1e5e5f25-41c8-4626-bb14-a121167a9d79.jpg?1782194044",
     "date": "2019-05-03",
     "colors": [
       "U"
@@ -14953,7 +14953,7 @@ const cards =
     "identity_rank": 61
   },
   "Petrified Hamlet": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed72d052-d287-448a-bbc5-969ebb1fcb68.jpg?1775939559",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed72d052-d287-448a-bbc5-969ebb1fcb68.jpg?1782133077",
     "date": "2026-04-24",
     "colors": [],
     "mana_cost": "",
@@ -17417,7 +17417,7 @@ const cards =
     "identity_rank": 5
   },
   "Seat of the Synod": {
-    "img": "https://cards.scryfall.io/large/front/4/2/4277ebca-1c8d-4066-969a-28adf6445b3e.jpg?1673301155",
+    "img": "https://cards.scryfall.io/large/front/4/2/4277ebca-1c8d-4066-969a-28adf6445b3e.jpg?1782129278",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "",
@@ -17555,7 +17555,7 @@ const cards =
     "identity_rank": 46
   },
   "Serra Ascendant": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fb519463-bff8-455b-840e-e1bc606b5391.jpg?1782042270",
+    "img": "https://cards.scryfall.io/large/front/f/b/fb519463-bff8-455b-840e-e1bc606b5391.jpg?1782114187",
     "date": "2010-07-16",
     "colors": [
       "W"
@@ -18226,7 +18226,7 @@ const cards =
     "identity_rank": 49
   },
   "Skullclamp": {
-    "img": "https://cards.scryfall.io/large/front/3/8/3865d44e-7207-4440-9db4-627531979852.jpg?1674431266",
+    "img": "https://cards.scryfall.io/large/front/3/8/3865d44e-7207-4440-9db4-627531979852.jpg?1782132770",
     "date": "2004-02-06",
     "colors": [],
     "mana_cost": "{1}",
@@ -19067,7 +19067,7 @@ const cards =
     "identity_rank": 12
   },
   "Spire of Industry": {
-    "img": "https://cards.scryfall.io/large/front/1/0/10b8e3a0-2a3e-401a-80a1-a3c8744f0c28.jpg?1673301192",
+    "img": "https://cards.scryfall.io/large/front/1/0/10b8e3a0-2a3e-401a-80a1-a3c8744f0c28.jpg?1782129974",
     "date": "2017-01-20",
     "colors": [],
     "mana_cost": "",
@@ -19446,7 +19446,7 @@ const cards =
     "identity_rank": 174
   },
   "Stitcher's Supplier": {
-    "img": "https://cards.scryfall.io/large/front/4/a/4ad7ec71-b046-4470-88a7-11881265b6b8.jpg?1777216150",
+    "img": "https://cards.scryfall.io/large/front/4/a/4ad7ec71-b046-4470-88a7-11881265b6b8.jpg?1782114073",
     "date": "2018-07-13",
     "colors": [
       "B"
@@ -20247,7 +20247,7 @@ const cards =
     "identity_rank": 7
   },
   "Talisman of Dominance": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b5713b7-f2a6-41c5-a485-058b7393570b.jpg?1661220474",
+    "img": "https://cards.scryfall.io/large/front/8/b/8b5713b7-f2a6-41c5-a485-058b7393570b.jpg?1782194332",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20291,7 +20291,7 @@ const cards =
     "identity_rank": 6
   },
   "Talisman of Impulse": {
-    "img": "https://cards.scryfall.io/large/front/2/f/2fb35429-30ee-4e2f-80ad-083faf53e264.jpg?1661220534",
+    "img": "https://cards.scryfall.io/large/front/2/f/2fb35429-30ee-4e2f-80ad-083faf53e264.jpg?1782194345",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20313,7 +20313,7 @@ const cards =
     "identity_rank": 5
   },
   "Talisman of Indulgence": {
-    "img": "https://cards.scryfall.io/large/front/7/3/73e85dab-5887-47bb-b5f2-fd11ff77ef91.jpg?1661220560",
+    "img": "https://cards.scryfall.io/large/front/7/3/73e85dab-5887-47bb-b5f2-fd11ff77ef91.jpg?1782194349",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20335,7 +20335,7 @@ const cards =
     "identity_rank": 4
   },
   "Talisman of Progress": {
-    "img": "https://cards.scryfall.io/large/front/7/3/7333e089-dc31-4c2f-9230-c2033d95c7e6.jpg?1661220597",
+    "img": "https://cards.scryfall.io/large/front/7/3/7333e089-dc31-4c2f-9230-c2033d95c7e6.jpg?1782194354",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20357,7 +20357,7 @@ const cards =
     "identity_rank": 3
   },
   "Talisman of Unity": {
-    "img": "https://cards.scryfall.io/large/front/2/6/26b6bdac-02d4-4661-b022-103f19232985.jpg?1661220667",
+    "img": "https://cards.scryfall.io/large/front/2/6/26b6bdac-02d4-4661-b022-103f19232985.jpg?1782194365",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20565,7 +20565,7 @@ const cards =
     "identity_rank": 76
   },
   "Teferi, Time Raveler": {
-    "img": "https://cards.scryfall.io/large/front/0/6/066cee3d-1bc9-43bb-a1e5-70256875eb9b.jpg?1640745317",
+    "img": "https://cards.scryfall.io/large/front/0/6/066cee3d-1bc9-43bb-a1e5-70256875eb9b.jpg?1782194413",
     "date": "2019-05-03",
     "colors": [
       "U",
@@ -20992,7 +20992,7 @@ const cards =
     "identity_rank": 114
   },
   "Thought Vessel": {
-    "img": "https://cards.scryfall.io/large/front/c/1/c1968fb1-4c78-40b7-929c-271569ea0cc9.jpg?1674431327",
+    "img": "https://cards.scryfall.io/large/front/c/1/c1968fb1-4c78-40b7-929c-271569ea0cc9.jpg?1782132877",
     "date": "2015-11-13",
     "colors": [],
     "mana_cost": "{2}",
@@ -22265,7 +22265,7 @@ const cards =
     "identity_rank": 43
   },
   "Vault of Whispers": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f482fe5c-1ff5-46f8-befa-b84deaa29f45.jpg?1743491513",
+    "img": "https://cards.scryfall.io/large/front/f/4/f482fe5c-1ff5-46f8-befa-b84deaa29f45.jpg?1782129320",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "",
@@ -22312,7 +22312,7 @@ const cards =
     "identity_rank": 151
   },
   "Veil of Summer": {
-    "img": "https://cards.scryfall.io/large/front/1/1/111c175b-f994-4501-b046-eaa07707f23a.jpg?1778573961",
+    "img": "https://cards.scryfall.io/large/front/1/1/111c175b-f994-4501-b046-eaa07707f23a.jpg?1782113411",
     "date": "2019-07-12",
     "colors": [
       "G"
