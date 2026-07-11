@@ -5561,7 +5561,7 @@ const decks =
       "Sakashima of a Thousand Faces"
     ]
   },
-  "New Catering ": {
+  "[A52] New Catering ": {
     "mainboard": [
       "Academy Rector",
       "Ancient Tomb",
@@ -5602,10 +5602,10 @@ const decks =
       "Gaea's Cradle",
       "Gamble",
       "Gemstone Caverns",
-      "Goblin Engineer",
       "Grand Abolisher",
       "Greater Gargadon",
       "Grim Monolith",
+      "Grinding Station",
       "Hermit Druid",
       "Horizon Canopy",
       "Imperial Recruiter",
@@ -5910,6 +5910,7 @@ const decks =
       "Fellwar Stone",
       "Fierce Guardianship",
       "Final Fortune",
+      "Flashback",
       "Flooded Strand",
       "Flusterstorm",
       "Force of Negation",
@@ -5919,6 +5920,7 @@ const decks =
       "Gifts Ungiven",
       "Grand Abolisher",
       "Grim Hireling",
+      "Hexing Squelcher",
       "Imperial Seal",
       "Into the Flood Maw",
       "Intuition",
@@ -5941,7 +5943,6 @@ const decks =
       "Mystical Tutor",
       "Necrodominance",
       "Necropotence",
-      "Opposition Agent",
       "Orcish Bowmasters",
       "Otawara, Soaring City",
       "Pact of Negation",
@@ -5974,7 +5975,6 @@ const decks =
       "Verdant Catacombs",
       "Voice of Victory",
       "Volcanic Island",
-      "Watery Grave",
       "Wheel of Fortune",
       "Windswept Heath",
       "Wishclaw Talisman",
@@ -6343,7 +6343,6 @@ const decks =
       "Gemstone Caverns",
       "Goblin Engineer",
       "Goblin Welder",
-      "Grim Monolith",
       "Grinding Station",
       "Hexing Squelcher",
       "Ignoble Hierarch",
@@ -6392,6 +6391,7 @@ const decks =
       "Tainted Pact",
       "The Cabbage Merchant",
       "Tinder Wall",
+      "Underground Mortuary",
       "Underworld Breach",
       "Vampiric Tutor",
       "Veil of Summer",
