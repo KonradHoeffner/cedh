@@ -1,7 +1,7 @@
 const cards =
 {
   "Abrade": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cccbc616-5592-4051-a066-a325209f349e.jpg?1782699426",
+    "img": "https://cards.scryfall.io/large/front/c/c/cccbc616-5592-4051-a066-a325209f349e.jpg?1783919677",
     "date": "2017-07-14",
     "colors": [
       "R"
@@ -19,12 +19,12 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 310,
+    "rank": 307,
     "superrank": 306,
-    "identity_rank": 34
+    "identity_rank": 32
   },
   "Abrupt Decay": {
-    "img": "https://cards.scryfall.io/large/front/5/7/57010ba9-52be-484d-9976-7576c4ce48d0.jpg?1782741677",
+    "img": "https://cards.scryfall.io/large/front/5/7/57010ba9-52be-484d-9976-7576c4ce48d0.jpg?1783927715",
     "date": "2012-10-05",
     "colors": [
       "B",
@@ -44,12 +44,12 @@ const cards =
       "Instant"
     ],
     "supercent": 50,
-    "rank": 151,
+    "rank": 149,
     "superrank": 104,
     "identity_rank": 5
   },
   "Academy Rector": {
-    "img": "https://cards.scryfall.io/large/front/4/3/4367bc78-0912-4abd-8edd-bc792558d01a.jpg?1782720409",
+    "img": "https://cards.scryfall.io/large/front/4/3/4367bc78-0912-4abd-8edd-bc792558d01a.jpg?1783946087",
     "date": "1999-06-07",
     "colors": [
       "W"
@@ -69,12 +69,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 509,
-    "superrank": 497,
+    "rank": 508,
+    "superrank": 496,
     "identity_rank": 38
   },
   "Activated Sleeper": {
-    "img": "https://cards.scryfall.io/large/front/3/8/3823b756-f881-4096-bbcb-a5de2aaa6cef.jpg?1782700657",
+    "img": "https://cards.scryfall.io/large/front/3/8/3823b756-f881-4096-bbcb-a5de2aaa6cef.jpg?1783921447",
     "date": "2022-09-09",
     "colors": [
       "B"
@@ -95,11 +95,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 452,
-    "superrank": 550,
-    "identity_rank": 71
+    "superrank": 549,
+    "identity_rank": 70
   },
   "Ad Nauseam": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0a4ce4a1-65e3-4b40-be35-8fc55a968ec8.jpg?1782715972",
+    "img": "https://cards.scryfall.io/large/front/0/a/0a4ce4a1-65e3-4b40-be35-8fc55a968ec8.jpg?1783942570",
     "date": "2008-10-03",
     "colors": [
       "B"
@@ -122,7 +122,7 @@ const cards =
     "identity_rank": 11
   },
   "Adaptive Automaton": {
-    "img": "https://cards.scryfall.io/large/front/b/0/b0724f3e-a29b-49f1-badc-da7dec5c697c.jpg?1782699604",
+    "img": "https://cards.scryfall.io/large/front/b/0/b0724f3e-a29b-49f1-badc-da7dec5c697c.jpg?1783919800",
     "date": "2011-07-15",
     "colors": [],
     "mana_cost": "{3}",
@@ -139,12 +139,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 499,
-    "superrank": 651,
+    "rank": 498,
+    "superrank": 652,
     "identity_rank": 101
   },
   "Adarkar Wastes": {
-    "img": "https://cards.scryfall.io/large/front/0/9/09dd9023-f7ee-4e99-8821-7059deb83730.jpg?1782721617",
+    "img": "https://cards.scryfall.io/large/front/0/9/09dd9023-f7ee-4e99-8821-7059deb83730.jpg?1783947452",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -161,12 +161,12 @@ const cards =
       "Land"
     ],
     "supercent": 12,
-    "rank": 433,
+    "rank": 434,
     "superrank": 288,
     "identity_rank": 7
   },
   "Aerial Extortionist": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d51d45ad-1301-43e3-a56f-c3cc2b9383a8.jpg?1782701885",
+    "img": "https://cards.scryfall.io/large/front/d/5/d51d45ad-1301-43e3-a56f-c3cc2b9383a8.jpg?1783923331",
     "date": "2022-04-29",
     "colors": [
       "W"
@@ -186,12 +186,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 709,
-    "superrank": 764,
+    "rank": 710,
+    "superrank": 765,
     "identity_rank": 60
   },
   "Aether Spellbomb": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f.jpg?1782718491",
+    "img": "https://cards.scryfall.io/large/front/f/3/f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f.jpg?1783944529",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{1}",
@@ -207,12 +207,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 886,
-    "superrank": 878,
+    "rank": 887,
+    "superrank": 879,
     "identity_rank": 154
   },
   "Aether Vial": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff937493-c13c-48c3-a42f-7b15ee033759.jpg?1782729377",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff937493-c13c-48c3-a42f-7b15ee033759.jpg?1783910555",
     "date": "2004-02-06",
     "colors": [],
     "mana_cost": "{1}",
@@ -226,12 +226,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 432,
-    "superrank": 602,
+    "rank": 433,
+    "superrank": 603,
     "identity_rank": 91
   },
   "Aetherflux Reservoir": {
-    "img": "https://cards.scryfall.io/large/front/a/1/a19099ae-23f4-4167-abc6-edea9afc032c.jpg?1782699565",
+    "img": "https://cards.scryfall.io/large/front/a/1/a19099ae-23f4-4167-abc6-edea9afc032c.jpg?1783919773",
     "date": "2016-09-30",
     "colors": [],
     "mana_cost": "{4}",
@@ -245,12 +245,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 808,
-    "superrank": 967,
+    "rank": 810,
+    "superrank": 968,
     "identity_rank": 145
   },
   "Agadeem's Awakening": {
-    "img": "https://cards.scryfall.io/large/front/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1782706316",
+    "img": "https://cards.scryfall.io/large/front/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1783929388",
     "date": "2020-09-25",
     "cmc": 3,
     "type_line": "Sorcery // Land",
@@ -266,12 +266,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1015,
-    "superrank": 1015,
-    "identity_rank": 150
+    "rank": 1016,
+    "superrank": 1016,
+    "identity_rank": 151
   },
   "Agatha of the Vile Cauldron": {
-    "img": "https://cards.scryfall.io/large/front/d/6/d6c48f07-63b7-4a60-8da6-ce77405abf1e.jpg?1782696516",
+    "img": "https://cards.scryfall.io/large/front/d/6/d6c48f07-63b7-4a60-8da6-ce77405abf1e.jpg?1783915073",
     "date": "2023-09-08",
     "colors": [
       "G",
@@ -294,12 +294,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 883,
-    "superrank": 403,
+    "rank": 884,
+    "superrank": 404,
     "identity_rank": 17
   },
   "Agatha's Soul Cauldron": {
-    "img": "https://cards.scryfall.io/large/front/d/e/dec5fc59-73d8-4735-88f1-3dbd1f15a546.jpg?1782696392",
+    "img": "https://cards.scryfall.io/large/front/d/e/dec5fc59-73d8-4735-88f1-3dbd1f15a546.jpg?1783915027",
     "date": "2023-09-08",
     "colors": [],
     "mana_cost": "{2}",
@@ -307,19 +307,19 @@ const cards =
     "type_line": "Legendary Artifact",
     "color_identity": [],
     "name": "Agatha's Soul Cauldron",
-    "count": 7,
-    "percent": 10,
+    "count": 8,
+    "percent": 12,
     "types": [
       "Legendary",
       "Artifact"
     ],
-    "supercent": 10,
-    "rank": 208,
-    "superrank": 330,
-    "identity_rank": 46
+    "supercent": 12,
+    "rank": 190,
+    "superrank": 286,
+    "identity_rank": 44
   },
   "Ainok Strike Leader": {
-    "img": "https://cards.scryfall.io/large/front/c/a/cabd77a6-0913-4522-891d-c8a412a536c2.jpg?1782686939",
+    "img": "https://cards.scryfall.io/large/front/c/a/cabd77a6-0913-4522-891d-c8a412a536c2.jpg?1783907186",
     "date": "2025-04-11",
     "colors": [
       "W"
@@ -339,12 +339,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 591,
-    "superrank": 533,
+    "rank": 592,
+    "superrank": 532,
     "identity_rank": 43
   },
   "Alexios, Deimos of Kosmos": {
-    "img": "https://cards.scryfall.io/large/front/e/8/e81b94b2-4052-4686-a788-9baf0fa0f81a.jpg?1782690873",
+    "img": "https://cards.scryfall.io/large/front/e/8/e81b94b2-4052-4686-a788-9baf0fa0f81a.jpg?1783910980",
     "date": "2024-07-05",
     "colors": [
       "R"
@@ -365,12 +365,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 592,
-    "superrank": 534,
+    "rank": 593,
+    "superrank": 533,
     "identity_rank": 94
   },
   "Allosaurus Shepherd": {
-    "img": "https://cards.scryfall.io/large/front/0/e/0ee4a931-5d61-49ba-affc-f022263938ca.jpg?1782706753",
+    "img": "https://cards.scryfall.io/large/front/0/e/0ee4a931-5d61-49ba-affc-f022263938ca.jpg?1783930500",
     "date": "2020-07-17",
     "colors": [
       "G"
@@ -390,12 +390,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 442,
-    "superrank": 326,
-    "identity_rank": 43
+    "rank": 443,
+    "superrank": 327,
+    "identity_rank": 44
   },
   "Alseid of Life's Bounty": {
-    "img": "https://cards.scryfall.io/large/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1782707664",
+    "img": "https://cards.scryfall.io/large/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1783931603",
     "date": "2020-01-24",
     "colors": [
       "W"
@@ -416,12 +416,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 982,
-    "superrank": 932,
+    "rank": 983,
+    "superrank": 933,
     "identity_rank": 97
   },
   "Altar of Dementia": {
-    "img": "https://cards.scryfall.io/large/front/4/f/4f2da99f-3c53-4980-97d6-2158c765aac0.jpg?1782720904",
+    "img": "https://cards.scryfall.io/large/front/4/f/4f2da99f-3c53-4980-97d6-2158c765aac0.jpg?1783946607",
     "date": "1997-10-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -436,11 +436,11 @@ const cards =
     ],
     "supercent": 3,
     "rank": 462,
-    "superrank": 639,
+    "superrank": 640,
     "identity_rank": 94
   },
   "Altar of the Wretched": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e2c812bb-19f8-4a22-bda9-f2a6233cf700.jpg?1782694872",
+    "img": "https://cards.scryfall.io/large/front/e/2/e2c812bb-19f8-4a22-bda9-f2a6233cf700.jpg?1783951757",
     "date": "2023-11-17",
     "cmc": 3,
     "type_line": "Artifact // Creature \u2014 Skeleton Horror",
@@ -456,13 +456,13 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1000,
-    "superrank": 1000,
-    "identity_rank": 147
+    "rank": 1001,
+    "superrank": 1001,
+    "identity_rank": 148
   },
   "Aminatou, the Fateshifter": {
-    "img": "https://cards.scryfall.io/large/front/c/5/c562ff50-f74b-4311-972a-ba62366411d5.jpg?1782747468",
-    "date": "2018-08-09",
+    "img": "https://cards.scryfall.io/large/front/c/5/c562ff50-f74b-4311-972a-ba62366411d5.jpg?1783934351",
+    "date": "2018-08-10",
     "colors": [
       "B",
       "U",
@@ -484,12 +484,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 5,
-    "rank": 766,
-    "superrank": 516,
+    "rank": 768,
+    "superrank": 515,
     "identity_rank": 2
   },
   "Amphibian Downpour": {
-    "img": "https://cards.scryfall.io/large/front/d/2/d2c2d9f8-e5cb-4783-b314-df2b6f75b154.jpg?1782690975",
+    "img": "https://cards.scryfall.io/large/front/d/2/d2c2d9f8-e5cb-4783-b314-df2b6f75b154.jpg?1783911159",
     "date": "2024-06-14",
     "colors": [
       "U"
@@ -507,12 +507,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 789,
-    "superrank": 814,
+    "rank": 791,
+    "superrank": 816,
     "identity_rank": 124
   },
   "An Offer You Can't Refuse": {
-    "img": "https://cards.scryfall.io/large/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1782701632",
+    "img": "https://cards.scryfall.io/large/front/b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1783923143",
     "date": "2022-04-29",
     "colors": [
       "U"
@@ -535,7 +535,7 @@ const cards =
     "identity_rank": 16
   },
   "Ancient Cellarspawn": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.jpg?1782689939",
+    "img": "https://cards.scryfall.io/large/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.jpg?1783909650",
     "date": "2024-09-27",
     "colors": [
       "B"
@@ -556,12 +556,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 813,
-    "superrank": 830,
-    "identity_rank": 125
+    "rank": 815,
+    "superrank": 832,
+    "identity_rank": 127
   },
   "Ancient Tomb": {
-    "img": "https://cards.scryfall.io/large/front/3/0/30e401e3-282b-4524-87e1-c6cd50cd6d00.jpg?1782720889",
+    "img": "https://cards.scryfall.io/large/front/3/0/30e401e3-282b-4524-87e1-c6cd50cd6d00.jpg?1783946598",
     "date": "1997-10-14",
     "colors": [],
     "mana_cost": "",
@@ -580,7 +580,7 @@ const cards =
     "identity_rank": 4
   },
   "Angel's Grace": {
-    "img": "https://cards.scryfall.io/large/front/5/8/580cb5be-fa59-4eb9-8808-7d2943fb6413.jpg?1782716944",
+    "img": "https://cards.scryfall.io/large/front/5/8/580cb5be-fa59-4eb9-8808-7d2943fb6413.jpg?1783943258",
     "date": "2006-10-06",
     "colors": [
       "W"
@@ -603,7 +603,7 @@ const cards =
     "identity_rank": 28
   },
   "Angrath's Marauders": {
-    "img": "https://cards.scryfall.io/large/front/f/0/f0bfc9e0-14e8-43ce-8fca-773b7f2387dc.jpg?1782710417",
+    "img": "https://cards.scryfall.io/large/front/f/0/f0bfc9e0-14e8-43ce-8fca-773b7f2387dc.jpg?1783935749",
     "date": "2017-09-29",
     "colors": [
       "R"
@@ -623,12 +623,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 973,
-    "superrank": 925,
-    "identity_rank": 150
+    "rank": 974,
+    "superrank": 926,
+    "identity_rank": 151
   },
   "Animate Dead": {
-    "img": "https://cards.scryfall.io/large/front/8/f/8fd7861d-925f-4b4c-a4ab-60be6f43d50b.jpg?1782722975",
+    "img": "https://cards.scryfall.io/large/front/8/f/8fd7861d-925f-4b4c-a4ab-60be6f43d50b.jpg?1783948699",
     "date": "1993-08-05",
     "colors": [
       "B"
@@ -651,7 +651,7 @@ const cards =
     "identity_rank": 20
   },
   "Anje's Ravager": {
-    "img": "https://cards.scryfall.io/large/front/2/2/22924c44-5551-4a48-a574-dfef91a5d4d7.jpg?1782708140",
+    "img": "https://cards.scryfall.io/large/front/2/2/22924c44-5551-4a48-a574-dfef91a5d4d7.jpg?1783932806",
     "date": "2019-08-23",
     "colors": [
       "R"
@@ -671,12 +671,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 947,
-    "superrank": 916,
-    "identity_rank": 141
+    "rank": 948,
+    "superrank": 917,
+    "identity_rank": 142
   },
   "Apprentice Necromancer": {
-    "img": "https://cards.scryfall.io/large/front/6/d/6d7cc1f6-9897-4de4-8e94-40cbe2d962a2.jpg?1782720393",
+    "img": "https://cards.scryfall.io/large/front/6/d/6d7cc1f6-9897-4de4-8e94-40cbe2d962a2.jpg?1783946075",
     "date": "1999-06-07",
     "colors": [
       "B"
@@ -696,12 +696,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 873,
-    "superrank": 867,
-    "identity_rank": 138
+    "rank": 875,
+    "superrank": 869,
+    "identity_rank": 140
   },
   "April O'Neil, Human Element": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cd6d7bba-2de4-49fe-8e07-a7c00c6bfc96.jpg?1782723645",
+    "img": "https://cards.scryfall.io/large/front/c/d/cd6d7bba-2de4-49fe-8e07-a7c00c6bfc96.jpg?1783904139",
     "date": "2026-03-06",
     "colors": [
       "U"
@@ -722,12 +722,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 887,
-    "superrank": 879,
+    "rank": 888,
+    "superrank": 880,
     "identity_rank": 155
   },
   "Arbor Elf": {
-    "img": "https://cards.scryfall.io/large/front/6/d/6d32a4ed-6b43-4473-91ec-08cd5414f2f0.jpg?1782715548",
+    "img": "https://cards.scryfall.io/large/front/6/d/6d32a4ed-6b43-4473-91ec-08cd5414f2f0.jpg?1783942047",
     "date": "2010-02-05",
     "colors": [
       "G"
@@ -747,12 +747,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 490,
-    "superrank": 414,
+    "rank": 489,
+    "superrank": 413,
     "identity_rank": 50
   },
   "Arcane Signet": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d5a30a51-3afb-45e9-aab6-40fec44ec55a.jpg?1782699412",
+    "img": "https://cards.scryfall.io/large/front/d/5/d5a30a51-3afb-45e9-aab6-40fec44ec55a.jpg?1783919670",
     "date": "2019-10-04",
     "colors": [],
     "mana_cost": "{2}",
@@ -771,7 +771,7 @@ const cards =
     "identity_rank": 16
   },
   "Archdruid's Charm": {
-    "img": "https://cards.scryfall.io/large/front/5/c/5caae5ae-845f-42c2-b1ae-956df2739433.jpg?1782693854",
+    "img": "https://cards.scryfall.io/large/front/5/c/5caae5ae-845f-42c2-b1ae-956df2739433.jpg?1783912870",
     "date": "2024-02-09",
     "colors": [
       "G"
@@ -789,12 +789,12 @@ const cards =
       "Instant"
     ],
     "supercent": 3,
-    "rank": 897,
-    "superrank": 695,
+    "rank": 898,
+    "superrank": 696,
     "identity_rank": 91
   },
   "Archivist of Oghma": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f6589e02-8c84-4069-88d1-ebcc8520cae1.jpg?1782701355",
+    "img": "https://cards.scryfall.io/large/front/f/6/f6589e02-8c84-4069-88d1-ebcc8520cae1.jpg?1783922823",
     "date": "2022-06-10",
     "colors": [
       "W"
@@ -814,12 +814,12 @@ const cards =
       "Creature"
     ],
     "supercent": 30,
-    "rank": 145,
+    "rank": 144,
     "superrank": 160,
     "identity_rank": 12
   },
   "Archmage Emeritus": {
-    "img": "https://cards.scryfall.io/large/front/d/a/da5e6937-800c-4870-b234-f2907a55ce31.jpg?1782704827",
+    "img": "https://cards.scryfall.io/large/front/d/a/da5e6937-800c-4870-b234-f2907a55ce31.jpg?1783927258",
     "date": "2021-04-23",
     "colors": [
       "U"
@@ -839,12 +839,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 581,
-    "superrank": 631,
+    "rank": 582,
+    "superrank": 632,
     "identity_rank": 100
   },
   "Archon of Emeria": {
-    "img": "https://cards.scryfall.io/large/front/5/3/530ed3d8-d176-44c8-ba54-f2536ceeb497.jpg?1782706149",
+    "img": "https://cards.scryfall.io/large/front/5/3/530ed3d8-d176-44c8-ba54-f2536ceeb497.jpg?1783929282",
     "date": "2020-09-25",
     "colors": [
       "W"
@@ -864,12 +864,12 @@ const cards =
       "Creature"
     ],
     "supercent": 16,
-    "rank": 239,
-    "superrank": 243,
+    "rank": 238,
+    "superrank": 242,
     "identity_rank": 17
   },
   "Arena Rector": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f38fb75a-3880-4ffb-bd71-69ba93b39f88.jpg?1783800004",
+    "img": "https://cards.scryfall.io/large/front/f/3/f38fb75a-3880-4ffb-bd71-69ba93b39f88.jpg?1783903497",
     "date": "2018-06-08",
     "colors": [
       "W"
@@ -890,11 +890,11 @@ const cards =
     ],
     "supercent": 5,
     "rank": 463,
-    "superrank": 480,
+    "superrank": 479,
     "identity_rank": 36
   },
   "Arena of Glory": {
-    "img": "https://cards.scryfall.io/large/front/d/d/dd148edc-9e43-41aa-bb50-f912115d3e72.jpg?1782691203",
+    "img": "https://cards.scryfall.io/large/front/d/d/dd148edc-9e43-41aa-bb50-f912115d3e72.jpg?1783911241",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "",
@@ -910,12 +910,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 948,
-    "superrank": 917,
-    "identity_rank": 142
+    "rank": 949,
+    "superrank": 918,
+    "identity_rank": 143
   },
   "Arid Mesa": {
-    "img": "https://cards.scryfall.io/large/front/7/1/716c415e-5eb8-4644-ac64-5ba7c3f0ea65.jpg?1782704482",
+    "img": "https://cards.scryfall.io/large/front/7/1/716c415e-5eb8-4644-ac64-5ba7c3f0ea65.jpg?1783926719",
     "date": "2009-10-02",
     "colors": [],
     "mana_cost": "",
@@ -934,7 +934,7 @@ const cards =
     "identity_rank": 22
   },
   "Artificial Evolution": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f46894d1-2503-43fa-938e-7bbf19101d13.jpg?1782719188",
+    "img": "https://cards.scryfall.io/large/front/f/4/f46894d1-2503-43fa-938e-7bbf19101d13.jpg?1783945088",
     "date": "2002-10-07",
     "colors": [
       "U"
@@ -952,12 +952,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 699,
-    "superrank": 757,
+    "rank": 700,
+    "superrank": 758,
     "identity_rank": 110
   },
   "Artist's Talent": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b9e51d9-189b-4dd6-87cb-628ea6373e81.jpg?1782690536",
+    "img": "https://cards.scryfall.io/large/front/8/b/8b9e51d9-189b-4dd6-87cb-628ea6373e81.jpg?1783910825",
     "date": "2024-08-02",
     "colors": [
       "R"
@@ -975,12 +975,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 5,
-    "rank": 541,
-    "superrank": 514,
+    "rank": 542,
+    "superrank": 513,
     "identity_rank": 86
   },
   "Ashling, Flame Dancer": {
-    "img": "https://cards.scryfall.io/large/front/7/3/7365e0cc-ce69-41f3-a90b-06817aa858ac.jpg?1782691010",
+    "img": "https://cards.scryfall.io/large/front/7/3/7365e0cc-ce69-41f3-a90b-06817aa858ac.jpg?1783911171",
     "date": "2024-06-14",
     "colors": [
       "R"
@@ -1001,12 +1001,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 914,
-    "superrank": 891,
+    "rank": 915,
+    "superrank": 892,
     "identity_rank": 124
   },
   "Asmodeus the Archfiend": {
-    "img": "https://cards.scryfall.io/large/front/a/5/a5e6b864-58e7-43b9-9d79-1d0361340960.jpg?1782704389",
+    "img": "https://cards.scryfall.io/large/front/a/5/a5e6b864-58e7-43b9-9d79-1d0361340960.jpg?1783926501",
     "date": "2021-07-23",
     "colors": [
       "B"
@@ -1027,12 +1027,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 410,
+    "rank": 412,
     "superrank": 454,
     "identity_rank": 54
   },
   "Assassin's Trophy": {
-    "img": "https://cards.scryfall.io/large/front/9/0/906b6e99-128f-4c11-8daf-16099d35b0d4.jpg?1782709081",
+    "img": "https://cards.scryfall.io/large/front/9/0/906b6e99-128f-4c11-8daf-16099d35b0d4.jpg?1783934143",
     "date": "2018-10-05",
     "colors": [
       "B",
@@ -1053,11 +1053,11 @@ const cards =
     ],
     "supercent": 25,
     "rank": 266,
-    "superrank": 181,
+    "superrank": 180,
     "identity_rank": 7
   },
   "Astral Dragon": {
-    "img": "https://cards.scryfall.io/large/front/b/5/b5bf8b03-1f5c-46c5-a684-ae5c04630286.jpg?1782700960",
+    "img": "https://cards.scryfall.io/large/front/b/5/b5bf8b03-1f5c-46c5-a684-ae5c04630286.jpg?1783922540",
     "date": "2022-06-10",
     "colors": [
       "U"
@@ -1077,12 +1077,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 801,
-    "superrank": 824,
+    "rank": 803,
+    "superrank": 826,
     "identity_rank": 131
   },
   "Aura Thief": {
-    "img": "https://cards.scryfall.io/large/front/8/a/8ae591d2-b9d3-4bc5-bcec-5d3d79a13b41.jpg?1782720401",
+    "img": "https://cards.scryfall.io/large/front/8/a/8ae591d2-b9d3-4bc5-bcec-5d3d79a13b41.jpg?1783946081",
     "date": "1999-06-07",
     "colors": [
       "U"
@@ -1102,12 +1102,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 802,
-    "superrank": 825,
+    "rank": 804,
+    "superrank": 827,
     "identity_rank": 132
   },
   "Auratouched Mage": {
-    "img": "https://cards.scryfall.io/large/front/9/4/942d6414-11e1-4822-9c5d-e4f96846a85f.jpg?1782717555",
+    "img": "https://cards.scryfall.io/large/front/9/4/942d6414-11e1-4822-9c5d-e4f96846a85f.jpg?1783943709",
     "date": "2005-10-07",
     "colors": [
       "W"
@@ -1127,12 +1127,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 974,
-    "superrank": 926,
+    "rank": 975,
+    "superrank": 927,
     "identity_rank": 93
   },
   "Auriok Salvagers": {
-    "img": "https://cards.scryfall.io/large/front/0/9/09c9cd1b-9260-4f98-ac7a-25bb5ae3e06d.jpg?1782718345",
+    "img": "https://cards.scryfall.io/large/front/0/9/09c9cd1b-9260-4f98-ac7a-25bb5ae3e06d.jpg?1783944411",
     "date": "2004-06-04",
     "colors": [
       "W"
@@ -1152,12 +1152,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 933,
-    "superrank": 908,
+    "rank": 934,
+    "superrank": 909,
     "identity_rank": 91
   },
   "Autumn's Veil": {
-    "img": "https://cards.scryfall.io/large/front/7/e/7e354ce5-b4c1-4a9c-99d1-7624301b594b.jpg?1782715385",
+    "img": "https://cards.scryfall.io/large/front/7/e/7e354ce5-b4c1-4a9c-99d1-7624301b594b.jpg?1783941801",
     "date": "2010-07-16",
     "colors": [
       "G"
@@ -1169,18 +1169,18 @@ const cards =
       "G"
     ],
     "name": "Autumn's Veil",
-    "count": 2,
-    "percent": 3,
+    "count": 3,
+    "percent": 4,
     "types": [
       "Instant"
     ],
-    "supercent": 7,
-    "rank": 470,
-    "superrank": 410,
-    "identity_rank": 46
+    "supercent": 11,
+    "rank": 346,
+    "superrank": 299,
+    "identity_rank": 39
   },
   "Avacyn's Pilgrim": {
-    "img": "https://cards.scryfall.io/large/front/7/e/7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f.jpg?1782714726",
+    "img": "https://cards.scryfall.io/large/front/7/e/7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f.jpg?1783940925",
     "date": "2011-09-30",
     "colors": [
       "G"
@@ -1201,12 +1201,12 @@ const cards =
       "Creature"
     ],
     "supercent": 44,
-    "rank": 190,
+    "rank": 192,
     "superrank": 121,
     "identity_rank": 3
   },
   "Aven Interrupter": {
-    "img": "https://cards.scryfall.io/large/front/d/3/d3ca43a4-d194-440f-8099-f1fa103a108d.jpg?1782692151",
+    "img": "https://cards.scryfall.io/large/front/d/3/d3ca43a4-d194-440f-8099-f1fa103a108d.jpg?1783911861",
     "date": "2024-04-19",
     "colors": [
       "W"
@@ -1226,12 +1226,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 326,
+    "rank": 323,
     "superrank": 319,
     "identity_rank": 25
   },
   "Aven Mindcensor": {
-    "img": "https://cards.scryfall.io/large/front/7/6/76cf42b4-f767-48b7-b38c-b98306909f06.jpg?1782741934",
+    "img": "https://cards.scryfall.io/large/front/7/6/76cf42b4-f767-48b7-b38c-b98306909f06.jpg?1783927889",
     "date": "2007-05-04",
     "colors": [
       "W"
@@ -1252,11 +1252,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 251,
-    "superrank": 272,
+    "superrank": 271,
     "identity_rank": 18
   },
   "Axgard Cavalry": {
-    "img": "https://cards.scryfall.io/large/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1782705477",
+    "img": "https://cards.scryfall.io/large/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1783928236",
     "date": "2021-02-05",
     "colors": [
       "R"
@@ -1276,12 +1276,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 500,
-    "superrank": 494,
+    "rank": 499,
+    "superrank": 493,
     "identity_rank": 80
   },
   "Azorius Signet": {
-    "img": "https://cards.scryfall.io/large/front/e/7/e7e4da73-2faa-4992-8f61-e668ce82ba17.jpg?1782740882",
+    "img": "https://cards.scryfall.io/large/front/e/7/e7e4da73-2faa-4992-8f61-e668ce82ba17.jpg?1783926555",
     "date": "2006-05-05",
     "colors": [],
     "mana_cost": "{2}",
@@ -1298,12 +1298,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 8,
-    "rank": 545,
-    "superrank": 400,
+    "rank": 546,
+    "superrank": 401,
     "identity_rank": 8
   },
   "Badgermole Cub": {
-    "img": "https://cards.scryfall.io/large/front/b/e/be16c053-99e1-4921-8530-5135c989149d.jpg?1782684408",
+    "img": "https://cards.scryfall.io/large/front/b/e/be16c053-99e1-4921-8530-5135c989149d.jpg?1783904890",
     "date": "2025-11-21",
     "colors": [
       "G"
@@ -1328,7 +1328,7 @@ const cards =
     "identity_rank": 26
   },
   "Badlands": {
-    "img": "https://cards.scryfall.io/large/front/7/1/717f6d10-9144-4ade-9ac6-a481cc66b875.jpg?1782722889",
+    "img": "https://cards.scryfall.io/large/front/7/1/717f6d10-9144-4ade-9ac6-a481cc66b875.jpg?1783948660",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -1350,7 +1350,7 @@ const cards =
     "identity_rank": 1
   },
   "Balthor the Defiled": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed4cc273-adc3-4f46-9743-134b552d1d56.jpg?1782719249",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed4cc273-adc3-4f46-9743-134b552d1d56.jpg?1783945124",
     "date": "2002-05-27",
     "colors": [
       "B"
@@ -1371,12 +1371,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 411,
+    "rank": 413,
     "superrank": 455,
     "identity_rank": 55
   },
   "Banishing Knack": {
-    "img": "https://cards.scryfall.io/large/front/3/7/371a769a-ddae-47f6-b2c2-957de5c18417.jpg?1782716066",
+    "img": "https://cards.scryfall.io/large/front/3/7/371a769a-ddae-47f6-b2c2-957de5c18417.jpg?1783942692",
     "date": "2008-07-25",
     "colors": [
       "U"
@@ -1395,11 +1395,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 456,
-    "superrank": 554,
+    "superrank": 553,
     "identity_rank": 78
   },
   "Barbarian Ring": {
-    "img": "https://cards.scryfall.io/large/front/1/8/1809361e-ae1a-4c47-8464-e6496e94d962.jpg?1782719345",
+    "img": "https://cards.scryfall.io/large/front/1/8/1809361e-ae1a-4c47-8464-e6496e94d962.jpg?1783945200",
     "date": "2001-10-01",
     "colors": [],
     "mana_cost": "",
@@ -1415,12 +1415,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 673,
-    "superrank": 743,
+    "rank": 674,
+    "superrank": 744,
     "identity_rank": 113
   },
   "Barkform Harvester": {
-    "img": "https://cards.scryfall.io/large/front/f/7/f77049a6-0f22-415b-bc89-20bcb32accf6.jpg?1782690437",
+    "img": "https://cards.scryfall.io/large/front/f/7/f77049a6-0f22-415b-bc89-20bcb32accf6.jpg?1783910787",
     "date": "2024-08-02",
     "colors": [],
     "mana_cost": "{3}",
@@ -1437,12 +1437,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 356,
-    "superrank": 565,
+    "rank": 358,
+    "superrank": 564,
     "identity_rank": 68
   },
   "Baron Helmut Zemo": {
-    "img": "https://cards.scryfall.io/large/front/c/2/c2aadc25-7755-4bc8-a8af-b01d27eec364.jpg?1782681839",
+    "img": "https://cards.scryfall.io/large/front/c/2/c2aadc25-7755-4bc8-a8af-b01d27eec364.jpg?1783902947",
     "date": "2026-06-26",
     "colors": [
       "B"
@@ -1463,12 +1463,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 747,
-    "superrank": 788,
-    "identity_rank": 111
+    "rank": 748,
+    "superrank": 789,
+    "identity_rank": 112
   },
   "Barrenton Medic": {
-    "img": "https://cards.scryfall.io/large/front/8/8/8888e0aa-3682-4800-9c50-fff5d5c9547d.jpg?1782716197",
+    "img": "https://cards.scryfall.io/large/front/8/8/8888e0aa-3682-4800-9c50-fff5d5c9547d.jpg?1783942770",
     "date": "2008-05-02",
     "colors": [
       "W"
@@ -1488,12 +1488,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 847,
-    "superrank": 858,
+    "rank": 849,
+    "superrank": 860,
     "identity_rank": 83
   },
   "Bartolom\u00e9 del Presidio": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f82bb486-7009-4b53-973f-477fc13ad7e7.jpg?1782694373",
+    "img": "https://cards.scryfall.io/large/front/f/8/f82bb486-7009-4b53-973f-477fc13ad7e7.jpg?1783913707",
     "date": "2023-11-17",
     "colors": [
       "B",
@@ -1516,12 +1516,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 853,
-    "superrank": 627,
+    "rank": 855,
+    "superrank": 628,
     "identity_rank": 10
   },
   "Basalt Monolith": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff27694e-0381-4ac9-ba20-d631d468f275.jpg?1782729375",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff27694e-0381-4ac9-ba20-d631d468f275.jpg?1783910555",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "{3}",
@@ -1535,12 +1535,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 9,
-    "rank": 234,
-    "superrank": 347,
-    "identity_rank": 49
+    "rank": 233,
+    "superrank": 346,
+    "identity_rank": 48
   },
   "Basking Broodscale": {
-    "img": "https://cards.scryfall.io/large/front/5/f/5feba5d6-99a6-4e9b-8a7d-90d955868fc3.jpg?1782691272",
+    "img": "https://cards.scryfall.io/large/front/5/f/5feba5d6-99a6-4e9b-8a7d-90d955868fc3.jpg?1783911263",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{1}{G}",
@@ -1558,12 +1558,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 848,
-    "superrank": 683,
+    "rank": 850,
+    "superrank": 684,
     "identity_rank": 82
   },
   "Battered Golem": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f69add35-c529-4b30-8e64-f09b8308432f.jpg?1782718298",
+    "img": "https://cards.scryfall.io/large/front/f/6/f69add35-c529-4b30-8e64-f09b8308432f.jpg?1783944386",
     "date": "2004-06-04",
     "colors": [],
     "mana_cost": "{3}",
@@ -1580,12 +1580,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 311,
+    "rank": 308,
     "superrank": 437,
     "identity_rank": 57
   },
   "Battlefield Forge": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a9c25e71-0140-48fe-8b9e-33b4b50c5c12.jpg?1782719460",
+    "img": "https://cards.scryfall.io/large/front/a/9/a9c25e71-0140-48fe-8b9e-33b4b50c5c12.jpg?1783945323",
     "date": "2001-06-04",
     "colors": [],
     "mana_cost": "",
@@ -1602,12 +1602,12 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 593,
+    "rank": 594,
     "superrank": 334,
     "identity_rank": 5
   },
   "Bayou": {
-    "img": "https://cards.scryfall.io/large/front/4/1/412ceddd-2b9a-4551-a6bf-ae2830a2010a.jpg?1782722888",
+    "img": "https://cards.scryfall.io/large/front/4/1/412ceddd-2b9a-4551-a6bf-ae2830a2010a.jpg?1783948660",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -1624,12 +1624,12 @@ const cards =
       "Land"
     ],
     "supercent": 100,
-    "rank": 87,
+    "rank": 88,
     "superrank": 2,
     "identity_rank": 1
   },
   "Bazaar of Baghdad": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff37b863-f8c4-4584-8cc2-ac0e096e583f.jpg?1782722579",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff37b863-f8c4-4584-8cc2-ac0e096e583f.jpg?1783948377",
     "date": "1993-12-17",
     "colors": [],
     "mana_cost": "",
@@ -1644,11 +1644,11 @@ const cards =
     ],
     "supercent": 3,
     "rank": 537,
-    "superrank": 671,
+    "superrank": 672,
     "identity_rank": 109
   },
   "Beseech the Mirror": {
-    "img": "https://cards.scryfall.io/large/front/5/d/5df3d7fa-2b43-4b9e-85eb-ef96537942fb.jpg?1782696410",
+    "img": "https://cards.scryfall.io/large/front/5/d/5df3d7fa-2b43-4b9e-85eb-ef96537942fb.jpg?1783915036",
     "date": "2023-09-08",
     "colors": [
       "B"
@@ -1671,7 +1671,7 @@ const cards =
     "identity_rank": 13
   },
   "Beseech the Queen": {
-    "img": "https://cards.scryfall.io/large/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1782716174",
+    "img": "https://cards.scryfall.io/large/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1783942757",
     "date": "2008-05-02",
     "colors": [
       "B"
@@ -1689,12 +1689,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 412,
+    "rank": 414,
     "superrank": 456,
     "identity_rank": 56
   },
   "Bile Blight": {
-    "img": "https://cards.scryfall.io/large/front/3/c/3ca11057-e50a-4817-924a-5bb504d0780f.jpg?1782713522",
+    "img": "https://cards.scryfall.io/large/front/3/c/3ca11057-e50a-4817-924a-5bb504d0780f.jpg?1783939561",
     "date": "2014-02-07",
     "colors": [
       "B"
@@ -1712,12 +1712,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 748,
-    "superrank": 789,
-    "identity_rank": 112
+    "rank": 749,
+    "superrank": 790,
+    "identity_rank": 113
   },
   "Biomancer's Familiar": {
-    "img": "https://cards.scryfall.io/large/front/d/3/d38c9891-36d1-4565-9c4a-1cd9dbf8c048.jpg?1782708852",
+    "img": "https://cards.scryfall.io/large/front/d/3/d38c9891-36d1-4565-9c4a-1cd9dbf8c048.jpg?1783933657",
     "date": "2019-01-25",
     "colors": [
       "G",
@@ -1739,12 +1739,12 @@ const cards =
       "Creature"
     ],
     "supercent": 17,
-    "rank": 354,
+    "rank": 356,
     "superrank": 232,
     "identity_rank": 5
   },
   "Biophagus": {
-    "img": "https://cards.scryfall.io/large/front/c/f/cfd188ec-5e63-414e-a949-20a0daa82690.jpg?1783365464",
+    "img": "https://cards.scryfall.io/large/front/c/f/cfd188ec-5e63-414e-a949-20a0daa82690.jpg?1783920882",
     "date": "2022-10-07",
     "colors": [
       "G"
@@ -1764,12 +1764,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 767,
-    "superrank": 674,
+    "rank": 769,
+    "superrank": 675,
     "identity_rank": 79
   },
   "Birds of Paradise": {
-    "img": "https://cards.scryfall.io/large/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1782722931",
+    "img": "https://cards.scryfall.io/large/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679",
     "date": "1993-08-05",
     "colors": [
       "G"
@@ -1794,7 +1794,7 @@ const cards =
     "identity_rank": 1
   },
   "Birgi, God of Storytelling": {
-    "img": "https://cards.scryfall.io/large/front/5/4/54dccbc0-528c-4e99-a6db-f2373978fe5f.jpg?1782705363",
+    "img": "https://cards.scryfall.io/large/front/5/4/54dccbc0-528c-4e99-a6db-f2373978fe5f.jpg?1783928155",
     "date": "2021-02-05",
     "cmc": 3,
     "type_line": "Legendary Creature \u2014 God // Legendary Artifact",
@@ -1809,12 +1809,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 999,
-    "superrank": 999,
-    "identity_rank": 159
+    "rank": 1000,
+    "superrank": 1000,
+    "identity_rank": 160
   },
   "Birthing Pod": {
-    "img": "https://cards.scryfall.io/large/front/8/6/86c499a6-1f5e-4f13-8d7d-bc7ca65910eb.jpg?1782723343",
+    "img": "https://cards.scryfall.io/large/front/8/6/86c499a6-1f5e-4f13-8d7d-bc7ca65910eb.jpg?1783903467",
     "date": "2011-05-13",
     "colors": [
       "G"
@@ -1837,7 +1837,7 @@ const cards =
     "identity_rank": 27
   },
   "Birthing Ritual": {
-    "img": "https://cards.scryfall.io/large/front/4/8/4820d223-4ea1-4850-931c-3d2ab5eb003b.jpg?1782691272",
+    "img": "https://cards.scryfall.io/large/front/4/8/4820d223-4ea1-4850-931c-3d2ab5eb003b.jpg?1783911264",
     "date": "2024-06-14",
     "colors": [
       "G"
@@ -1855,12 +1855,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 710,
-    "superrank": 662,
+    "rank": 711,
+    "superrank": 663,
     "identity_rank": 74
   },
   "Bitter Triumph": {
-    "img": "https://cards.scryfall.io/large/front/0/5/05bdd22c-3e11-4c29-bdfa-d3dfc0e90a9f.jpg?1782694538",
+    "img": "https://cards.scryfall.io/large/front/0/5/05bdd22c-3e11-4c29-bdfa-d3dfc0e90a9f.jpg?1783913783",
     "date": "2023-11-17",
     "colors": [
       "B"
@@ -1878,12 +1878,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 526,
-    "superrank": 587,
-    "identity_rank": 78
+    "rank": 525,
+    "superrank": 586,
+    "identity_rank": 77
   },
   "Blackcleave Cliffs": {
-    "img": "https://cards.scryfall.io/large/front/3/d/3d71be5f-0fd7-4a88-8041-f4d6bc4cc9ac.jpg?1782715266",
+    "img": "https://cards.scryfall.io/large/front/3/d/3d71be5f-0fd7-4a88-8041-f4d6bc4cc9ac.jpg?1783941689",
     "date": "2010-10-01",
     "colors": [],
     "mana_cost": "",
@@ -1900,12 +1900,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 939,
-    "superrank": 634,
+    "rank": 940,
+    "superrank": 635,
     "identity_rank": 11
   },
   "Blade Historian": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ecc2a3aa-bc1b-4a57-915c-36c35ae9d92a.jpg?1782704796",
+    "img": "https://cards.scryfall.io/large/front/e/c/ecc2a3aa-bc1b-4a57-915c-36c35ae9d92a.jpg?1783927235",
     "date": "2021-04-23",
     "colors": [
       "R",
@@ -1927,12 +1927,12 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 594,
+    "rank": 595,
     "superrank": 335,
     "identity_rank": 6
   },
   "Blast Zone": {
-    "img": "https://cards.scryfall.io/large/front/e/a/ea6bc7d5-e8f6-4103-920c-9f7ec5cd6c28.jpg?1782708584",
+    "img": "https://cards.scryfall.io/large/front/e/a/ea6bc7d5-e8f6-4103-920c-9f7ec5cd6c28.jpg?1783933369",
     "date": "2019-05-03",
     "colors": [],
     "mana_cost": "",
@@ -1946,12 +1946,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 527,
-    "superrank": 667,
+    "rank": 526,
+    "superrank": 668,
     "identity_rank": 105
   },
   "Blind Obedience": {
-    "img": "https://cards.scryfall.io/large/front/f/1/f16b8b1b-2b6a-4246-aded-e747ce379b82.jpg?1782730994",
+    "img": "https://cards.scryfall.io/large/front/f/1/f16b8b1b-2b6a-4246-aded-e747ce379b82.jpg?1783913245",
     "date": "2013-02-01",
     "colors": [
       "W"
@@ -1969,12 +1969,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 16,
-    "rank": 237,
-    "superrank": 242,
+    "rank": 236,
+    "superrank": 241,
     "identity_rank": 16
   },
   "Blinkmoth Nexus": {
-    "img": "https://cards.scryfall.io/large/front/b/f/bf51c665-7823-4d6a-b1da-8c2d93dae10b.jpg?1782718348",
+    "img": "https://cards.scryfall.io/large/front/b/f/bf51c665-7823-4d6a-b1da-8c2d93dae10b.jpg?1783944413",
     "date": "2004-02-06",
     "colors": [],
     "mana_cost": "",
@@ -1989,11 +1989,11 @@ const cards =
     ],
     "supercent": 3,
     "rank": 538,
-    "superrank": 672,
+    "superrank": 673,
     "identity_rank": 110
   },
   "Blood Artist": {
-    "img": "https://cards.scryfall.io/large/front/7/7/7752646a-463d-4fdd-8754-e41ef8107108.jpg?1782726578",
+    "img": "https://cards.scryfall.io/large/front/7/7/7752646a-463d-4fdd-8754-e41ef8107108.jpg?1783908017",
     "date": "2012-05-04",
     "colors": [
       "B"
@@ -2013,12 +2013,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 616,
-    "superrank": 713,
-    "identity_rank": 94
+    "rank": 617,
+    "superrank": 714,
+    "identity_rank": 95
   },
   "Blood Celebrant": {
-    "img": "https://cards.scryfall.io/large/front/8/0/805de325-6f14-4a52-bb85-f9a9545d82a4.jpg?1782719048",
+    "img": "https://cards.scryfall.io/large/front/8/0/805de325-6f14-4a52-bb85-f9a9545d82a4.jpg?1783944916",
     "date": "2003-02-03",
     "colors": [
       "B"
@@ -2038,12 +2038,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 413,
+    "rank": 415,
     "superrank": 457,
     "identity_rank": 57
   },
   "Blood Crypt": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0a4abd89-28d2-4458-81d7-4f3b43fd0184.jpg?1782730862",
+    "img": "https://cards.scryfall.io/large/front/0/a/0a4abd89-28d2-4458-81d7-4f3b43fd0184.jpg?1783913185",
     "date": "2006-05-05",
     "colors": [],
     "mana_cost": "",
@@ -2060,12 +2060,12 @@ const cards =
       "Land"
     ],
     "supercent": 47,
-    "rank": 150,
-    "superrank": 113,
+    "rank": 148,
+    "superrank": 114,
     "identity_rank": 2
   },
   "Blood Pet": {
-    "img": "https://cards.scryfall.io/large/front/5/a/5a89ba1b-e68b-4d70-a25e-27be9bf48a3b.jpg?1782720966",
+    "img": "https://cards.scryfall.io/large/front/5/a/5a89ba1b-e68b-4d70-a25e-27be9bf48a3b.jpg?1783946645",
     "date": "1997-10-14",
     "colors": [
       "B"
@@ -2090,7 +2090,7 @@ const cards =
     "identity_rank": 39
   },
   "Bloodchief Ascension": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aa213dbb-c52a-4084-92aa-d0b5d97a97d9.jpg?1782715655",
+    "img": "https://cards.scryfall.io/large/front/a/a/aa213dbb-c52a-4084-92aa-d0b5d97a97d9.jpg?1783942156",
     "date": "2009-10-02",
     "colors": [
       "B"
@@ -2108,12 +2108,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 4,
-    "rank": 482,
-    "superrank": 557,
-    "identity_rank": 74
+    "rank": 481,
+    "superrank": 556,
+    "identity_rank": 73
   },
   "Bloodfire Dwarf": {
-    "img": "https://cards.scryfall.io/large/front/8/6/86b5c38e-7d74-4862-8187-f5db4a3d1e0f.jpg?1782719496",
+    "img": "https://cards.scryfall.io/large/front/8/6/86b5c38e-7d74-4862-8187-f5db4a3d1e0f.jpg?1783945345",
     "date": "2001-06-04",
     "colors": [
       "R"
@@ -2133,12 +2133,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 357,
-    "superrank": 373,
-    "identity_rank": 44
+    "rank": 359,
+    "superrank": 374,
+    "identity_rank": 45
   },
   "Bloodline Necromancer": {
-    "img": "https://cards.scryfall.io/large/front/4/2/42bffd03-3821-4b0f-9535-2eb455154587.jpg?1782710682",
+    "img": "https://cards.scryfall.io/large/front/4/2/42bffd03-3821-4b0f-9535-2eb455154587.jpg?1783935946",
     "date": "2017-08-25",
     "colors": [
       "B"
@@ -2158,12 +2158,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 874,
-    "superrank": 868,
-    "identity_rank": 139
+    "rank": 876,
+    "superrank": 870,
+    "identity_rank": 141
   },
   "Bloodstained Mire": {
-    "img": "https://cards.scryfall.io/large/front/6/8/68c72226-6f52-4322-8b14-18737293dfa0.jpg?1782719087",
+    "img": "https://cards.scryfall.io/large/front/6/8/68c72226-6f52-4322-8b14-18737293dfa0.jpg?1783945030",
     "date": "2002-10-07",
     "colors": [],
     "mana_cost": "",
@@ -2182,7 +2182,7 @@ const cards =
     "identity_rank": 18
   },
   "Bloom Tender": {
-    "img": "https://cards.scryfall.io/large/front/d/7/d7cc2828-dfe7-410b-9735-10bb7211f0f5.jpg?1782716044",
+    "img": "https://cards.scryfall.io/large/front/d/7/d7cc2828-dfe7-410b-9735-10bb7211f0f5.jpg?1783942680",
     "date": "2008-07-25",
     "colors": [
       "G"
@@ -2207,7 +2207,7 @@ const cards =
     "identity_rank": 22
   },
   "Body Snatcher": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c7d4c858-5a11-485d-a514-12a6d80459f0.jpg?1782720392",
+    "img": "https://cards.scryfall.io/large/front/c/7/c7d4c858-5a11-485d-a514-12a6d80459f0.jpg?1783946075",
     "date": "1999-06-07",
     "colors": [
       "B"
@@ -2228,11 +2228,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 453,
-    "superrank": 551,
-    "identity_rank": 72
+    "superrank": 550,
+    "identity_rank": 71
   },
   "Boggart Trawler": {
-    "img": "https://cards.scryfall.io/large/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1782691167",
+    "img": "https://cards.scryfall.io/large/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
     "date": "2024-06-14",
     "cmc": 3,
     "type_line": "Creature \u2014 Goblin // Land",
@@ -2246,12 +2246,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1016,
-    "superrank": 1016,
-    "identity_rank": 151
+    "rank": 1017,
+    "superrank": 1017,
+    "identity_rank": 152
   },
   "Bolas's Citadel": {
-    "img": "https://cards.scryfall.io/large/front/d/2/d2124603-d20e-40eb-97f0-a66323397ac2.jpg?1782708710",
+    "img": "https://cards.scryfall.io/large/front/d/2/d2124603-d20e-40eb-97f0-a66323397ac2.jpg?1783933451",
     "date": "2019-05-03",
     "colors": [
       "B"
@@ -2263,19 +2263,19 @@ const cards =
       "B"
     ],
     "name": "Bolas's Citadel",
-    "count": 7,
-    "percent": 10,
+    "count": 6,
+    "percent": 9,
     "types": [
       "Legendary",
       "Artifact"
     ],
-    "supercent": 16,
-    "rank": 194,
-    "superrank": 234,
-    "identity_rank": 27
+    "supercent": 13,
+    "rank": 214,
+    "superrank": 266,
+    "identity_rank": 28
   },
   "Bolt Bend": {
-    "img": "https://cards.scryfall.io/large/front/3/9/39b35408-3728-4e1b-9f58-b0775df914d6.jpg?1782708682",
+    "img": "https://cards.scryfall.io/large/front/3/9/39b35408-3728-4e1b-9f58-b0775df914d6.jpg?1783933434",
     "date": "2019-05-03",
     "colors": [
       "R"
@@ -2293,12 +2293,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 840,
-    "superrank": 854,
+    "rank": 842,
+    "superrank": 856,
     "identity_rank": 121
   },
   "Boreal Druid": {
-    "img": "https://cards.scryfall.io/large/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1782717032",
+    "img": "https://cards.scryfall.io/large/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1783943332",
     "date": "2006-07-21",
     "colors": [
       "G"
@@ -2319,12 +2319,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 898,
-    "superrank": 696,
+    "rank": 899,
+    "superrank": 697,
     "identity_rank": 92
   },
   "Borne Upon a Wind": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a9379675-1a32-4e2b-8aaf-5f908c595f31.jpg?1782697226",
+    "img": "https://cards.scryfall.io/large/front/a/9/a9379675-1a32-4e2b-8aaf-5f908c595f31.jpg?1783916321",
     "date": "2023-06-23",
     "colors": [
       "U"
@@ -2342,12 +2342,12 @@ const cards =
       "Instant"
     ],
     "supercent": 72,
-    "rank": 48,
-    "superrank": 61,
+    "rank": 47,
+    "superrank": 60,
     "identity_rank": 13
   },
   "Boromir, Warden of the Tower": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1782697254",
+    "img": "https://cards.scryfall.io/large/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
     "date": "2023-06-23",
     "colors": [
       "W"
@@ -2368,12 +2368,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 512,
-    "superrank": 501,
+    "rank": 511,
+    "superrank": 500,
     "identity_rank": 39
   },
   "Boseiju, Who Endures": {
-    "img": "https://cards.scryfall.io/large/front/2/4/2488a80b-6882-4b59-8232-f02f800204a9.jpg?1782701988",
+    "img": "https://cards.scryfall.io/large/front/2/4/2488a80b-6882-4b59-8232-f02f800204a9.jpg?1783923725",
     "date": "2022-02-18",
     "colors": [],
     "mana_cost": "",
@@ -2395,7 +2395,7 @@ const cards =
     "identity_rank": 2
   },
   "Bottle-Cap Blast": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8bdceec0-0950-4d52-86fc-d0f04e8487ce.jpg?1782693351",
+    "img": "https://cards.scryfall.io/large/front/8/b/8bdceec0-0950-4d52-86fc-d0f04e8487ce.jpg?1783912404",
     "date": "2024-03-08",
     "colors": [
       "R"
@@ -2413,12 +2413,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 358,
-    "superrank": 374,
-    "identity_rank": 45
+    "rank": 360,
+    "superrank": 375,
+    "identity_rank": 46
   },
   "Bountiful Promenade": {
-    "img": "https://cards.scryfall.io/large/front/2/1/21865ed6-5edd-41f4-9ae0-f501872d91dc.jpg?1782709984",
+    "img": "https://cards.scryfall.io/large/front/2/1/21865ed6-5edd-41f4-9ae0-f501872d91dc.jpg?1783934849",
     "date": "2018-06-08",
     "colors": [],
     "mana_cost": "",
@@ -2435,12 +2435,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 711,
-    "superrank": 507,
+    "rank": 712,
+    "superrank": 506,
     "identity_rank": 11
   },
   "Bovine Intervention": {
-    "img": "https://cards.scryfall.io/large/front/2/6/26c36742-456f-4618-99bc-793ef20b31b0.jpg?1782692149",
+    "img": "https://cards.scryfall.io/large/front/2/6/26c36742-456f-4618-99bc-793ef20b31b0.jpg?1783911860",
     "date": "2024-04-19",
     "colors": [
       "W"
@@ -2458,12 +2458,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 983,
-    "superrank": 933,
+    "rank": 984,
+    "superrank": 934,
     "identity_rank": 98
   },
   "Braids, Arisen Nightmare": {
-    "img": "https://cards.scryfall.io/large/front/f/2/f2559ff7-a97c-40c6-942f-36998eafb050.jpg?1782700378",
+    "img": "https://cards.scryfall.io/large/front/f/2/f2559ff7-a97c-40c6-942f-36998eafb050.jpg?1783921240",
     "date": "2022-09-09",
     "colors": [
       "B"
@@ -2484,12 +2484,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 404,
+    "rank": 406,
     "superrank": 451,
     "identity_rank": 52
   },
   "Brain Freeze": {
-    "img": "https://cards.scryfall.io/large/front/5/9/59a43ef5-08f0-44fc-802d-b6cfd56b7d1f.jpg?1782719001",
+    "img": "https://cards.scryfall.io/large/front/5/9/59a43ef5-08f0-44fc-802d-b6cfd56b7d1f.jpg?1783944889",
     "date": "2003-05-26",
     "colors": [
       "U"
@@ -2512,7 +2512,7 @@ const cards =
     "identity_rank": 20
   },
   "Brainstorm": {
-    "img": "https://cards.scryfall.io/large/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1782721740",
+    "img": "https://cards.scryfall.io/large/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1783947518",
     "date": "1995-06-03",
     "colors": [
       "U"
@@ -2531,11 +2531,11 @@ const cards =
     ],
     "supercent": 16,
     "rank": 212,
-    "superrank": 244,
+    "superrank": 243,
     "identity_rank": 46
   },
   "Breath of Fury": {
-    "img": "https://cards.scryfall.io/large/front/7/6/76b4f5b1-9a5f-442b-9990-4c0d654df6f0.jpg?1782723344",
+    "img": "https://cards.scryfall.io/large/front/7/6/76b4f5b1-9a5f-442b-9990-4c0d654df6f0.jpg?1783903468",
     "date": "2005-10-07",
     "colors": [
       "R"
@@ -2553,12 +2553,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 975,
-    "superrank": 927,
-    "identity_rank": 151
+    "rank": 976,
+    "superrank": 928,
+    "identity_rank": 152
   },
   "Breeding Pool": {
-    "img": "https://cards.scryfall.io/large/front/f/9/f920e32c-8a4b-4152-be3a-02810f3e5f13.jpg?1782730859",
+    "img": "https://cards.scryfall.io/large/front/f/9/f920e32c-8a4b-4152-be3a-02810f3e5f13.jpg?1783913185",
     "date": "2006-05-05",
     "colors": [],
     "mana_cost": "",
@@ -2575,12 +2575,12 @@ const cards =
       "Land"
     ],
     "supercent": 58,
-    "rank": 152,
+    "rank": 150,
     "superrank": 86,
     "identity_rank": 2
   },
   "Breena, the Demagogue": {
-    "img": "https://cards.scryfall.io/large/front/7/c/7c4cb151-432e-4652-9ebd-b4640cc04c3b.jpg?1782705109",
+    "img": "https://cards.scryfall.io/large/front/7/c/7c4cb151-432e-4652-9ebd-b4640cc04c3b.jpg?1783927480",
     "date": "2021-04-23",
     "colors": [
       "B",
@@ -2603,12 +2603,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 854,
-    "superrank": 628,
+    "rank": 856,
+    "superrank": 629,
     "identity_rank": 11
   },
   "Bribery": {
-    "img": "https://cards.scryfall.io/large/front/d/f/dfc0ea8a-62f6-49e8-8eec-9748870bc596.jpg?1782720341",
+    "img": "https://cards.scryfall.io/large/front/d/f/dfc0ea8a-62f6-49e8-8eec-9748870bc596.jpg?1783945970",
     "date": "1999-10-04",
     "colors": [
       "U"
@@ -2626,12 +2626,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 790,
-    "superrank": 815,
+    "rank": 792,
+    "superrank": 817,
     "identity_rank": 125
   },
   "Brightglass Gearhulk": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c0e29a88-34b6-4c3d-9956-b7eb8d5ef591.jpg?1782687555",
+    "img": "https://cards.scryfall.io/large/front/c/0/c0e29a88-34b6-4c3d-9956-b7eb8d5ef591.jpg?1783907776",
     "date": "2025-02-14",
     "colors": [
       "G",
@@ -2654,12 +2654,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 623,
-    "superrank": 479,
+    "rank": 624,
+    "superrank": 478,
     "identity_rank": 9
   },
   "Brushland": {
-    "img": "https://cards.scryfall.io/large/front/1/7/170e5ccd-54bf-4c6d-86b4-0359ca8f36e8.jpg?1782721617",
+    "img": "https://cards.scryfall.io/large/front/1/7/170e5ccd-54bf-4c6d-86b4-0359ca8f36e8.jpg?1783947453",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -2676,12 +2676,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 712,
-    "superrank": 508,
+    "rank": 713,
+    "superrank": 507,
     "identity_rank": 12
   },
   "Buried Alive": {
-    "img": "https://cards.scryfall.io/large/front/5/6/56b92eb5-72b0-46b4-8b16-8a7a7ac80f56.jpg?1782721052",
+    "img": "https://cards.scryfall.io/large/front/5/6/56b92eb5-72b0-46b4-8b16-8a7a7ac80f56.jpg?1783946736",
     "date": "1997-06-09",
     "colors": [
       "B"
@@ -2699,12 +2699,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 9,
-    "rank": 325,
-    "superrank": 351,
-    "identity_rank": 43
+    "rank": 322,
+    "superrank": 350,
+    "identity_rank": 42
   },
   "Burnt Offering": {
-    "img": "https://cards.scryfall.io/large/front/1/d/1dae52a2-3af7-4b97-9d2e-2448b7c413fb.jpg?1782721713",
+    "img": "https://cards.scryfall.io/large/front/1/d/1dae52a2-3af7-4b97-9d2e-2448b7c413fb.jpg?1783947505",
     "date": "1995-06-03",
     "colors": [
       "B"
@@ -2723,12 +2723,12 @@ const cards =
       "Instant"
     ],
     "supercent": 19,
-    "rank": 291,
-    "superrank": 208,
+    "rank": 290,
+    "superrank": 209,
     "identity_rank": 5
   },
   "Cabal Pit": {
-    "img": "https://cards.scryfall.io/large/front/8/4/848d686a-e2f7-488d-947f-a555099b74b1.jpg?1782719344",
+    "img": "https://cards.scryfall.io/large/front/8/4/848d686a-e2f7-488d-947f-a555099b74b1.jpg?1783945200",
     "date": "2001-10-01",
     "colors": [],
     "mana_cost": "",
@@ -2744,12 +2744,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 489,
-    "superrank": 563,
-    "identity_rank": 76
+    "rank": 488,
+    "superrank": 562,
+    "identity_rank": 75
   },
   "Cabal Ritual": {
-    "img": "https://cards.scryfall.io/large/front/b/8/b8a8df5d-9582-4797-ae26-f64668972a1b.jpg?1782729406",
+    "img": "https://cards.scryfall.io/large/front/b/8/b8a8df5d-9582-4797-ae26-f64668972a1b.jpg?1783910565",
     "date": "2002-02-04",
     "colors": [
       "B"
@@ -2772,7 +2772,7 @@ const cards =
     "identity_rank": 9
   },
   "Cabal Therapy": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0a5df970-c6ba-4824-b8ba-67244aec2b82.jpg?1782719248",
+    "img": "https://cards.scryfall.io/large/front/0/a/0a5df970-c6ba-4824-b8ba-67244aec2b82.jpg?1783945124",
     "date": "2002-05-27",
     "colors": [
       "B"
@@ -2790,12 +2790,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 617,
-    "superrank": 714,
-    "identity_rank": 95
+    "rank": 618,
+    "superrank": 715,
+    "identity_rank": 96
   },
   "Candelabra of Tawnos": {
-    "img": "https://cards.scryfall.io/large/front/3/5/35a335bf-7358-460f-b7c9-1e8bc4300f64.jpg?1782722559",
+    "img": "https://cards.scryfall.io/large/front/3/5/35a335bf-7358-460f-b7c9-1e8bc4300f64.jpg?1783948364",
     "date": "1994-03-04",
     "colors": [],
     "mana_cost": "{1}",
@@ -2809,12 +2809,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 679,
-    "superrank": 953,
+    "rank": 680,
+    "superrank": 954,
     "identity_rank": 131
   },
   "Carpet of Flowers": {
-    "img": "https://cards.scryfall.io/large/front/9/3/93abb48a-85f2-432d-8602-0a1d17fbb409.jpg?1782720656",
+    "img": "https://cards.scryfall.io/large/front/9/3/93abb48a-85f2-432d-8602-0a1d17fbb409.jpg?1783946318",
     "date": "1998-10-12",
     "colors": [
       "G"
@@ -2837,7 +2837,7 @@ const cards =
     "identity_rank": 13
   },
   "Carrion Feeder": {
-    "img": "https://cards.scryfall.io/large/front/8/8/88042031-64af-4f84-85d5-95992b43aa6c.jpg?1782718989",
+    "img": "https://cards.scryfall.io/large/front/8/8/88042031-64af-4f84-85d5-95992b43aa6c.jpg?1783944881",
     "date": "2003-05-26",
     "colors": [
       "B"
@@ -2862,7 +2862,7 @@ const cards =
     "identity_rank": 47
   },
   "Cauldron Familiar": {
-    "img": "https://cards.scryfall.io/large/front/9/a/9a539a23-8383-4525-82dd-acfe1d219fe9.jpg?1782707881",
+    "img": "https://cards.scryfall.io/large/front/9/a/9a539a23-8383-4525-82dd-acfe1d219fe9.jpg?1783932642",
     "date": "2019-10-04",
     "colors": [
       "B"
@@ -2882,12 +2882,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 686,
-    "superrank": 751,
-    "identity_rank": 103
+    "rank": 687,
+    "superrank": 752,
+    "identity_rank": 104
   },
   "Cavern of Souls": {
-    "img": "https://cards.scryfall.io/large/front/1/3/1381c8f1-a292-4bdf-b20c-a5c2a169ee84.jpg?1782714423",
+    "img": "https://cards.scryfall.io/large/front/1/3/1381c8f1-a292-4bdf-b20c-a5c2a169ee84.jpg?1783940649",
     "date": "2012-05-04",
     "colors": [],
     "mana_cost": "",
@@ -2906,7 +2906,7 @@ const cards =
     "identity_rank": 31
   },
   "Caves of Chaos Adventurer": {
-    "img": "https://cards.scryfall.io/large/front/5/e/5eb5d440-8f2c-4b21-8fdb-fd40e5710475.jpg?1782700984",
+    "img": "https://cards.scryfall.io/large/front/5/e/5eb5d440-8f2c-4b21-8fdb-fd40e5710475.jpg?1783922559",
     "date": "2022-06-10",
     "colors": [
       "R"
@@ -2926,12 +2926,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 976,
-    "superrank": 928,
-    "identity_rank": 152
+    "rank": 977,
+    "superrank": 929,
+    "identity_rank": 153
   },
   "Centaur Garden": {
-    "img": "https://cards.scryfall.io/large/front/c/a/ca041d5e-c65f-4e7e-ae4f-9c748a069aa3.jpg?1782719343",
+    "img": "https://cards.scryfall.io/large/front/c/a/ca041d5e-c65f-4e7e-ae4f-9c748a069aa3.jpg?1783945199",
     "date": "2001-10-01",
     "colors": [],
     "mana_cost": "",
@@ -2947,12 +2947,12 @@ const cards =
       "Land"
     ],
     "supercent": 7,
-    "rank": 570,
-    "superrank": 427,
+    "rank": 571,
+    "superrank": 426,
     "identity_rank": 58
   },
   "Cephalid Coliseum": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d5d74112-7244-4c3f-a5eb-b6be671aefe8.jpg?1782719343",
+    "img": "https://cards.scryfall.io/large/front/d/5/d5d74112-7244-4c3f-a5eb-b6be671aefe8.jpg?1783945199",
     "date": "2001-10-01",
     "colors": [],
     "mana_cost": "",
@@ -2973,7 +2973,7 @@ const cards =
     "identity_rank": 57
   },
   "Chain Stasis": {
-    "img": "https://cards.scryfall.io/large/front/f/1/f14f0c52-67c2-4302-82bd-fbb4e3c6d4f4.jpg?1782721594",
+    "img": "https://cards.scryfall.io/large/front/f/1/f14f0c52-67c2-4302-82bd-fbb4e3c6d4f4.jpg?1783947298",
     "date": "1995-10-01",
     "colors": [
       "U"
@@ -2991,12 +2991,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 836,
-    "superrank": 850,
+    "rank": 838,
+    "superrank": 852,
     "identity_rank": 144
   },
   "Chain of Smog": {
-    "img": "https://cards.scryfall.io/large/front/6/b/6bfe64f9-8b03-41f6-a47b-fade397ad9d1.jpg?1782719161",
+    "img": "https://cards.scryfall.io/large/front/6/b/6bfe64f9-8b03-41f6-a47b-fade397ad9d1.jpg?1783945072",
     "date": "2002-10-07",
     "colors": [
       "B"
@@ -3014,12 +3014,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 944,
-    "superrank": 915,
-    "identity_rank": 146
+    "rank": 945,
+    "superrank": 916,
+    "identity_rank": 147
   },
   "Chain of Vapor": {
-    "img": "https://cards.scryfall.io/large/front/c/a/ca7d8d4a-76bb-473b-80a4-d4c1a2f435bc.jpg?1782729422",
+    "img": "https://cards.scryfall.io/large/front/c/a/ca7d8d4a-76bb-473b-80a4-d4c1a2f435bc.jpg?1783910570",
     "date": "2002-10-07",
     "colors": [
       "U"
@@ -3042,7 +3042,7 @@ const cards =
     "identity_rank": 15
   },
   "Chainer, Dementia Master": {
-    "img": "https://cards.scryfall.io/large/front/4/0/40342b11-1005-4ccc-bef4-9ea4c640b048.jpg?1782719307",
+    "img": "https://cards.scryfall.io/large/front/4/0/40342b11-1005-4ccc-bef4-9ea4c640b048.jpg?1783945158",
     "date": "2002-02-04",
     "colors": [
       "B"
@@ -3063,12 +3063,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 528,
-    "superrank": 588,
-    "identity_rank": 79
+    "rank": 527,
+    "superrank": 587,
+    "identity_rank": 78
   },
   "Chains of Mephistopheles": {
-    "img": "https://cards.scryfall.io/large/front/2/b/2bb0e884-5bb4-41f3-b04b-6f638357c166.jpg?1782722342",
+    "img": "https://cards.scryfall.io/large/front/2/b/2bb0e884-5bb4-41f3-b04b-6f638357c166.jpg?1783948068",
     "date": "1994-06-01",
     "colors": [
       "B"
@@ -3086,12 +3086,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 899,
-    "superrank": 887,
-    "identity_rank": 142
+    "rank": 900,
+    "superrank": 888,
+    "identity_rank": 143
   },
   "Chandra, Flameshaper": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cd73be04-3ec2-4ea3-8d93-47fa39aaeed8.jpg?1782688907",
+    "img": "https://cards.scryfall.io/large/front/c/d/cd73be04-3ec2-4ea3-8d93-47fa39aaeed8.jpg?1783908992",
     "date": "2024-11-15",
     "colors": [
       "R"
@@ -3110,12 +3110,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 2,
-    "rank": 638,
-    "superrank": 726,
+    "rank": 639,
+    "superrank": 727,
     "identity_rank": 101
   },
   "Changeling Outcast": {
-    "img": "https://cards.scryfall.io/large/front/e/6/e681338b-9938-4db0-bb95-28c460a98acf.jpg?1782704762",
+    "img": "https://cards.scryfall.io/large/front/e/6/e681338b-9938-4db0-bb95-28c460a98acf.jpg?1783926909",
     "date": "2019-06-14",
     "colors": [
       "B"
@@ -3135,12 +3135,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 560,
-    "superrank": 616,
-    "identity_rank": 90
+    "rank": 561,
+    "superrank": 617,
+    "identity_rank": 91
   },
   "Chaos Warp": {
-    "img": "https://cards.scryfall.io/large/front/8/4/84b7ef85-5751-4dd1-9cde-1cbb8097bbba.jpg?1782699423",
+    "img": "https://cards.scryfall.io/large/front/8/4/84b7ef85-5751-4dd1-9cde-1cbb8097bbba.jpg?1783919676",
     "date": "2011-06-17",
     "colors": [
       "R"
@@ -3158,12 +3158,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 674,
-    "superrank": 744,
+    "rank": 675,
+    "superrank": 745,
     "identity_rank": 114
   },
   "Charismatic Conqueror": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aa65e964-8ca5-4e56-b770-b50cddbc7365.jpg?1782694841",
+    "img": "https://cards.scryfall.io/large/front/a/a/aa65e964-8ca5-4e56-b770-b50cddbc7365.jpg?1783913923",
     "date": "2023-11-17",
     "colors": [
       "W"
@@ -3183,12 +3183,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 984,
-    "superrank": 934,
+    "rank": 985,
+    "superrank": 935,
     "identity_rank": 99
   },
   "Chatterfang, Squirrel General": {
-    "img": "https://cards.scryfall.io/large/front/4/7/47ba5ac8-e8fa-4979-9ef9-c3d75ee7f982.jpg?1782704498",
+    "img": "https://cards.scryfall.io/large/front/4/7/47ba5ac8-e8fa-4979-9ef9-c3d75ee7f982.jpg?1783926729",
     "date": "2021-06-18",
     "colors": [
       "G"
@@ -3210,12 +3210,12 @@ const cards =
       "Creature"
     ],
     "supercent": 10,
-    "rank": 516,
-    "superrank": 331,
+    "rank": 515,
+    "superrank": 332,
     "identity_rank": 9
   },
   "Children of Korlis": {
-    "img": "https://cards.scryfall.io/large/front/2/2/221a5895-bc21-4f10-b5fc-a4980fde843e.jpg?1782716941",
+    "img": "https://cards.scryfall.io/large/front/2/2/221a5895-bc21-4f10-b5fc-a4980fde843e.jpg?1783943257",
     "date": "2006-10-06",
     "colors": [
       "W"
@@ -3235,12 +3235,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 705,
-    "superrank": 761,
+    "rank": 706,
+    "superrank": 762,
     "identity_rank": 58
   },
   "Chord of Calling": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f3ae21be-760d-4f67-ae06-ac4c8e333d1a.jpg?1782730942",
+    "img": "https://cards.scryfall.io/large/front/f/3/f3ae21be-760d-4f67-ae06-ac4c8e333d1a.jpg?1783913224",
     "date": "2005-10-07",
     "colors": [
       "G"
@@ -3258,12 +3258,12 @@ const cards =
       "Instant"
     ],
     "supercent": 30,
-    "rank": 179,
+    "rank": 180,
     "superrank": 158,
-    "identity_rank": 18
+    "identity_rank": 19
   },
   "Chromatic Orrery": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d5d9ddf6-9283-4c93-9932-70362068ce72.jpg?1782706777",
+    "img": "https://cards.scryfall.io/large/front/d/5/d5d9ddf6-9283-4c93-9932-70362068ce72.jpg?1783930600",
     "date": "2020-07-03",
     "colors": [],
     "mana_cost": "{7}",
@@ -3279,11 +3279,11 @@ const cards =
     ],
     "supercent": 3,
     "rank": 457,
-    "superrank": 638,
+    "superrank": 639,
     "identity_rank": 93
   },
   "Chromatic Star": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a04cf4dc-f8d7-4c65-b4b6-df5caf99d918.jpg?1782699553",
+    "img": "https://cards.scryfall.io/large/front/a/0/a04cf4dc-f8d7-4c65-b4b6-df5caf99d918.jpg?1783919766",
     "date": "2006-10-06",
     "colors": [],
     "mana_cost": "{1}",
@@ -3297,12 +3297,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 632,
-    "superrank": 948,
+    "rank": 633,
+    "superrank": 949,
     "identity_rank": 126
   },
   "Chrome Mox": {
-    "img": "https://cards.scryfall.io/large/front/e/0/e0d88029-2569-461b-a57d-1af10673f4cf.jpg?1782736462",
+    "img": "https://cards.scryfall.io/large/front/e/0/e0d88029-2569-461b-a57d-1af10673f4cf.jpg?1783920231",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{0}",
@@ -3321,7 +3321,7 @@ const cards =
     "identity_rank": 2
   },
   "Chthonian Nightmare": {
-    "img": "https://cards.scryfall.io/large/front/5/9/59cbd637-30d1-4c3c-95ce-b6c6f9248d15.jpg?1782691018",
+    "img": "https://cards.scryfall.io/large/front/5/9/59cbd637-30d1-4c3c-95ce-b6c6f9248d15.jpg?1783911173",
     "date": "2024-06-14",
     "colors": [
       "B"
@@ -3339,12 +3339,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 633,
-    "superrank": 722,
-    "identity_rank": 98
+    "rank": 634,
+    "superrank": 723,
+    "identity_rank": 99
   },
   "City of Brass": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f4e32327-380d-471e-813b-4c27477787ce.jpg?1782722580",
+    "img": "https://cards.scryfall.io/large/front/f/4/f4e32327-380d-471e-813b-4c27477787ce.jpg?1783948376",
     "date": "1993-12-17",
     "colors": [],
     "mana_cost": "",
@@ -3363,7 +3363,7 @@ const cards =
     "identity_rank": 10
   },
   "City of Traitors": {
-    "img": "https://cards.scryfall.io/large/front/a/7/a7a8b6b8-b95f-4014-b17a-a6d44d965995.jpg?1782720761",
+    "img": "https://cards.scryfall.io/large/front/a/7/a7a8b6b8-b95f-4014-b17a-a6d44d965995.jpg?1783946497",
     "date": "1998-06-15",
     "colors": [],
     "mana_cost": "",
@@ -3382,7 +3382,7 @@ const cards =
     "identity_rank": 27
   },
   "Claim the Firstborn": {
-    "img": "https://cards.scryfall.io/large/front/f/e/feaf1e6c-c7d9-4ac7-9aeb-c4b5d61548ec.jpg?1782707856",
+    "img": "https://cards.scryfall.io/large/front/f/e/feaf1e6c-c7d9-4ac7-9aeb-c4b5d61548ec.jpg?1783932626",
     "date": "2019-10-04",
     "colors": [
       "R"
@@ -3400,12 +3400,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 542,
-    "superrank": 515,
+    "rank": 543,
+    "superrank": 514,
     "identity_rank": 87
   },
   "Clarion Conqueror": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f892d156-371c-4391-8ae6-25513c5032b0.jpg?1782687312",
+    "img": "https://cards.scryfall.io/large/front/f/8/f892d156-371c-4391-8ae6-25513c5032b0.jpg?1783907419",
     "date": "2025-04-11",
     "colors": [
       "W"
@@ -3425,12 +3425,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 523,
-    "superrank": 509,
+    "rank": 522,
+    "superrank": 508,
     "identity_rank": 41
   },
   "Clearwater Pathway": {
-    "img": "https://cards.scryfall.io/large/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1782706189",
+    "img": "https://cards.scryfall.io/large/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1783929316",
     "date": "2020-09-25",
     "cmc": 0,
     "type_line": "Land // Land",
@@ -3447,12 +3447,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1001,
-    "superrank": 1001,
+    "rank": 1002,
+    "superrank": 1002,
     "identity_rank": 20
   },
   "Clever Impersonator": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cd8fffd3-81ad-47e3-a27b-d8059f2b506f.jpg?1782713123",
+    "img": "https://cards.scryfall.io/large/front/c/d/cd8fffd3-81ad-47e3-a27b-d8059f2b506f.jpg?1783939089",
     "date": "2014-09-26",
     "colors": [
       "U"
@@ -3477,7 +3477,7 @@ const cards =
     "identity_rank": 54
   },
   "Clock of Omens": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0ffce71b-eb60-4649-a62b-a1b4acaa9d2d.jpg?1782718296",
+    "img": "https://cards.scryfall.io/large/front/0/f/0ffce71b-eb60-4649-a62b-a1b4acaa9d2d.jpg?1783944385",
     "date": "2004-06-04",
     "colors": [],
     "mana_cost": "{4}",
@@ -3491,12 +3491,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 359,
-    "superrank": 566,
+    "rank": 361,
+    "superrank": 565,
     "identity_rank": 69
   },
   "Cloud of Faeries": {
-    "img": "https://cards.scryfall.io/large/front/4/e/4e76d04a-0038-4b5b-a026-3056ee940da9.jpg?1782720595",
+    "img": "https://cards.scryfall.io/large/front/4/e/4e76d04a-0038-4b5b-a026-3056ee940da9.jpg?1783946247",
     "date": "1999-02-15",
     "colors": [
       "U"
@@ -3516,12 +3516,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 884,
-    "superrank": 877,
+    "rank": 885,
+    "superrank": 878,
     "identity_rank": 153
   },
   "Cloudshift": {
-    "img": "https://cards.scryfall.io/large/front/3/5/35b06c8f-5f08-43bd-a548-2a98ba30fd41.jpg?1782714545",
+    "img": "https://cards.scryfall.io/large/front/3/5/35b06c8f-5f08-43bd-a548-2a98ba30fd41.jpg?1783940738",
     "date": "2012-05-04",
     "colors": [
       "W"
@@ -3539,12 +3539,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 624,
-    "superrank": 717,
+    "rank": 625,
+    "superrank": 718,
     "identity_rank": 52
   },
   "Clown Car": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c6667e4f-f0f6-4416-940a-d03bed75f5a7.jpg?1782736918",
+    "img": "https://cards.scryfall.io/large/front/c/6/c6667e4f-f0f6-4416-940a-d03bed75f5a7.jpg?1783920532",
     "date": "2022-10-07",
     "colors": [],
     "mana_cost": "{X}",
@@ -3560,12 +3560,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 360,
-    "superrank": 567,
+    "rank": 362,
+    "superrank": 566,
     "identity_rank": 70
   },
   "Codex Shredder": {
-    "img": "https://cards.scryfall.io/large/front/8/f/8f7b632b-ee20-4082-8376-1dae53f91b70.jpg?1782714182",
+    "img": "https://cards.scryfall.io/large/front/8/f/8f7b632b-ee20-4082-8376-1dae53f91b70.jpg?1783940324",
     "date": "2012-10-05",
     "colors": [],
     "mana_cost": "{1}",
@@ -3579,12 +3579,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 430,
-    "superrank": 601,
+    "rank": 431,
+    "superrank": 602,
     "identity_rank": 90
   },
   "Collector Ouphe": {
-    "img": "https://cards.scryfall.io/large/front/0/8/085107a2-c1ec-473c-81d8-23e5a7197776.jpg?1782708459",
+    "img": "https://cards.scryfall.io/large/front/0/8/085107a2-c1ec-473c-81d8-23e5a7197776.jpg?1783933099",
     "date": "2019-06-14",
     "colors": [
       "G"
@@ -3604,12 +3604,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 524,
-    "superrank": 420,
+    "rank": 523,
+    "superrank": 419,
     "identity_rank": 55
   },
   "Collector's Cage": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a33703bb-51c0-4d57-9d06-1148507ddc4f.jpg?1782692536",
+    "img": "https://cards.scryfall.io/large/front/a/3/a33703bb-51c0-4d57-9d06-1148507ddc4f.jpg?1783912004",
     "date": "2024-04-19",
     "colors": [
       "W"
@@ -3627,12 +3627,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 855,
-    "superrank": 861,
+    "rank": 857,
+    "superrank": 863,
     "identity_rank": 86
   },
   "Combat Celebrant": {
-    "img": "https://cards.scryfall.io/large/front/2/8/28b63c3d-2e55-4343-b49a-11fa602ec473.jpg?1782711144",
+    "img": "https://cards.scryfall.io/large/front/2/8/28b63c3d-2e55-4343-b49a-11fa602ec473.jpg?1783936491",
     "date": "2017-04-28",
     "colors": [
       "R"
@@ -3652,12 +3652,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 595,
-    "superrank": 535,
+    "rank": 596,
+    "superrank": 534,
     "identity_rank": 95
   },
   "Command Beacon": {
-    "img": "https://cards.scryfall.io/large/front/1/6/166fa02f-e456-48ca-8ac3-d217afceff4d.jpg?1782712382",
+    "img": "https://cards.scryfall.io/large/front/1/6/166fa02f-e456-48ca-8ac3-d217afceff4d.jpg?1783938103",
     "date": "2015-11-13",
     "colors": [],
     "mana_cost": "",
@@ -3671,12 +3671,12 @@ const cards =
       "Land"
     ],
     "supercent": 9,
-    "rank": 235,
-    "superrank": 350,
-    "identity_rank": 50
+    "rank": 234,
+    "superrank": 349,
+    "identity_rank": 49
   },
   "Command Tower": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ec750874-33fb-44d6-915e-ba0ece9bef74.jpg?1782729546",
+    "img": "https://cards.scryfall.io/large/front/e/c/ec750874-33fb-44d6-915e-ba0ece9bef74.jpg?1783910870",
     "date": "2011-06-17",
     "colors": [],
     "mana_cost": "",
@@ -3695,7 +3695,7 @@ const cards =
     "identity_rank": 7
   },
   "Commandeer": {
-    "img": "https://cards.scryfall.io/large/front/7/e/7e6e6204-c622-4efe-ac4f-8195528cec9c.jpg?1782717089",
+    "img": "https://cards.scryfall.io/large/front/7/e/7e6e6204-c622-4efe-ac4f-8195528cec9c.jpg?1783943362",
     "date": "2006-07-21",
     "colors": [
       "U"
@@ -3713,12 +3713,12 @@ const cards =
       "Instant"
     ],
     "supercent": 18,
-    "rank": 187,
-    "superrank": 223,
+    "rank": 188,
+    "superrank": 224,
     "identity_rank": 39
   },
   "Commercial District": {
-    "img": "https://cards.scryfall.io/large/front/b/f/bf220c06-3cce-4bdd-aa58-83940c223e9c.jpg?1782693779",
+    "img": "https://cards.scryfall.io/large/front/b/f/bf220c06-3cce-4bdd-aa58-83940c223e9c.jpg?1783912825",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -3735,12 +3735,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 639,
+    "rank": 640,
     "superrank": 360,
     "identity_rank": 8
   },
   "Composite Golem": {
-    "img": "https://cards.scryfall.io/large/front/3/e/3eba4407-0405-41fa-99e5-1bfa3a787398.jpg?1782718296",
+    "img": "https://cards.scryfall.io/large/front/3/e/3eba4407-0405-41fa-99e5-1bfa3a787398.jpg?1783944384",
     "date": "2004-06-04",
     "colors": [],
     "mana_cost": "{6}",
@@ -3763,12 +3763,12 @@ const cards =
       "Creature"
     ],
     "supercent": 20,
-    "rank": 885,
-    "superrank": 207,
+    "rank": 886,
+    "superrank": 208,
     "identity_rank": 1
   },
   "Conqueror's Flail": {
-    "img": "https://cards.scryfall.io/large/front/1/6/1644f535-9281-4a88-8fac-916bc0021d1d.jpg?1782711439",
+    "img": "https://cards.scryfall.io/large/front/1/6/1644f535-9281-4a88-8fac-916bc0021d1d.jpg?1783937081",
     "date": "2016-11-11",
     "colors": [],
     "mana_cost": "{2}",
@@ -3782,12 +3782,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 521,
-    "superrank": 660,
+    "rank": 520,
+    "superrank": 661,
     "identity_rank": 104
   },
   "Consecrated Sphinx": {
-    "img": "https://cards.scryfall.io/large/front/4/e/4eb064da-aba8-445c-bde7-e0f2172b3176.jpg?1782729555",
+    "img": "https://cards.scryfall.io/large/front/4/e/4eb064da-aba8-445c-bde7-e0f2172b3176.jpg?1783910874",
     "date": "2011-02-04",
     "colors": [
       "U"
@@ -3807,12 +3807,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 406,
+    "rank": 408,
     "superrank": 452,
     "identity_rank": 72
   },
   "Consider": {
-    "img": "https://cards.scryfall.io/large/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1782703706",
+    "img": "https://cards.scryfall.io/large/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1783925647",
     "date": "2021-09-24",
     "colors": [
       "U"
@@ -3830,12 +3830,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 582,
-    "superrank": 632,
+    "rank": 583,
+    "superrank": 633,
     "identity_rank": 101
   },
   "Contagion": {
-    "img": "https://cards.scryfall.io/large/front/f/0/f02d297c-d095-4c67-b88c-ef9401d475f6.jpg?1782729442",
+    "img": "https://cards.scryfall.io/large/front/f/0/f02d297c-d095-4c67-b88c-ef9401d475f6.jpg?1783910580",
     "date": "1996-06-10",
     "colors": [
       "B"
@@ -3853,12 +3853,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 814,
-    "superrank": 831,
-    "identity_rank": 126
+    "rank": 816,
+    "superrank": 833,
+    "identity_rank": 128
   },
   "Containment Priest": {
-    "img": "https://cards.scryfall.io/large/front/6/5/65975f50-70b1-4d64-8d81-5ef2da479c48.jpg?1782741743",
+    "img": "https://cards.scryfall.io/large/front/6/5/65975f50-70b1-4d64-8d81-5ef2da479c48.jpg?1783927746",
     "date": "2014-11-07",
     "colors": [
       "W"
@@ -3878,12 +3878,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 713,
-    "superrank": 765,
+    "rank": 714,
+    "superrank": 766,
     "identity_rank": 61
   },
   "Copperline Gorge": {
-    "img": "https://cards.scryfall.io/large/front/2/8/28f1d784-f286-418d-a712-bc07ad10d4a2.jpg?1782715265",
+    "img": "https://cards.scryfall.io/large/front/2/8/28f1d784-f286-418d-a712-bc07ad10d4a2.jpg?1783941691",
     "date": "2010-10-01",
     "colors": [],
     "mana_cost": "",
@@ -3900,12 +3900,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 640,
+    "rank": 641,
     "superrank": 361,
     "identity_rank": 9
   },
   "Copy Artifact": {
-    "img": "https://cards.scryfall.io/large/front/f/d/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063.jpg?1782722993",
+    "img": "https://cards.scryfall.io/large/front/f/d/fd5ed955-1193-4e6a-a3e2-f54c1f9bf063.jpg?1783948707",
     "date": "1993-08-05",
     "colors": [
       "U"
@@ -3924,11 +3924,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 166,
-    "superrank": 199,
+    "superrank": 200,
     "identity_rank": 33
   },
   "Copy Enchantment": {
-    "img": "https://cards.scryfall.io/large/front/d/c/dc25aaff-8ed8-43ce-9340-d9a76d922da8.jpg?1782730981",
+    "img": "https://cards.scryfall.io/large/front/d/c/dc25aaff-8ed8-43ce-9340-d9a76d922da8.jpg?1783913242",
     "date": "2005-10-07",
     "colors": [
       "U"
@@ -3946,12 +3946,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 13,
-    "rank": 229,
-    "superrank": 275,
+    "rank": 228,
+    "superrank": 274,
     "identity_rank": 50
   },
   "Corpse Dance": {
-    "img": "https://cards.scryfall.io/large/front/7/6/76ae81ea-13e3-4ab8-b956-4c7b139a5e9c.jpg?1782720963",
+    "img": "https://cards.scryfall.io/large/front/7/6/76ae81ea-13e3-4ab8-b956-4c7b139a5e9c.jpg?1783946643",
     "date": "1997-10-14",
     "colors": [
       "B"
@@ -3974,7 +3974,7 @@ const cards =
     "identity_rank": 85
   },
   "Corridor Monitor": {
-    "img": "https://cards.scryfall.io/large/front/9/3/9347802a-0971-443c-867a-cb9400f18d5c.jpg?1782707908",
+    "img": "https://cards.scryfall.io/large/front/9/3/9347802a-0971-443c-867a-cb9400f18d5c.jpg?1783932662",
     "date": "2019-10-04",
     "colors": [
       "U"
@@ -3995,12 +3995,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 768,
-    "superrank": 803,
+    "rank": 770,
+    "superrank": 805,
     "identity_rank": 116
   },
   "Counterbalance": {
-    "img": "https://cards.scryfall.io/large/front/c/3/c329ff2b-0331-4934-a8df-870dd7bf402b.jpg?1782717086",
+    "img": "https://cards.scryfall.io/large/front/c/3/c329ff2b-0331-4934-a8df-870dd7bf402b.jpg?1783943361",
     "date": "2006-07-21",
     "colors": [
       "U"
@@ -4018,12 +4018,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 9,
-    "rank": 295,
-    "superrank": 339,
+    "rank": 293,
+    "superrank": 338,
     "identity_rank": 63
   },
   "Coveted Jewel": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f83ed433-fae3-4fa5-acad-bb8a5b535ce3.jpg?1782709380",
+    "img": "https://cards.scryfall.io/large/front/f/8/f83ed433-fae3-4fa5-acad-bb8a5b535ce3.jpg?1783934324",
     "date": "2018-08-10",
     "colors": [],
     "mana_cost": "{6}",
@@ -4037,12 +4037,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 550,
-    "superrank": 677,
+    "rank": 551,
+    "superrank": 678,
     "identity_rank": 113
   },
   "Crash Through": {
-    "img": "https://cards.scryfall.io/large/front/4/b/4bdaba76-b98d-4699-9a5f-e59285b09552.jpg?1782710763",
+    "img": "https://cards.scryfall.io/large/front/4/b/4bdaba76-b98d-4699-9a5f-e59285b09552.jpg?1783936031",
     "date": "2017-07-14",
     "colors": [
       "R"
@@ -4060,12 +4060,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 915,
-    "superrank": 892,
+    "rank": 916,
+    "superrank": 893,
     "identity_rank": 125
   },
   "Crimson Wisps": {
-    "img": "https://cards.scryfall.io/large/front/a/6/a65c81ff-fc5d-4191-93fb-52eb806457b7.jpg?1782716158",
+    "img": "https://cards.scryfall.io/large/front/a/6/a65c81ff-fc5d-4191-93fb-52eb806457b7.jpg?1783942749",
     "date": "2008-05-02",
     "colors": [
       "R"
@@ -4083,12 +4083,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 916,
-    "superrank": 893,
+    "rank": 917,
+    "superrank": 894,
     "identity_rank": 126
   },
   "Crop Rotation": {
-    "img": "https://cards.scryfall.io/large/front/6/5/6563f790-862c-465a-b963-7a61f2385516.jpg?1782720568",
+    "img": "https://cards.scryfall.io/large/front/6/5/6563f790-862c-465a-b963-7a61f2385516.jpg?1783946231",
     "date": "1999-02-15",
     "colors": [
       "G"
@@ -4111,7 +4111,7 @@ const cards =
     "identity_rank": 7
   },
   "Cryptolith Rite": {
-    "img": "https://cards.scryfall.io/large/front/3/d/3d6e6f2c-30ad-4d7f-ab47-1bcfcaf10da0.jpg?1782726550",
+    "img": "https://cards.scryfall.io/large/front/3/d/3d6e6f2c-30ad-4d7f-ab47-1bcfcaf10da0.jpg?1783908004",
     "date": "2016-04-08",
     "colors": [
       "G"
@@ -4129,12 +4129,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 7,
-    "rank": 571,
-    "superrank": 428,
+    "rank": 572,
+    "superrank": 427,
     "identity_rank": 59
   },
   "Crystal Vein": {
-    "img": "https://cards.scryfall.io/large/front/1/a/1afb6e29-058e-44c5-a3fa-56c462f070a0.jpg?1782721348",
+    "img": "https://cards.scryfall.io/large/front/1/a/1afb6e29-058e-44c5-a3fa-56c462f070a0.jpg?1783947037",
     "date": "1996-10-08",
     "colors": [],
     "mana_cost": "",
@@ -4149,11 +4149,11 @@ const cards =
     ],
     "supercent": 10,
     "rank": 205,
-    "superrank": 329,
-    "identity_rank": 45
+    "superrank": 331,
+    "identity_rank": 46
   },
   "Culling Ritual": {
-    "img": "https://cards.scryfall.io/large/front/8/f/8f6f91d3-cc07-4a42-99a0-5fb83b29cc25.jpg?1782704903",
+    "img": "https://cards.scryfall.io/large/front/8/f/8f6f91d3-cc07-4a42-99a0-5fb83b29cc25.jpg?1783927321",
     "date": "2021-04-23",
     "colors": [
       "B",
@@ -4178,7 +4178,7 @@ const cards =
     "identity_rank": 3
   },
   "Culling the Weak": {
-    "img": "https://cards.scryfall.io/large/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.jpg?1782720795",
+    "img": "https://cards.scryfall.io/large/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.jpg?1783946521",
     "date": "1998-06-15",
     "colors": [
       "B"
@@ -4201,7 +4201,7 @@ const cards =
     "identity_rank": 10
   },
   "Cultist of the Absolute": {
-    "img": "https://cards.scryfall.io/large/front/b/d/bd9b11ac-187c-4cda-9197-93244d6906c8.jpg?1782701036",
+    "img": "https://cards.scryfall.io/large/front/b/d/bd9b11ac-187c-4cda-9197-93244d6906c8.jpg?1783922595",
     "date": "2022-06-10",
     "colors": [
       "B"
@@ -4220,12 +4220,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 769,
-    "superrank": 804,
-    "identity_rank": 123
+    "rank": 771,
+    "superrank": 806,
+    "identity_rank": 125
   },
   "Curiosity": {
-    "img": "https://cards.scryfall.io/large/front/f/e/fee17ef5-7e1a-42ae-b680-df81204df7dd.jpg?1782720805",
+    "img": "https://cards.scryfall.io/large/front/f/e/fee17ef5-7e1a-42ae-b680-df81204df7dd.jpg?1783946527",
     "date": "1998-06-15",
     "colors": [
       "U"
@@ -4243,12 +4243,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 4,
-    "rank": 491,
-    "superrank": 564,
+    "rank": 490,
+    "superrank": 563,
     "identity_rank": 84
   },
   "Curse of Opulence": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e23db9d3-d11f-4b2c-8349-687bc0e9d4c2.jpg?1782710676",
+    "img": "https://cards.scryfall.io/large/front/e/2/e23db9d3-d11f-4b2c-8349-687bc0e9d4c2.jpg?1783935943",
     "date": "2017-08-25",
     "colors": [
       "R"
@@ -4266,12 +4266,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 940,
-    "superrank": 911,
-    "identity_rank": 137
+    "rank": 941,
+    "superrank": 912,
+    "identity_rank": 138
   },
   "Cursed Mirror": {
-    "img": "https://cards.scryfall.io/large/front/a/2/a29473ee-1a11-42b8-8d14-34051208f35b.jpg?1782699422",
+    "img": "https://cards.scryfall.io/large/front/a/2/a29473ee-1a11-42b8-8d14-34051208f35b.jpg?1783919676",
     "date": "2021-04-23",
     "colors": [
       "R"
@@ -4289,12 +4289,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 8,
-    "rank": 346,
+    "rank": 347,
     "superrank": 362,
     "identity_rank": 39
   },
   "Cursed Totem": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.jpg?1782721358",
+    "img": "https://cards.scryfall.io/large/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.jpg?1783947044",
     "date": "1996-10-08",
     "colors": [],
     "mana_cost": "{2}",
@@ -4308,12 +4308,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 9,
-    "rank": 230,
-    "superrank": 344,
-    "identity_rank": 48
+    "rank": 229,
+    "superrank": 343,
+    "identity_rank": 47
   },
   "Cut Down": {
-    "img": "https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1782700503",
+    "img": "https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1783921335",
     "date": "2022-09-09",
     "colors": [
       "B"
@@ -4331,12 +4331,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 529,
-    "superrank": 589,
-    "identity_rank": 80
+    "rank": 528,
+    "superrank": 588,
+    "identity_rank": 79
   },
   "Cyclonic Rift": {
-    "img": "https://cards.scryfall.io/large/front/e/e/ee3bd03a-f296-479a-bd92-af7c55e594c4.jpg?1782730980",
+    "img": "https://cards.scryfall.io/large/front/e/e/ee3bd03a-f296-479a-bd92-af7c55e594c4.jpg?1783913242",
     "date": "2012-10-05",
     "colors": [
       "U"
@@ -4359,7 +4359,7 @@ const cards =
     "identity_rank": 21
   },
   "Cynical Loner": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cc93bcb8-778d-491e-877b-e6ad432764cb.jpg?1782689571",
+    "img": "https://cards.scryfall.io/large/front/c/c/cc93bcb8-778d-491e-877b-e6ad432764cb.jpg?1783909484",
     "date": "2024-09-27",
     "colors": [
       "B"
@@ -4379,12 +4379,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 752,
-    "superrank": 791,
-    "identity_rank": 114
+    "rank": 753,
+    "superrank": 792,
+    "identity_rank": 115
   },
   "Dakmor Salvage": {
-    "img": "https://cards.scryfall.io/large/front/8/f/8f7f06e8-d8ee-435c-965c-8e1302a8ec10.jpg?1782716647",
+    "img": "https://cards.scryfall.io/large/front/8/f/8f7f06e8-d8ee-435c-965c-8e1302a8ec10.jpg?1783943090",
     "date": "2007-05-04",
     "colors": [],
     "mana_cost": "",
@@ -4400,12 +4400,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 900,
-    "superrank": 888,
-    "identity_rank": 143
+    "rank": 901,
+    "superrank": 889,
+    "identity_rank": 144
   },
   "Damn": {
-    "img": "https://cards.scryfall.io/large/front/2/3/23b95b26-0bbf-4fa1-80c1-f621f1a1b947.jpg?1782704506",
+    "img": "https://cards.scryfall.io/large/front/2/3/23b95b26-0bbf-4fa1-80c1-f621f1a1b947.jpg?1783926735",
     "date": "2021-06-18",
     "colors": [
       "B"
@@ -4424,12 +4424,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 798,
-    "superrank": 615,
+    "rank": 800,
+    "superrank": 616,
     "identity_rank": 9
   },
   "Damping Sphere": {
-    "img": "https://cards.scryfall.io/large/front/7/c/7c178d4c-bce9-4165-af1c-6075a94c84e4.jpg?1782735075",
+    "img": "https://cards.scryfall.io/large/front/7/c/7c178d4c-bce9-4165-af1c-6075a94c84e4.jpg?1783918351",
     "date": "2018-04-27",
     "colors": [],
     "mana_cost": "{2}",
@@ -4443,12 +4443,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 312,
+    "rank": 309,
     "superrank": 438,
     "identity_rank": 58
   },
   "Dance of the Dead": {
-    "img": "https://cards.scryfall.io/large/front/e/7/e7c53ba4-9956-4cd6-85ca-2d6b61a5127c.jpg?1782721713",
+    "img": "https://cards.scryfall.io/large/front/e/7/e7c53ba4-9956-4cd6-85ca-2d6b61a5127c.jpg?1783947505",
     "date": "1995-06-03",
     "colors": [
       "B"
@@ -4466,12 +4466,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 6,
-    "rank": 407,
+    "rank": 409,
     "superrank": 453,
     "identity_rank": 53
   },
   "Dark Petition": {
-    "img": "https://cards.scryfall.io/large/front/e/9/e9df9c5e-7087-42b2-9001-c89d40a66c68.jpg?1782712636",
+    "img": "https://cards.scryfall.io/large/front/e/9/e9df9c5e-7087-42b2-9001-c89d40a66c68.jpg?1783938344",
     "date": "2015-07-17",
     "colors": [
       "B"
@@ -4489,12 +4489,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 530,
-    "superrank": 590,
-    "identity_rank": 81
+    "rank": 529,
+    "superrank": 589,
+    "identity_rank": 80
   },
   "Dark Ritual": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f688acae-aba5-48fb-b69f-6f93549b4149.jpg?1782755801",
+    "img": "https://cards.scryfall.io/large/front/f/6/f688acae-aba5-48fb-b69f-6f93549b4149.jpg?1783947236",
     "date": "1993-08-05",
     "colors": [
       "B"
@@ -4517,7 +4517,7 @@ const cards =
     "identity_rank": 3
   },
   "Darkslick Shores": {
-    "img": "https://cards.scryfall.io/large/front/e/5/e530388b-eb19-4211-abd8-8a4c3c38c3af.jpg?1782715265",
+    "img": "https://cards.scryfall.io/large/front/e/5/e530388b-eb19-4211-abd8-8a4c3c38c3af.jpg?1783941689",
     "date": "2010-10-01",
     "colors": [],
     "mana_cost": "",
@@ -4534,12 +4534,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 518,
+    "rank": 517,
     "superrank": 449,
     "identity_rank": 10
   },
   "Darksteel Citadel": {
-    "img": "https://cards.scryfall.io/large/front/d/f/df29d8e6-f195-46db-9307-41687b5f0f20.jpg?1782699383",
+    "img": "https://cards.scryfall.io/large/front/d/f/df29d8e6-f195-46db-9307-41687b5f0f20.jpg?1783919651",
     "date": "2004-02-06",
     "colors": [],
     "mana_cost": "",
@@ -4554,12 +4554,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 949,
-    "superrank": 981,
+    "rank": 950,
+    "superrank": 982,
     "identity_rank": 159
   },
   "Dauthi Voidwalker": {
-    "img": "https://cards.scryfall.io/large/front/7/d/7d54f0dd-5d27-483b-8af9-92a1c5a785f2.jpg?1782704505",
+    "img": "https://cards.scryfall.io/large/front/7/d/7d54f0dd-5d27-483b-8af9-92a1c5a785f2.jpg?1783926735",
     "date": "2021-06-18",
     "colors": [
       "B"
@@ -4584,7 +4584,7 @@ const cards =
     "identity_rank": 36
   },
   "Dawnbringer Cleric": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c00856f7-fef5-4ba5-9079-59a81d452c82.jpg?1782704439",
+    "img": "https://cards.scryfall.io/large/front/c/0/c00856f7-fef5-4ba5-9079-59a81d452c82.jpg?1783926536",
     "date": "2021-07-23",
     "colors": [
       "W"
@@ -4604,12 +4604,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 714,
-    "superrank": 766,
+    "rank": 715,
+    "superrank": 767,
     "identity_rank": 62
   },
   "Dawnhand Dissident": {
-    "img": "https://cards.scryfall.io/large/front/f/e/fea91416-2836-447f-ad07-8b96ba727cbd.jpg?1782683870",
+    "img": "https://cards.scryfall.io/large/front/f/e/fea91416-2836-447f-ad07-8b96ba727cbd.jpg?1783904377",
     "date": "2026-01-23",
     "colors": [
       "B"
@@ -4629,12 +4629,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 856,
-    "superrank": 862,
-    "identity_rank": 137
+    "rank": 858,
+    "superrank": 864,
+    "identity_rank": 139
   },
   "Daze": {
-    "img": "https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1782720213",
+    "img": "https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1783945837",
     "date": "2000-02-14",
     "colors": [
       "U"
@@ -4652,12 +4652,12 @@ const cards =
       "Instant"
     ],
     "supercent": 6,
-    "rank": 444,
-    "superrank": 475,
+    "rank": 445,
+    "superrank": 474,
     "identity_rank": 76
   },
   "Dead // Gone": {
-    "img": "https://cards.scryfall.io/large/front/9/6/96fd8d8e-8f2a-4240-bcb7-18f73fd47bd5.jpg?1782716752",
+    "img": "https://cards.scryfall.io/large/front/9/6/96fd8d8e-8f2a-4240-bcb7-18f73fd47bd5.jpg?1783943145",
     "date": "2007-02-02",
     "colors": [
       "R"
@@ -4677,12 +4677,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 675,
-    "superrank": 745,
+    "rank": 676,
+    "superrank": 746,
     "identity_rank": 115
   },
   "Deadly Rollick": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c61fa2c0-63c0-4dc2-9f17-5a00530e3348.jpg?1782707395",
+    "img": "https://cards.scryfall.io/large/front/c/6/c61fa2c0-63c0-4dc2-9f17-5a00530e3348.jpg?1783931217",
     "date": "2020-04-17",
     "colors": [
       "B"
@@ -4705,7 +4705,7 @@ const cards =
     "identity_rank": 19
   },
   "Deadpool, Trading Card": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1783800028",
+    "img": "https://cards.scryfall.io/large/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1783903994",
     "date": "2025-04-01",
     "colors": [
       "B",
@@ -4729,11 +4729,11 @@ const cards =
     ],
     "supercent": 9,
     "rank": 465,
-    "superrank": 342,
+    "superrank": 341,
     "identity_rank": 8
   },
   "Deafening Silence": {
-    "img": "https://cards.scryfall.io/large/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1782707928",
+    "img": "https://cards.scryfall.io/large/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1783932677",
     "date": "2019-10-04",
     "colors": [
       "W"
@@ -4752,11 +4752,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 275,
-    "superrank": 280,
+    "superrank": 279,
     "identity_rank": 19
   },
   "Deathrite Shaman": {
-    "img": "https://cards.scryfall.io/large/front/d/d/dd4341f7-c455-463e-9064-f0c215152ba9.jpg?1782730917",
+    "img": "https://cards.scryfall.io/large/front/d/d/dd4341f7-c455-463e-9064-f0c215152ba9.jpg?1783913210",
     "date": "2012-10-05",
     "colors": [
       "B",
@@ -4783,7 +4783,7 @@ const cards =
     "identity_rank": 2
   },
   "Deceiver Exarch": {
-    "img": "https://cards.scryfall.io/large/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1782715178",
+    "img": "https://cards.scryfall.io/large/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1783941320",
     "date": "2011-05-13",
     "colors": [
       "U"
@@ -4803,12 +4803,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 770,
-    "superrank": 805,
+    "rank": 772,
+    "superrank": 807,
     "identity_rank": 117
   },
   "Deep Gnome Terramancer": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cc75f9f1-5873-450f-a0b2-871b55036954.jpg?1782700929",
+    "img": "https://cards.scryfall.io/large/front/c/c/cc75f9f1-5873-450f-a0b2-871b55036954.jpg?1783922514",
     "date": "2022-06-10",
     "colors": [
       "W"
@@ -4828,12 +4828,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 985,
-    "superrank": 935,
+    "rank": 986,
+    "superrank": 936,
     "identity_rank": 100
   },
   "Defense Grid": {
-    "img": "https://cards.scryfall.io/large/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.jpg?1782720556",
+    "img": "https://cards.scryfall.io/large/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.jpg?1783946224",
     "date": "1999-02-15",
     "colors": [],
     "mana_cost": "{2}",
@@ -4847,12 +4847,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 12,
-    "rank": 183,
-    "superrank": 285,
+    "rank": 184,
+    "superrank": 284,
     "identity_rank": 43
   },
   "Deflecting Swat": {
-    "img": "https://cards.scryfall.io/large/front/8/4/84f035e1-6c89-457b-b05f-85680a50ed91.jpg?1782707392",
+    "img": "https://cards.scryfall.io/large/front/8/4/84f035e1-6c89-457b-b05f-85680a50ed91.jpg?1783931214",
     "date": "2020-04-17",
     "colors": [
       "R"
@@ -4875,7 +4875,7 @@ const cards =
     "identity_rank": 1
   },
   "Delay": {
-    "img": "https://cards.scryfall.io/large/front/e/8/e821d337-4bc5-4401-ac9b-34adf4012b73.jpg?1782716710",
+    "img": "https://cards.scryfall.io/large/front/e/8/e821d337-4bc5-4401-ac9b-34adf4012b73.jpg?1783943122",
     "date": "2007-05-04",
     "colors": [
       "U"
@@ -4893,12 +4893,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 483,
-    "superrank": 558,
+    "rank": 482,
+    "superrank": 557,
     "identity_rank": 80
   },
   "Delighted Halfling": {
-    "img": "https://cards.scryfall.io/large/front/8/0/80a04912-633d-4f67-b200-d55735438f76.jpg?1782697032",
+    "img": "https://cards.scryfall.io/large/front/8/0/80a04912-633d-4f67-b200-d55735438f76.jpg?1783916189",
     "date": "2023-06-23",
     "colors": [
       "G"
@@ -4923,7 +4923,7 @@ const cards =
     "identity_rank": 10
   },
   "Delney, Streetwise Lookout": {
-    "img": "https://cards.scryfall.io/large/front/b/e/be219928-3d0e-4d00-b124-152ce8a8c13b.jpg?1782693958",
+    "img": "https://cards.scryfall.io/large/front/b/e/be219928-3d0e-4d00-b124-152ce8a8c13b.jpg?1783912925",
     "date": "2024-02-09",
     "colors": [
       "W"
@@ -4944,12 +4944,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 297,
+    "rank": 295,
     "superrank": 293,
     "identity_rank": 23
   },
   "Demonic Consultation": {
-    "img": "https://cards.scryfall.io/large/front/9/1/91bdfd40-dbc7-42a8-a122-5834193b8f5e.jpg?1782735469",
+    "img": "https://cards.scryfall.io/large/front/9/1/91bdfd40-dbc7-42a8-a122-5834193b8f5e.jpg?1783918771",
     "date": "1995-06-03",
     "colors": [
       "B"
@@ -4961,18 +4961,18 @@ const cards =
       "B"
     ],
     "name": "Demonic Consultation",
-    "count": 30,
-    "percent": 46,
+    "count": 31,
+    "percent": 48,
     "types": [
       "Instant"
     ],
-    "supercent": 69,
-    "rank": 52,
-    "superrank": 65,
-    "identity_rank": 7
+    "supercent": 72,
+    "rank": 48,
+    "superrank": 61,
+    "identity_rank": 6
   },
   "Demonic Counsel": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff79c845-4115-4fbf-b20f-37470f2bf7fb.jpg?1782689570",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff79c845-4115-4fbf-b20f-37470f2bf7fb.jpg?1783909484",
     "date": "2024-09-27",
     "colors": [
       "B"
@@ -4991,11 +4991,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 215,
-    "superrank": 268,
+    "superrank": 267,
     "identity_rank": 29
   },
   "Demonic Tutor": {
-    "img": "https://cards.scryfall.io/large/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1782722970",
+    "img": "https://cards.scryfall.io/large/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1783948696",
     "date": "1993-08-05",
     "colors": [
       "B"
@@ -5018,7 +5018,7 @@ const cards =
     "identity_rank": 1
   },
   "Derevi, Empyrial Tactician": {
-    "img": "https://cards.scryfall.io/large/front/7/b/7b1817d5-11f6-486a-a937-f15e5d8dd2a6.jpg?1782751630",
+    "img": "https://cards.scryfall.io/large/front/7/b/7b1817d5-11f6-486a-a937-f15e5d8dd2a6.jpg?1783939615",
     "date": "2013-11-01",
     "colors": [
       "G",
@@ -5043,12 +5043,12 @@ const cards =
       "Creature"
     ],
     "supercent": 33,
-    "rank": 334,
+    "rank": 331,
     "superrank": 147,
     "identity_rank": 2
   },
   "Deserted Temple": {
-    "img": "https://cards.scryfall.io/large/front/d/1/d1fa74b2-f9bd-4617-8b65-878781f3a2fd.jpg?1782719342",
+    "img": "https://cards.scryfall.io/large/front/d/1/d1fa74b2-f9bd-4617-8b65-878781f3a2fd.jpg?1783945198",
     "date": "2001-10-01",
     "colors": [],
     "mana_cost": "",
@@ -5062,12 +5062,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 680,
-    "superrank": 954,
+    "rank": 681,
+    "superrank": 955,
     "identity_rank": 132
   },
   "Desperate Ritual": {
-    "img": "https://cards.scryfall.io/large/front/c/8/c8bdb92a-7bdb-434b-8cc0-873969faf566.jpg?1782718192",
+    "img": "https://cards.scryfall.io/large/front/c/8/c8bdb92a-7bdb-434b-8cc0-873969faf566.jpg?1783944301",
     "date": "2004-10-01",
     "colors": [
       "R"
@@ -5086,11 +5086,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 256,
-    "superrank": 257,
+    "superrank": 256,
     "identity_rank": 26
   },
   "Devastating Onslaught": {
-    "img": "https://cards.scryfall.io/large/front/f/c/fc779971-24e2-46a8-86be-16f0b244a3d2.jpg?1782685495",
+    "img": "https://cards.scryfall.io/large/front/f/c/fc779971-24e2-46a8-86be-16f0b244a3d2.jpg?1783905955",
     "date": "2025-08-01",
     "colors": [
       "R"
@@ -5108,12 +5108,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 471,
-    "superrank": 484,
+    "rank": 470,
+    "superrank": 483,
     "identity_rank": 71
   },
   "Devoted Druid": {
-    "img": "https://cards.scryfall.io/large/front/8/2/820e2f07-f637-4144-b45a-0e1430dcf55e.jpg?1782716149",
+    "img": "https://cards.scryfall.io/large/front/8/2/820e2f07-f637-4144-b45a-0e1430dcf55e.jpg?1783942744",
     "date": "2008-05-02",
     "colors": [
       "G"
@@ -5138,7 +5138,7 @@ const cards =
     "identity_rank": 24
   },
   "Diabolic Intent": {
-    "img": "https://cards.scryfall.io/large/front/7/6/76d1b5c5-cc47-465f-8549-4fd1ca4280df.jpg?1782719926",
+    "img": "https://cards.scryfall.io/large/front/7/6/76d1b5c5-cc47-465f-8549-4fd1ca4280df.jpg?1783945622",
     "date": "2001-02-05",
     "colors": [
       "B"
@@ -5161,7 +5161,7 @@ const cards =
     "identity_rank": 12
   },
   "Diabolic Tutor": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f6cf7e1b-00ea-46f8-a20a-76c307167854.jpg?1782719404",
+    "img": "https://cards.scryfall.io/large/front/f/6/f6cf7e1b-00ea-46f8-a20a-76c307167854.jpg?1783945249",
     "date": "2001-10-01",
     "colors": [
       "B"
@@ -5179,12 +5179,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 753,
-    "superrank": 792,
-    "identity_rank": 115
+    "rank": 754,
+    "superrank": 793,
+    "identity_rank": 116
   },
   "Dihada, Binder of Wills": {
-    "img": "https://cards.scryfall.io/large/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1782700703",
+    "img": "https://cards.scryfall.io/large/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1783921477",
     "date": "2022-09-09",
     "colors": [
       "B",
@@ -5207,12 +5207,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 7,
-    "rank": 771,
-    "superrank": 422,
+    "rank": 773,
+    "superrank": 421,
     "identity_rank": 2
   },
   "Dimir House Guard": {
-    "img": "https://cards.scryfall.io/large/front/2/3/231d6840-5228-4df1-8583-efda6e0b8185.jpg?1782730969",
+    "img": "https://cards.scryfall.io/large/front/2/3/231d6840-5228-4df1-8583-efda6e0b8185.jpg?1783913233",
     "date": "2005-10-07",
     "colors": [
       "B"
@@ -5232,12 +5232,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 531,
-    "superrank": 591,
-    "identity_rank": 82
+    "rank": 530,
+    "superrank": 590,
+    "identity_rank": 81
   },
   "Dimir Signet": {
-    "img": "https://cards.scryfall.io/large/front/3/5/35148573-7788-4023-a63c-4a09f48273c1.jpg?1782740881",
+    "img": "https://cards.scryfall.io/large/front/3/5/35148573-7788-4023-a63c-4a09f48273c1.jpg?1783926555",
     "date": "2005-10-07",
     "colors": [],
     "mana_cost": "{2}",
@@ -5254,12 +5254,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 12,
-    "rank": 306,
-    "superrank": 286,
+    "rank": 303,
+    "superrank": 285,
     "identity_rank": 9
   },
   "Dismember": {
-    "img": "https://cards.scryfall.io/large/front/0/8/08d405dc-180f-4edb-8c53-80a034ee622e.jpg?1782741718",
+    "img": "https://cards.scryfall.io/large/front/0/8/08d405dc-180f-4edb-8c53-80a034ee622e.jpg?1783927733",
     "date": "2011-05-13",
     "colors": [
       "B"
@@ -5277,12 +5277,12 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 307,
-    "superrank": 345,
-    "identity_rank": 42
+    "rank": 304,
+    "superrank": 344,
+    "identity_rank": 41
   },
   "Dispel": {
-    "img": "https://cards.scryfall.io/large/front/f/1/f178d0cc-5dd1-41ab-a2e8-218ece6f2a86.jpg?1782715574",
+    "img": "https://cards.scryfall.io/large/front/f/1/f178d0cc-5dd1-41ab-a2e8-218ece6f2a86.jpg?1783942063",
     "date": "2010-02-05",
     "colors": [
       "U"
@@ -5305,7 +5305,7 @@ const cards =
     "identity_rank": 26
   },
   "Displacer Kitten": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c7a401b8-29fb-46ef-a663-427f66724d5c.jpg?1782701312",
+    "img": "https://cards.scryfall.io/large/front/c/7/c7a401b8-29fb-46ef-a663-427f66724d5c.jpg?1783922795",
     "date": "2022-06-10",
     "colors": [
       "U"
@@ -5330,7 +5330,7 @@ const cards =
     "identity_rank": 32
   },
   "Disrupting Shoal": {
-    "img": "https://cards.scryfall.io/large/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1782718119",
+    "img": "https://cards.scryfall.io/large/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1783944208",
     "date": "2005-02-04",
     "colors": [
       "U"
@@ -5348,12 +5348,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 552,
-    "superrank": 610,
+    "rank": 553,
+    "superrank": 611,
     "identity_rank": 90
   },
   "Disruptor Flute": {
-    "img": "https://cards.scryfall.io/large/front/e/7/e764e3e9-653c-44d7-b96a-530d51ca5c2f.jpg?1782690963",
+    "img": "https://cards.scryfall.io/large/front/e/7/e764e3e9-653c-44d7-b96a-530d51ca5c2f.jpg?1783911153",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -5367,12 +5367,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 501,
-    "superrank": 652,
+    "rank": 500,
+    "superrank": 653,
     "identity_rank": 102
   },
   "Diviner's Wand": {
-    "img": "https://cards.scryfall.io/large/front/2/7/277eed87-6b78-456d-91fb-774c72b3ae8c.jpg?1782716202",
+    "img": "https://cards.scryfall.io/large/front/2/7/277eed87-6b78-456d-91fb-774c72b3ae8c.jpg?1783942775",
     "date": "2008-02-01",
     "colors": [],
     "mana_cost": "{3}",
@@ -5387,12 +5387,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 950,
-    "superrank": 982,
+    "rank": 951,
+    "superrank": 983,
     "identity_rank": 160
   },
   "Divining Witch": {
-    "img": "https://cards.scryfall.io/large/front/b/e/be981eef-9dd2-4233-82c9-03f9f2e82c59.jpg?1782720203",
+    "img": "https://cards.scryfall.io/large/front/b/e/be981eef-9dd2-4233-82c9-03f9f2e82c59.jpg?1783945828",
     "date": "2000-02-14",
     "colors": [
       "B"
@@ -5412,12 +5412,38 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 838,
-    "superrank": 852,
-    "identity_rank": 136
+    "rank": 840,
+    "superrank": 854,
+    "identity_rank": 138
+  },
+  "Doctor Doom, Unrivaled": {
+    "img": "https://cards.scryfall.io/large/front/2/9/2973e855-fe93-41a1-a62e-4699ef2c3d1d.jpg?1783903062",
+    "date": "2026-06-26",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4,
+    "type_line": "Legendary Creature \u2014 Human Sorcerer Villain",
+    "color_identity": [
+      "B"
+    ],
+    "power": "4",
+    "toughness": "4",
+    "name": "Doctor Doom, Unrivaled",
+    "count": 1,
+    "percent": 1,
+    "types": [
+      "Legendary",
+      "Creature"
+    ],
+    "supercent": 2,
+    "rank": 755,
+    "superrank": 794,
+    "identity_rank": 117
   },
   "Donatello, Gadget Master": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b5dd830-dab8-4628-845f-3d17973f9ffa.jpg?1782683720",
+    "img": "https://cards.scryfall.io/large/front/8/b/8b5dd830-dab8-4628-845f-3d17973f9ffa.jpg?1783904117",
     "date": "2026-03-06",
     "colors": [
       "U"
@@ -5438,12 +5464,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 809,
-    "superrank": 828,
+    "rank": 811,
+    "superrank": 830,
     "identity_rank": 133
   },
   "Doomsday": {
-    "img": "https://cards.scryfall.io/large/front/d/c/dcc9dbfa-0043-47d2-acfe-f636841afc2c.jpg?1782720500",
+    "img": "https://cards.scryfall.io/large/front/d/c/dcc9dbfa-0043-47d2-acfe-f636841afc2c.jpg?1783946186",
     "date": "1997-06-09",
     "colors": [
       "B"
@@ -5461,12 +5487,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 553,
-    "superrank": 611,
-    "identity_rank": 87
+    "rank": 554,
+    "superrank": 612,
+    "identity_rank": 88
   },
   "Dosan the Falling Leaf": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ffb190db-48fc-4c39-ae9f-5e304eabb4f4.jpg?1782718174",
+    "img": "https://cards.scryfall.io/large/front/f/f/ffb190db-48fc-4c39-ae9f-5e304eabb4f4.jpg?1783944291",
     "date": "2004-10-01",
     "colors": [
       "G"
@@ -5492,7 +5518,7 @@ const cards =
     "identity_rank": 38
   },
   "Dragon's Rage Channeler": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c75cc38d-aee6-44ab-be69-26491fb9b808.jpg?1782691754",
+    "img": "https://cards.scryfall.io/large/front/c/7/c75cc38d-aee6-44ab-be69-26491fb9b808.jpg?1783911469",
     "date": "2021-06-18",
     "colors": [
       "R"
@@ -5513,11 +5539,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 243,
-    "superrank": 252,
+    "superrank": 251,
     "identity_rank": 22
   },
   "Dramatic Reversal": {
-    "img": "https://cards.scryfall.io/large/front/d/c/dcb59045-2743-48ae-8063-727e551b1c41.jpg?1782711602",
+    "img": "https://cards.scryfall.io/large/front/d/c/dcb59045-2743-48ae-8063-727e551b1c41.jpg?1783937222",
     "date": "2016-09-30",
     "colors": [
       "U"
@@ -5535,12 +5561,12 @@ const cards =
       "Instant"
     ],
     "supercent": 18,
-    "rank": 193,
-    "superrank": 227,
+    "rank": 195,
+    "superrank": 228,
     "identity_rank": 42
   },
   "Drana and Linvala": {
-    "img": "https://cards.scryfall.io/large/front/b/b/bbda000f-3cf7-48b6-96ff-c23a3a64eab5.jpg?1782697679",
+    "img": "https://cards.scryfall.io/large/front/b/b/bbda000f-3cf7-48b6-96ff-c23a3a64eab5.jpg?1783916955",
     "date": "2023-04-21",
     "colors": [
       "B",
@@ -5563,12 +5589,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 690,
-    "superrank": 582,
+    "rank": 691,
+    "superrank": 581,
     "identity_rank": 7
   },
   "Drannith Magistrate": {
-    "img": "https://cards.scryfall.io/large/front/a/d/adaf8f6a-9559-4b47-8e67-2c4c3d6d8c60.jpg?1782707054",
+    "img": "https://cards.scryfall.io/large/front/a/d/adaf8f6a-9559-4b47-8e67-2c4c3d6d8c60.jpg?1783930978",
     "date": "2020-04-24",
     "colors": [
       "W"
@@ -5593,7 +5619,7 @@ const cards =
     "identity_rank": 10
   },
   "Dread Return": {
-    "img": "https://cards.scryfall.io/large/front/9/7/977dc1ce-a224-4271-86f1-31b3fe53405c.jpg?1782735125",
+    "img": "https://cards.scryfall.io/large/front/9/7/977dc1ce-a224-4271-86f1-31b3fe53405c.jpg?1783918379",
     "date": "2006-10-06",
     "colors": [
       "B"
@@ -5611,12 +5637,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 691,
-    "superrank": 753,
-    "identity_rank": 104
+    "rank": 692,
+    "superrank": 754,
+    "identity_rank": 105
   },
   "Dream Beavers": {
-    "img": "https://cards.scryfall.io/large/front/6/0/600e3bc1-9777-4057-a11e-4f61582636c6.jpg?1782683698",
+    "img": "https://cards.scryfall.io/large/front/6/0/600e3bc1-9777-4057-a11e-4f61582636c6.jpg?1783904107",
     "date": "2026-03-06",
     "colors": [
       "B"
@@ -5636,12 +5662,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 815,
-    "superrank": 832,
-    "identity_rank": 127
+    "rank": 817,
+    "superrank": 834,
+    "identity_rank": 129
   },
   "Dress Down": {
-    "img": "https://cards.scryfall.io/large/front/9/b/9b0c8057-bac5-4160-9b30-bfe0cfc37602.jpg?1782691758",
+    "img": "https://cards.scryfall.io/large/front/9/b/9b0c8057-bac5-4160-9b30-bfe0cfc37602.jpg?1783911471",
     "date": "2021-06-18",
     "colors": [
       "U"
@@ -5659,12 +5685,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 6,
-    "rank": 353,
+    "rank": 355,
     "superrank": 436,
     "identity_rank": 68
   },
   "Drown in the Loch": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8bf5df5b-164d-4ec2-a5e6-bbaea152e271.jpg?1782707809",
+    "img": "https://cards.scryfall.io/large/front/8/b/8bf5df5b-164d-4ec2-a5e6-bbaea152e271.jpg?1783932598",
     "date": "2019-10-04",
     "colors": [
       "B",
@@ -5684,12 +5710,12 @@ const cards =
       "Instant"
     ],
     "supercent": 3,
-    "rank": 655,
-    "superrank": 641,
+    "rank": 656,
+    "superrank": 642,
     "identity_rank": 12
   },
   "Dryad Arbor": {
-    "img": "https://cards.scryfall.io/large/front/b/b/bb3a843b-2dea-4b44-be74-c09c18b9b969.jpg?1782741753",
+    "img": "https://cards.scryfall.io/large/front/b/b/bb3a843b-2dea-4b44-be74-c09c18b9b969.jpg?1783927752",
     "date": "2007-05-04",
     "colors": [
       "G"
@@ -5710,12 +5736,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 505,
-    "superrank": 417,
+    "rank": 504,
+    "superrank": 416,
     "identity_rank": 52
   },
   "Dualcaster Mage": {
-    "img": "https://cards.scryfall.io/large/front/0/b/0b80c8a0-0870-4836-bee1-f4a805d119d6.jpg?1782713006",
+    "img": "https://cards.scryfall.io/large/front/0/b/0b80c8a0-0870-4836-bee1-f4a805d119d6.jpg?1783938867",
     "date": "2014-11-07",
     "colors": [
       "R"
@@ -5736,11 +5762,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 244,
-    "superrank": 253,
+    "superrank": 252,
     "identity_rank": 23
   },
   "Dwarven Armorer": {
-    "img": "https://cards.scryfall.io/large/front/1/d/1d50bf06-97ab-4874-a484-9289f41dc98e.jpg?1782722001",
+    "img": "https://cards.scryfall.io/large/front/1/d/1d50bf06-97ab-4874-a484-9289f41dc98e.jpg?1783947896",
     "date": "1994-11-01",
     "colors": [
       "R"
@@ -5760,12 +5786,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 361,
-    "superrank": 375,
-    "identity_rank": 46
+    "rank": 363,
+    "superrank": 376,
+    "identity_rank": 47
   },
   "Dwarven Bloodboiler": {
-    "img": "https://cards.scryfall.io/large/front/9/a/9ac576b2-cda4-4aea-aa5c-933ec0457dda.jpg?1782719240",
+    "img": "https://cards.scryfall.io/large/front/9/a/9ac576b2-cda4-4aea-aa5c-933ec0457dda.jpg?1783945118",
     "date": "2002-05-27",
     "colors": [
       "R"
@@ -5785,12 +5811,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 362,
-    "superrank": 376,
-    "identity_rank": 47
+    "rank": 364,
+    "superrank": 377,
+    "identity_rank": 48
   },
   "Dwarven Grunt": {
-    "img": "https://cards.scryfall.io/large/front/6/f/6f00d726-4289-48ff-8c14-6a5080a00fda.jpg?1782719386",
+    "img": "https://cards.scryfall.io/large/front/6/f/6f00d726-4289-48ff-8c14-6a5080a00fda.jpg?1783945233",
     "date": "2001-10-01",
     "colors": [
       "R"
@@ -5810,12 +5836,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 363,
-    "superrank": 377,
-    "identity_rank": 48
+    "rank": 365,
+    "superrank": 378,
+    "identity_rank": 49
   },
   "Dwarven Ruins": {
-    "img": "https://cards.scryfall.io/large/front/0/d/0dfe1352-27be-4c99-a58f-b961f911f270.jpg?1782721965",
+    "img": "https://cards.scryfall.io/large/front/0/d/0dfe1352-27be-4c99-a58f-b961f911f270.jpg?1783947879",
     "date": "1994-11-01",
     "colors": [],
     "mana_cost": "",
@@ -5831,12 +5857,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 951,
-    "superrank": 918,
-    "identity_rank": 143
+    "rank": 952,
+    "superrank": 919,
+    "identity_rank": 144
   },
   "Dwarven Scorcher": {
-    "img": "https://cards.scryfall.io/large/front/0/9/099873b1-7181-4b9d-8ce1-8ec63c814afe.jpg?1782719239",
+    "img": "https://cards.scryfall.io/large/front/0/9/099873b1-7181-4b9d-8ce1-8ec63c814afe.jpg?1783945118",
     "date": "2002-05-27",
     "colors": [
       "R"
@@ -5856,12 +5882,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 364,
-    "superrank": 378,
-    "identity_rank": 49
+    "rank": 366,
+    "superrank": 379,
+    "identity_rank": 50
   },
   "Dwarven Trader": {
-    "img": "https://cards.scryfall.io/large/front/8/e/8e6d9318-30d6-473f-b576-cc249454440f.jpg?1782721569",
+    "img": "https://cards.scryfall.io/large/front/8/e/8e6d9318-30d6-473f-b576-cc249454440f.jpg?1783947284",
     "date": "1995-10-01",
     "colors": [
       "R"
@@ -5881,12 +5907,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 365,
-    "superrank": 379,
-    "identity_rank": 50
+    "rank": 367,
+    "superrank": 380,
+    "identity_rank": 51
   },
   "Earthcraft": {
-    "img": "https://cards.scryfall.io/large/front/9/d/9dda7531-82a1-4f49-8858-601ddbc6e2bc.jpg?1782720923",
+    "img": "https://cards.scryfall.io/large/front/9/d/9dda7531-82a1-4f49-8858-601ddbc6e2bc.jpg?1783946620",
     "date": "1997-10-14",
     "colors": [
       "G"
@@ -5904,12 +5930,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 11,
-    "rank": 395,
+    "rank": 397,
     "superrank": 311,
-    "identity_rank": 39
+    "identity_rank": 40
   },
   "Eidolon of Rhetoric": {
-    "img": "https://cards.scryfall.io/large/front/c/3/c3bc8b9e-4d22-41ba-b593-d383fd301ef9.jpg?1782713448",
+    "img": "https://cards.scryfall.io/large/front/c/3/c3bc8b9e-4d22-41ba-b593-d383fd301ef9.jpg?1783939461",
     "date": "2014-05-02",
     "colors": [
       "W"
@@ -5930,12 +5956,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 327,
+    "rank": 324,
     "superrank": 320,
     "identity_rank": 26
   },
   "Eiganjo, Seat of the Empire": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ecb53f59-d89b-481c-af98-75c11c30ee17.jpg?1782701987",
+    "img": "https://cards.scryfall.io/large/front/e/c/ecb53f59-d89b-481c-af98-75c11c30ee17.jpg?1783923724",
     "date": "2022-02-18",
     "colors": [],
     "mana_cost": "",
@@ -5952,12 +5978,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 977,
-    "superrank": 929,
+    "rank": 978,
+    "superrank": 930,
     "identity_rank": 94
   },
   "Eladamri's Call": {
-    "img": "https://cards.scryfall.io/large/front/d/c/dcb79f39-5ef3-4ad6-9a43-04beb27d8480.jpg?1782719900",
+    "img": "https://cards.scryfall.io/large/front/d/c/dcb79f39-5ef3-4ad6-9a43-04beb27d8480.jpg?1783945607",
     "date": "2001-02-05",
     "colors": [
       "G",
@@ -5982,7 +6008,7 @@ const cards =
     "identity_rank": 2
   },
   "Eldrazi Confluence": {
-    "img": "https://cards.scryfall.io/large/front/7/8/78ee2013-29dc-4879-9d59-1b492996d297.jpg?1782691722",
+    "img": "https://cards.scryfall.io/large/front/7/8/78ee2013-29dc-4879-9d59-1b492996d297.jpg?1783911429",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{2}{C}{C}",
@@ -5996,12 +6022,12 @@ const cards =
       "Instant"
     ],
     "supercent": 1,
-    "rank": 641,
-    "superrank": 949,
+    "rank": 642,
+    "superrank": 950,
     "identity_rank": 127
   },
   "Eldritch Evolution": {
-    "img": "https://cards.scryfall.io/large/front/b/6/b6ffb44b-20f0-4a08-9030-0160bd5ec544.jpg?1782726548",
+    "img": "https://cards.scryfall.io/large/front/b/6/b6ffb44b-20f0-4a08-9030-0160bd5ec544.jpg?1783908003",
     "date": "2016-07-22",
     "colors": [
       "G"
@@ -6024,7 +6050,7 @@ const cards =
     "identity_rank": 6
   },
   "Electro, Assaulting Battery": {
-    "img": "https://cards.scryfall.io/large/front/5/b/5b12f23c-54b2-4b28-8434-c3f509a204d7.jpg?1782685081",
+    "img": "https://cards.scryfall.io/large/front/5/b/5b12f23c-54b2-4b28-8434-c3f509a204d7.jpg?1783905504",
     "date": "2025-09-23",
     "colors": [
       "R"
@@ -6045,12 +6071,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 917,
-    "superrank": 894,
+    "rank": 918,
+    "superrank": 895,
     "identity_rank": 127
   },
   "Electroduplicate": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f3f3ab83-3b8e-4747-98ae-7b981bcc77b1.jpg?1782688982",
+    "img": "https://cards.scryfall.io/large/front/f/3/f3f3ab83-3b8e-4747-98ae-7b981bcc77b1.jpg?1783909024",
     "date": "2024-11-15",
     "colors": [
       "R"
@@ -6068,12 +6094,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 642,
-    "superrank": 727,
+    "rank": 643,
+    "superrank": 728,
     "identity_rank": 102
   },
   "Elegant Parlor": {
-    "img": "https://cards.scryfall.io/large/front/7/2/72c6d541-e2cb-4d6e-acac-90a8f53b7006.jpg?1782693779",
+    "img": "https://cards.scryfall.io/large/front/7/2/72c6d541-e2cb-4d6e-acac-90a8f53b7006.jpg?1783912824",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -6090,12 +6116,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 986,
-    "superrank": 546,
+    "rank": 987,
+    "superrank": 545,
     "identity_rank": 12
   },
   "Elesh Norn, Mother of Machines": {
-    "img": "https://cards.scryfall.io/large/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.jpg?1782698569",
+    "img": "https://cards.scryfall.io/large/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.jpg?1783918179",
     "date": "2023-02-03",
     "colors": [
       "W"
@@ -6116,12 +6142,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 715,
-    "superrank": 767,
+    "rank": 716,
+    "superrank": 768,
     "identity_rank": 63
   },
   "Elves of Deep Shadow": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f395278e-6d74-4f35-af9d-21bad7b19763.jpg?1782722072",
+    "img": "https://cards.scryfall.io/large/front/f/3/f395278e-6d74-4f35-af9d-21bad7b19763.jpg?1783947933",
     "date": "1994-08-01",
     "colors": [
       "G"
@@ -6142,12 +6168,12 @@ const cards =
       "Creature"
     ],
     "supercent": 35,
-    "rank": 197,
+    "rank": 198,
     "superrank": 140,
     "identity_rank": 6
   },
   "Elvish Mystic": {
-    "img": "https://cards.scryfall.io/large/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1782741687",
+    "img": "https://cards.scryfall.io/large/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1783927718",
     "date": "2013-07-19",
     "colors": [
       "G"
@@ -6168,11 +6194,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 272,
-    "superrank": 215,
+    "superrank": 216,
     "identity_rank": 33
   },
   "Elvish Spirit Guide": {
-    "img": "https://cards.scryfall.io/large/front/5/b/5b94f37f-ebdf-4b79-a615-58331d27cf4e.jpg?1782721498",
+    "img": "https://cards.scryfall.io/large/front/5/b/5b94f37f-ebdf-4b79-a615-58331d27cf4e.jpg?1783947172",
     "date": "1996-06-10",
     "colors": [
       "G"
@@ -6197,7 +6223,7 @@ const cards =
     "identity_rank": 3
   },
   "Emergence Zone": {
-    "img": "https://cards.scryfall.io/large/front/a/b/ab95f6e7-b806-47fe-a071-6c38b3176d94.jpg?1782708583",
+    "img": "https://cards.scryfall.io/large/front/a/b/ab95f6e7-b806-47fe-a071-6c38b3176d94.jpg?1783933367",
     "date": "2019-05-03",
     "colors": [],
     "mana_cost": "",
@@ -6216,7 +6242,7 @@ const cards =
     "identity_rank": 33
   },
   "Emiel the Blessed": {
-    "img": "https://cards.scryfall.io/large/front/f/7/f74dfd07-d17c-4890-82c3-4b12a6029940.jpg?1782706766",
+    "img": "https://cards.scryfall.io/large/front/f/7/f74dfd07-d17c-4890-82c3-4b12a6029940.jpg?1783930510",
     "date": "2020-07-17",
     "colors": [
       "W"
@@ -6243,7 +6269,7 @@ const cards =
     "identity_rank": 7
   },
   "Emperor of Bones": {
-    "img": "https://cards.scryfall.io/large/front/e/d/edfbba55-38b1-4994-ba6f-de09af4098dc.jpg?1782690972",
+    "img": "https://cards.scryfall.io/large/front/e/d/edfbba55-38b1-4994-ba6f-de09af4098dc.jpg?1783911157",
     "date": "2024-06-14",
     "colors": [
       "B"
@@ -6263,12 +6289,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 554,
-    "superrank": 612,
-    "identity_rank": 88
+    "rank": 555,
+    "superrank": 613,
+    "identity_rank": 89
   },
   "Emrakul, the Promised End": {
-    "img": "https://cards.scryfall.io/large/front/3/1/3183897e-4f86-4020-b149-cc4c2451a6c0.jpg?1782726609",
+    "img": "https://cards.scryfall.io/large/front/3/1/3183897e-4f86-4020-b149-cc4c2451a6c0.jpg?1783908032",
     "date": "2016-07-22",
     "colors": [],
     "mana_cost": "{13}",
@@ -6285,12 +6311,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 791,
-    "superrank": 965,
+    "rank": 793,
+    "superrank": 966,
     "identity_rank": 143
   },
   "Endurance": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c069406b-a34b-4b9a-831c-641e9d02927e.jpg?1782691747",
+    "img": "https://cards.scryfall.io/large/front/c/0/c069406b-a34b-4b9a-831c-641e9d02927e.jpg?1783911466",
     "date": "2021-06-18",
     "colors": [
       "G"
@@ -6310,12 +6336,12 @@ const cards =
       "Creature"
     ],
     "supercent": 23,
-    "rank": 236,
+    "rank": 235,
     "superrank": 190,
     "identity_rank": 28
   },
   "Enduring Vitality": {
-    "img": "https://cards.scryfall.io/large/front/9/d/9d76a30c-0431-4334-892a-9822dda9671a.jpg?1782689493",
+    "img": "https://cards.scryfall.io/large/front/9/d/9d76a30c-0431-4334-892a-9822dda9671a.jpg?1783909457",
     "date": "2024-09-27",
     "colors": [
       "G"
@@ -6341,7 +6367,7 @@ const cards =
     "identity_rank": 16
   },
   "Enlightened Tutor": {
-    "img": "https://cards.scryfall.io/large/front/c/b/cbac1d27-15e2-4e2f-82ab-625a16e096cb.jpg?1782721468",
+    "img": "https://cards.scryfall.io/large/front/c/b/cbac1d27-15e2-4e2f-82ab-625a16e096cb.jpg?1783947123",
     "date": "1996-10-08",
     "colors": [
       "W"
@@ -6364,7 +6390,7 @@ const cards =
     "identity_rank": 1
   },
   "Enslaved Dwarf": {
-    "img": "https://cards.scryfall.io/large/front/d/a/da5003a6-211e-43d3-9a3c-756496357163.jpg?1782719291",
+    "img": "https://cards.scryfall.io/large/front/d/a/da5003a6-211e-43d3-9a3c-756496357163.jpg?1783945149",
     "date": "2002-02-04",
     "colors": [
       "R"
@@ -6384,12 +6410,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 366,
-    "superrank": 380,
-    "identity_rank": 51
+    "rank": 368,
+    "superrank": 381,
+    "identity_rank": 52
   },
   "Enter the Infinite": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c676a0eb-7307-48af-ba6b-6b35863dec42.jpg?1782730803",
+    "img": "https://cards.scryfall.io/large/front/c/6/c676a0eb-7307-48af-ba6b-6b35863dec42.jpg?1783913163",
     "date": "2013-02-01",
     "colors": [
       "U"
@@ -6407,12 +6433,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 816,
-    "superrank": 833,
+    "rank": 818,
+    "superrank": 835,
     "identity_rank": 135
   },
   "Entomb": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f60a2091-fb97-4f04-911b-fce9b6351044.jpg?1782719403",
+    "img": "https://cards.scryfall.io/large/front/f/6/f60a2091-fb97-4f04-911b-fce9b6351044.jpg?1783945246",
     "date": "2001-10-01",
     "colors": [
       "B"
@@ -6430,12 +6456,12 @@ const cards =
       "Instant"
     ],
     "supercent": 46,
-    "rank": 86,
-    "superrank": 114,
+    "rank": 87,
+    "superrank": 115,
     "identity_rank": 15
   },
   "Ephemerate": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f48ab69d-8a01-4dcb-af70-31e2c62278df.jpg?1782704768",
+    "img": "https://cards.scryfall.io/large/front/f/4/f48ab69d-8a01-4dcb-af70-31e2c62278df.jpg?1783926914",
     "date": "2019-06-14",
     "colors": [
       "W"
@@ -6453,12 +6479,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 696,
-    "superrank": 755,
+    "rank": 697,
+    "superrank": 756,
     "identity_rank": 57
   },
   "Esper Sentinel": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b5a916f-a6f2-4e89-b38f-7e5bc0c2e032.jpg?1782691759",
+    "img": "https://cards.scryfall.io/large/front/8/b/8b5a916f-a6f2-4e89-b38f-7e5bc0c2e032.jpg?1783911473",
     "date": "2021-06-18",
     "colors": [
       "W"
@@ -6484,7 +6510,7 @@ const cards =
     "identity_rank": 2
   },
   "Essence Flux": {
-    "img": "https://cards.scryfall.io/large/front/b/e/be9cb87e-d741-4f17-bbb7-f6d2292f820f.jpg?1782726591",
+    "img": "https://cards.scryfall.io/large/front/b/e/be9cb87e-d741-4f17-bbb7-f6d2292f820f.jpg?1783908023",
     "date": "2016-04-08",
     "colors": [
       "U"
@@ -6502,12 +6528,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 875,
-    "superrank": 869,
+    "rank": 877,
+    "superrank": 871,
     "identity_rank": 149
   },
   "Estrid's Invocation": {
-    "img": "https://cards.scryfall.io/large/front/0/4/04c01143-f7fc-4874-87fd-59d1432c2bbb.jpg?1782709415",
+    "img": "https://cards.scryfall.io/large/front/0/4/04c01143-f7fc-4874-87fd-59d1432c2bbb.jpg?1783934343",
     "date": "2018-08-10",
     "colors": [
       "U"
@@ -6525,12 +6551,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 706,
-    "superrank": 762,
+    "rank": 707,
+    "superrank": 763,
     "identity_rank": 113
   },
   "Eternal Witness": {
-    "img": "https://cards.scryfall.io/large/front/5/8/584dfb52-4a6c-4a33-9ae1-12227b938f9a.jpg?1782741687",
+    "img": "https://cards.scryfall.io/large/front/5/8/584dfb52-4a6c-4a33-9ae1-12227b938f9a.jpg?1783927717",
     "date": "2004-06-04",
     "colors": [
       "G"
@@ -6550,12 +6576,12 @@ const cards =
       "Creature"
     ],
     "supercent": 30,
-    "rank": 180,
+    "rank": 181,
     "superrank": 159,
-    "identity_rank": 19
+    "identity_rank": 20
   },
   "Ethersworn Canonist": {
-    "img": "https://cards.scryfall.io/large/front/2/a/2aebe7a8-b982-4be4-83ca-3594e8f606b4.jpg?1782715996",
+    "img": "https://cards.scryfall.io/large/front/2/a/2aebe7a8-b982-4be4-83ca-3594e8f606b4.jpg?1783942583",
     "date": "2008-10-03",
     "colors": [
       "W"
@@ -6577,11 +6603,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 276,
-    "superrank": 281,
+    "superrank": 280,
     "identity_rank": 20
   },
   "Evendo Brushrazer": {
-    "img": "https://cards.scryfall.io/large/front/e/7/e7a4a1da-664d-4675-8ddd-df5fc1b962bc.jpg?1782685697",
+    "img": "https://cards.scryfall.io/large/front/e/7/e7a4a1da-664d-4675-8ddd-df5fc1b962bc.jpg?1783906058",
     "date": "2025-08-01",
     "colors": [
       "R"
@@ -6601,12 +6627,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 472,
-    "superrank": 485,
+    "rank": 471,
+    "superrank": 484,
     "identity_rank": 72
   },
   "Everflowing Chalice": {
-    "img": "https://cards.scryfall.io/large/front/2/7/27875258-47af-4105-9ded-56e03dcbd9e7.jpg?1782741657",
+    "img": "https://cards.scryfall.io/large/front/2/7/27875258-47af-4105-9ded-56e03dcbd9e7.jpg?1783927706",
     "date": "2010-02-05",
     "colors": [],
     "mana_cost": "{0}",
@@ -6620,12 +6646,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 414,
-    "superrank": 592,
+    "rank": 416,
+    "superrank": 591,
     "identity_rank": 85
   },
   "Evolutionary Leap": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c731ba3b-3c48-472b-88ec-05205690e703.jpg?1782741686",
+    "img": "https://cards.scryfall.io/large/front/c/7/c731ba3b-3c48-472b-88ec-05205690e703.jpg?1783927718",
     "date": "2015-07-17",
     "colors": [
       "G"
@@ -6643,12 +6669,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 934,
-    "superrank": 702,
+    "rank": 935,
+    "superrank": 703,
     "identity_rank": 98
   },
   "Exhume": {
-    "img": "https://cards.scryfall.io/large/front/a/8/a88b23ce-ce19-47da-b9f2-055a4d6bdc79.jpg?1782720705",
+    "img": "https://cards.scryfall.io/large/front/a/8/a88b23ce-ce19-47da-b9f2-055a4d6bdc79.jpg?1783946344",
     "date": "1998-10-12",
     "colors": [
       "B"
@@ -6666,12 +6692,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 754,
-    "superrank": 793,
-    "identity_rank": 116
+    "rank": 756,
+    "superrank": 795,
+    "identity_rank": 118
   },
   "Exotic Orchard": {
-    "img": "https://cards.scryfall.io/large/front/9/5/95d63eac-469f-454f-a575-7f19abb554cf.jpg?1782699379",
+    "img": "https://cards.scryfall.io/large/front/9/5/95d63eac-469f-454f-a575-7f19abb554cf.jpg?1783919648",
     "date": "2009-02-06",
     "colors": [],
     "mana_cost": "",
@@ -6686,11 +6712,11 @@ const cards =
     ],
     "supercent": 46,
     "rank": 53,
-    "superrank": 115,
+    "superrank": 116,
     "identity_rank": 26
   },
   "Expedite": {
-    "img": "https://cards.scryfall.io/large/front/5/9/59c65eb7-4353-45ce-9c2e-1791c2804ccf.jpg?1782712197",
+    "img": "https://cards.scryfall.io/large/front/5/9/59c65eb7-4353-45ce-9c2e-1791c2804ccf.jpg?1783937907",
     "date": "2016-01-22",
     "colors": [
       "R"
@@ -6708,12 +6734,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 918,
-    "superrank": 895,
+    "rank": 919,
+    "superrank": 896,
     "identity_rank": 128
   },
   "Expedition Map": {
-    "img": "https://cards.scryfall.io/large/front/c/5/c55bee97-593f-441f-b96c-a998d5212a55.jpg?1782715610",
+    "img": "https://cards.scryfall.io/large/front/c/5/c55bee97-593f-441f-b96c-a998d5212a55.jpg?1783942127",
     "date": "2009-10-02",
     "colors": [],
     "mana_cost": "{1}",
@@ -6727,12 +6753,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 572,
-    "superrank": 684,
+    "rank": 573,
+    "superrank": 685,
     "identity_rank": 114
   },
   "Exploration": {
-    "img": "https://cards.scryfall.io/large/front/2/f/2f09e451-0246-45a2-8bfd-07d3c65ddfe6.jpg?1782720652",
+    "img": "https://cards.scryfall.io/large/front/2/f/2f09e451-0246-45a2-8bfd-07d3c65ddfe6.jpg?1783946316",
     "date": "1998-10-12",
     "colors": [
       "G"
@@ -6750,12 +6776,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 618,
-    "superrank": 635,
+    "rank": 619,
+    "superrank": 636,
     "identity_rank": 63
   },
   "Fabricate": {
-    "img": "https://cards.scryfall.io/large/front/a/7/a742e23c-1991-4dce-b670-dea92a1cf4ec.jpg?1782718539",
+    "img": "https://cards.scryfall.io/large/front/a/7/a742e23c-1991-4dce-b670-dea92a1cf4ec.jpg?1783944555",
     "date": "2003-10-02",
     "colors": [
       "U"
@@ -6773,12 +6799,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 777,
-    "superrank": 806,
+    "rank": 779,
+    "superrank": 808,
     "identity_rank": 118
   },
   "Faeburrow Elder": {
-    "img": "https://cards.scryfall.io/large/front/7/7/77d54dca-d09b-49a6-a446-8144a7db6711.jpg?1782707676",
+    "img": "https://cards.scryfall.io/large/front/7/7/77d54dca-d09b-49a6-a446-8144a7db6711.jpg?1783932525",
     "date": "2019-10-04",
     "colors": [
       "G",
@@ -6801,11 +6827,11 @@ const cards =
     ],
     "supercent": 27,
     "rank": 252,
-    "superrank": 167,
+    "superrank": 168,
     "identity_rank": 5
   },
   "Faerie Dreamthief": {
-    "img": "https://cards.scryfall.io/large/front/5/7/57ca2ec5-442d-4909-be28-93c50fbc5f7a.jpg?1782696593",
+    "img": "https://cards.scryfall.io/large/front/5/7/57ca2ec5-442d-4909-be28-93c50fbc5f7a.jpg?1783915108",
     "date": "2023-09-08",
     "colors": [
       "B"
@@ -6825,12 +6851,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 817,
-    "superrank": 834,
-    "identity_rank": 128
+    "rank": 819,
+    "superrank": 836,
+    "identity_rank": 130
   },
   "Faerie Mastermind": {
-    "img": "https://cards.scryfall.io/large/front/d/d/ddb3321c-6b3f-4e7e-8557-b90855ff48cd.jpg?1782697585",
+    "img": "https://cards.scryfall.io/large/front/d/d/ddb3321c-6b3f-4e7e-8557-b90855ff48cd.jpg?1783916893",
     "date": "2023-04-21",
     "colors": [
       "U"
@@ -6855,7 +6881,7 @@ const cards =
     "identity_rank": 22
   },
   "Faerie Seer": {
-    "img": "https://cards.scryfall.io/large/front/3/9/3989e920-05df-4b30-9ec3-e6ecaa436fce.jpg?1782704764",
+    "img": "https://cards.scryfall.io/large/front/3/9/3989e920-05df-4b30-9ec3-e6ecaa436fce.jpg?1783926910",
     "date": "2019-06-14",
     "colors": [
       "U"
@@ -6875,12 +6901,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 561,
-    "superrank": 617,
+    "rank": 562,
+    "superrank": 618,
     "identity_rank": 92
   },
   "Faithless Looting": {
-    "img": "https://cards.scryfall.io/large/front/b/7/b78f314a-a7c2-4441-9d46-67521ad570ba.jpg?1782699422",
+    "img": "https://cards.scryfall.io/large/front/b/7/b78f314a-a7c2-4441-9d46-67521ad570ba.jpg?1783919676",
     "date": "2012-02-03",
     "colors": [
       "R"
@@ -6898,12 +6924,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 876,
-    "superrank": 870,
+    "rank": 878,
+    "superrank": 872,
     "identity_rank": 122
   },
   "Fatestitcher": {
-    "img": "https://cards.scryfall.io/large/front/1/3/13226541-a4dd-4b6e-a1b2-bf2a3b7e5d2c.jpg?1782725589",
+    "img": "https://cards.scryfall.io/large/front/1/3/13226541-a4dd-4b6e-a1b2-bf2a3b7e5d2c.jpg?1783906679",
     "date": "2008-10-03",
     "colors": [
       "U"
@@ -6923,12 +6949,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 877,
-    "superrank": 871,
+    "rank": 879,
+    "superrank": 873,
     "identity_rank": 150
   },
   "Fauna Shaman": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c685e4c3-eb7b-4b9e-9676-395d69d80974.jpg?1782715382",
+    "img": "https://cards.scryfall.io/large/front/c/6/c685e4c3-eb7b-4b9e-9676-395d69d80974.jpg?1783941798",
     "date": "2010-07-16",
     "colors": [
       "G"
@@ -6948,12 +6974,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 692,
-    "superrank": 658,
+    "rank": 693,
+    "superrank": 659,
     "identity_rank": 72
   },
   "Feign Death": {
-    "img": "https://cards.scryfall.io/large/front/3/2/32af7061-fca6-4a06-be3c-01881e6b96f7.jpg?1782704380",
+    "img": "https://cards.scryfall.io/large/front/3/2/32af7061-fca6-4a06-be3c-01881e6b96f7.jpg?1783926495",
     "date": "2021-07-23",
     "colors": [
       "B"
@@ -6971,12 +6997,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 755,
-    "superrank": 794,
-    "identity_rank": 117
+    "rank": 757,
+    "superrank": 796,
+    "identity_rank": 119
   },
   "Felidar Guardian": {
-    "img": "https://cards.scryfall.io/large/front/4/4/44bdbed8-5d21-4bf5-8a32-9623b1139c85.jpg?1782711314",
+    "img": "https://cards.scryfall.io/large/front/4/4/44bdbed8-5d21-4bf5-8a32-9623b1139c85.jpg?1783936780",
     "date": "2017-01-20",
     "colors": [
       "W"
@@ -6996,12 +7022,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 396,
-    "superrank": 394,
+    "rank": 398,
+    "superrank": 395,
     "identity_rank": 29
   },
   "Fell the Profane": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1782691167",
+    "img": "https://cards.scryfall.io/large/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
     "date": "2024-06-14",
     "cmc": 4,
     "type_line": "Instant // Land",
@@ -7017,12 +7043,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1004,
-    "superrank": 1004,
-    "identity_rank": 148
+    "rank": 1005,
+    "superrank": 1005,
+    "identity_rank": 149
   },
   "Fellwar Stone": {
-    "img": "https://cards.scryfall.io/large/front/d/c/dc47e322-f8b8-4685-b035-fda0cc433e6b.jpg?1782722060",
+    "img": "https://cards.scryfall.io/large/front/d/c/dc47e322-f8b8-4685-b035-fda0cc433e6b.jpg?1783947926",
     "date": "1994-08-01",
     "colors": [],
     "mana_cost": "{2}",
@@ -7041,7 +7067,7 @@ const cards =
     "identity_rank": 25
   },
   "Fierce Guardianship": {
-    "img": "https://cards.scryfall.io/large/front/4/c/4c5ffa83-c88d-4f5d-851e-a642b229d596.jpg?1782707400",
+    "img": "https://cards.scryfall.io/large/front/4/c/4c5ffa83-c88d-4f5d-851e-a642b229d596.jpg?1783931220",
     "date": "2020-04-17",
     "colors": [
       "U"
@@ -7064,7 +7090,7 @@ const cards =
     "identity_rank": 7
   },
   "Fiery Islet": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a3aab13c-9d9d-4507-ae5d-da979990ae1b.jpg?1782708405",
+    "img": "https://cards.scryfall.io/large/front/a/3/a3aab13c-9d9d-4507-ae5d-da979990ae1b.jpg?1783933068",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "",
@@ -7086,7 +7112,7 @@ const cards =
     "identity_rank": 4
   },
   "Final Fortune": {
-    "img": "https://cards.scryfall.io/large/front/8/3/83589c25-58a2-4172-8f60-6033a61f34c6.jpg?1782721408",
+    "img": "https://cards.scryfall.io/large/front/8/3/83589c25-58a2-4172-8f60-6033a61f34c6.jpg?1783947078",
     "date": "1996-10-08",
     "colors": [
       "R"
@@ -7109,7 +7135,7 @@ const cards =
     "identity_rank": 11
   },
   "Final Parting": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de8803f6-9efa-4323-b8c5-29bdd5a48f9a.jpg?1782710137",
+    "img": "https://cards.scryfall.io/large/front/d/e/de8803f6-9efa-4323-b8c5-29bdd5a48f9a.jpg?1783935009",
     "date": "2018-04-27",
     "colors": [
       "B"
@@ -7127,12 +7153,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 415,
+    "rank": 417,
     "superrank": 458,
     "identity_rank": 58
   },
   "Finale of Devastation": {
-    "img": "https://cards.scryfall.io/large/front/9/8/985453e7-997e-4d77-a338-cc0290791ebe.jpg?1782708646",
+    "img": "https://cards.scryfall.io/large/front/9/8/985453e7-997e-4d77-a338-cc0290791ebe.jpg?1783933415",
     "date": "2019-05-03",
     "colors": [
       "G"
@@ -7150,12 +7176,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 42,
-    "rank": 149,
+    "rank": 147,
     "superrank": 126,
     "identity_rank": 14
   },
   "Finale of Promise": {
-    "img": "https://cards.scryfall.io/large/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1782708672",
+    "img": "https://cards.scryfall.io/large/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1783933429",
     "date": "2019-05-03",
     "colors": [
       "R"
@@ -7173,12 +7199,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 878,
-    "superrank": 872,
+    "rank": 880,
+    "superrank": 874,
     "identity_rank": 123
   },
   "Firdoch Core": {
-    "img": "https://cards.scryfall.io/large/front/8/e/8e45cd37-bf97-4742-978d-96f96ed653cd.jpg?1782683922",
+    "img": "https://cards.scryfall.io/large/front/8/e/8e45cd37-bf97-4742-978d-96f96ed653cd.jpg?1783904397",
     "date": "2026-01-23",
     "colors": [],
     "mana_cost": "{3}",
@@ -7193,12 +7219,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 367,
-    "superrank": 568,
+    "rank": 369,
+    "superrank": 567,
     "identity_rank": 71
   },
   "Fire Covenant": {
-    "img": "https://cards.scryfall.io/large/front/6/a/6a0139c2-ad86-4c71-ab6d-4840c37d5d20.jpg?1782721643",
+    "img": "https://cards.scryfall.io/large/front/6/a/6a0139c2-ad86-4c71-ab6d-4840c37d5d20.jpg?1783947467",
     "date": "1995-06-03",
     "colors": [
       "B",
@@ -7218,12 +7244,12 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 492,
-    "superrank": 348,
+    "rank": 491,
+    "superrank": 347,
     "identity_rank": 10
   },
   "Fire Magic": {
-    "img": "https://cards.scryfall.io/large/front/4/1/415ff6a5-61ef-4b37-ae08-e44476300d4a.jpg?1782686498",
+    "img": "https://cards.scryfall.io/large/front/4/1/415ff6a5-61ef-4b37-ae08-e44476300d4a.jpg?1783906604",
     "date": "2025-06-13",
     "colors": [
       "R"
@@ -7241,12 +7267,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 627,
-    "superrank": 719,
+    "rank": 628,
+    "superrank": 720,
     "identity_rank": 98
   },
   "Flagstones of Trokair": {
-    "img": "https://cards.scryfall.io/large/front/a/d/ad23cd0e-6871-4ba6-b5bf-cfd14f8f71b2.jpg?1782716819",
+    "img": "https://cards.scryfall.io/large/front/a/d/ad23cd0e-6871-4ba6-b5bf-cfd14f8f71b2.jpg?1783943194",
     "date": "2006-10-06",
     "colors": [],
     "mana_cost": "",
@@ -7263,12 +7289,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 716,
-    "superrank": 768,
+    "rank": 717,
+    "superrank": 769,
     "identity_rank": 64
   },
   "Flamescroll Celebrant": {
-    "img": "https://cards.scryfall.io/large/front/8/c/8c917201-4691-4f31-a8e4-ca0192d5ff71.jpg?1782704803",
+    "img": "https://cards.scryfall.io/large/front/8/c/8c917201-4691-4f31-a8e4-ca0192d5ff71.jpg?1783927249",
     "date": "2021-04-23",
     "cmc": 2,
     "type_line": "Creature \u2014 Human Shaman // Instant",
@@ -7283,12 +7309,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 998,
-    "superrank": 998,
+    "rank": 999,
+    "superrank": 999,
     "identity_rank": 14
   },
   "Flare of Denial": {
-    "img": "https://cards.scryfall.io/large/front/0/1/0149c119-83ea-46f5-9e22-33a674ddddb6.jpg?1782691023",
+    "img": "https://cards.scryfall.io/large/front/0/1/0149c119-83ea-46f5-9e22-33a674ddddb6.jpg?1783911175",
     "date": "2024-06-14",
     "colors": [
       "U"
@@ -7311,7 +7337,7 @@ const cards =
     "identity_rank": 55
   },
   "Flare of Duplication": {
-    "img": "https://cards.scryfall.io/large/front/1/7/170483c2-4e50-4cc8-9481-3330057d91bb.jpg?1782691009",
+    "img": "https://cards.scryfall.io/large/front/1/7/170483c2-4e50-4cc8-9481-3330057d91bb.jpg?1783911170",
     "date": "2024-06-14",
     "colors": [
       "R"
@@ -7323,18 +7349,18 @@ const cards =
       "R"
     ],
     "name": "Flare of Duplication",
-    "count": 11,
-    "percent": 17,
+    "count": 10,
+    "percent": 15,
     "types": [
       "Instant"
     ],
-    "supercent": 31,
-    "rank": 146,
-    "superrank": 157,
+    "supercent": 28,
+    "rank": 155,
+    "superrank": 166,
     "identity_rank": 15
   },
   "Flare of Fortitude": {
-    "img": "https://cards.scryfall.io/large/front/b/a/ba9ba97a-9eda-465a-891d-f3be9c2abeb2.jpg?1782691031",
+    "img": "https://cards.scryfall.io/large/front/b/a/ba9ba97a-9eda-465a-891d-f3be9c2abeb2.jpg?1783911177",
     "date": "2024-06-14",
     "colors": [
       "W"
@@ -7352,12 +7378,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 681,
-    "superrank": 748,
+    "rank": 682,
+    "superrank": 749,
     "identity_rank": 54
   },
   "Flare of Malice": {
-    "img": "https://cards.scryfall.io/large/front/5/b/5bbb9479-d019-4ffe-a508-1db81a28847f.jpg?1782691016",
+    "img": "https://cards.scryfall.io/large/front/5/b/5bbb9479-d019-4ffe-a508-1db81a28847f.jpg?1783911173",
     "date": "2024-06-14",
     "colors": [
       "B"
@@ -7375,12 +7401,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 818,
-    "superrank": 835,
-    "identity_rank": 129
+    "rank": 820,
+    "superrank": 837,
+    "identity_rank": 131
   },
   "Flash Photography": {
-    "img": "https://cards.scryfall.io/large/front/2/b/2bca2cd2-4d4a-44e4-87c3-732692b77921.jpg?1782684323",
+    "img": "https://cards.scryfall.io/large/front/2/b/2bca2cd2-4d4a-44e4-87c3-732692b77921.jpg?1783904649",
     "date": "2025-12-05",
     "colors": [
       "U"
@@ -7398,12 +7424,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 515,
-    "superrank": 585,
+    "rank": 514,
+    "superrank": 584,
     "identity_rank": 85
   },
   "Flashback": {
-    "img": "https://cards.scryfall.io/large/front/6/b/6b7eb857-6617-4672-85e4-f1f5e661db50.jpg?1782682758",
+    "img": "https://cards.scryfall.io/large/front/6/b/6b7eb857-6617-4672-85e4-f1f5e661db50.jpg?1783903593",
     "date": "2026-04-24",
     "colors": [
       "R"
@@ -7421,12 +7447,12 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 590,
-    "superrank": 531,
+    "rank": 591,
+    "superrank": 530,
     "identity_rank": 93
   },
   "Flesh Duplicate": {
-    "img": "https://cards.scryfall.io/large/front/b/0/b017dead-b202-400d-ab08-e0081ac0f39f.jpg?1782695665",
+    "img": "https://cards.scryfall.io/large/front/b/0/b017dead-b202-400d-ab08-e0081ac0f39f.jpg?1783914422",
     "date": "2023-10-13",
     "colors": [
       "U"
@@ -7447,11 +7473,11 @@ const cards =
     ],
     "supercent": 16,
     "rank": 201,
-    "superrank": 236,
+    "superrank": 235,
     "identity_rank": 43
   },
   "Fleshwrither": {
-    "img": "https://cards.scryfall.io/large/front/0/8/08e1a646-6925-4a53-a99c-8951af016a7a.jpg?1782716687",
+    "img": "https://cards.scryfall.io/large/front/0/8/08e1a646-6925-4a53-a99c-8951af016a7a.jpg?1783943112",
     "date": "2007-05-04",
     "colors": [
       "B"
@@ -7471,12 +7497,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 416,
+    "rank": 418,
     "superrank": 459,
     "identity_rank": 59
   },
   "Flicker": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f55e7ec5-6488-483f-8020-b48e1a951f09.jpg?1782720407",
+    "img": "https://cards.scryfall.io/large/front/f/5/f55e7ec5-6488-483f-8020-b48e1a951f09.jpg?1783946084",
     "date": "1999-06-07",
     "colors": [
       "W"
@@ -7494,12 +7520,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 612,
-    "superrank": 710,
+    "rank": 613,
+    "superrank": 711,
     "identity_rank": 50
   },
   "Flooded Strand": {
-    "img": "https://cards.scryfall.io/large/front/b/4/b4e3d844-d3b4-41d8-921d-c1cb3af343f8.jpg?1782719086",
+    "img": "https://cards.scryfall.io/large/front/b/4/b4e3d844-d3b4-41d8-921d-c1cb3af343f8.jpg?1783945029",
     "date": "2002-10-07",
     "colors": [],
     "mana_cost": "",
@@ -7518,7 +7544,7 @@ const cards =
     "identity_rank": 11
   },
   "Floodfarm Verge": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d53ed0db-1199-44b3-8eda-8189dfcf53d1.jpg?1782689411",
+    "img": "https://cards.scryfall.io/large/front/d/5/d53ed0db-1199-44b3-8eda-8189dfcf53d1.jpg?1783909428",
     "date": "2024-09-27",
     "colors": [],
     "mana_cost": "",
@@ -7535,12 +7561,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 785,
-    "superrank": 608,
+    "rank": 787,
+    "superrank": 609,
     "identity_rank": 10
   },
   "Flusterstorm": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a3634cea-1f5e-4e22-a56b-6693eb8de1f6.jpg?1782732539",
+    "img": "https://cards.scryfall.io/large/front/a/3/a3634cea-1f5e-4e22-a56b-6693eb8de1f6.jpg?1783915357",
     "date": "2011-06-17",
     "colors": [
       "U"
@@ -7563,7 +7589,7 @@ const cards =
     "identity_rank": 5
   },
   "Flywheel Racer": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c694485d-a753-4e55-929c-d8e4a53c7d08.jpg?1782697651",
+    "img": "https://cards.scryfall.io/large/front/c/6/c694485d-a753-4e55-929c-d8e4a53c7d08.jpg?1783916936",
     "date": "2023-04-21",
     "colors": [],
     "mana_cost": "{2}",
@@ -7579,12 +7605,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 368,
-    "superrank": 569,
+    "rank": 370,
+    "superrank": 568,
     "identity_rank": 72
   },
   "Fomori Vault": {
-    "img": "https://cards.scryfall.io/large/front/a/d/ad282dc0-6310-47ab-99cd-90f34168bd27.jpg?1782692489",
+    "img": "https://cards.scryfall.io/large/front/a/d/ad282dc0-6310-47ab-99cd-90f34168bd27.jpg?1783911984",
     "date": "2024-04-19",
     "colors": [],
     "mana_cost": "",
@@ -7598,12 +7624,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 888,
-    "superrank": 975,
+    "rank": 889,
+    "superrank": 976,
     "identity_rank": 153
   },
   "Food Chain": {
-    "img": "https://cards.scryfall.io/large/front/1/8/18a1bb9e-006c-495e-8f99-d451183d2669.jpg?1782720266",
+    "img": "https://cards.scryfall.io/large/front/1/8/18a1bb9e-006c-495e-8f99-d451183d2669.jpg?1783945925",
     "date": "1999-10-04",
     "colors": [
       "G"
@@ -7622,11 +7648,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 259,
-    "superrank": 213,
+    "superrank": 214,
     "identity_rank": 31
   },
   "Footsteps of the Goryo": {
-    "img": "https://cards.scryfall.io/large/front/c/a/ca7bedbe-8b87-402f-9a0c-83e46ae10279.jpg?1782718030",
+    "img": "https://cards.scryfall.io/large/front/c/a/ca7bedbe-8b87-402f-9a0c-83e46ae10279.jpg?1783944155",
     "date": "2005-06-03",
     "colors": [
       "B"
@@ -7644,12 +7670,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 619,
-    "superrank": 715,
-    "identity_rank": 96
+    "rank": 620,
+    "superrank": 716,
+    "identity_rank": 97
   },
   "Forbidden Orchard": {
-    "img": "https://cards.scryfall.io/large/front/8/8/88d78261-c8c9-4e0e-b157-f70ed46c3a25.jpg?1782718143",
+    "img": "https://cards.scryfall.io/large/front/8/8/88d78261-c8c9-4e0e-b157-f70ed46c3a25.jpg?1783944274",
     "date": "2004-10-01",
     "colors": [],
     "mana_cost": "",
@@ -7664,11 +7690,11 @@ const cards =
     ],
     "supercent": 15,
     "rank": 157,
-    "superrank": 249,
+    "superrank": 248,
     "identity_rank": 38
   },
   "Force of Negation": {
-    "img": "https://cards.scryfall.io/large/front/b/7/b769ba9e-2ac8-48a9-9f45-23a4ccd0cb96.jpg?1782704764",
+    "img": "https://cards.scryfall.io/large/front/b/7/b769ba9e-2ac8-48a9-9f45-23a4ccd0cb96.jpg?1783926910",
     "date": "2019-06-14",
     "colors": [
       "U"
@@ -7691,7 +7717,7 @@ const cards =
     "identity_rank": 12
   },
   "Force of Vigor": {
-    "img": "https://cards.scryfall.io/large/front/e/b/ebd30c7a-7a8c-4176-b1e7-91f4c4a55140.jpg?1782704756",
+    "img": "https://cards.scryfall.io/large/front/e/b/ebd30c7a-7a8c-4176-b1e7-91f4c4a55140.jpg?1783926905",
     "date": "2019-06-14",
     "colors": [
       "G"
@@ -7709,12 +7735,12 @@ const cards =
       "Instant"
     ],
     "supercent": 15,
-    "rank": 302,
-    "superrank": 248,
+    "rank": 300,
+    "superrank": 247,
     "identity_rank": 35
   },
   "Force of Will": {
-    "img": "https://cards.scryfall.io/large/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1782721534",
+    "img": "https://cards.scryfall.io/large/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1783947196",
     "date": "1996-06-10",
     "colors": [
       "U"
@@ -7737,7 +7763,7 @@ const cards =
     "identity_rank": 3
   },
   "Forensic Gadgeteer": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aab507e5-7bf2-4fa0-9ac0-a6aaec90de83.jpg?1782693714",
+    "img": "https://cards.scryfall.io/large/front/a/a/aab507e5-7bf2-4fa0-9ac0-a6aaec90de83.jpg?1783912793",
     "date": "2024-02-09",
     "colors": [
       "U"
@@ -7757,12 +7783,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 889,
-    "superrank": 880,
+    "rank": 890,
+    "superrank": 881,
     "identity_rank": 156
   },
   "Forest": {
-    "img": "https://cards.scryfall.io/large/front/f/2/f20c89d9-71c9-45f5-a9cb-6e253b0a7cca.jpg?1782722880",
+    "img": "https://cards.scryfall.io/large/front/f/2/f20c89d9-71c9-45f5-a9cb-6e253b0a7cca.jpg?1783948657",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -7784,7 +7810,7 @@ const cards =
     "identity_rank": 23
   },
   "Formidable Speaker": {
-    "img": "https://cards.scryfall.io/large/front/2/6/265522eb-4f6a-40e7-b374-3833fa63c80b.jpg?1782683987",
+    "img": "https://cards.scryfall.io/large/front/2/6/265522eb-4f6a-40e7-b374-3833fa63c80b.jpg?1783904430",
     "date": "2026-01-23",
     "colors": [
       "G"
@@ -7804,12 +7830,12 @@ const cards =
       "Creature"
     ],
     "supercent": 15,
-    "rank": 328,
-    "superrank": 250,
+    "rank": 325,
+    "superrank": 249,
     "identity_rank": 36
   },
   "Forsaken Miner": {
-    "img": "https://cards.scryfall.io/large/front/1/6/1679f74d-00f8-436c-9f8c-aa3f843a546c.jpg?1782692079",
+    "img": "https://cards.scryfall.io/large/front/1/6/1679f74d-00f8-436c-9f8c-aa3f843a546c.jpg?1783911833",
     "date": "2024-04-19",
     "colors": [
       "B"
@@ -7829,12 +7855,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 620,
-    "superrank": 716,
-    "identity_rank": 97
+    "rank": 621,
+    "superrank": 717,
+    "identity_rank": 98
   },
   "Fourth Bridge Prowler": {
-    "img": "https://cards.scryfall.io/large/front/7/3/73aaaa09-c985-42f8-b426-06fd3b8de66d.jpg?1782711290",
+    "img": "https://cards.scryfall.io/large/front/7/3/73aaaa09-c985-42f8-b426-06fd3b8de66d.jpg?1783936763",
     "date": "2017-01-20",
     "colors": [
       "B"
@@ -7854,12 +7880,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 819,
-    "superrank": 836,
-    "identity_rank": 130
+    "rank": 821,
+    "superrank": 838,
+    "identity_rank": 132
   },
   "Freed from the Real": {
-    "img": "https://cards.scryfall.io/large/front/e/9/e9ecee02-12c0-4aed-a679-41bce95e0cda.jpg?1782718044",
+    "img": "https://cards.scryfall.io/large/front/e/9/e9ecee02-12c0-4aed-a679-41bce95e0cda.jpg?1783944164",
     "date": "2005-06-03",
     "colors": [
       "U"
@@ -7877,12 +7903,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 837,
-    "superrank": 851,
+    "rank": 839,
+    "superrank": 853,
     "identity_rank": 145
   },
   "Fury": {
-    "img": "https://cards.scryfall.io/large/front/a/d/adc3f475-562e-4904-8dca-051c17f6b647.jpg?1782691754",
+    "img": "https://cards.scryfall.io/large/front/a/d/adc3f475-562e-4904-8dca-051c17f6b647.jpg?1783911469",
     "date": "2021-06-18",
     "colors": [
       "R"
@@ -7902,12 +7928,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 473,
-    "superrank": 486,
+    "rank": 472,
+    "superrank": 485,
     "identity_rank": 73
   },
   "Fyndhorn Elves": {
-    "img": "https://cards.scryfall.io/large/front/3/b/3ba95ffa-990a-4013-98b7-5d8c0b34e9c4.jpg?1782721661",
+    "img": "https://cards.scryfall.io/large/front/3/b/3ba95ffa-990a-4013-98b7-5d8c0b34e9c4.jpg?1783947476",
     "date": "1995-06-03",
     "colors": [
       "G"
@@ -7928,11 +7954,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 273,
-    "superrank": 216,
+    "superrank": 217,
     "identity_rank": 34
   },
   "Gaea's Cradle": {
-    "img": "https://cards.scryfall.io/large/front/2/5/25b0b816-0583-44aa-9dc5-f3ff48993a51.jpg?1782720620",
+    "img": "https://cards.scryfall.io/large/front/2/5/25b0b816-0583-44aa-9dc5-f3ff48993a51.jpg?1783946299",
     "date": "1998-10-12",
     "colors": [],
     "mana_cost": "",
@@ -7954,7 +7980,7 @@ const cards =
     "identity_rank": 8
   },
   "Galvanic Blast": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f5881bbc-8600-464d-9dcd-5a7780918d1d.jpg?1782715319",
+    "img": "https://cards.scryfall.io/large/front/f/5/f5881bbc-8600-464d-9dcd-5a7780918d1d.jpg?1783941725",
     "date": "2010-10-01",
     "colors": [
       "R"
@@ -7972,12 +7998,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 369,
-    "superrank": 381,
-    "identity_rank": 52
+    "rank": 371,
+    "superrank": 382,
+    "identity_rank": 53
   },
   "Gamble": {
-    "img": "https://cards.scryfall.io/large/front/0/e/0ee0f160-7339-4d98-8a8c-f08889ee52f5.jpg?1782720681",
+    "img": "https://cards.scryfall.io/large/front/0/e/0ee0f160-7339-4d98-8a8c-f08889ee52f5.jpg?1783946331",
     "date": "1998-10-12",
     "colors": [
       "R"
@@ -8000,7 +8026,7 @@ const cards =
     "identity_rank": 3
   },
   "Gavony Township": {
-    "img": "https://cards.scryfall.io/large/front/b/5/b5f73443-2fe8-424f-8e71-fc7ce1f3a3eb.jpg?1782714679",
+    "img": "https://cards.scryfall.io/large/front/b/5/b5f73443-2fe8-424f-8e71-fc7ce1f3a3eb.jpg?1783940895",
     "date": "2011-09-30",
     "colors": [],
     "mana_cost": "",
@@ -8017,12 +8043,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 857,
-    "superrank": 519,
+    "rank": 859,
+    "superrank": 518,
     "identity_rank": 17
   },
   "Gemstone Caverns": {
-    "img": "https://cards.scryfall.io/large/front/9/4/94d74254-4750-4fb3-9e53-473a5f98b315.jpg?1782716819",
+    "img": "https://cards.scryfall.io/large/front/9/4/94d74254-4750-4fb3-9e53-473a5f98b315.jpg?1783943194",
     "date": "2006-10-06",
     "colors": [],
     "mana_cost": "",
@@ -8042,7 +8068,7 @@ const cards =
     "identity_rank": 3
   },
   "Gemstone Mine": {
-    "img": "https://cards.scryfall.io/large/front/0/9/09507f7f-c58f-4f57-b878-b39811a5b619.jpg?1782721012",
+    "img": "https://cards.scryfall.io/large/front/0/9/09507f7f-c58f-4f57-b878-b39811a5b619.jpg?1783946709",
     "date": "1997-06-09",
     "colors": [],
     "mana_cost": "",
@@ -8056,12 +8082,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 299,
+    "rank": 297,
     "superrank": 433,
     "identity_rank": 56
   },
   "Geosurge": {
-    "img": "https://cards.scryfall.io/large/front/1/1/118b7aa3-bb05-4691-978e-51486435bf05.jpg?1782715158",
+    "img": "https://cards.scryfall.io/large/front/1/1/118b7aa3-bb05-4691-978e-51486435bf05.jpg?1783941307",
     "date": "2011-05-13",
     "colors": [
       "R"
@@ -8079,12 +8105,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 643,
-    "superrank": 728,
+    "rank": 644,
+    "superrank": 729,
     "identity_rank": 103
   },
   "Ghost Vacuum": {
-    "img": "https://cards.scryfall.io/large/front/a/b/abf254c0-7c3c-4b68-8b3e-4ae444baa886.jpg?1782689354",
+    "img": "https://cards.scryfall.io/large/front/a/b/abf254c0-7c3c-4b68-8b3e-4ae444baa886.jpg?1783909407",
     "date": "2024-09-27",
     "colors": [],
     "mana_cost": "{1}",
@@ -8098,12 +8124,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 625,
-    "superrank": 946,
+    "rank": 626,
+    "superrank": 947,
     "identity_rank": 124
   },
   "Ghostfire Slice": {
-    "img": "https://cards.scryfall.io/large/front/2/a/2adea3ee-138f-455b-a001-586883c44758.jpg?1782691295",
+    "img": "https://cards.scryfall.io/large/front/2/a/2adea3ee-138f-455b-a001-586883c44758.jpg?1783911271",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{2}{R}",
@@ -8119,12 +8145,12 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 493,
-    "superrank": 492,
+    "rank": 492,
+    "superrank": 491,
     "identity_rank": 78
   },
   "Gifts Ungiven": {
-    "img": "https://cards.scryfall.io/large/front/3/2/32b91eb5-ea53-4a21-a2e5-9c545a42fa30.jpg?1782718240",
+    "img": "https://cards.scryfall.io/large/front/3/2/32b91eb5-ea53-4a21-a2e5-9c545a42fa30.jpg?1783944328",
     "date": "2004-10-01",
     "colors": [
       "U"
@@ -8142,12 +8168,12 @@ const cards =
       "Instant"
     ],
     "supercent": 18,
-    "rank": 191,
-    "superrank": 225,
+    "rank": 193,
+    "superrank": 226,
     "identity_rank": 40
   },
   "Gilded Drake": {
-    "img": "https://cards.scryfall.io/large/front/8/d/8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf.jpg?1782720730",
+    "img": "https://cards.scryfall.io/large/front/8/d/8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf.jpg?1783946361",
     "date": "1998-10-12",
     "colors": [
       "U"
@@ -8168,11 +8194,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 224,
-    "superrank": 273,
+    "superrank": 272,
     "identity_rank": 48
   },
   "Gilded Goose": {
-    "img": "https://cards.scryfall.io/large/front/d/2/d274723a-27f3-49ec-ade0-d0b5e0e87d84.jpg?1782707685",
+    "img": "https://cards.scryfall.io/large/front/d/2/d274723a-27f3-49ec-ade0-d0b5e0e87d84.jpg?1783932529",
     "date": "2019-10-04",
     "colors": [
       "G"
@@ -8192,12 +8218,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 717,
-    "superrank": 663,
+    "rank": 718,
+    "superrank": 664,
     "identity_rank": 75
   },
   "Gingerbrute": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f55fe038-c903-4d92-b689-72dd6d041a91.jpg?1782707787",
+    "img": "https://cards.scryfall.io/large/front/f/5/f55fe038-c903-4d92-b689-72dd6d041a91.jpg?1783932587",
     "date": "2019-10-04",
     "colors": [],
     "mana_cost": "{1}",
@@ -8214,12 +8240,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 596,
-    "superrank": 704,
+    "rank": 597,
+    "superrank": 705,
     "identity_rank": 118
   },
   "Gitaxian Probe": {
-    "img": "https://cards.scryfall.io/large/front/9/9/995486ce-58bb-4753-a812-0ca73ef1a235.jpg?1782715178",
+    "img": "https://cards.scryfall.io/large/front/9/9/995486ce-58bb-4753-a812-0ca73ef1a235.jpg?1783941320",
     "date": "2011-05-13",
     "colors": [
       "U"
@@ -8242,7 +8268,7 @@ const cards =
     "identity_rank": 24
   },
   "Giver of Runes": {
-    "img": "https://cards.scryfall.io/large/front/f/2/f2bdcfec-d412-442c-91c8-53022c8e316d.jpg?1782704767",
+    "img": "https://cards.scryfall.io/large/front/f/2/f2bdcfec-d412-442c-91c8-53022c8e316d.jpg?1783926913",
     "date": "2019-06-14",
     "colors": [
       "W"
@@ -8262,12 +8288,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 597,
-    "superrank": 536,
+    "rank": 598,
+    "superrank": 535,
     "identity_rank": 44
   },
   "Glaring Fleshraker": {
-    "img": "https://cards.scryfall.io/large/front/a/f/afb0e442-cd29-4dde-a7c5-6eed5df5cfe9.jpg?1782690923",
+    "img": "https://cards.scryfall.io/large/front/a/f/afb0e442-cd29-4dde-a7c5-6eed5df5cfe9.jpg?1783911139",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{2}{C}",
@@ -8283,12 +8309,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 786,
-    "superrank": 964,
+    "rank": 788,
+    "superrank": 965,
     "identity_rank": 142
   },
   "Glasses of Urza": {
-    "img": "https://cards.scryfall.io/large/front/c/a/cafc2350-5d64-4379-9198-79a114654d45.jpg?1782722904",
+    "img": "https://cards.scryfall.io/large/front/c/a/cafc2350-5d64-4379-9198-79a114654d45.jpg?1783948667",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "{1}",
@@ -8302,12 +8328,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 763,
-    "superrank": 961,
+    "rank": 765,
+    "superrank": 962,
     "identity_rank": 139
   },
   "Glen Elendra's Answer": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa5bfbf9-dca2-42b7-a431-f9afedb54528.jpg?1782684110",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa5bfbf9-dca2-42b7-a431-f9afedb54528.jpg?1783904490",
     "date": "2026-01-23",
     "colors": [
       "U"
@@ -8325,12 +8351,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 659,
-    "superrank": 736,
+    "rank": 660,
+    "superrank": 737,
     "identity_rank": 104
   },
   "Glimmervoid": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e2ab98a1-664c-4775-a3dd-22a15e2f836b.jpg?1782718428",
+    "img": "https://cards.scryfall.io/large/front/e/2/e2ab98a1-664c-4775-a3dd-22a15e2f836b.jpg?1783944493",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "",
@@ -8344,12 +8370,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 628,
-    "superrank": 947,
+    "rank": 629,
+    "superrank": 948,
     "identity_rank": 125
   },
   "Glimpse the Impossible": {
-    "img": "https://cards.scryfall.io/large/front/1/3/133ad0dd-5b61-4c38-9264-0b0e75b95d95.jpg?1782691293",
+    "img": "https://cards.scryfall.io/large/front/1/3/133ad0dd-5b61-4c38-9264-0b0e75b95d95.jpg?1783911271",
     "date": "2024-06-14",
     "colors": [
       "R"
@@ -8367,12 +8393,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 644,
-    "superrank": 729,
+    "rank": 645,
+    "superrank": 730,
     "identity_rank": 104
   },
   "Glint-Horn Buccaneer": {
-    "img": "https://cards.scryfall.io/large/front/d/f/df2df9cb-14f5-470f-b438-20f4ae8d0d59.jpg?1782708295",
+    "img": "https://cards.scryfall.io/large/front/d/f/df2df9cb-14f5-470f-b438-20f4ae8d0d59.jpg?1783932979",
     "date": "2019-07-12",
     "colors": [
       "R"
@@ -8392,12 +8418,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 519,
-    "superrank": 504,
+    "rank": 518,
+    "superrank": 503,
     "identity_rank": 84
   },
   "Gloomlake Verge": {
-    "img": "https://cards.scryfall.io/large/front/b/4/b414e4bd-a443-4ab3-bee4-1ad1d039aa1a.jpg?1782689350",
+    "img": "https://cards.scryfall.io/large/front/b/4/b414e4bd-a443-4ab3-bee4-1ad1d039aa1a.jpg?1783909406",
     "date": "2024-09-27",
     "colors": [],
     "mana_cost": "",
@@ -8414,12 +8440,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 660,
-    "superrank": 643,
+    "rank": 661,
+    "superrank": 644,
     "identity_rank": 13
   },
   "Gl\u00f3in, Dwarf Emissary": {
-    "img": "https://cards.scryfall.io/large/front/8/6/868a2aa7-bcaf-409b-8802-d00ee1f2ae77.jpg?1782697167",
+    "img": "https://cards.scryfall.io/large/front/8/6/868a2aa7-bcaf-409b-8802-d00ee1f2ae77.jpg?1783916283",
     "date": "2023-06-23",
     "colors": [
       "R"
@@ -8440,12 +8466,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 670,
-    "superrank": 742,
+    "rank": 671,
+    "superrank": 743,
     "identity_rank": 112
   },
   "Goblin Bombardment": {
-    "img": "https://cards.scryfall.io/large/front/1/7/179e954f-1d90-4ef4-b800-25845cc338e2.jpg?1782720938",
+    "img": "https://cards.scryfall.io/large/front/1/7/179e954f-1d90-4ef4-b800-25845cc338e2.jpg?1783946629",
     "date": "1997-10-14",
     "colors": [
       "R"
@@ -8463,12 +8489,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 5,
-    "rank": 510,
-    "superrank": 498,
+    "rank": 509,
+    "superrank": 497,
     "identity_rank": 82
   },
   "Goblin Engineer": {
-    "img": "https://cards.scryfall.io/large/front/3/1/31f675f6-df29-4b90-a5e6-26d915fdc6a1.jpg?1782741698",
+    "img": "https://cards.scryfall.io/large/front/3/1/31f675f6-df29-4b90-a5e6-26d915fdc6a1.jpg?1783927724",
     "date": "2019-06-14",
     "colors": [
       "R"
@@ -8489,11 +8515,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 245,
-    "superrank": 254,
+    "superrank": 253,
     "identity_rank": 24
   },
   "Goblin Welder": {
-    "img": "https://cards.scryfall.io/large/front/6/1/6171e136-1167-4329-acb2-6853d3a814e5.jpg?1782720574",
+    "img": "https://cards.scryfall.io/large/front/6/1/6171e136-1167-4329-acb2-6853d3a814e5.jpg?1783946236",
     "date": "1999-02-15",
     "colors": [
       "R"
@@ -8514,11 +8540,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 246,
-    "superrank": 255,
+    "superrank": 254,
     "identity_rank": 25
   },
   "God-Pharaoh's Statue": {
-    "img": "https://cards.scryfall.io/large/front/7/d/7dce06ba-c1e1-45ec-82a7-fc10b0fa8870.jpg?1782708588",
+    "img": "https://cards.scryfall.io/large/front/7/d/7dce06ba-c1e1-45ec-82a7-fc10b0fa8870.jpg?1783933372",
     "date": "2019-05-03",
     "colors": [],
     "mana_cost": "{6}",
@@ -8533,12 +8559,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 494,
-    "superrank": 647,
+    "rank": 493,
+    "superrank": 648,
     "identity_rank": 97
   },
   "Godless Shrine": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f34831d4-1624-4c95-a08b-baa1e0978742.jpg?1782730857",
+    "img": "https://cards.scryfall.io/large/front/f/3/f34831d4-1624-4c95-a08b-baa1e0978742.jpg?1783913184",
     "date": "2006-02-03",
     "colors": [],
     "mana_cost": "",
@@ -8555,12 +8581,12 @@ const cards =
       "Land"
     ],
     "supercent": 28,
-    "rank": 195,
+    "rank": 196,
     "superrank": 165,
     "identity_rank": 3
   },
   "Gogo, Mysterious Mime": {
-    "img": "https://cards.scryfall.io/large/front/e/b/ebf0b7b3-2e9a-4fb1-aaad-ff1567a4993c.jpg?1782685933",
+    "img": "https://cards.scryfall.io/large/front/e/b/ebf0b7b3-2e9a-4fb1-aaad-ff1567a4993c.jpg?1783906321",
     "date": "2025-06-13",
     "colors": [
       "R"
@@ -8581,12 +8607,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 370,
-    "superrank": 382,
-    "identity_rank": 53
+    "rank": 372,
+    "superrank": 383,
+    "identity_rank": 54
   },
   "Goldnight Commander": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c6ebec82-9d4a-4e78-b923-37c3a52133e7.jpg?1782714539",
+    "img": "https://cards.scryfall.io/large/front/c/6/c6ebec82-9d4a-4e78-b923-37c3a52133e7.jpg?1783940736",
     "date": "2012-05-04",
     "colors": [
       "W"
@@ -8606,12 +8632,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 987,
-    "superrank": 936,
+    "rank": 988,
+    "superrank": 937,
     "identity_rank": 101
   },
   "Golgari Grave-Troll": {
-    "img": "https://cards.scryfall.io/large/front/c/b/cbe8cddc-a961-4e5f-9dec-29f5a6a697a0.jpg?1782730934",
+    "img": "https://cards.scryfall.io/large/front/c/b/cbe8cddc-a961-4e5f-9dec-29f5a6a697a0.jpg?1783913222",
     "date": "2005-10-07",
     "colors": [
       "G"
@@ -8631,12 +8657,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 901,
-    "superrank": 697,
+    "rank": 902,
+    "superrank": 698,
     "identity_rank": 93
   },
   "Gorilla Shaman": {
-    "img": "https://cards.scryfall.io/large/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1782721508",
+    "img": "https://cards.scryfall.io/large/front/b/f/bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31.jpg?1783947178",
     "date": "1996-06-10",
     "colors": [
       "R"
@@ -8656,12 +8682,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 988,
-    "superrank": 937,
-    "identity_rank": 153
+    "rank": 989,
+    "superrank": 938,
+    "identity_rank": 154
   },
   "Grafdigger's Cage": {
-    "img": "https://cards.scryfall.io/large/front/2/a/2a6240e7-d3aa-40e9-a627-58e7bf62525c.jpg?1782714559",
+    "img": "https://cards.scryfall.io/large/front/2/a/2a6240e7-d3aa-40e9-a627-58e7bf62525c.jpg?1783940792",
     "date": "2012-02-03",
     "colors": [],
     "mana_cost": "{1}",
@@ -8676,11 +8702,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 167,
-    "superrank": 259,
+    "superrank": 258,
     "identity_rank": 39
   },
   "Gran-Gran": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1782684639",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1783904988",
     "date": "2025-11-21",
     "colors": [
       "U"
@@ -8701,12 +8727,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 820,
-    "superrank": 837,
+    "rank": 822,
+    "superrank": 839,
     "identity_rank": 136
   },
   "Grand Abolisher": {
-    "img": "https://cards.scryfall.io/large/front/6/7/67e35a40-37dd-436c-b4ac-b17b04508c1f.jpg?1782714928",
+    "img": "https://cards.scryfall.io/large/front/6/7/67e35a40-37dd-436c-b4ac-b17b04508c1f.jpg?1783941102",
     "date": "2011-07-15",
     "colors": [
       "W"
@@ -8731,7 +8757,7 @@ const cards =
     "identity_rank": 8
   },
   "Grapeshot": {
-    "img": "https://cards.scryfall.io/large/front/4/e/4ee33cb6-768e-44a0-b6f4-b8638aa84330.jpg?1782716871",
+    "img": "https://cards.scryfall.io/large/front/4/e/4ee33cb6-768e-44a0-b6f4-b8638aa84330.jpg?1783943221",
     "date": "2006-10-06",
     "colors": [
       "R"
@@ -8749,12 +8775,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 929,
-    "superrank": 905,
-    "identity_rank": 135
+    "rank": 930,
+    "superrank": 906,
+    "identity_rank": 136
   },
   "Grasp of Darkness": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cda628ba-19f4-4e24-9500-cca295a992bb.jpg?1782715329",
+    "img": "https://cards.scryfall.io/large/front/c/d/cda628ba-19f4-4e24-9500-cca295a992bb.jpg?1783941730",
     "date": "2010-10-01",
     "colors": [
       "B"
@@ -8772,12 +8798,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 532,
-    "superrank": 593,
-    "identity_rank": 83
+    "rank": 531,
+    "superrank": 592,
+    "identity_rank": 82
   },
   "Gray Merchant of Asphodel": {
-    "img": "https://cards.scryfall.io/large/front/5/b/5be62041-fec2-44e0-aec9-5368d1c7f1da.jpg?1782741718",
+    "img": "https://cards.scryfall.io/large/front/5/b/5be62041-fec2-44e0-aec9-5368d1c7f1da.jpg?1783927732",
     "date": "2013-09-27",
     "colors": [
       "B"
@@ -8797,12 +8823,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 417,
+    "rank": 419,
     "superrank": 460,
     "identity_rank": 60
   },
   "Great Furnace": {
-    "img": "https://cards.scryfall.io/large/front/3/f/3fde36b4-95e0-4592-b67c-05548bbb1679.jpg?1782699379",
+    "img": "https://cards.scryfall.io/large/front/3/f/3fde36b4-95e0-4592-b67c-05548bbb1679.jpg?1783919647",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "",
@@ -8820,11 +8846,11 @@ const cards =
     ],
     "supercent": 17,
     "rank": 226,
-    "superrank": 229,
-    "identity_rank": 19
+    "superrank": 230,
+    "identity_rank": 20
   },
   "Greater Gargadon": {
-    "img": "https://cards.scryfall.io/large/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1782716871",
+    "img": "https://cards.scryfall.io/large/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1783943220",
     "date": "2006-10-06",
     "colors": [
       "R"
@@ -8844,12 +8870,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 511,
-    "superrank": 499,
+    "rank": 510,
+    "superrank": 498,
     "identity_rank": 83
   },
   "Greater Good": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a327e66f-0cd7-46f7-b20f-35c5084b158c.jpg?1782717687",
+    "img": "https://cards.scryfall.io/large/front/a/3/a327e66f-0cd7-46f7-b20f-35c5084b158c.jpg?1783943933",
     "date": "1998-10-12",
     "colors": [
       "G"
@@ -8867,12 +8893,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 803,
-    "superrank": 678,
+    "rank": 805,
+    "superrank": 679,
     "identity_rank": 81
   },
   "Greedy Freebooter": {
-    "img": "https://cards.scryfall.io/large/front/6/9/692fe4e8-13b4-4bec-938e-a8073a7fbd71.jpg?1782694524",
+    "img": "https://cards.scryfall.io/large/front/6/9/692fe4e8-13b4-4bec-938e-a8073a7fbd71.jpg?1783913776",
     "date": "2023-11-17",
     "colors": [
       "B"
@@ -8892,12 +8918,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 634,
-    "superrank": 723,
-    "identity_rank": 99
+    "rank": 635,
+    "superrank": 724,
+    "identity_rank": 100
   },
   "Green Sun's Zenith": {
-    "img": "https://cards.scryfall.io/large/front/0/2/02335747-54e3-4827-ae19-4e362863da9b.jpg?1782715221",
+    "img": "https://cards.scryfall.io/large/front/0/2/02335747-54e3-4827-ae19-4e362863da9b.jpg?1783941375",
     "date": "2011-02-04",
     "colors": [
       "G"
@@ -8920,7 +8946,7 @@ const cards =
     "identity_rank": 17
   },
   "Greymond, Avacyn's Stalwart": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0a8e78b3-3232-4d48-9d6c-540951a0330e.jpg?1782742867",
+    "img": "https://cards.scryfall.io/large/front/0/a/0a8e78b3-3232-4d48-9d6c-540951a0330e.jpg?1783929163",
     "date": "2020-10-13",
     "colors": [
       "W"
@@ -8941,12 +8967,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 598,
-    "superrank": 537,
+    "rank": 599,
+    "superrank": 536,
     "identity_rank": 45
   },
   "Grief": {
-    "img": "https://cards.scryfall.io/large/front/5/d/5d7ddccd-75ea-4d72-9378-02b595b18c0e.jpg?1782691754",
+    "img": "https://cards.scryfall.io/large/front/5/d/5d7ddccd-75ea-4d72-9378-02b595b18c0e.jpg?1783911469",
     "date": "2021-06-18",
     "colors": [
       "B"
@@ -8966,12 +8992,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 879,
-    "superrank": 873,
-    "identity_rank": 140
+    "rank": 881,
+    "superrank": 875,
+    "identity_rank": 142
   },
   "Grim Hireling": {
-    "img": "https://cards.scryfall.io/large/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.jpg?1782704029",
+    "img": "https://cards.scryfall.io/large/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.jpg?1783926131",
     "date": "2021-07-23",
     "colors": [
       "B"
@@ -8991,12 +9017,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 399,
+    "rank": 401,
     "superrank": 446,
     "identity_rank": 50
   },
   "Grim Monolith": {
-    "img": "https://cards.scryfall.io/large/front/9/d/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280.jpg?1782720556",
+    "img": "https://cards.scryfall.io/large/front/9/d/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280.jpg?1783946223",
     "date": "1999-02-15",
     "colors": [],
     "mana_cost": "{2}",
@@ -9015,7 +9041,7 @@ const cards =
     "identity_rank": 28
   },
   "Grim Servant": {
-    "img": "https://cards.scryfall.io/large/front/7/7/77251806-c2b6-448c-a95e-a1943ca0bfd8.jpg?1782691015",
+    "img": "https://cards.scryfall.io/large/front/7/7/77251806-c2b6-448c-a95e-a1943ca0bfd8.jpg?1783911173",
     "date": "2024-06-14",
     "colors": [
       "B"
@@ -9035,12 +9061,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 756,
-    "superrank": 795,
-    "identity_rank": 118
+    "rank": 758,
+    "superrank": 797,
+    "identity_rank": 120
   },
   "Grim Tutor": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1782754917",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1783946034",
     "date": "1999-07-01",
     "colors": [
       "B"
@@ -9058,12 +9084,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 16,
-    "rank": 196,
-    "superrank": 235,
-    "identity_rank": 28
+    "rank": 197,
+    "superrank": 234,
+    "identity_rank": 27
   },
   "Grinding Station": {
-    "img": "https://cards.scryfall.io/large/front/e/1/e179eab9-acd8-44e9-a4a7-0a33a5195be5.jpg?1782729371",
+    "img": "https://cards.scryfall.io/large/front/e/1/e179eab9-acd8-44e9-a4a7-0a33a5195be5.jpg?1783910553",
     "date": "2004-06-04",
     "colors": [],
     "mana_cost": "{2}",
@@ -9078,11 +9104,11 @@ const cards =
     ],
     "supercent": 3,
     "rank": 464,
-    "superrank": 640,
+    "superrank": 641,
     "identity_rank": 95
   },
   "Grist, the Hunger Tide": {
-    "img": "https://cards.scryfall.io/large/front/8/0/808a3770-057a-4985-ba5c-870d7b1cd527.jpg?1782704557",
+    "img": "https://cards.scryfall.io/large/front/8/0/808a3770-057a-4985-ba5c-870d7b1cd527.jpg?1783926772",
     "date": "2021-06-18",
     "colors": [
       "B",
@@ -9103,12 +9129,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 5,
-    "rank": 902,
-    "superrank": 521,
+    "rank": 903,
+    "superrank": 520,
     "identity_rank": 11
   },
   "Grove of the Burnwillows": {
-    "img": "https://cards.scryfall.io/large/front/e/0/e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452.jpg?1782716644",
+    "img": "https://cards.scryfall.io/large/front/e/0/e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452.jpg?1783943089",
     "date": "2007-05-04",
     "colors": [],
     "mana_cost": "",
@@ -9125,12 +9151,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 645,
+    "rank": 646,
     "superrank": 363,
     "identity_rank": 10
   },
   "Growing Rites of Itlimoc": {
-    "img": "https://cards.scryfall.io/large/front/b/3/b3b87bfc-f97f-4734-94f6-e3e2f335fc4d.jpg?1782710379",
+    "img": "https://cards.scryfall.io/large/front/b/3/b3b87bfc-f97f-4734-94f6-e3e2f335fc4d.jpg?1783935735",
     "date": "2017-09-29",
     "cmc": 3,
     "type_line": "Legendary Enchantment // Legendary Land",
@@ -9148,12 +9174,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1008,
-    "superrank": 1008,
+    "rank": 1009,
+    "superrank": 1009,
     "identity_rank": 99
   },
   "Guild Artisan": {
-    "img": "https://cards.scryfall.io/large/front/a/b/abe5cc84-db39-4f64-b877-599880a8729a.jpg?1782701238",
+    "img": "https://cards.scryfall.io/large/front/a/b/abe5cc84-db39-4f64-b877-599880a8729a.jpg?1783922737",
     "date": "2022-06-10",
     "colors": [
       "R"
@@ -9172,12 +9198,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 941,
-    "superrank": 912,
-    "identity_rank": 138
+    "rank": 942,
+    "superrank": 913,
+    "identity_rank": 139
   },
   "Gush": {
-    "img": "https://cards.scryfall.io/large/front/e/7/e755bbef-bf34-49c0-ae72-d70e3599de52.jpg?1782720332",
+    "img": "https://cards.scryfall.io/large/front/e/7/e755bbef-bf34-49c0-ae72-d70e3599de52.jpg?1783945965",
     "date": "1999-10-04",
     "colors": [
       "U"
@@ -9195,12 +9221,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 555,
-    "superrank": 613,
+    "rank": 556,
+    "superrank": 614,
     "identity_rank": 91
   },
   "Gut Shot": {
-    "img": "https://cards.scryfall.io/large/front/a/5/a54a2a30-b96a-49c7-9151-1f4b0d4a4413.jpg?1782715158",
+    "img": "https://cards.scryfall.io/large/front/a/5/a54a2a30-b96a-49c7-9151-1f4b0d4a4413.jpg?1783941308",
     "date": "2011-05-13",
     "colors": [
       "R"
@@ -9218,12 +9244,12 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 583,
-    "superrank": 525,
+    "rank": 584,
+    "superrank": 524,
     "identity_rank": 88
   },
   "Guttural Response": {
-    "img": "https://cards.scryfall.io/large/front/e/0/e0662ab6-b475-4b8d-ae77-a9b654e611da.jpg?1782716113",
+    "img": "https://cards.scryfall.io/large/front/e/0/e0662ab6-b475-4b8d-ae77-a9b654e611da.jpg?1783942721",
     "date": "2008-05-02",
     "colors": [
       "G",
@@ -9243,12 +9269,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 646,
+    "rank": 647,
     "superrank": 364,
     "identity_rank": 11
   },
   "Hallowed Fountain": {
-    "img": "https://cards.scryfall.io/large/front/4/5/45bf2038-aaa5-418b-8d2f-46e1c492f778.jpg?1782730851",
+    "img": "https://cards.scryfall.io/large/front/4/5/45bf2038-aaa5-418b-8d2f-46e1c492f778.jpg?1783913184",
     "date": "2006-05-05",
     "colors": [],
     "mana_cost": "",
@@ -9270,7 +9296,7 @@ const cards =
     "identity_rank": 2
   },
   "Halvar, God of Battle": {
-    "img": "https://cards.scryfall.io/large/front/f/e/feddb683-a8f8-4def-bd3e-6d630c42cd34.jpg?1782705374",
+    "img": "https://cards.scryfall.io/large/front/f/e/feddb683-a8f8-4def-bd3e-6d630c42cd34.jpg?1783928162",
     "date": "2021-02-05",
     "cmc": 4,
     "type_line": "Legendary Creature \u2014 God // Legendary Artifact \u2014 Equipment",
@@ -9285,12 +9311,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1009,
-    "superrank": 1009,
+    "rank": 1010,
+    "superrank": 1010,
     "identity_rank": 105
   },
   "Hammer of Nazahn": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa055f1f-be94-4682-8e4f-f022c95e6d58.jpg?1782710660",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa055f1f-be94-4682-8e4f-f022c95e6d58.jpg?1783935932",
     "date": "2017-08-25",
     "colors": [],
     "mana_cost": "{4}",
@@ -9305,12 +9331,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 952,
-    "superrank": 983,
+    "rank": 953,
+    "superrank": 984,
     "identity_rank": 161
   },
   "Hammerheim": {
-    "img": "https://cards.scryfall.io/large/front/2/8/2816d30e-1e52-4323-b30e-1688fba23368.jpg?1782722247",
+    "img": "https://cards.scryfall.io/large/front/2/8/2816d30e-1e52-4323-b30e-1688fba23368.jpg?1783948022",
     "date": "1994-06-01",
     "colors": [],
     "mana_cost": "",
@@ -9327,12 +9353,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 371,
-    "superrank": 383,
-    "identity_rank": 54
+    "rank": 373,
+    "superrank": 384,
+    "identity_rank": 55
   },
   "Harmonic Prodigy": {
-    "img": "https://cards.scryfall.io/large/front/4/2/4290d31a-ce74-4a22-8266-9e44d23d506f.jpg?1782704533",
+    "img": "https://cards.scryfall.io/large/front/4/2/4290d31a-ce74-4a22-8266-9e44d23d506f.jpg?1783926757",
     "date": "2021-06-18",
     "colors": [
       "R"
@@ -9352,12 +9378,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 440,
-    "superrank": 401,
-    "identity_rank": 66
+    "rank": 441,
+    "superrank": 402,
+    "identity_rank": 67
   },
   "Hashep Oasis": {
-    "img": "https://cards.scryfall.io/large/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.jpg?1782710711",
+    "img": "https://cards.scryfall.io/large/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.jpg?1783935996",
     "date": "2017-07-14",
     "colors": [],
     "mana_cost": "",
@@ -9373,12 +9399,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 849,
-    "superrank": 685,
+    "rank": 851,
+    "superrank": 686,
     "identity_rank": 83
   },
   "Hazel's Brewmaster": {
-    "img": "https://cards.scryfall.io/large/front/9/5/95965b9a-9ab3-4dd4-b8de-65df9c62e797.jpg?1782690259",
+    "img": "https://cards.scryfall.io/large/front/9/5/95965b9a-9ab3-4dd4-b8de-65df9c62e797.jpg?1783910722",
     "date": "2024-08-02",
     "colors": [
       "B"
@@ -9403,7 +9429,7 @@ const cards =
     "identity_rank": 37
   },
   "Heartless Summoning": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fbac3bc3-e4b7-4320-b7b9-eaebc9cf829e.jpg?1782726570",
+    "img": "https://cards.scryfall.io/large/front/f/b/fbac3bc3-e4b7-4320-b7b9-eaebc9cf829e.jpg?1783908012",
     "date": "2011-09-30",
     "colors": [
       "B"
@@ -9421,12 +9447,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 6,
-    "rank": 418,
+    "rank": 420,
     "superrank": 461,
     "identity_rank": 61
   },
   "Heat Shimmer": {
-    "img": "https://cards.scryfall.io/large/front/a/4/a432470c-7f68-4429-970a-3da8eabcf0b8.jpg?1782716326",
+    "img": "https://cards.scryfall.io/large/front/a/4/a432470c-7f68-4429-970a-3da8eabcf0b8.jpg?1783942875",
     "date": "2007-10-12",
     "colors": [
       "R"
@@ -9444,12 +9470,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 474,
-    "superrank": 487,
+    "rank": 473,
+    "superrank": 486,
     "identity_rank": 74
   },
   "Hedge Maze": {
-    "img": "https://cards.scryfall.io/large/front/e/e/ee215175-d48b-4630-a1b1-36e195db05dd.jpg?1782693728",
+    "img": "https://cards.scryfall.io/large/front/e/e/ee215175-d48b-4630-a1b1-36e195db05dd.jpg?1783912798",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -9466,12 +9492,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 697,
-    "superrank": 503,
+    "rank": 698,
+    "superrank": 502,
     "identity_rank": 9
   },
   "Hellkite Courser": {
-    "img": "https://cards.scryfall.io/large/front/f/e/fea7f618-5757-4611-8689-e34690404992.jpg?1782705665",
+    "img": "https://cards.scryfall.io/large/front/f/e/fea7f618-5757-4611-8689-e34690404992.jpg?1783928611",
     "date": "2020-11-20",
     "colors": [
       "R"
@@ -9491,12 +9517,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 647,
-    "superrank": 730,
+    "rank": 648,
+    "superrank": 731,
     "identity_rank": 105
   },
   "Helm of Awakening": {
-    "img": "https://cards.scryfall.io/large/front/4/1/41bba882-39b8-42db-9a01-54c6712b8019.jpg?1782721276",
+    "img": "https://cards.scryfall.io/large/front/4/1/41bba882-39b8-42db-9a01-54c6712b8019.jpg?1783946974",
     "date": "1997-02-03",
     "colors": [],
     "mana_cost": "{2}",
@@ -9510,12 +9536,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 427,
+    "rank": 428,
     "superrank": 598,
     "identity_rank": 88
   },
   "Helm of the Host": {
-    "img": "https://cards.scryfall.io/large/front/c/1/c1c86b0c-a8a9-4cd4-bec9-3c1680c52cac.jpg?1782699593",
+    "img": "https://cards.scryfall.io/large/front/c/1/c1c86b0c-a8a9-4cd4-bec9-3c1680c52cac.jpg?1783919792",
     "date": "2018-04-27",
     "colors": [],
     "mana_cost": "{4}",
@@ -9530,12 +9556,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 953,
-    "superrank": 984,
+    "rank": 954,
+    "superrank": 985,
     "identity_rank": 162
   },
   "Hengegate Pathway": {
-    "img": "https://cards.scryfall.io/large/front/b/8/b851c41b-ed73-4ee4-9063-544f97f35f67.jpg?1782705378",
+    "img": "https://cards.scryfall.io/large/front/b/8/b851c41b-ed73-4ee4-9063-544f97f35f67.jpg?1783928165",
     "date": "2021-02-05",
     "cmc": 0,
     "type_line": "Land // Land",
@@ -9552,12 +9578,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1013,
-    "superrank": 1013,
+    "rank": 1014,
+    "superrank": 1014,
     "identity_rank": 12
   },
   "Hermit Druid": {
-    "img": "https://cards.scryfall.io/large/front/3/e/3efc0622-ac2c-4722-ba05-961cc98c5940.jpg?1782720833",
+    "img": "https://cards.scryfall.io/large/front/3/e/3efc0622-ac2c-4722-ba05-961cc98c5940.jpg?1783946550",
     "date": "1998-03-02",
     "colors": [
       "G"
@@ -9577,12 +9603,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 400,
+    "rank": 402,
     "superrank": 315,
-    "identity_rank": 41
+    "identity_rank": 42
   },
   "Heroes' Hangout": {
-    "img": "https://cards.scryfall.io/large/front/a/1/a15359e5-3d49-45c1-92fd-406bcc8c3afe.jpg?1782685076",
+    "img": "https://cards.scryfall.io/large/front/a/1/a15359e5-3d49-45c1-92fd-406bcc8c3afe.jpg?1783905500",
     "date": "2025-09-23",
     "colors": [
       "R"
@@ -9600,12 +9626,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 919,
-    "superrank": 896,
+    "rank": 920,
+    "superrank": 897,
     "identity_rank": 129
   },
   "Hexing Squelcher": {
-    "img": "https://cards.scryfall.io/large/front/6/8/68618675-3e00-4b07-b1da-0e4be5700a1c.jpg?1782683864",
+    "img": "https://cards.scryfall.io/large/front/6/8/68618675-3e00-4b07-b1da-0e4be5700a1c.jpg?1783904376",
     "date": "2026-01-23",
     "colors": [
       "R"
@@ -9630,7 +9656,7 @@ const cards =
     "identity_rank": 9
   },
   "Hickory Woodlot": {
-    "img": "https://cards.scryfall.io/large/front/a/f/af7aafb7-6870-4d09-a191-70786766c459.jpg?1782720238",
+    "img": "https://cards.scryfall.io/large/front/a/f/af7aafb7-6870-4d09-a191-70786766c459.jpg?1783945906",
     "date": "1999-10-04",
     "colors": [],
     "mana_cost": "",
@@ -9646,12 +9672,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 903,
-    "superrank": 698,
+    "rank": 904,
+    "superrank": 699,
     "identity_rank": 94
   },
   "Hidden Strings": {
-    "img": "https://cards.scryfall.io/large/front/2/1/216e8047-6f54-49ce-bf86-27dc8fc8c8f7.jpg?1782714026",
+    "img": "https://cards.scryfall.io/large/front/2/1/216e8047-6f54-49ce-bf86-27dc8fc8c8f7.jpg?1783940042",
     "date": "2013-05-03",
     "colors": [
       "U"
@@ -9669,12 +9695,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 761,
-    "superrank": 800,
+    "rank": 763,
+    "superrank": 802,
     "identity_rank": 114
   },
   "High Fae Trickster": {
-    "img": "https://cards.scryfall.io/large/front/a/2/a21180a4-208f-4c13-a704-58403ddaf12f.jpg?1782689001",
+    "img": "https://cards.scryfall.io/large/front/a/2/a21180a4-208f-4c13-a704-58403ddaf12f.jpg?1783909034",
     "date": "2024-11-15",
     "colors": [
       "U"
@@ -9694,12 +9720,12 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 309,
-    "superrank": 349,
+    "rank": 306,
+    "superrank": 348,
     "identity_rank": 66
   },
   "High Noon": {
-    "img": "https://cards.scryfall.io/large/front/9/9/9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8.jpg?1782692140",
+    "img": "https://cards.scryfall.io/large/front/9/9/9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8.jpg?1783911857",
     "date": "2024-04-19",
     "colors": [
       "W"
@@ -9718,12 +9744,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 5,
-    "rank": 978,
-    "superrank": 538,
+    "rank": 979,
+    "superrank": 537,
     "identity_rank": 10
   },
   "High-Speed Hoverbike": {
-    "img": "https://cards.scryfall.io/large/front/7/c/7c619116-1eae-439d-9b1f-639643458a23.jpg?1782702172",
+    "img": "https://cards.scryfall.io/large/front/7/c/7c619116-1eae-439d-9b1f-639643458a23.jpg?1783923825",
     "date": "2022-02-18",
     "colors": [],
     "mana_cost": "{2}",
@@ -9739,12 +9765,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 671,
-    "superrank": 951,
+    "rank": 672,
+    "superrank": 952,
     "identity_rank": 129
   },
   "Hoarding Broodlord": {
-    "img": "https://cards.scryfall.io/large/front/3/8/386ce3c9-869d-461c-a3de-c8add3786f73.jpg?1782697752",
+    "img": "https://cards.scryfall.io/large/front/3/8/386ce3c9-869d-461c-a3de-c8add3786f73.jpg?1783917006",
     "date": "2023-04-21",
     "colors": [
       "B"
@@ -9765,11 +9791,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 216,
-    "superrank": 269,
+    "superrank": 268,
     "identity_rank": 30
   },
   "Holdout Settlement": {
-    "img": "https://cards.scryfall.io/large/front/c/f/cf08c317-6f2d-47e3-ab5b-8af73fd3e404.jpg?1782712169",
+    "img": "https://cards.scryfall.io/large/front/c/f/cf08c317-6f2d-47e3-ab5b-8af73fd3e404.jpg?1783937892",
     "date": "2016-01-22",
     "colors": [],
     "mana_cost": "",
@@ -9783,12 +9809,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 372,
-    "superrank": 570,
+    "rank": 374,
+    "superrank": 569,
     "identity_rank": 73
   },
   "Hope of Ghirapur": {
-    "img": "https://cards.scryfall.io/large/front/6/f/6f4bcadd-7eff-4294-94d5-52482a734d5b.jpg?1782711236",
+    "img": "https://cards.scryfall.io/large/front/6/f/6f4bcadd-7eff-4294-94d5-52482a734d5b.jpg?1783936726",
     "date": "2017-01-20",
     "colors": [],
     "mana_cost": "{1}",
@@ -9806,12 +9832,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 599,
-    "superrank": 705,
+    "rank": 600,
+    "superrank": 706,
     "identity_rank": 119
   },
   "Horizon Canopy": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d5dfc25d-a17b-4ead-9484-e8a18b8fa176.jpg?1782716644",
+    "img": "https://cards.scryfall.io/large/front/d/5/d5dfc25d-a17b-4ead-9484-e8a18b8fa176.jpg?1783943088",
     "date": "2007-05-04",
     "colors": [],
     "mana_cost": "",
@@ -9828,12 +9854,12 @@ const cards =
       "Land"
     ],
     "supercent": 11,
-    "rank": 525,
+    "rank": 524,
     "superrank": 321,
     "identity_rank": 8
   },
   "Howlsquad Heavy": {
-    "img": "https://cards.scryfall.io/large/front/d/f/df582f80-7b9a-4f71-95a9-70548ec7d2d7.jpg?1782687855",
+    "img": "https://cards.scryfall.io/large/front/d/f/df582f80-7b9a-4f71-95a9-70548ec7d2d7.jpg?1783907881",
     "date": "2025-02-14",
     "colors": [
       "R"
@@ -9853,12 +9879,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 989,
-    "superrank": 938,
-    "identity_rank": 154
+    "rank": 990,
+    "superrank": 939,
+    "identity_rank": 155
   },
   "Hulkling, Young Avenger": {
-    "img": "https://cards.scryfall.io/large/front/6/3/6358d9ec-7542-4364-8bba-ca29fe470338.jpg?1782682078",
+    "img": "https://cards.scryfall.io/large/front/6/3/6358d9ec-7542-4364-8bba-ca29fe470338.jpg?1783903050",
     "date": "2026-06-26",
     "colors": [
       "R"
@@ -9879,12 +9905,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 668,
-    "superrank": 740,
+    "rank": 669,
+    "superrank": 741,
     "identity_rank": 110
   },
   "Hullbreaker Horror": {
-    "img": "https://cards.scryfall.io/large/front/a/d/ad3732f1-26b2-4448-87ea-56a1524ecb0f.jpg?1782726589",
+    "img": "https://cards.scryfall.io/large/front/a/d/ad3732f1-26b2-4448-87ea-56a1524ecb0f.jpg?1783908022",
     "date": "2021-11-19",
     "colors": [
       "U"
@@ -9904,12 +9930,12 @@ const cards =
       "Creature"
     ],
     "supercent": 13,
-    "rank": 231,
-    "superrank": 276,
+    "rank": 230,
+    "superrank": 275,
     "identity_rank": 51
   },
   "Humility": {
-    "img": "https://cards.scryfall.io/large/front/a/2/a2fb7128-806b-4148-80fe-eb967f248021.jpg?1782721001",
+    "img": "https://cards.scryfall.io/large/front/a/2/a2fb7128-806b-4148-80fe-eb967f248021.jpg?1783946664",
     "date": "1997-10-14",
     "colors": [
       "W"
@@ -9927,12 +9953,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 778,
-    "superrank": 807,
+    "rank": 780,
+    "superrank": 809,
     "identity_rank": 78
   },
   "Hunting Velociraptor": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.jpg?1782731643",
+    "img": "https://cards.scryfall.io/large/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.jpg?1783913639",
     "date": "2023-11-17",
     "colors": [
       "R"
@@ -9952,12 +9978,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 648,
-    "superrank": 731,
+    "rank": 649,
+    "superrank": 732,
     "identity_rank": 106
   },
   "Hushwood Verge": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ec288d76-c1f5-471b-8a53-504f88469c1b.jpg?1782689409",
+    "img": "https://cards.scryfall.io/large/front/e/c/ec288d76-c1f5-471b-8a53-504f88469c1b.jpg?1783909428",
     "date": "2024-09-27",
     "colors": [],
     "mana_cost": "",
@@ -9974,12 +10000,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 718,
-    "superrank": 510,
+    "rank": 719,
+    "superrank": 509,
     "identity_rank": 13
   },
   "Hydroelectric Specimen": {
-    "img": "https://cards.scryfall.io/large/front/8/6/8689ecd7-e9a6-458b-99d2-6dbaca527f00.jpg?1782691170",
+    "img": "https://cards.scryfall.io/large/front/8/6/8689ecd7-e9a6-458b-99d2-6dbaca527f00.jpg?1783911234",
     "date": "2024-06-14",
     "cmc": 3,
     "type_line": "Creature \u2014 Weird // Land",
@@ -9993,12 +10019,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1002,
-    "superrank": 1002,
-    "identity_rank": 168
+    "rank": 1003,
+    "superrank": 1003,
+    "identity_rank": 167
   },
   "Icatian Moneychanger": {
-    "img": "https://cards.scryfall.io/large/front/c/f/cf9521ae-6fac-4d86-9c60-adecaae5687d.jpg?1782722041",
+    "img": "https://cards.scryfall.io/large/front/c/f/cf9521ae-6fac-4d86-9c60-adecaae5687d.jpg?1783947917",
     "date": "1994-11-01",
     "colors": [
       "W"
@@ -10018,12 +10044,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 858,
-    "superrank": 863,
+    "rank": 860,
+    "superrank": 865,
     "identity_rank": 87
   },
   "Icetill Explorer": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f63de2e4-f094-4b10-b754-1285ad64effc.jpg?1782685345",
+    "img": "https://cards.scryfall.io/large/front/f/6/f63de2e4-f094-4b10-b754-1285ad64effc.jpg?1783905884",
     "date": "2025-08-01",
     "colors": [
       "G"
@@ -10043,12 +10069,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 904,
-    "superrank": 699,
+    "rank": 905,
+    "superrank": 700,
     "identity_rank": 95
   },
   "Ifnir Deadlands": {
-    "img": "https://cards.scryfall.io/large/front/0/b/0b88728b-9b18-40c6-b634-f87f8da83665.jpg?1782710709",
+    "img": "https://cards.scryfall.io/large/front/0/b/0b88728b-9b18-40c6-b634-f87f8da83665.jpg?1783935996",
     "date": "2017-07-14",
     "colors": [],
     "mana_cost": "",
@@ -10064,12 +10090,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 739,
-    "superrank": 782,
-    "identity_rank": 105
+    "rank": 740,
+    "superrank": 783,
+    "identity_rank": 106
   },
   "Ignoble Hierarch": {
-    "img": "https://cards.scryfall.io/large/front/9/4/9417f14c-a853-42c6-a992-29139484260a.jpg?1782704496",
+    "img": "https://cards.scryfall.io/large/front/9/4/9417f14c-a853-42c6-a992-29139484260a.jpg?1783926728",
     "date": "2021-06-18",
     "colors": [
       "G"
@@ -10091,12 +10117,12 @@ const cards =
       "Creature"
     ],
     "supercent": 88,
-    "rank": 188,
+    "rank": 189,
     "superrank": 38,
     "identity_rank": 1
   },
   "Imperial Recruiter": {
-    "img": "https://cards.scryfall.io/large/front/1/c/1c473253-3992-4cc1-8b46-5d1da308c537.jpg?1782755003",
+    "img": "https://cards.scryfall.io/large/front/1/c/1c473253-3992-4cc1-8b46-5d1da308c537.jpg?1783946106",
     "date": "1999-05-01",
     "colors": [
       "R"
@@ -10117,11 +10143,11 @@ const cards =
     ],
     "supercent": 17,
     "rank": 227,
-    "superrank": 230,
-    "identity_rank": 20
+    "superrank": 231,
+    "identity_rank": 21
   },
   "Imperial Seal": {
-    "img": "https://cards.scryfall.io/large/front/8/2/822e30db-40c5-4099-868b-185ad9b7c7dc.jpg?1782755023",
+    "img": "https://cards.scryfall.io/large/front/8/2/822e30db-40c5-4099-868b-185ad9b7c7dc.jpg?1783946114",
     "date": "1999-05-01",
     "colors": [
       "B"
@@ -10144,7 +10170,7 @@ const cards =
     "identity_rank": 4
   },
   "Impolite Entrance": {
-    "img": "https://cards.scryfall.io/large/front/4/5/45be88d8-0be1-47a2-a1c1-d6e693fc706f.jpg?1782684013",
+    "img": "https://cards.scryfall.io/large/front/4/5/45be88d8-0be1-47a2-a1c1-d6e693fc706f.jpg?1783904443",
     "date": "2026-01-23",
     "colors": [
       "R"
@@ -10162,12 +10188,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 920,
-    "superrank": 897,
+    "rank": 921,
+    "superrank": 898,
     "identity_rank": 130
   },
   "Imposter Mech": {
-    "img": "https://cards.scryfall.io/large/front/e/5/e544d75c-d4ce-4c15-a71c-1282b3c54f81.jpg?1782702413",
+    "img": "https://cards.scryfall.io/large/front/e/5/e544d75c-d4ce-4c15-a71c-1282b3c54f81.jpg?1783923979",
     "date": "2022-02-18",
     "colors": [
       "U"
@@ -10188,11 +10214,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 168,
-    "superrank": 200,
+    "superrank": 201,
     "identity_rank": 34
   },
   "Impulsive Pilferer": {
-    "img": "https://cards.scryfall.io/large/front/5/5/55ba9bea-5549-45cf-896c-501a1c81fd5a.jpg?1782705981",
+    "img": "https://cards.scryfall.io/large/front/5/5/55ba9bea-5549-45cf-896c-501a1c81fd5a.jpg?1783928813",
     "date": "2020-11-20",
     "colors": [
       "R"
@@ -10213,11 +10239,11 @@ const cards =
     ],
     "supercent": 5,
     "rank": 466,
-    "superrank": 482,
+    "superrank": 481,
     "identity_rank": 69
   },
   "Incubation Druid": {
-    "img": "https://cards.scryfall.io/large/front/0/7/075bbe5d-d0f3-4be3-a3a6-072d5d3d614c.jpg?1782708870",
+    "img": "https://cards.scryfall.io/large/front/0/7/075bbe5d-d0f3-4be3-a3a6-072d5d3d614c.jpg?1783933668",
     "date": "2019-01-25",
     "colors": [
       "G"
@@ -10237,12 +10263,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 859,
-    "superrank": 687,
+    "rank": 861,
+    "superrank": 688,
     "identity_rank": 84
   },
   "Infernal Plunge": {
-    "img": "https://cards.scryfall.io/large/front/b/3/b3f50e17-c29c-4d2c-b3e7-45d1216b81ea.jpg?1782714743",
+    "img": "https://cards.scryfall.io/large/front/b/3/b3f50e17-c29c-4d2c-b3e7-45d1216b81ea.jpg?1783940934",
     "date": "2011-09-30",
     "colors": [
       "R"
@@ -10260,12 +10286,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 942,
-    "superrank": 913,
-    "identity_rank": 139
+    "rank": 943,
+    "superrank": 914,
+    "identity_rank": 140
   },
   "Ingenious Infiltrator": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a92b3ded-40d9-4e50-a64c-b326e3fd52ed.jpg?1782704752",
+    "img": "https://cards.scryfall.io/large/front/a/9/a92b3ded-40d9-4e50-a64c-b326e3fd52ed.jpg?1783926902",
     "date": "2019-06-14",
     "colors": [
       "B",
@@ -10287,12 +10313,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 821,
-    "superrank": 680,
+    "rank": 823,
+    "superrank": 681,
     "identity_rank": 17
   },
   "Inkmoth Nexus": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1782715195",
+    "img": "https://cards.scryfall.io/large/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1783941359",
     "date": "2011-02-04",
     "colors": [],
     "mana_cost": "",
@@ -10306,12 +10332,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 749,
-    "superrank": 959,
+    "rank": 750,
+    "superrank": 960,
     "identity_rank": 137
   },
   "Insatiable Avarice": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aae03d91-8269-4124-ba50-a6c65f47718b.jpg?1782691875",
+    "img": "https://cards.scryfall.io/large/front/a/a/aae03d91-8269-4124-ba50-a6c65f47718b.jpg?1783911751",
     "date": "2024-04-19",
     "colors": [
       "B"
@@ -10329,12 +10355,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 419,
+    "rank": 421,
     "superrank": 462,
     "identity_rank": 62
   },
   "Insolent Neonate": {
-    "img": "https://cards.scryfall.io/large/front/8/1/813104f6-e6e4-4709-8626-12fe4262a11f.jpg?1782712043",
+    "img": "https://cards.scryfall.io/large/front/8/1/813104f6-e6e4-4709-8626-12fe4262a11f.jpg?1783937748",
     "date": "2016-04-08",
     "colors": [
       "R"
@@ -10354,12 +10380,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 629,
-    "superrank": 720,
+    "rank": 630,
+    "superrank": 721,
     "identity_rank": 99
   },
   "Into the Flood Maw": {
-    "img": "https://cards.scryfall.io/large/front/5/0/50b9575a-53d9-4df7-b86c-cda021107d3f.jpg?1782690596",
+    "img": "https://cards.scryfall.io/large/front/5/0/50b9575a-53d9-4df7-b86c-cda021107d3f.jpg?1783910850",
     "date": "2024-08-02",
     "colors": [
       "U"
@@ -10371,18 +10397,18 @@ const cards =
       "U"
     ],
     "name": "Into the Flood Maw",
-    "count": 20,
-    "percent": 31,
+    "count": 21,
+    "percent": 32,
     "types": [
       "Instant"
     ],
-    "supercent": 46,
-    "rank": 91,
-    "superrank": 117,
-    "identity_rank": 19
+    "supercent": 48,
+    "rank": 84,
+    "superrank": 111,
+    "identity_rank": 18
   },
   "Intuition": {
-    "img": "https://cards.scryfall.io/large/front/c/9/c99f6785-e5a1-4fdc-9fb5-e1a372e7e848.jpg?1782720982",
+    "img": "https://cards.scryfall.io/large/front/c/9/c99f6785-e5a1-4fdc-9fb5-e1a372e7e848.jpg?1783946654",
     "date": "1997-10-14",
     "colors": [
       "U"
@@ -10405,7 +10431,7 @@ const cards =
     "identity_rank": 23
   },
   "Invasion of Ikoria": {
-    "img": "https://cards.scryfall.io/large/front/5/d/5d59c8f2-f6af-40a6-8dfe-8cc45bf231ce.jpg?1782697700",
+    "img": "https://cards.scryfall.io/large/front/5/d/5d59c8f2-f6af-40a6-8dfe-8cc45bf231ce.jpg?1783916974",
     "date": "2023-04-21",
     "cmc": 2,
     "type_line": "Battle \u2014 Siege // Legendary Creature \u2014 Dinosaur",
@@ -10419,12 +10445,12 @@ const cards =
       "Battle"
     ],
     "supercent": 0,
-    "rank": 1020,
-    "superrank": 1020,
+    "rank": 1021,
+    "superrank": 1021,
     "identity_rank": 100
   },
   "Inventors' Fair": {
-    "img": "https://cards.scryfall.io/large/front/2/7/275471e3-ded1-40ac-91ef-369dce5764d9.jpg?1782711476",
+    "img": "https://cards.scryfall.io/large/front/2/7/275471e3-ded1-40ac-91ef-369dce5764d9.jpg?1783937144",
     "date": "2016-09-30",
     "colors": [],
     "mana_cost": "",
@@ -10439,12 +10465,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 533,
-    "superrank": 668,
+    "rank": 532,
+    "superrank": 669,
     "identity_rank": 106
   },
   "Ipnu Rivulet": {
-    "img": "https://cards.scryfall.io/large/front/2/0/203011ef-3737-4fd1-bd23-0e531b5a7c32.jpg?1782710709",
+    "img": "https://cards.scryfall.io/large/front/2/0/203011ef-3737-4fd1-bd23-0e531b5a7c32.jpg?1783935996",
     "date": "2017-07-14",
     "colors": [],
     "mana_cost": "",
@@ -10460,12 +10486,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 890,
-    "superrank": 881,
+    "rank": 891,
+    "superrank": 882,
     "identity_rank": 157
   },
   "Irma, Part-Time Mutant": {
-    "img": "https://cards.scryfall.io/large/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1782723725",
+    "img": "https://cards.scryfall.io/large/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172",
     "date": "2026-03-06",
     "colors": [
       "U"
@@ -10486,12 +10512,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 566,
-    "superrank": 623,
+    "rank": 567,
+    "superrank": 624,
     "identity_rank": 96
   },
   "Island": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bc6ea08d-7991-4a57-a1e3-abd508426970.jpg?1782722883",
+    "img": "https://cards.scryfall.io/large/front/b/c/bc6ea08d-7991-4a57-a1e3-abd508426970.jpg?1783948657",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -10508,12 +10534,12 @@ const cards =
       "Land"
     ],
     "supercent": 25,
-    "rank": 148,
-    "superrank": 180,
+    "rank": 146,
+    "superrank": 179,
     "identity_rank": 29
   },
   "Isochron Scepter": {
-    "img": "https://cards.scryfall.io/large/front/8/7/878b0159-6917-45d3-b9ea-562ac49f0b8f.jpg?1782718469",
+    "img": "https://cards.scryfall.io/large/front/8/7/878b0159-6917-45d3-b9ea-562ac49f0b8f.jpg?1783944517",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -10528,11 +10554,11 @@ const cards =
     ],
     "supercent": 7,
     "rank": 287,
-    "superrank": 424,
+    "superrank": 423,
     "identity_rank": 54
   },
   "Izzet Signet": {
-    "img": "https://cards.scryfall.io/large/front/a/b/ab29ff99-b246-49e8-bb77-c7906b502232.jpg?1782740877",
+    "img": "https://cards.scryfall.io/large/front/a/b/ab29ff99-b246-49e8-bb77-c7906b502232.jpg?1783926553",
     "date": "2006-02-03",
     "colors": [],
     "mana_cost": "{2}",
@@ -10549,12 +10575,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 841,
-    "superrank": 625,
+    "rank": 843,
+    "superrank": 626,
     "identity_rank": 11
   },
   "Jaxis, the Troublemaker": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a3fa6dc3-3f4d-4501-8647-07b0252b6d93.jpg?1782701393",
+    "img": "https://cards.scryfall.io/large/front/a/3/a3fa6dc3-3f4d-4501-8647-07b0252b6d93.jpg?1783922981",
     "date": "2022-04-29",
     "colors": [
       "R"
@@ -10575,12 +10601,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 475,
-    "superrank": 488,
+    "rank": 474,
+    "superrank": 487,
     "identity_rank": 75
   },
   "Jennifer Walters": {
-    "img": "https://cards.scryfall.io/large/front/f/e/feb9e3c1-4d66-49a2-8a67-eebd0d272fc3.jpg?1782681596",
+    "img": "https://cards.scryfall.io/large/front/f/e/feb9e3c1-4d66-49a2-8a67-eebd0d272fc3.jpg?1783902857",
     "date": "2026-06-26",
     "cmc": 2,
     "type_line": "Legendary Creature \u2014 Human Advisor Hero // Legendary Creature \u2014 Gamma Hero",
@@ -10596,12 +10622,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1018,
-    "superrank": 1018,
+    "rank": 1019,
+    "superrank": 1019,
     "identity_rank": 20
   },
   "Jeska's Will": {
-    "img": "https://cards.scryfall.io/large/front/e/6/e6b4d78f-af3e-4210-8886-231a40a6bd98.jpg?1782705665",
+    "img": "https://cards.scryfall.io/large/front/e/6/e6b4d78f-af3e-4210-8886-231a40a6bd98.jpg?1783928610",
     "date": "2020-11-20",
     "colors": [
       "R"
@@ -10624,7 +10650,7 @@ const cards =
     "identity_rank": 10
   },
   "Jet Medallion": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c0db458c-2ced-454c-8061-fff8bd363b33.jpg?1782720897",
+    "img": "https://cards.scryfall.io/large/front/c/0/c0db458c-2ced-454c-8061-fff8bd363b33.jpg?1783946604",
     "date": "1997-10-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -10638,12 +10664,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 420,
-    "superrank": 594,
+    "rank": 422,
+    "superrank": 593,
     "identity_rank": 86
   },
   "Jeweled Amulet": {
-    "img": "https://cards.scryfall.io/large/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1782721628",
+    "img": "https://cards.scryfall.io/large/front/3/4/34f7bad2-d28f-42d2-9246-fe3545ef49a7.jpg?1783947458",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "{0}",
@@ -10657,12 +10683,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 428,
+    "rank": 429,
     "superrank": 599,
     "identity_rank": 89
   },
   "Jor Kadeen, the Prevailer": {
-    "img": "https://cards.scryfall.io/large/front/b/f/bfd8d7de-a2e1-4f83-85f9-7057eebf0c37.jpg?1782715142",
+    "img": "https://cards.scryfall.io/large/front/b/f/bfd8d7de-a2e1-4f83-85f9-7057eebf0c37.jpg?1783941297",
     "date": "2011-05-13",
     "colors": [
       "R",
@@ -10685,12 +10711,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 990,
-    "superrank": 547,
+    "rank": 991,
+    "superrank": 546,
     "identity_rank": 13
   },
   "Joraga Treespeaker": {
-    "img": "https://cards.scryfall.io/large/front/1/1/1132218d-56cd-441e-9006-df3c50344491.jpg?1782715458",
+    "img": "https://cards.scryfall.io/large/front/1/1/1132218d-56cd-441e-9006-df3c50344491.jpg?1783941963",
     "date": "2010-04-23",
     "colors": [
       "G"
@@ -10710,12 +10736,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 573,
-    "superrank": 429,
+    "rank": 574,
+    "superrank": 428,
     "identity_rank": 60
   },
   "Jurin, Leading the Charge": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fab07547-a6b8-487a-9688-8f93aaa71f5b.jpg?1782734269",
+    "img": "https://cards.scryfall.io/large/front/f/a/fab07547-a6b8-487a-9688-8f93aaa71f5b.jpg?1783917466",
     "date": "2023-03-26",
     "colors": [
       "R"
@@ -10736,12 +10762,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 991,
-    "superrank": 939,
-    "identity_rank": 155
+    "rank": 992,
+    "superrank": 940,
+    "identity_rank": 156
   },
   "Kaito, Bane of Nightmares": {
-    "img": "https://cards.scryfall.io/large/front/a/7/a7927a69-62a9-4f69-923d-f651bb03a7b4.jpg?1782689330",
+    "img": "https://cards.scryfall.io/large/front/a/7/a7927a69-62a9-4f69-923d-f651bb03a7b4.jpg?1783909399",
     "date": "2024-09-27",
     "colors": [
       "B",
@@ -10762,12 +10788,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 3,
-    "rank": 822,
-    "superrank": 681,
+    "rank": 824,
+    "superrank": 682,
     "identity_rank": 18
   },
   "Karmic Guide": {
-    "img": "https://cards.scryfall.io/large/front/7/7/77d23045-905b-44cb-9af9-cc6ad717477d.jpg?1782720604",
+    "img": "https://cards.scryfall.io/large/front/7/7/77d23045-905b-44cb-9af9-cc6ad717477d.jpg?1783946252",
     "date": "1999-02-15",
     "colors": [
       "W"
@@ -10787,12 +10813,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 397,
-    "superrank": 395,
+    "rank": 399,
+    "superrank": 396,
     "identity_rank": 30
   },
   "Karplusan Forest": {
-    "img": "https://cards.scryfall.io/large/front/b/a/ba6f1263-d598-49fb-b5f8-09f11822ebd0.jpg?1782721616",
+    "img": "https://cards.scryfall.io/large/front/b/a/ba6f1263-d598-49fb-b5f8-09f11822ebd0.jpg?1783947451",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -10809,12 +10835,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 649,
+    "rank": 650,
     "superrank": 365,
     "identity_rank": 12
   },
   "Kataki, War's Wage": {
-    "img": "https://cards.scryfall.io/large/front/a/5/a5c99ac4-6551-4cc2-9a70-6e66b259b2a2.jpg?1782718055",
+    "img": "https://cards.scryfall.io/large/front/a/5/a5c99ac4-6551-4cc2-9a70-6e66b259b2a2.jpg?1783944172",
     "date": "2005-06-03",
     "colors": [
       "W"
@@ -10835,12 +10861,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 719,
-    "superrank": 769,
+    "rank": 720,
+    "superrank": 770,
     "identity_rank": 65
   },
   "Katara, Waterbending Master": {
-    "img": "https://cards.scryfall.io/large/front/2/c/2c348122-37e0-443b-861d-ccf2837ce7a3.jpg?1782724388",
+    "img": "https://cards.scryfall.io/large/front/2/c/2c348122-37e0-443b-861d-ccf2837ce7a3.jpg?1783904828",
     "date": "2025-11-21",
     "colors": [
       "U"
@@ -10861,12 +10887,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 578,
-    "superrank": 629,
+    "rank": 579,
+    "superrank": 630,
     "identity_rank": 98
   },
   "Kavaron, Memorial World": {
-    "img": "https://cards.scryfall.io/large/front/6/0/60f3ca25-9dcc-4781-bf7b-ab6736d8db29.jpg?1782685406",
+    "img": "https://cards.scryfall.io/large/front/6/0/60f3ca25-9dcc-4781-bf7b-ab6736d8db29.jpg?1783905915",
     "date": "2025-08-01",
     "colors": [],
     "mana_cost": "",
@@ -10882,12 +10908,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 373,
-    "superrank": 384,
-    "identity_rank": 55
+    "rank": 375,
+    "superrank": 385,
+    "identity_rank": 56
   },
   "Kediss, Emberclaw Familiar": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f606ebf1-483d-4331-b16a-9fb6f591a39f.jpg?1782705978",
+    "img": "https://cards.scryfall.io/large/front/f/6/f606ebf1-483d-4331-b16a-9fb6f591a39f.jpg?1783928811",
     "date": "2020-11-20",
     "colors": [
       "R"
@@ -10908,12 +10934,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 700,
-    "superrank": 758,
+    "rank": 701,
+    "superrank": 759,
     "identity_rank": 117
   },
   "Keen Sense": {
-    "img": "https://cards.scryfall.io/large/front/4/1/4197d992-f868-44dd-85f7-598b22e208f3.jpg?1782716733",
+    "img": "https://cards.scryfall.io/large/front/4/1/4197d992-f868-44dd-85f7-598b22e208f3.jpg?1783943135",
     "date": "2007-02-02",
     "colors": [
       "G"
@@ -10931,12 +10957,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 663,
-    "superrank": 645,
+    "rank": 664,
+    "superrank": 646,
     "identity_rank": 66
   },
   "Kefka, Court Mage": {
-    "img": "https://cards.scryfall.io/large/front/8/f/8fcf3fbb-1ddd-437e-81c1-f5a3133f5ee8.jpg?1782686419",
+    "img": "https://cards.scryfall.io/large/front/8/f/8fcf3fbb-1ddd-437e-81c1-f5a3133f5ee8.jpg?1783906572",
     "date": "2025-06-13",
     "cmc": 5,
     "type_line": "Legendary Creature \u2014 Human Wizard // Legendary Creature \u2014 Avatar Wizard",
@@ -10953,12 +10979,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1019,
-    "superrank": 1019,
+    "rank": 1020,
+    "superrank": 1020,
     "identity_rank": 1
   },
   "Kiki-Jiki, Mirror Breaker": {
-    "img": "https://cards.scryfall.io/large/front/8/a/8a30fe7c-3c6b-4d05-adb7-9f87df29cd3b.jpg?1782741698",
+    "img": "https://cards.scryfall.io/large/front/8/a/8a30fe7c-3c6b-4d05-adb7-9f87df29cd3b.jpg?1783927723",
     "date": "2004-10-01",
     "colors": [
       "R"
@@ -10979,12 +11005,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 324,
+    "rank": 321,
     "superrank": 313,
-    "identity_rank": 38
+    "identity_rank": 36
   },
   "Kindle the Inner Flame": {
-    "img": "https://cards.scryfall.io/large/front/9/a/9a2adcea-f6b1-4611-b8b8-f19fdee2c571.jpg?1782684012",
+    "img": "https://cards.scryfall.io/large/front/9/a/9a2adcea-f6b1-4611-b8b8-f19fdee2c571.jpg?1783904442",
     "date": "2026-01-23",
     "colors": [
       "R"
@@ -11003,12 +11029,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 650,
-    "superrank": 732,
+    "rank": 651,
+    "superrank": 733,
     "identity_rank": 107
   },
   "Kinnan, Bonder Prodigy": {
-    "img": "https://cards.scryfall.io/large/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1782707123",
+    "img": "https://cards.scryfall.io/large/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1783931023",
     "date": "2020-04-24",
     "colors": [
       "G",
@@ -11036,7 +11062,7 @@ const cards =
     "identity_rank": 4
   },
   "Knight of the Reliquary": {
-    "img": "https://cards.scryfall.io/large/front/f/c/fcba497e-14de-4977-9e5a-0533b6b0de60.jpg?1782741671",
+    "img": "https://cards.scryfall.io/large/front/f/c/fcba497e-14de-4977-9e5a-0533b6b0de60.jpg?1783927712",
     "date": "2009-02-06",
     "colors": [
       "G",
@@ -11058,12 +11084,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 860,
-    "superrank": 520,
+    "rank": 862,
+    "superrank": 519,
     "identity_rank": 18
   },
   "Knuckles the Echidna": {
-    "img": "https://cards.scryfall.io/large/front/5/4/54b65cca-7844-4d3e-9d7f-ed1f49f94425.jpg?1782725309",
+    "img": "https://cards.scryfall.io/large/front/5/4/54b65cca-7844-4d3e-9d7f-ed1f49f94425.jpg?1783906092",
     "date": "2025-07-14",
     "colors": [
       "R"
@@ -11084,12 +11110,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 319,
+    "rank": 316,
     "superrank": 308,
-    "identity_rank": 36
+    "identity_rank": 34
   },
   "Kogla, the Titan Ape": {
-    "img": "https://cards.scryfall.io/large/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.jpg?1782707045",
+    "img": "https://cards.scryfall.io/large/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.jpg?1783930972",
     "date": "2020-04-24",
     "colors": [
       "G"
@@ -11110,12 +11136,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 720,
-    "superrank": 664,
+    "rank": 721,
+    "superrank": 665,
     "identity_rank": 76
   },
   "Kozilek, Butcher of Truth": {
-    "img": "https://cards.scryfall.io/large/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.jpg?1782715530",
+    "img": "https://cards.scryfall.io/large/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.jpg?1783942013",
     "date": "2010-04-23",
     "colors": [],
     "mana_cost": "{10}",
@@ -11132,12 +11158,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 905,
-    "superrank": 977,
+    "rank": 906,
+    "superrank": 978,
     "identity_rank": 155
   },
   "Krark's Thumb": {
-    "img": "https://cards.scryfall.io/large/front/7/8/78a5d49a-747e-4ec8-a20a-ca917c315774.jpg?1782718469",
+    "img": "https://cards.scryfall.io/large/front/7/8/78a5d49a-747e-4ec8-a20a-ca917c315774.jpg?1783944517",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -11152,12 +11178,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 930,
-    "superrank": 979,
+    "rank": 931,
+    "superrank": 980,
     "identity_rank": 157
   },
   "Krark-Clan Ironworks": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f5b731dd-49ab-440b-b974-497e57122d4e.jpg?1782724589",
+    "img": "https://cards.scryfall.io/large/front/f/5/f5b731dd-49ab-440b-b974-497e57122d4e.jpg?1783905102",
     "date": "2004-06-04",
     "colors": [],
     "mana_cost": "{4}",
@@ -11171,12 +11197,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 954,
-    "superrank": 985,
+    "rank": 955,
+    "superrank": 986,
     "identity_rank": 163
   },
   "Kutzil, Malamet Exemplar": {
-    "img": "https://cards.scryfall.io/large/front/c/9/c9f88a40-a6ed-4c1f-a309-011aca1acddd.jpg?1782694425",
+    "img": "https://cards.scryfall.io/large/front/c/9/c9f88a40-a6ed-4c1f-a309-011aca1acddd.jpg?1783913732",
     "date": "2023-11-17",
     "colors": [
       "G",
@@ -11199,12 +11225,12 @@ const cards =
       "Creature"
     ],
     "supercent": 22,
-    "rank": 322,
+    "rank": 319,
     "superrank": 194,
     "identity_rank": 6
   },
   "Laboratory Maniac": {
-    "img": "https://cards.scryfall.io/large/front/5/8/5840b48c-7a14-481e-9d21-0c68aee16020.jpg?1782741729",
+    "img": "https://cards.scryfall.io/large/front/5/8/5840b48c-7a14-481e-9d21-0c68aee16020.jpg?1783927738",
     "date": "2011-09-30",
     "colors": [
       "U"
@@ -11224,12 +11250,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 793,
-    "superrank": 817,
+    "rank": 795,
+    "superrank": 819,
     "identity_rank": 127
   },
   "Lake of the Dead": {
-    "img": "https://cards.scryfall.io/large/front/a/e/aee806ce-effa-4244-9659-43246e944d80.jpg?1782721475",
+    "img": "https://cards.scryfall.io/large/front/a/e/aee806ce-effa-4244-9659-43246e944d80.jpg?1783947158",
     "date": "1996-06-10",
     "colors": [],
     "mana_cost": "",
@@ -11245,12 +11271,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 426,
-    "superrank": 467,
-    "identity_rank": 67
+    "rank": 427,
+    "superrank": 466,
+    "identity_rank": 66
   },
   "Land Tax": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1782722373",
+    "img": "https://cards.scryfall.io/large/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1783948083",
     "date": "1994-06-01",
     "colors": [
       "W"
@@ -11268,12 +11294,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 721,
-    "superrank": 770,
+    "rank": 722,
+    "superrank": 771,
     "identity_rank": 66
   },
   "Last Chance": {
-    "img": "https://cards.scryfall.io/large/front/8/6/86f2c423-1694-466e-9a7d-4ec99e53578d.jpg?1782755562",
+    "img": "https://cards.scryfall.io/large/front/8/6/86f2c423-1694-466e-9a7d-4ec99e53578d.jpg?1783946814",
     "date": "1997-05-01",
     "colors": [
       "R"
@@ -11285,18 +11311,18 @@ const cards =
       "R"
     ],
     "name": "Last Chance",
-    "count": 3,
-    "percent": 4,
+    "count": 4,
+    "percent": 6,
     "types": [
       "Sorcery"
     ],
-    "supercent": 8,
-    "rank": 446,
-    "superrank": 405,
-    "identity_rank": 67
+    "supercent": 11,
+    "rank": 336,
+    "superrank": 328,
+    "identity_rank": 38
   },
   "Lazotep Quarry": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff73b7f3-62f3-4a05-b439-bae2d0f63d2f.jpg?1782691679",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff73b7f3-62f3-4a05-b439-bae2d0f63d2f.jpg?1783911415",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "",
@@ -11311,11 +11337,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 342,
-    "superrank": 552,
+    "superrank": 551,
     "identity_rank": 66
   },
   "Ledger Shredder": {
-    "img": "https://cards.scryfall.io/large/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1782701637",
+    "img": "https://cards.scryfall.io/large/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1783923147",
     "date": "2022-04-29",
     "colors": [
       "U"
@@ -11335,12 +11361,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 522,
-    "superrank": 586,
+    "rank": 521,
+    "superrank": 585,
     "identity_rank": 86
   },
   "Legion Extruder": {
-    "img": "https://cards.scryfall.io/large/front/f/1/f1d67fd7-30c8-4cd7-ab1a-97225b9c9437.jpg?1782692505",
+    "img": "https://cards.scryfall.io/large/front/f/1/f1d67fd7-30c8-4cd7-ab1a-97225b9c9437.jpg?1783911990",
     "date": "2024-04-19",
     "colors": [
       "R"
@@ -11358,12 +11384,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 5,
-    "rank": 495,
-    "superrank": 493,
+    "rank": 494,
+    "superrank": 492,
     "identity_rank": 79
   },
   "Legion Warboss": {
-    "img": "https://cards.scryfall.io/large/front/f/d/fde7c88c-3bef-422a-8527-52c22928df05.jpg?1782730952",
+    "img": "https://cards.scryfall.io/large/front/f/d/fde7c88c-3bef-422a-8527-52c22928df05.jpg?1783913228",
     "date": "2018-10-05",
     "colors": [
       "R"
@@ -11383,12 +11409,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 992,
-    "superrank": 940,
-    "identity_rank": 156
+    "rank": 993,
+    "superrank": 941,
+    "identity_rank": 157
   },
   "Legolas's Quick Reflexes": {
-    "img": "https://cards.scryfall.io/large/front/8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1782695237",
+    "img": "https://cards.scryfall.io/large/front/8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1783914204",
     "date": "2023-11-03",
     "colors": [
       "G"
@@ -11406,12 +11432,12 @@ const cards =
       "Instant"
     ],
     "supercent": 15,
-    "rank": 329,
-    "superrank": 251,
+    "rank": 326,
+    "superrank": 250,
     "identity_rank": 37
   },
   "Lena, Selfless Champion": {
-    "img": "https://cards.scryfall.io/large/front/2/f/2ffcbcda-2ba3-45e7-80c0-85ea3b7eea0c.jpg?1782709632",
+    "img": "https://cards.scryfall.io/large/front/2/f/2ffcbcda-2ba3-45e7-80c0-85ea3b7eea0c.jpg?1783934603",
     "date": "2018-07-13",
     "colors": [
       "W"
@@ -11432,12 +11458,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 979,
-    "superrank": 930,
+    "rank": 980,
+    "superrank": 931,
     "identity_rank": 95
   },
   "Leonin Arbiter": {
-    "img": "https://cards.scryfall.io/large/front/4/b/4b0453cd-62ab-41ba-8d9c-9d6d25dc9a56.jpg?1782715349",
+    "img": "https://cards.scryfall.io/large/front/4/b/4b0453cd-62ab-41ba-8d9c-9d6d25dc9a56.jpg?1783941744",
     "date": "2010-10-01",
     "colors": [
       "W"
@@ -11457,12 +11483,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 722,
-    "superrank": 771,
+    "rank": 723,
+    "superrank": 772,
     "identity_rank": 67
   },
   "Leonin Relic-Warder": {
-    "img": "https://cards.scryfall.io/large/front/d/d/dd0900e1-df78-466d-b747-33f22c273d67.jpg?1782715250",
+    "img": "https://cards.scryfall.io/large/front/d/d/dd0900e1-df78-466d-b747-33f22c273d67.jpg?1783941392",
     "date": "2011-02-04",
     "colors": [
       "W"
@@ -11482,12 +11508,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 693,
-    "superrank": 754,
+    "rank": 694,
+    "superrank": 755,
     "identity_rank": 56
   },
   "Leyline of Abundance": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c68e8342-78d2-4826-a287-64c371b97d19.jpg?1782708269",
+    "img": "https://cards.scryfall.io/large/front/c/6/c68e8342-78d2-4826-a287-64c371b97d19.jpg?1783932962",
     "date": "2019-07-12",
     "colors": [
       "G"
@@ -11505,12 +11531,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 861,
-    "superrank": 688,
+    "rank": 863,
+    "superrank": 689,
     "identity_rank": 85
   },
   "Liberated Dwarf": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e2c07842-9b70-40b1-9b97-9a9279b7ebc4.jpg?1782719235",
+    "img": "https://cards.scryfall.io/large/front/e/2/e2c07842-9b70-40b1-9b97-9a9279b7ebc4.jpg?1783945116",
     "date": "2002-05-27",
     "colors": [
       "R"
@@ -11530,12 +11556,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 374,
-    "superrank": 385,
-    "identity_rank": 56
+    "rank": 376,
+    "superrank": 386,
+    "identity_rank": 57
   },
   "Life from the Loam": {
-    "img": "https://cards.scryfall.io/large/front/6/2/6200afaf-2720-488a-b760-e4d17d8aea79.jpg?1782730933",
+    "img": "https://cards.scryfall.io/large/front/6/2/6200afaf-2720-488a-b760-e4d17d8aea79.jpg?1783913217",
     "date": "2005-10-07",
     "colors": [
       "G"
@@ -11553,12 +11579,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 3,
-    "rank": 906,
-    "superrank": 700,
+    "rank": 907,
+    "superrank": 701,
     "identity_rank": 96
   },
   "Lifecraft Engine": {
-    "img": "https://cards.scryfall.io/large/front/9/1/91496c82-44bc-4bb7-9e2a-5f4a3a199f4c.jpg?1782687512",
+    "img": "https://cards.scryfall.io/large/front/9/1/91496c82-44bc-4bb7-9e2a-5f4a3a199f4c.jpg?1783907759",
     "date": "2025-02-14",
     "colors": [],
     "mana_cost": "{3}",
@@ -11574,12 +11600,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 375,
-    "superrank": 571,
+    "rank": 377,
+    "superrank": 570,
     "identity_rank": 74
   },
   "Light Up the Stage": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de6d3994-17e0-4d04-a34d-667233f86ad8.jpg?1782730951",
+    "img": "https://cards.scryfall.io/large/front/d/e/de6d3994-17e0-4d04-a34d-667233f86ad8.jpg?1783913225",
     "date": "2019-01-25",
     "colors": [
       "R"
@@ -11597,12 +11623,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 921,
-    "superrank": 898,
+    "rank": 922,
+    "superrank": 899,
     "identity_rank": 131
   },
   "Lightning Bolt": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1782722943",
+    "img": "https://cards.scryfall.io/large/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684",
     "date": "1993-08-05",
     "colors": [
       "R"
@@ -11620,12 +11646,12 @@ const cards =
       "Instant"
     ],
     "supercent": 22,
-    "rank": 185,
+    "rank": 186,
     "superrank": 193,
     "identity_rank": 17
   },
   "Lightning, Army of One": {
-    "img": "https://cards.scryfall.io/large/front/b/e/be2af52c-9f38-40e4-a643-06c5f2a9f416.jpg?1782686348",
+    "img": "https://cards.scryfall.io/large/front/b/e/be2af52c-9f38-40e4-a643-06c5f2a9f416.jpg?1783906533",
     "date": "2025-06-13",
     "colors": [
       "R",
@@ -11648,12 +11674,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 980,
-    "superrank": 539,
+    "rank": 981,
+    "superrank": 538,
     "identity_rank": 11
   },
   "Lightstall Inquisitor": {
-    "img": "https://cards.scryfall.io/large/front/a/d/ad782559-9b45-4a87-8ae6-82be6fd32f76.jpg?1782685363",
+    "img": "https://cards.scryfall.io/large/front/a/d/ad782559-9b45-4a87-8ae6-82be6fd32f76.jpg?1783905892",
     "date": "2025-08-01",
     "colors": [
       "W"
@@ -11673,12 +11699,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 723,
-    "superrank": 772,
+    "rank": 724,
+    "superrank": 773,
     "identity_rank": 68
   },
   "Lim-D\u00fbl's Vault": {
-    "img": "https://cards.scryfall.io/large/front/f/9/f9b0164c-2d4e-48ab-addd-322d9b504739.jpg?1782721488",
+    "img": "https://cards.scryfall.io/large/front/f/9/f9b0164c-2d4e-48ab-addd-322d9b504739.jpg?1783947166",
     "date": "1996-06-10",
     "colors": [
       "B",
@@ -11699,11 +11725,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 220,
-    "superrank": 209,
+    "superrank": 210,
     "identity_rank": 7
   },
   "Linvala, Keeper of Silence": {
-    "img": "https://cards.scryfall.io/large/front/8/2/82b80a09-7e75-4091-a60e-04aff79339a3.jpg?1782715519",
+    "img": "https://cards.scryfall.io/large/front/8/2/82b80a09-7e75-4091-a60e-04aff79339a3.jpg?1783942005",
     "date": "2010-04-23",
     "colors": [
       "W"
@@ -11724,12 +11750,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 724,
-    "superrank": 773,
+    "rank": 725,
+    "superrank": 774,
     "identity_rank": 69
   },
   "Lion's Eye Diamond": {
-    "img": "https://cards.scryfall.io/large/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1782721354",
+    "img": "https://cards.scryfall.io/large/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1783947041",
     "date": "1996-10-08",
     "colors": [],
     "mana_cost": "{0}",
@@ -11748,7 +11774,7 @@ const cards =
     "identity_rank": 24
   },
   "Liquimetal Torque": {
-    "img": "https://cards.scryfall.io/large/front/4/b/4b548fdf-7130-4a94-bd7e-09591b395513.jpg?1782704487",
+    "img": "https://cards.scryfall.io/large/front/4/b/4b548fdf-7130-4a94-bd7e-09591b395513.jpg?1783926722",
     "date": "2021-06-18",
     "colors": [],
     "mana_cost": "{2}",
@@ -11762,12 +11788,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 313,
+    "rank": 310,
     "superrank": 439,
     "identity_rank": 59
   },
   "Lively Dirge": {
-    "img": "https://cards.scryfall.io/large/front/0/c/0c35a0d3-12f7-46f3-a6b3-02a490d45ca0.jpg?1782692076",
+    "img": "https://cards.scryfall.io/large/front/0/c/0c35a0d3-12f7-46f3-a6b3-02a490d45ca0.jpg?1783911831",
     "date": "2024-04-19",
     "colors": [
       "B"
@@ -11790,7 +11816,7 @@ const cards =
     "identity_rank": 34
   },
   "Llanowar Elves": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb.jpg?1782722920",
+    "img": "https://cards.scryfall.io/large/front/d/4/d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb.jpg?1783948674",
     "date": "1993-08-05",
     "colors": [
       "G"
@@ -11815,7 +11841,7 @@ const cards =
     "identity_rank": 25
   },
   "Llanowar Wastes": {
-    "img": "https://cards.scryfall.io/large/front/6/1/610b7cd5-5532-45a9-acfe-24a818034d1c.jpg?1782719459",
+    "img": "https://cards.scryfall.io/large/front/6/1/610b7cd5-5532-45a9-acfe-24a818034d1c.jpg?1783945322",
     "date": "2001-06-04",
     "colors": [],
     "mana_cost": "",
@@ -11832,12 +11858,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 907,
-    "superrank": 522,
+    "rank": 908,
+    "superrank": 521,
     "identity_rank": 12
   },
   "Loki's Scepter": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed7f95b9-ae7a-43cd-b104-5b615ef585bc.jpg?1782682370",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed7f95b9-ae7a-43cd-b104-5b615ef585bc.jpg?1783903157",
     "date": "2026-06-26",
     "colors": [
       "R"
@@ -11856,12 +11882,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 955,
-    "superrank": 919,
-    "identity_rank": 144
+    "rank": 956,
+    "superrank": 920,
+    "identity_rank": 145
   },
   "Loran of the Third Path": {
-    "img": "https://cards.scryfall.io/large/front/f/3/f35a0fc1-790e-4f47-b756-a6b4b298e299.jpg?1782699659",
+    "img": "https://cards.scryfall.io/large/front/f/3/f35a0fc1-790e-4f47-b756-a6b4b298e299.jpg?1783919989",
     "date": "2022-11-18",
     "colors": [
       "W"
@@ -11882,12 +11908,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 687,
-    "superrank": 752,
+    "rank": 688,
+    "superrank": 753,
     "identity_rank": 55
   },
   "Lotho, Corrupt Shirriff": {
-    "img": "https://cards.scryfall.io/large/front/c/e/ce01ff8f-a037-484f-9148-c847ffaabc5a.jpg?1782697113",
+    "img": "https://cards.scryfall.io/large/front/c/e/ce01ff8f-a037-484f-9148-c847ffaabc5a.jpg?1783916251",
     "date": "2023-06-23",
     "colors": [
       "B",
@@ -11915,7 +11941,7 @@ const cards =
     "identity_rank": 2
   },
   "Lotus Bloom": {
-    "img": "https://cards.scryfall.io/large/front/7/3/73127ee0-9a0c-48fa-9c60-b4c600ace8f7.jpg?1782716824",
+    "img": "https://cards.scryfall.io/large/front/7/3/73127ee0-9a0c-48fa-9c60-b4c600ace8f7.jpg?1783943197",
     "date": "2006-10-06",
     "colors": [],
     "mana_cost": "",
@@ -11929,12 +11955,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 842,
-    "superrank": 969,
+    "rank": 844,
+    "superrank": 970,
     "identity_rank": 147
   },
   "Lotus Petal": {
-    "img": "https://cards.scryfall.io/large/front/6/c/6c877da3-68fa-41d0-8a24-8c79fcd8ecc1.jpg?1782720897",
+    "img": "https://cards.scryfall.io/large/front/6/c/6c877da3-68fa-41d0-8a24-8c79fcd8ecc1.jpg?1783946602",
     "date": "1997-10-14",
     "colors": [],
     "mana_cost": "{0}",
@@ -11953,7 +11979,7 @@ const cards =
     "identity_rank": 6
   },
   "Louisoix's Sacrifice": {
-    "img": "https://cards.scryfall.io/large/front/4/a/4a6976f2-0bd5-449a-8fcf-f5a732ce22c1.jpg?1782686550",
+    "img": "https://cards.scryfall.io/large/front/4/a/4a6976f2-0bd5-449a-8fcf-f5a732ce22c1.jpg?1783906634",
     "date": "2025-06-13",
     "colors": [
       "U"
@@ -11971,12 +11997,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 682,
-    "superrank": 749,
+    "rank": 683,
+    "superrank": 750,
     "identity_rank": 108
   },
   "Loyal Apprentice": {
-    "img": "https://cards.scryfall.io/large/front/b/5/b5fef5fe-3e59-4fd6-8a88-7c1cee56892f.jpg?1782709405",
+    "img": "https://cards.scryfall.io/large/front/b/5/b5fef5fe-3e59-4fd6-8a88-7c1cee56892f.jpg?1783934336",
     "date": "2018-08-10",
     "colors": [
       "R"
@@ -12001,7 +12027,7 @@ const cards =
     "identity_rank": 68
   },
   "Lukka, Coppercoat Outcast": {
-    "img": "https://cards.scryfall.io/large/front/5/7/5798fdf0-d178-43d9-b821-8f3f654654b4.jpg?1782707163",
+    "img": "https://cards.scryfall.io/large/front/5/7/5798fdf0-d178-43d9-b821-8f3f654654b4.jpg?1783931048",
     "date": "2020-04-24",
     "colors": [
       "R"
@@ -12020,12 +12046,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 2,
-    "rank": 630,
-    "superrank": 721,
+    "rank": 631,
+    "superrank": 722,
     "identity_rank": 100
   },
   "Lurrus of the Dream-Den": {
-    "img": "https://cards.scryfall.io/large/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1782707103",
+    "img": "https://cards.scryfall.io/large/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1783931010",
     "date": "2020-04-24",
     "colors": [
       "B",
@@ -12048,12 +12074,12 @@ const cards =
       "Creature"
     ],
     "supercent": 12,
-    "rank": 338,
-    "superrank": 284,
+    "rank": 337,
+    "superrank": 283,
     "identity_rank": 4
   },
   "Luxior, Giada's Gift": {
-    "img": "https://cards.scryfall.io/large/front/3/c/3c7090d8-d9f8-4285-8898-b6fd26a608ef.jpg?1782701369",
+    "img": "https://cards.scryfall.io/large/front/3/c/3c7090d8-d9f8-4285-8898-b6fd26a608ef.jpg?1783922978",
     "date": "2022-04-29",
     "colors": [],
     "mana_cost": "{1}",
@@ -12068,12 +12094,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 850,
-    "superrank": 971,
+    "rank": 852,
+    "superrank": 972,
     "identity_rank": 149
   },
   "Luxury Suite": {
-    "img": "https://cards.scryfall.io/large/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1782709983",
+    "img": "https://cards.scryfall.io/large/front/8/1/81298b0b-9d47-4777-998e-0c17821ef536.jpg?1783934848",
     "date": "2018-06-08",
     "colors": [],
     "mana_cost": "",
@@ -12090,12 +12116,12 @@ const cards =
       "Land"
     ],
     "supercent": 19,
-    "rank": 300,
-    "superrank": 212,
+    "rank": 298,
+    "superrank": 213,
     "identity_rank": 6
   },
   "M.O.D.O.K.": {
-    "img": "https://cards.scryfall.io/large/front/b/f/bf38cf25-579f-4f94-92fb-a781c90a5f2e.jpg?1782681550",
+    "img": "https://cards.scryfall.io/large/front/b/f/bf38cf25-579f-4f94-92fb-a781c90a5f2e.jpg?1783902834",
     "date": "2026-06-26",
     "colors": [
       "B"
@@ -12117,12 +12143,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 613,
-    "superrank": 711,
-    "identity_rank": 93
+    "rank": 614,
+    "superrank": 712,
+    "identity_rank": 94
   },
   "Machine God's Effigy": {
-    "img": "https://cards.scryfall.io/large/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1782699482",
+    "img": "https://cards.scryfall.io/large/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1783919719",
     "date": "2022-11-18",
     "colors": [],
     "mana_cost": "{4}",
@@ -12138,12 +12164,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 394,
+    "rank": 396,
     "superrank": 445,
     "identity_rank": 69
   },
   "Magda, Brazen Outlaw": {
-    "img": "https://cards.scryfall.io/large/front/a/b/ab551f0e-7a9c-4c99-b199-042ab018dd9a.jpg?1782705363",
+    "img": "https://cards.scryfall.io/large/front/a/b/ab551f0e-7a9c-4c99-b199-042ab018dd9a.jpg?1783928148",
     "date": "2021-02-05",
     "colors": [
       "R"
@@ -12164,12 +12190,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 292,
+    "rank": 291,
     "superrank": 289,
-    "identity_rank": 31
+    "identity_rank": 30
   },
   "Magda, the Hoardmaster": {
-    "img": "https://cards.scryfall.io/large/front/a/d/adf42a57-02f0-4a3f-8677-d68ffe3090c0.jpg?1782691866",
+    "img": "https://cards.scryfall.io/large/front/a/d/adf42a57-02f0-4a3f-8677-d68ffe3090c0.jpg?1783911751",
     "date": "2024-04-19",
     "colors": [
       "R"
@@ -12190,12 +12216,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 376,
-    "superrank": 386,
-    "identity_rank": 57
+    "rank": 378,
+    "superrank": 387,
+    "identity_rank": 58
   },
   "Magnetic Theft": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de0c1e37-fedc-43d9-97fd-b797c6c2fbbe.jpg?1782718313",
+    "img": "https://cards.scryfall.io/large/front/d/e/de0c1e37-fedc-43d9-97fd-b797c6c2fbbe.jpg?1783944393",
     "date": "2004-06-04",
     "colors": [
       "R"
@@ -12213,12 +12239,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 956,
-    "superrank": 920,
-    "identity_rank": 145
+    "rank": 957,
+    "superrank": 921,
+    "identity_rank": 146
   },
   "Magus of the Moon": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c06a4443-6851-4873-8fb8-2ef76c9d6d2c.jpg?1782716679",
+    "img": "https://cards.scryfall.io/large/front/c/0/c06a4443-6851-4873-8fb8-2ef76c9d6d2c.jpg?1783943105",
     "date": "2007-05-04",
     "colors": [
       "R"
@@ -12238,12 +12264,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 600,
-    "superrank": 540,
+    "rank": 601,
+    "superrank": 539,
     "identity_rank": 96
   },
   "Malakir Rebirth": {
-    "img": "https://cards.scryfall.io/large/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1782706302",
+    "img": "https://cards.scryfall.io/large/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
     "date": "2020-09-25",
     "cmc": 1,
     "type_line": "Instant // Land",
@@ -12259,12 +12285,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1012,
-    "superrank": 1012,
-    "identity_rank": 149
+    "rank": 1013,
+    "superrank": 1013,
+    "identity_rank": 150
   },
   "Mana Confluence": {
-    "img": "https://cards.scryfall.io/large/front/5/0/504a69eb-3c2d-4bb1-b117-252b15acf0c2.jpg?1782713352",
+    "img": "https://cards.scryfall.io/large/front/5/0/504a69eb-3c2d-4bb1-b117-252b15acf0c2.jpg?1783939402",
     "date": "2014-05-02",
     "colors": [],
     "mana_cost": "",
@@ -12283,7 +12309,7 @@ const cards =
     "identity_rank": 9
   },
   "Mana Drain": {
-    "img": "https://cards.scryfall.io/large/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1782722356",
+    "img": "https://cards.scryfall.io/large/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1783948074",
     "date": "1994-06-01",
     "colors": [
       "U"
@@ -12301,12 +12327,12 @@ const cards =
       "Instant"
     ],
     "supercent": 16,
-    "rank": 207,
-    "superrank": 241,
+    "rank": 208,
+    "superrank": 240,
     "identity_rank": 45
   },
   "Mana Vault": {
-    "img": "https://cards.scryfall.io/large/front/1/9/19499cb7-eccb-4e69-af32-6002d447a160.jpg?1782722898",
+    "img": "https://cards.scryfall.io/large/front/1/9/19499cb7-eccb-4e69-af32-6002d447a160.jpg?1783948664",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "{1}",
@@ -12325,7 +12351,7 @@ const cards =
     "identity_rank": 8
   },
   "Manamorphose": {
-    "img": "https://cards.scryfall.io/large/front/5/0/50283122-b8c4-4fb3-8eba-6252b72222f4.jpg?1782716112",
+    "img": "https://cards.scryfall.io/large/front/5/0/50283122-b8c4-4fb3-8eba-6252b72222f4.jpg?1783942721",
     "date": "2008-05-02",
     "colors": [
       "G",
@@ -12345,12 +12371,12 @@ const cards =
       "Instant"
     ],
     "supercent": 16,
-    "rank": 559,
-    "superrank": 246,
+    "rank": 560,
+    "superrank": 245,
     "identity_rank": 7
   },
   "Manglehorn": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0aa3a844-97e6-4f5d-a36f-56fea4e06932.jpg?1782711113",
+    "img": "https://cards.scryfall.io/large/front/0/a/0aa3a844-97e6-4f5d-a36f-56fea4e06932.jpg?1783936473",
     "date": "2017-04-28",
     "colors": [
       "G"
@@ -12370,12 +12396,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 862,
-    "superrank": 689,
+    "rank": 864,
+    "superrank": 690,
     "identity_rank": 86
   },
   "Manifold Key": {
-    "img": "https://cards.scryfall.io/large/front/1/5/15e74de1-1f1f-4886-ba33-644db34df588.jpg?1782741654",
+    "img": "https://cards.scryfall.io/large/front/1/5/15e74de1-1f1f-4886-ba33-644db34df588.jpg?1783927705",
     "date": "2019-07-12",
     "colors": [],
     "mana_cost": "{1}",
@@ -12394,7 +12420,7 @@ const cards =
     "identity_rank": 51
   },
   "March of Swirling Mist": {
-    "img": "https://cards.scryfall.io/large/front/6/3/633a8eac-82c7-4e02-bff5-1e1095b781ef.jpg?1782702087",
+    "img": "https://cards.scryfall.io/large/front/6/3/633a8eac-82c7-4e02-bff5-1e1095b781ef.jpg?1783923776",
     "date": "2022-02-18",
     "colors": [
       "U"
@@ -12412,12 +12438,12 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 308,
-    "superrank": 346,
+    "rank": 305,
+    "superrank": 345,
     "identity_rank": 65
   },
   "Mardu Devotee": {
-    "img": "https://cards.scryfall.io/large/front/d/a/da45e9b0-a4f6-413b-9e62-666c511eb5b0.jpg?1782687305",
+    "img": "https://cards.scryfall.io/large/front/d/a/da45e9b0-a4f6-413b-9e62-666c511eb5b0.jpg?1783907411",
     "date": "2025-04-11",
     "colors": [
       "W"
@@ -12439,12 +12465,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 635,
+    "rank": 636,
     "superrank": 409,
     "identity_rank": 1
   },
   "Marsh Flats": {
-    "img": "https://cards.scryfall.io/large/front/f/1/f19a6f20-8ca1-4a8b-8488-bcb5d86868dc.jpg?1782704481",
+    "img": "https://cards.scryfall.io/large/front/f/1/f19a6f20-8ca1-4a8b-8488-bcb5d86868dc.jpg?1783926719",
     "date": "2009-10-02",
     "colors": [],
     "mana_cost": "",
@@ -12463,7 +12489,7 @@ const cards =
     "identity_rank": 15
   },
   "Marvin, Murderous Mimic": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed4f107a-ce90-464c-8be0-eb6c1db0f80f.jpg?1782689320",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed4f107a-ce90-464c-8be0-eb6c1db0f80f.jpg?1783909395",
     "date": "2024-09-27",
     "colors": [],
     "mana_cost": "{2}",
@@ -12481,12 +12507,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 863,
-    "superrank": 972,
+    "rank": 865,
+    "superrank": 973,
     "identity_rank": 150
   },
   "Maskwood Nexus": {
-    "img": "https://cards.scryfall.io/large/front/4/7/471d2aef-cfd4-4131-bbc7-62eeed9f3343.jpg?1782705410",
+    "img": "https://cards.scryfall.io/large/front/4/7/471d2aef-cfd4-4131-bbc7-62eeed9f3343.jpg?1783928186",
     "date": "2021-02-05",
     "colors": [],
     "mana_cost": "{4}",
@@ -12500,12 +12526,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 377,
-    "superrank": 572,
+    "rank": 379,
+    "superrank": 571,
     "identity_rank": 75
   },
   "Massacre": {
-    "img": "https://cards.scryfall.io/large/front/f/0/f05f5d93-50d1-4aa6-af05-383a6808345b.jpg?1782720202",
+    "img": "https://cards.scryfall.io/large/front/f/0/f05f5d93-50d1-4aa6-af05-383a6808345b.jpg?1783945827",
     "date": "2000-02-14",
     "colors": [
       "B"
@@ -12523,12 +12549,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 661,
-    "superrank": 737,
-    "identity_rank": 102
+    "rank": 662,
+    "superrank": 738,
+    "identity_rank": 103
   },
   "Mastermind's Acquisition": {
-    "img": "https://cards.scryfall.io/large/front/2/f/2f00f09b-a113-460e-ac2f-d3988a83179e.jpg?1782710273",
+    "img": "https://cards.scryfall.io/large/front/2/f/2f00f09b-a113-460e-ac2f-d3988a83179e.jpg?1783935310",
     "date": "2018-01-19",
     "colors": [
       "B"
@@ -12546,12 +12572,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 740,
-    "superrank": 783,
-    "identity_rank": 106
+    "rank": 741,
+    "superrank": 784,
+    "identity_rank": 107
   },
   "Mausoleum Secrets": {
-    "img": "https://cards.scryfall.io/large/front/2/6/26f7cf38-78cc-4139-9f2a-4dd0be7d9da8.jpg?1782709133",
+    "img": "https://cards.scryfall.io/large/front/2/6/26f7cf38-78cc-4139-9f2a-4dd0be7d9da8.jpg?1783934174",
     "date": "2018-10-05",
     "colors": [
       "B"
@@ -12569,12 +12595,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 757,
-    "superrank": 796,
-    "identity_rank": 119
+    "rank": 759,
+    "superrank": 798,
+    "identity_rank": 121
   },
   "Mausoleum Wanderer": {
-    "img": "https://cards.scryfall.io/large/front/3/2/32bb2738-3765-4576-9cfa-a527801c933a.jpg?1782726587",
+    "img": "https://cards.scryfall.io/large/front/3/2/32bb2738-3765-4576-9cfa-a527801c933a.jpg?1783908022",
     "date": "2016-07-22",
     "colors": [
       "U"
@@ -12594,12 +12620,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 810,
-    "superrank": 829,
+    "rank": 812,
+    "superrank": 831,
     "identity_rank": 134
   },
   "Mayhem Devil": {
-    "img": "https://cards.scryfall.io/large/front/7/d/7dab31af-e085-4a04-b13b-2d916e6f1a35.jpg?1782730902",
+    "img": "https://cards.scryfall.io/large/front/7/d/7dab31af-e085-4a04-b13b-2d916e6f1a35.jpg?1783913205",
     "date": "2019-05-03",
     "colors": [
       "B",
@@ -12622,11 +12648,11 @@ const cards =
     ],
     "supercent": 23,
     "rank": 247,
-    "superrank": 183,
+    "superrank": 182,
     "identity_rank": 3
   },
   "Memnite": {
-    "img": "https://cards.scryfall.io/large/front/9/7/975459ba-e1c2-4800-a3fa-5c0cf8ce728f.jpg?1782752606",
+    "img": "https://cards.scryfall.io/large/front/9/7/975459ba-e1c2-4800-a3fa-5c0cf8ce728f.jpg?1783941285",
     "date": "2010-10-01",
     "colors": [],
     "mana_cost": "{0}",
@@ -12643,12 +12669,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 811,
-    "superrank": 968,
+    "rank": 813,
+    "superrank": 969,
     "identity_rank": 146
   },
   "Mental Misstep": {
-    "img": "https://cards.scryfall.io/large/front/6/1/61e9c6df-1c84-4eab-9076-a4feb6347c10.jpg?1782715176",
+    "img": "https://cards.scryfall.io/large/front/6/1/61e9c6df-1c84-4eab-9076-a4feb6347c10.jpg?1783941319",
     "date": "2011-05-13",
     "colors": [
       "U"
@@ -12671,7 +12697,7 @@ const cards =
     "identity_rank": 1
   },
   "Merchant Scroll": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d4133ceb-6176-411a-9eb8-51721c1bb435.jpg?1782721589",
+    "img": "https://cards.scryfall.io/large/front/d/4/d4133ceb-6176-411a-9eb8-51721c1bb435.jpg?1783947295",
     "date": "1995-10-01",
     "colors": [
       "U"
@@ -12689,12 +12715,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 434,
-    "superrank": 469,
+    "rank": 435,
+    "superrank": 468,
     "identity_rank": 73
   },
   "Metallic Mimic": {
-    "img": "https://cards.scryfall.io/large/front/6/8/68c011c4-d61d-4fc1-acb4-65b6ac498fa9.jpg?1782726520",
+    "img": "https://cards.scryfall.io/large/front/6/8/68c011c4-d61d-4fc1-acb4-65b6ac498fa9.jpg?1783907990",
     "date": "2017-01-20",
     "colors": [],
     "mana_cost": "{2}",
@@ -12711,12 +12737,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 378,
-    "superrank": 573,
+    "rank": 380,
+    "superrank": 572,
     "identity_rank": 76
   },
   "Metalworker": {
-    "img": "https://cards.scryfall.io/large/front/2/0/2050d414-71c7-4c42-a1ff-4c04068ba7f2.jpg?1782720365",
+    "img": "https://cards.scryfall.io/large/front/2/0/2050d414-71c7-4c42-a1ff-4c04068ba7f2.jpg?1783946056",
     "date": "1999-06-07",
     "colors": [],
     "mana_cost": "{3}",
@@ -12733,12 +12759,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 957,
-    "superrank": 986,
+    "rank": 958,
+    "superrank": 987,
     "identity_rank": 164
   },
   "Metamorphosis": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fbc6cfc3-b232-40bf-bc0c-4618f6f5c9a5.jpg?1782722588",
+    "img": "https://cards.scryfall.io/large/front/f/b/fbc6cfc3-b232-40bf-bc0c-4618f6f5c9a5.jpg?1783948380",
     "date": "1993-12-17",
     "colors": [
       "G"
@@ -12756,12 +12782,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 7,
-    "rank": 476,
-    "superrank": 411,
+    "rank": 475,
+    "superrank": 410,
     "identity_rank": 47
   },
   "Meteor Sword": {
-    "img": "https://cards.scryfall.io/large/front/6/8/68b1c746-a4b8-4a45-9f0e-3962f0ae40e3.jpg?1782684467",
+    "img": "https://cards.scryfall.io/large/front/6/8/68b1c746-a4b8-4a45-9f0e-3962f0ae40e3.jpg?1783904914",
     "date": "2025-11-21",
     "colors": [],
     "mana_cost": "{7}",
@@ -12775,12 +12801,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 958,
-    "superrank": 987,
+    "rank": 959,
+    "superrank": 988,
     "identity_rank": 165
   },
   "Meticulous Archive": {
-    "img": "https://cards.scryfall.io/large/front/7/9/79d4ba4b-03f3-4e64-b4e7-8c025fc70178.jpg?1782693727",
+    "img": "https://cards.scryfall.io/large/front/7/9/79d4ba4b-03f3-4e64-b4e7-8c025fc70178.jpg?1783912797",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -12797,12 +12823,12 @@ const cards =
       "Land"
     ],
     "supercent": 12,
-    "rank": 405,
+    "rank": 407,
     "superrank": 287,
     "identity_rank": 6
   },
   "Might of the Meek": {
-    "img": "https://cards.scryfall.io/large/front/5/0/509bf254-8a2b-4dfa-9ae5-386321b35e8b.jpg?1782690519",
+    "img": "https://cards.scryfall.io/large/front/5/0/509bf254-8a2b-4dfa-9ae5-386321b35e8b.jpg?1783910819",
     "date": "2024-08-02",
     "colors": [
       "R"
@@ -12820,12 +12846,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 922,
-    "superrank": 899,
+    "rank": 923,
+    "superrank": 900,
     "identity_rank": 132
   },
   "Minamo, School at Water's Edge": {
-    "img": "https://cards.scryfall.io/large/front/7/5/7536292c-da25-41c8-ba28-1e35758a7f3d.jpg?1782718142",
+    "img": "https://cards.scryfall.io/large/front/7/5/7536292c-da25-41c8-ba28-1e35758a7f3d.jpg?1783944273",
     "date": "2004-10-01",
     "colors": [],
     "mana_cost": "",
@@ -12843,11 +12869,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 169,
-    "superrank": 201,
+    "superrank": 202,
     "identity_rank": 35
   },
   "Mind Over Matter": {
-    "img": "https://cards.scryfall.io/large/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1782720801",
+    "img": "https://cards.scryfall.io/large/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
     "date": "1998-06-15",
     "colors": [
       "U"
@@ -12865,12 +12891,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 792,
-    "superrank": 816,
+    "rank": 794,
+    "superrank": 818,
     "identity_rank": 126
   },
   "Mind Stone": {
-    "img": "https://cards.scryfall.io/large/front/1/6/162e81d3-6cd4-4cb8-8ed8-cfbd8d34ca71.jpg?1782721016",
+    "img": "https://cards.scryfall.io/large/front/1/6/162e81d3-6cd4-4cb8-8ed8-cfbd8d34ca71.jpg?1783946713",
     "date": "1997-06-09",
     "colors": [],
     "mana_cost": "{2}",
@@ -12884,35 +12910,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 534,
-    "superrank": 669,
+    "rank": 533,
+    "superrank": 670,
     "identity_rank": 107
   },
-  "Mind's Desire": {
-    "img": "https://cards.scryfall.io/large/front/3/c/3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f.jpg?1782718997",
-    "date": "2003-05-26",
-    "colors": [
-      "U"
-    ],
-    "mana_cost": "{4}{U}{U}",
-    "cmc": 6,
-    "type_line": "Sorcery",
-    "color_identity": [
-      "U"
-    ],
-    "name": "Mind's Desire",
-    "count": 1,
-    "percent": 1,
-    "types": [
-      "Sorcery"
-    ],
-    "supercent": 2,
-    "rank": 923,
-    "superrank": 900,
-    "identity_rank": 163
-  },
   "Mindbreak Trap": {
-    "img": "https://cards.scryfall.io/large/front/4/f/4f51140b-6254-431a-8810-94307bfdfbbe.jpg?1782715664",
+    "img": "https://cards.scryfall.io/large/front/4/f/4f51140b-6254-431a-8810-94307bfdfbbe.jpg?1783942162",
     "date": "2009-10-02",
     "colors": [
       "U"
@@ -12935,7 +12938,7 @@ const cards =
     "identity_rank": 9
   },
   "Minsc & Boo, Timeless Heroes": {
-    "img": "https://cards.scryfall.io/large/front/e/3/e308b016-5611-450c-a2ea-906647d1b7e3.jpg?1782701121",
+    "img": "https://cards.scryfall.io/large/front/e/3/e308b016-5611-450c-a2ea-906647d1b7e3.jpg?1783922653",
     "date": "2022-06-10",
     "colors": [
       "G",
@@ -12956,12 +12959,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 8,
-    "rank": 935,
-    "superrank": 404,
+    "rank": 936,
+    "superrank": 405,
     "identity_rank": 18
   },
   "Mirrormade": {
-    "img": "https://cards.scryfall.io/large/front/a/1/a10c1407-d397-4caa-b7b7-e7d91ffd4ee9.jpg?1782707898",
+    "img": "https://cards.scryfall.io/large/front/a/1/a10c1407-d397-4caa-b7b7-e7d91ffd4ee9.jpg?1783932654",
     "date": "2019-10-04",
     "colors": [
       "U"
@@ -12984,7 +12987,7 @@ const cards =
     "identity_rank": 30
   },
   "Miscast": {
-    "img": "https://cards.scryfall.io/large/front/0/3/033afbd5-9937-4957-98ba-48e469a490bb.jpg?1782706977",
+    "img": "https://cards.scryfall.io/large/front/0/3/033afbd5-9937-4957-98ba-48e469a490bb.jpg?1783930726",
     "date": "2020-07-03",
     "colors": [
       "U"
@@ -13002,12 +13005,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 484,
-    "superrank": 559,
+    "rank": 483,
+    "superrank": 558,
     "identity_rank": 81
   },
   "Misdirection": {
-    "img": "https://cards.scryfall.io/large/front/5/8/581ad59c-29e9-4498-a6fd-33bf21e8e7c4.jpg?1782720330",
+    "img": "https://cards.scryfall.io/large/front/5/8/581ad59c-29e9-4498-a6fd-33bf21e8e7c4.jpg?1783945965",
     "date": "1999-10-04",
     "colors": [
       "U"
@@ -13030,7 +13033,7 @@ const cards =
     "identity_rank": 27
   },
   "Mishra's Bauble": {
-    "img": "https://cards.scryfall.io/large/front/b/0/b02452bb-a049-4e86-ba2c-135803caa03d.jpg?1782699584",
+    "img": "https://cards.scryfall.io/large/front/b/0/b02452bb-a049-4e86-ba2c-135803caa03d.jpg?1783919786",
     "date": "2006-07-21",
     "colors": [],
     "mana_cost": "{0}",
@@ -13044,12 +13047,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 891,
-    "superrank": 976,
+    "rank": 892,
+    "superrank": 977,
     "identity_rank": 154
   },
   "Mishra's Factory": {
-    "img": "https://cards.scryfall.io/large/front/c/4/c44669b2-bf9a-41c3-91c7-d845b0061fbf.jpg?1782722542",
+    "img": "https://cards.scryfall.io/large/front/c/4/c44669b2-bf9a-41c3-91c7-d845b0061fbf.jpg?1783948354",
     "date": "1994-03-04",
     "colors": [],
     "mana_cost": "",
@@ -13063,12 +13066,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 750,
-    "superrank": 960,
+    "rank": 751,
+    "superrank": 961,
     "identity_rank": 138
   },
   "Mishra's Workshop": {
-    "img": "https://cards.scryfall.io/large/front/1/3/135de5c7-6ac9-4b68-8f1a-97f120a4b125.jpg?1782722540",
+    "img": "https://cards.scryfall.io/large/front/1/3/135de5c7-6ac9-4b68-8f1a-97f120a4b125.jpg?1783948355",
     "date": "1994-03-04",
     "colors": [],
     "mana_cost": "",
@@ -13082,12 +13085,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 320,
+    "rank": 317,
     "superrank": 444,
     "identity_rank": 64
   },
   "Mistblade Shinobi": {
-    "img": "https://cards.scryfall.io/large/front/5/c/5c06f58f-0419-4637-8060-4a93670a4c68.jpg?1782718114",
+    "img": "https://cards.scryfall.io/large/front/5/c/5c06f58f-0419-4637-8060-4a93670a4c68.jpg?1783944206",
     "date": "2005-02-04",
     "colors": [
       "U"
@@ -13107,12 +13110,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 823,
-    "superrank": 838,
+    "rank": 825,
+    "superrank": 840,
     "identity_rank": 137
   },
   "Misthollow Griffin": {
-    "img": "https://cards.scryfall.io/large/front/2/d/2db4fe28-e580-479b-910f-b719d69468b1.jpg?1782714512",
+    "img": "https://cards.scryfall.io/large/front/2/d/2db4fe28-e580-479b-910f-b719d69468b1.jpg?1783940715",
     "date": "2012-05-04",
     "colors": [
       "U"
@@ -13132,12 +13135,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 401,
+    "rank": 403,
     "superrank": 447,
     "identity_rank": 70
   },
   "Mistrise Village": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d44bccbf-6fab-46e4-8ddb-6577e27ec6e8.jpg?1782687100",
+    "img": "https://cards.scryfall.io/large/front/d/4/d44bccbf-6fab-46e4-8ddb-6577e27ec6e8.jpg?1783907277",
     "date": "2025-04-11",
     "colors": [],
     "mana_cost": "",
@@ -13153,12 +13156,12 @@ const cards =
       "Land"
     ],
     "supercent": 18,
-    "rank": 181,
-    "superrank": 220,
+    "rank": 182,
+    "superrank": 221,
     "identity_rank": 38
   },
   "Misty Rainforest": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c6cad746-a1dc-4739-9707-9c12c42e141a.jpg?1782704480",
+    "img": "https://cards.scryfall.io/large/front/c/6/c6cad746-a1dc-4739-9707-9c12c42e141a.jpg?1783926717",
     "date": "2009-10-02",
     "colors": [],
     "mana_cost": "",
@@ -13177,7 +13180,7 @@ const cards =
     "identity_rank": 13
   },
   "Mizzix's Mastery": {
-    "img": "https://cards.scryfall.io/large/front/4/6/465d3876-a3db-41c6-8b80-aa784e5147f5.jpg?1782730951",
+    "img": "https://cards.scryfall.io/large/front/4/6/465d3876-a3db-41c6-8b80-aa784e5147f5.jpg?1783913227",
     "date": "2015-11-13",
     "colors": [
       "R"
@@ -13195,12 +13198,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 698,
-    "superrank": 756,
+    "rank": 699,
+    "superrank": 757,
     "identity_rank": 116
   },
   "Mnemonic Betrayal": {
-    "img": "https://cards.scryfall.io/large/front/a/5/a5cf45aa-ed34-4add-a2ec-fc11f8c15ffa.jpg?1782709056",
+    "img": "https://cards.scryfall.io/large/front/a/5/a5cf45aa-ed34-4add-a2ec-fc11f8c15ffa.jpg?1783934127",
     "date": "2018-10-05",
     "colors": [
       "B",
@@ -13225,7 +13228,7 @@ const cards =
     "identity_rank": 5
   },
   "Mockingbird": {
-    "img": "https://cards.scryfall.io/large/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.jpg?1782690588",
+    "img": "https://cards.scryfall.io/large/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.jpg?1783910846",
     "date": "2024-08-02",
     "colors": [
       "U"
@@ -13250,7 +13253,7 @@ const cards =
     "identity_rank": 17
   },
   "Mogg Salvage": {
-    "img": "https://cards.scryfall.io/large/front/4/0/403aa48c-b684-4c54-8863-460958055a1f.jpg?1782720188",
+    "img": "https://cards.scryfall.io/large/front/4/0/403aa48c-b684-4c54-8863-460958055a1f.jpg?1783945818",
     "date": "2000-02-14",
     "colors": [
       "R"
@@ -13268,12 +13271,12 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 584,
-    "superrank": 526,
+    "rank": 585,
+    "superrank": 525,
     "identity_rank": 89
   },
   "Molt Tender": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f800bf4e-4bfb-45b6-950b-c76952f52bb1.jpg?1782687827",
+    "img": "https://cards.scryfall.io/large/front/f/8/f800bf4e-4bfb-45b6-950b-c76952f52bb1.jpg?1783907868",
     "date": "2025-02-14",
     "colors": [
       "G"
@@ -13293,12 +13296,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 621,
-    "superrank": 636,
+    "rank": 622,
+    "superrank": 637,
     "identity_rank": 64
   },
   "Molten Duplication": {
-    "img": "https://cards.scryfall.io/large/front/f/d/fdbe1ac1-461f-4746-a8d8-6c8dea2c97c6.jpg?1782692528",
+    "img": "https://cards.scryfall.io/large/front/f/d/fdbe1ac1-461f-4746-a8d8-6c8dea2c97c6.jpg?1783912001",
     "date": "2024-04-19",
     "colors": [
       "R"
@@ -13317,11 +13320,11 @@ const cards =
     ],
     "supercent": 17,
     "rank": 217,
-    "superrank": 228,
-    "identity_rank": 18
+    "superrank": 229,
+    "identity_rank": 19
   },
   "Moon-Circuit Hacker": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c6e466d1-943d-41e6-a47d-c9d951ca4262.jpg?1782702286",
+    "img": "https://cards.scryfall.io/large/front/c/6/c6e466d1-943d-41e6-a47d-c9d951ca4262.jpg?1783923900",
     "date": "2022-02-18",
     "colors": [
       "U"
@@ -13342,12 +13345,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 824,
-    "superrank": 839,
+    "rank": 826,
+    "superrank": 841,
     "identity_rank": 138
   },
   "Moonsilver Key": {
-    "img": "https://cards.scryfall.io/large/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1782703562",
+    "img": "https://cards.scryfall.io/large/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1783925547",
     "date": "2021-09-24",
     "colors": [],
     "mana_cost": "{2}",
@@ -13361,12 +13364,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 959,
-    "superrank": 988,
+    "rank": 960,
+    "superrank": 989,
     "identity_rank": 166
   },
   "Morphic Pool": {
-    "img": "https://cards.scryfall.io/large/front/6/3/63b9efd6-0709-4d4b-a907-d8a77ec1a327.jpg?1782709983",
+    "img": "https://cards.scryfall.io/large/front/6/3/63b9efd6-0709-4d4b-a907-d8a77ec1a327.jpg?1783934849",
     "date": "2018-06-08",
     "colors": [],
     "mana_cost": "",
@@ -13388,7 +13391,7 @@ const cards =
     "identity_rank": 4
   },
   "Mothdust Changeling": {
-    "img": "https://cards.scryfall.io/large/front/9/5/95da9bc9-6ac5-432d-ac12-04088cc6c74d.jpg?1782716249",
+    "img": "https://cards.scryfall.io/large/front/9/5/95da9bc9-6ac5-432d-ac12-04088cc6c74d.jpg?1783942798",
     "date": "2008-02-01",
     "colors": [
       "U"
@@ -13408,12 +13411,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 562,
-    "superrank": 618,
+    "rank": 563,
+    "superrank": 619,
     "identity_rank": 93
   },
   "Mother of Runes": {
-    "img": "https://cards.scryfall.io/large/front/0/b/0b1a46ab-95cb-4c24-924f-fc2afd4fcac7.jpg?1782720602",
+    "img": "https://cards.scryfall.io/large/front/0/b/0b1a46ab-95cb-4c24-924f-fc2afd4fcac7.jpg?1783946251",
     "date": "1999-02-15",
     "colors": [
       "W"
@@ -13433,12 +13436,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 725,
-    "superrank": 774,
+    "rank": 726,
+    "superrank": 775,
     "identity_rank": 70
   },
   "Mount Doom": {
-    "img": "https://cards.scryfall.io/large/front/e/9/e9a087f9-57c3-4743-b03b-7bfd2b86eefd.jpg?1782697044",
+    "img": "https://cards.scryfall.io/large/front/e/9/e9a087f9-57c3-4743-b03b-7bfd2b86eefd.jpg?1783916194",
     "date": "2023-06-23",
     "colors": [],
     "mana_cost": "",
@@ -13456,12 +13459,12 @@ const cards =
       "Land"
     ],
     "supercent": 14,
-    "rank": 339,
-    "superrank": 256,
+    "rank": 338,
+    "superrank": 255,
     "identity_rank": 7
   },
   "Mountain": {
-    "img": "https://cards.scryfall.io/large/front/e/a/eace2c85-976c-425e-9800-5a6ccbd91b56.jpg?1782722881",
+    "img": "https://cards.scryfall.io/large/front/e/a/eace2c85-976c-425e-9800-5a6ccbd91b56.jpg?1783948657",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -13479,11 +13482,11 @@ const cards =
     ],
     "supercent": 25,
     "rank": 165,
-    "superrank": 178,
+    "superrank": 177,
     "identity_rank": 16
   },
   "Mox Amber": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a361c9eb-0a12-4f33-a11d-1d7a40801540.jpg?1782699525",
+    "img": "https://cards.scryfall.io/large/front/a/3/a361c9eb-0a12-4f33-a11d-1d7a40801540.jpg?1783919746",
     "date": "2018-04-27",
     "colors": [],
     "mana_cost": "{0}",
@@ -13503,7 +13506,7 @@ const cards =
     "identity_rank": 23
   },
   "Mox Diamond": {
-    "img": "https://cards.scryfall.io/large/front/2/8/28028830-83ed-45e2-b495-3b9ad9d3e988.jpg?1782720820",
+    "img": "https://cards.scryfall.io/large/front/2/8/28028830-83ed-45e2-b495-3b9ad9d3e988.jpg?1783946538",
     "date": "1998-03-02",
     "colors": [],
     "mana_cost": "{0}",
@@ -13522,7 +13525,7 @@ const cards =
     "identity_rank": 5
   },
   "Mox Opal": {
-    "img": "https://cards.scryfall.io/large/front/6/a/6a2dbb1a-4b83-47b6-92ca-145fa5c9c16b.jpg?1782731697",
+    "img": "https://cards.scryfall.io/large/front/6/a/6a2dbb1a-4b83-47b6-92ca-145fa5c9c16b.jpg?1783913940",
     "date": "2010-10-01",
     "colors": [],
     "mana_cost": "{0}",
@@ -13542,7 +13545,7 @@ const cards =
     "identity_rank": 19
   },
   "Muddle the Mixture": {
-    "img": "https://cards.scryfall.io/large/front/e/3/e3585baf-be10-456e-968d-7a3fa4f06060.jpg?1782730980",
+    "img": "https://cards.scryfall.io/large/front/e/3/e3585baf-be10-456e-968d-7a3fa4f06060.jpg?1783913238",
     "date": "2005-10-07",
     "colors": [
       "U"
@@ -13565,7 +13568,7 @@ const cards =
     "identity_rank": 58
   },
   "Multiversal Passage": {
-    "img": "https://cards.scryfall.io/large/front/2/1/21502958-a8e3-494a-9be9-bebbbb1dd9dc.jpg?1782684995",
+    "img": "https://cards.scryfall.io/large/front/2/1/21502958-a8e3-494a-9be9-bebbbb1dd9dc.jpg?1783905442",
     "date": "2025-09-23",
     "colors": [],
     "mana_cost": "",
@@ -13579,12 +13582,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 741,
-    "superrank": 957,
+    "rank": 742,
+    "superrank": 958,
     "identity_rank": 135
   },
   "Muse Seeker": {
-    "img": "https://cards.scryfall.io/large/front/7/1/71cb4a6b-b500-4b28-bcdb-ec4188242f39.jpg?1782682988",
+    "img": "https://cards.scryfall.io/large/front/7/1/71cb4a6b-b500-4b28-bcdb-ec4188242f39.jpg?1783903688",
     "date": "2026-04-24",
     "colors": [
       "U"
@@ -13606,10 +13609,10 @@ const cards =
     "supercent": 2,
     "rank": 924,
     "superrank": 901,
-    "identity_rank": 164
+    "identity_rank": 163
   },
   "Mutavault": {
-    "img": "https://cards.scryfall.io/large/front/8/c/8ca3c48b-f104-4292-9a4e-2ce87a65893c.jpg?1782716201",
+    "img": "https://cards.scryfall.io/large/front/8/c/8ca3c48b-f104-4292-9a4e-2ce87a65893c.jpg?1783942774",
     "date": "2008-02-01",
     "colors": [],
     "mana_cost": "",
@@ -13623,12 +13626,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 314,
+    "rank": 311,
     "superrank": 440,
     "identity_rank": 60
   },
   "Myrel, Shield of Argive": {
-    "img": "https://cards.scryfall.io/large/front/e/6/e632ed57-bb00-4493-adef-7b4805edd7ea.jpg?1782699844",
+    "img": "https://cards.scryfall.io/large/front/e/6/e632ed57-bb00-4493-adef-7b4805edd7ea.jpg?1783920129",
     "date": "2022-11-18",
     "colors": [
       "W"
@@ -13649,12 +13652,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 993,
-    "superrank": 941,
+    "rank": 994,
+    "superrank": 942,
     "identity_rank": 102
   },
   "Mystic Remora": {
-    "img": "https://cards.scryfall.io/large/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1782721728",
+    "img": "https://cards.scryfall.io/large/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1783947511",
     "date": "1995-06-03",
     "colors": [
       "U"
@@ -13677,7 +13680,7 @@ const cards =
     "identity_rank": 2
   },
   "Mystical Tutor": {
-    "img": "https://cards.scryfall.io/large/front/5/d/5d98101f-e32a-4a4a-a649-faa920d111ee.jpg?1782721444",
+    "img": "https://cards.scryfall.io/large/front/5/d/5d98101f-e32a-4a4a-a649-faa920d111ee.jpg?1783947105",
     "date": "1996-10-08",
     "colors": [
       "U"
@@ -13700,7 +13703,7 @@ const cards =
     "identity_rank": 11
   },
   "Narset's Reversal": {
-    "img": "https://cards.scryfall.io/large/front/6/3/63754036-d51e-47bb-925b-564d9dc922ff.jpg?1782708719",
+    "img": "https://cards.scryfall.io/large/front/6/3/63754036-d51e-47bb-925b-564d9dc922ff.jpg?1783933459",
     "date": "2019-05-03",
     "colors": [
       "U"
@@ -13718,12 +13721,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 664,
-    "superrank": 738,
+    "rank": 665,
+    "superrank": 739,
     "identity_rank": 105
   },
   "Narset, Parter of Veils": {
-    "img": "https://cards.scryfall.io/large/front/1/e/1e5e5f25-41c8-4626-bb14-a121167a9d79.jpg?1782735487",
+    "img": "https://cards.scryfall.io/large/front/1/e/1e5e5f25-41c8-4626-bb14-a121167a9d79.jpg?1783918778",
     "date": "2019-05-03",
     "colors": [
       "U"
@@ -13742,12 +13745,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 2,
-    "rank": 779,
-    "superrank": 808,
+    "rank": 781,
+    "superrank": 810,
     "identity_rank": 119
   },
   "Nashi, Moon Sage's Scion": {
-    "img": "https://cards.scryfall.io/large/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.jpg?1782702116",
+    "img": "https://cards.scryfall.io/large/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.jpg?1783923789",
     "date": "2022-02-18",
     "colors": [
       "B"
@@ -13768,12 +13771,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 563,
-    "superrank": 619,
-    "identity_rank": 91
+    "rank": 564,
+    "superrank": 620,
+    "identity_rank": 92
   },
   "Natural Order": {
-    "img": "https://cards.scryfall.io/large/front/c/e/cecb34f8-6961-4c27-9368-26d156714d7b.jpg?1782755540",
+    "img": "https://cards.scryfall.io/large/front/c/e/cecb34f8-6961-4c27-9368-26d156714d7b.jpg?1783946804",
     "date": "1997-02-03",
     "colors": [
       "G"
@@ -13791,12 +13794,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 3,
-    "rank": 622,
-    "superrank": 637,
+    "rank": 623,
+    "superrank": 638,
     "identity_rank": 65
   },
   "Nature's Chosen": {
-    "img": "https://cards.scryfall.io/large/front/7/b/7bd0b831-9d7e-40ce-8514-e852daee1a9e.jpg?1782721494",
+    "img": "https://cards.scryfall.io/large/front/7/b/7bd0b831-9d7e-40ce-8514-e852daee1a9e.jpg?1783947169",
     "date": "1996-06-10",
     "colors": [
       "G"
@@ -13814,12 +13817,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 7,
-    "rank": 506,
-    "superrank": 418,
+    "rank": 505,
+    "superrank": 417,
     "identity_rank": 53
   },
   "Nature's Claim": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0faca514-b7f3-4d34-a259-d03bad50611b.jpg?1782741685",
+    "img": "https://cards.scryfall.io/large/front/0/f/0faca514-b7f3-4d34-a259-d03bad50611b.jpg?1783927718",
     "date": "2010-02-05",
     "colors": [
       "G"
@@ -13837,12 +13840,12 @@ const cards =
       "Instant"
     ],
     "supercent": 7,
-    "rank": 477,
-    "superrank": 412,
+    "rank": 476,
+    "superrank": 411,
     "identity_rank": 48
   },
   "Nature's Rhythm": {
-    "img": "https://cards.scryfall.io/large/front/c/e/ce0ee309-b6c4-455d-8af6-48d8ac1426cb.jpg?1782687018",
+    "img": "https://cards.scryfall.io/large/front/c/e/ce0ee309-b6c4-455d-8af6-48d8ac1426cb.jpg?1783907231",
     "date": "2025-04-11",
     "colors": [
       "G"
@@ -13865,7 +13868,7 @@ const cards =
     "identity_rank": 11
   },
   "Necrodominance": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f810a2d7-efbe-4ea1-83d1-d594a8eaf88b.jpg?1782691013",
+    "img": "https://cards.scryfall.io/large/front/f/8/f810a2d7-efbe-4ea1-83d1-d594a8eaf88b.jpg?1783911172",
     "date": "2024-06-14",
     "colors": [
       "B"
@@ -13884,12 +13887,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 9,
-    "rank": 335,
+    "rank": 332,
     "superrank": 355,
-    "identity_rank": 46
+    "identity_rank": 45
   },
   "Necromancy": {
-    "img": "https://cards.scryfall.io/large/front/3/1/311a6257-dd77-4bb6-81cb-c8e7862350f3.jpg?1782721312",
+    "img": "https://cards.scryfall.io/large/front/3/1/311a6257-dd77-4bb6-81cb-c8e7862350f3.jpg?1783946992",
     "date": "1997-02-03",
     "colors": [
       "B"
@@ -13907,12 +13910,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 23,
-    "rank": 153,
-    "superrank": 185,
-    "identity_rank": 22
+    "rank": 151,
+    "superrank": 184,
+    "identity_rank": 21
   },
   "Necropotence": {
-    "img": "https://cards.scryfall.io/large/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1782721697",
+    "img": "https://cards.scryfall.io/large/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1783947497",
     "date": "1995-06-03",
     "colors": [
       "B"
@@ -13935,7 +13938,7 @@ const cards =
     "identity_rank": 14
   },
   "Necrotic Ooze": {
-    "img": "https://cards.scryfall.io/large/front/8/a/8af2c79f-a151-4628-90fe-c0ff7ccd9c2c.jpg?1782715327",
+    "img": "https://cards.scryfall.io/large/front/8/a/8af2c79f-a151-4628-90fe-c0ff7ccd9c2c.jpg?1783941730",
     "date": "2010-10-01",
     "colors": [
       "B"
@@ -13955,12 +13958,12 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 331,
+    "rank": 328,
     "superrank": 352,
-    "identity_rank": 44
+    "identity_rank": 43
   },
   "Needleverge Pathway": {
-    "img": "https://cards.scryfall.io/large/front/e/d/edc71870-656c-40f9-b2b0-f69a46bf8c51.jpg?1782706167",
+    "img": "https://cards.scryfall.io/large/front/e/d/edc71870-656c-40f9-b2b0-f69a46bf8c51.jpg?1783929305",
     "date": "2020-09-25",
     "cmc": 0,
     "type_line": "Land // Land",
@@ -13977,12 +13980,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1022,
-    "superrank": 1022,
+    "rank": 1023,
+    "superrank": 1023,
     "identity_rank": 15
   },
   "Neoform": {
-    "img": "https://cards.scryfall.io/large/front/9/2/92d8f67e-4f2f-4a1f-b190-7c3f39e477e4.jpg?1782708611",
+    "img": "https://cards.scryfall.io/large/front/9/2/92d8f67e-4f2f-4a1f-b190-7c3f39e477e4.jpg?1783933392",
     "date": "2019-05-03",
     "colors": [
       "G",
@@ -14002,12 +14005,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 58,
-    "rank": 154,
+    "rank": 152,
     "superrank": 88,
     "identity_rank": 3
   },
   "Nezahal, Primal Tide": {
-    "img": "https://cards.scryfall.io/large/front/4/8/48eba418-94ab-46a3-958c-4d5058fc2bcd.jpg?1782710292",
+    "img": "https://cards.scryfall.io/large/front/4/8/48eba418-94ab-46a3-958c-4d5058fc2bcd.jpg?1783935322",
     "date": "2018-01-19",
     "colors": [
       "U"
@@ -14028,12 +14031,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 676,
-    "superrank": 746,
+    "rank": 677,
+    "superrank": 747,
     "identity_rank": 106
   },
   "Noble Hierarch": {
-    "img": "https://cards.scryfall.io/large/front/6/a/6adfe928-1305-444d-b709-1e714544daaf.jpg?1782715860",
+    "img": "https://cards.scryfall.io/large/front/6/a/6adfe928-1305-444d-b709-1e714544daaf.jpg?1783942473",
     "date": "2009-02-06",
     "colors": [
       "G"
@@ -14055,12 +14058,12 @@ const cards =
       "Creature"
     ],
     "supercent": 91,
-    "rank": 144,
+    "rank": 143,
     "superrank": 27,
     "identity_rank": 1
   },
   "Noose Constrictor": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cdaa4fb2-8239-42df-8424-fa67e66c275b.jpg?1782726545",
+    "img": "https://cards.scryfall.io/large/front/c/d/cdaa4fb2-8239-42df-8424-fa67e66c275b.jpg?1783908003",
     "date": "2016-07-22",
     "colors": [
       "G"
@@ -14080,12 +14083,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 908,
-    "superrank": 701,
+    "rank": 909,
+    "superrank": 702,
     "identity_rank": 97
   },
   "Notion Thief": {
-    "img": "https://cards.scryfall.io/large/front/7/2/728e660b-ad8b-49d2-a7e5-6588e496519b.jpg?1782714001",
+    "img": "https://cards.scryfall.io/large/front/7/2/728e660b-ad8b-49d2-a7e5-6588e496519b.jpg?1783940024",
     "date": "2013-05-03",
     "colors": [
       "B",
@@ -14107,12 +14110,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 662,
-    "superrank": 644,
+    "rank": 663,
+    "superrank": 645,
     "identity_rank": 14
   },
   "Nowhere to Run": {
-    "img": "https://cards.scryfall.io/large/front/f/e/fee60e9d-9ee7-444a-88f3-c1929e1888fb.jpg?1782689553",
+    "img": "https://cards.scryfall.io/large/front/f/e/fee60e9d-9ee7-444a-88f3-c1929e1888fb.jpg?1783909476",
     "date": "2024-09-27",
     "colors": [
       "B"
@@ -14130,12 +14133,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 742,
-    "superrank": 784,
-    "identity_rank": 107
+    "rank": 743,
+    "superrank": 785,
+    "identity_rank": 108
   },
   "Noxious Revival": {
-    "img": "https://cards.scryfall.io/large/front/1/b/1bdd1243-1d14-496a-9b7a-0c5b34461361.jpg?1782715146",
+    "img": "https://cards.scryfall.io/large/front/1/b/1bdd1243-1d14-496a-9b7a-0c5b34461361.jpg?1783941300",
     "date": "2011-05-13",
     "colors": [
       "G"
@@ -14153,12 +14156,12 @@ const cards =
       "Instant"
     ],
     "supercent": 38,
-    "rank": 155,
+    "rank": 153,
     "superrank": 134,
     "identity_rank": 15
   },
   "Nuclear Fallout": {
-    "img": "https://cards.scryfall.io/large/front/e/7/e717e4b0-a8c1-4411-b18a-1d17e7225503.jpg?1782693359",
+    "img": "https://cards.scryfall.io/large/front/e/7/e717e4b0-a8c1-4411-b18a-1d17e7225503.jpg?1783912408",
     "date": "2024-03-08",
     "colors": [
       "B"
@@ -14176,12 +14179,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 656,
-    "superrank": 734,
-    "identity_rank": 101
+    "rank": 657,
+    "superrank": 735,
+    "identity_rank": 102
   },
   "Null Rod": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bc45f2cb-c256-4a0f-879a-c7db5b1a0b94.jpg?1782721016",
+    "img": "https://cards.scryfall.io/large/front/b/c/bc45f2cb-c256-4a0f-879a-c7db5b1a0b94.jpg?1783946713",
     "date": "1997-06-09",
     "colors": [],
     "mana_cost": "{2}",
@@ -14195,12 +14198,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 726,
-    "superrank": 956,
+    "rank": 727,
+    "superrank": 957,
     "identity_rank": 134
   },
   "Nullmage Advocate": {
-    "img": "https://cards.scryfall.io/large/front/1/c/1c29991d-82f2-479d-95ca-5c88e9f3f219.jpg?1782719222",
+    "img": "https://cards.scryfall.io/large/front/1/c/1c29991d-82f2-479d-95ca-5c88e9f3f219.jpg?1783945109",
     "date": "2002-05-27",
     "colors": [
       "G"
@@ -14220,12 +14223,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 864,
-    "superrank": 690,
+    "rank": 866,
+    "superrank": 691,
     "identity_rank": 87
   },
   "Nurturing Peatland": {
-    "img": "https://cards.scryfall.io/large/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg?1782708402",
+    "img": "https://cards.scryfall.io/large/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg?1783933066",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "",
@@ -14242,12 +14245,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 909,
-    "superrank": 523,
+    "rank": 910,
+    "superrank": 522,
     "identity_rank": 13
   },
   "Nykthos, Shrine to Nyx": {
-    "img": "https://cards.scryfall.io/large/front/8/3/834b27a0-dfd7-4f96-8cde-cacac4b24acc.jpg?1782713715",
+    "img": "https://cards.scryfall.io/large/front/8/3/834b27a0-dfd7-4f96-8cde-cacac4b24acc.jpg?1783939713",
     "date": "2013-09-27",
     "colors": [],
     "mana_cost": "",
@@ -14262,12 +14265,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 421,
-    "superrank": 595,
+    "rank": 423,
+    "superrank": 594,
     "identity_rank": 87
   },
   "Oblivion Crown": {
-    "img": "https://cards.scryfall.io/large/front/0/c/0cd5486b-c6f4-4cfc-9590-8ffc78b48b0a.jpg?1782716692",
+    "img": "https://cards.scryfall.io/large/front/0/c/0cd5486b-c6f4-4cfc-9590-8ffc78b48b0a.jpg?1783943112",
     "date": "2007-05-04",
     "colors": [
       "B"
@@ -14285,12 +14288,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 910,
-    "superrank": 889,
-    "identity_rank": 144
+    "rank": 911,
+    "superrank": 890,
+    "identity_rank": 145
   },
   "Oboro Breezecaller": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a382a9b8-0b19-46c2-a547-a22d6e23d0ac.jpg?1782718040",
+    "img": "https://cards.scryfall.io/large/front/a/3/a382a9b8-0b19-46c2-a547-a22d6e23d0ac.jpg?1783944162",
     "date": "2005-06-03",
     "colors": [
       "U"
@@ -14310,12 +14313,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 683,
-    "superrank": 750,
+    "rank": 684,
+    "superrank": 751,
     "identity_rank": 109
   },
   "Oboro, Palace in the Clouds": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ffc2d68e-6543-43ec-b67a-afff1325a32f.jpg?1782717984",
+    "img": "https://cards.scryfall.io/large/front/f/f/ffc2d68e-6543-43ec-b67a-afff1325a32f.jpg?1783944128",
     "date": "2005-06-03",
     "colors": [],
     "mana_cost": "",
@@ -14332,12 +14335,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 892,
-    "superrank": 882,
+    "rank": 893,
+    "superrank": 883,
     "identity_rank": 158
   },
   "Ocelot Pride": {
-    "img": "https://cards.scryfall.io/large/front/8/5/859d2ff4-8b8c-410b-8636-7e6a539fd291.jpg?1782691028",
+    "img": "https://cards.scryfall.io/large/front/8/5/859d2ff4-8b8c-410b-8636-7e6a539fd291.jpg?1783911176",
     "date": "2024-06-14",
     "colors": [
       "W"
@@ -14357,12 +14360,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 408,
-    "superrank": 396,
+    "rank": 410,
+    "superrank": 397,
     "identity_rank": 31
   },
   "Ominous Harvest": {
-    "img": "https://cards.scryfall.io/large/front/9/2/9274c73b-f01b-4b91-b736-9650966c2b20.jpg?1782683324",
+    "img": "https://cards.scryfall.io/large/front/9/2/9274c73b-f01b-4b91-b736-9650966c2b20.jpg?1783903839",
     "date": "2026-04-24",
     "colors": [
       "B"
@@ -14381,11 +14384,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 448,
-    "superrank": 548,
-    "identity_rank": 70
+    "superrank": 547,
+    "identity_rank": 69
   },
   "Ophidian Eye": {
-    "img": "https://cards.scryfall.io/large/front/2/6/26836ff5-b3c3-4b10-af1e-df3658781cb2.jpg?1782716914",
+    "img": "https://cards.scryfall.io/large/front/2/6/26836ff5-b3c3-4b10-af1e-df3658781cb2.jpg?1783943242",
     "date": "2006-10-06",
     "colors": [
       "U"
@@ -14403,12 +14406,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 843,
-    "superrank": 855,
+    "rank": 845,
+    "superrank": 857,
     "identity_rank": 146
   },
   "Opposition Agent": {
-    "img": "https://cards.scryfall.io/large/front/7/b/7b218531-9f5c-4ffb-9d2f-f2ead5b9f221.jpg?1782705678",
+    "img": "https://cards.scryfall.io/large/front/7/b/7b218531-9f5c-4ffb-9d2f-f2ead5b9f221.jpg?1783928617",
     "date": "2020-11-20",
     "colors": [
       "B"
@@ -14433,7 +14436,7 @@ const cards =
     "identity_rank": 16
   },
   "Orcish Bowmasters": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de2de055-5246-408b-80fe-cd01688c145e.jpg?1782696981",
+    "img": "https://cards.scryfall.io/large/front/d/e/de2de055-5246-408b-80fe-cd01688c145e.jpg?1783916154",
     "date": "2023-06-23",
     "colors": [
       "B"
@@ -14447,18 +14450,18 @@ const cards =
     "power": "1",
     "toughness": "1",
     "name": "Orcish Bowmasters",
-    "count": 31,
-    "percent": 48,
+    "count": 30,
+    "percent": 46,
     "types": [
       "Creature"
     ],
-    "supercent": 72,
-    "rank": 47,
-    "superrank": 59,
-    "identity_rank": 6
+    "supercent": 69,
+    "rank": 50,
+    "superrank": 65,
+    "identity_rank": 7
   },
   "Orcish Lumberjack": {
-    "img": "https://cards.scryfall.io/large/front/2/1/21ef13e3-658c-43a3-a290-4c5dde8e8b55.jpg?1782721675",
+    "img": "https://cards.scryfall.io/large/front/2/1/21ef13e3-658c-43a3-a290-4c5dde8e8b55.jpg?1783947484",
     "date": "1995-06-03",
     "colors": [
       "R"
@@ -14479,12 +14482,12 @@ const cards =
       "Creature"
     ],
     "supercent": 25,
-    "rank": 347,
-    "superrank": 179,
+    "rank": 348,
+    "superrank": 178,
     "identity_rank": 4
   },
   "Orim's Chant": {
-    "img": "https://cards.scryfall.io/large/front/0/5/055afa78-b969-498f-a3ad-c792426e5ee6.jpg?1782719939",
+    "img": "https://cards.scryfall.io/large/front/0/5/055afa78-b969-498f-a3ad-c792426e5ee6.jpg?1783945629",
     "date": "2001-02-05",
     "colors": [
       "W"
@@ -14502,12 +14505,12 @@ const cards =
       "Instant"
     ],
     "supercent": 30,
-    "rank": 147,
+    "rank": 145,
     "superrank": 161,
     "identity_rank": 13
   },
   "Ornithopter": {
-    "img": "https://cards.scryfall.io/large/front/5/9/59cc9bdb-7cf2-4795-bac7-ffff605c9eb0.jpg?1782722551",
+    "img": "https://cards.scryfall.io/large/front/5/9/59cc9bdb-7cf2-4795-bac7-ffff605c9eb0.jpg?1783948360",
     "date": "1994-03-04",
     "colors": [],
     "mana_cost": "{0}",
@@ -14524,12 +14527,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 337,
-    "superrank": 473,
+    "rank": 335,
+    "superrank": 472,
     "identity_rank": 65
   },
   "Ornithopter of Paradise": {
-    "img": "https://cards.scryfall.io/large/front/2/3/23ac45cf-4dc8-47b9-8ca8-e72464f745d6.jpg?1782704485",
+    "img": "https://cards.scryfall.io/large/front/2/3/23ac45cf-4dc8-47b9-8ca8-e72464f745d6.jpg?1783926722",
     "date": "2021-06-18",
     "colors": [],
     "mana_cost": "{2}",
@@ -14546,12 +14549,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 601,
-    "superrank": 706,
+    "rank": 602,
+    "superrank": 707,
     "identity_rank": 120
   },
   "Otawara, Soaring City": {
-    "img": "https://cards.scryfall.io/large/front/d/b/dbcdbf15-7578-465e-afa2-f65c01fb4802.jpg?1782701988",
+    "img": "https://cards.scryfall.io/large/front/d/b/dbcdbf15-7578-465e-afa2-f65c01fb4802.jpg?1783923724",
     "date": "2022-02-18",
     "colors": [],
     "mana_cost": "",
@@ -14573,7 +14576,7 @@ const cards =
     "identity_rank": 10
   },
   "Out of Time": {
-    "img": "https://cards.scryfall.io/large/front/7/b/7bd77468-7aad-4add-8385-e3310cd5d5cd.jpg?1782704513",
+    "img": "https://cards.scryfall.io/large/front/7/b/7bd77468-7aad-4add-8385-e3310cd5d5cd.jpg?1783926741",
     "date": "2021-06-18",
     "colors": [
       "W"
@@ -14591,12 +14594,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 11,
-    "rank": 293,
+    "rank": 292,
     "superrank": 290,
     "identity_rank": 22
   },
   "Overeager Apprentice": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b886292-5937-44ee-bc2a-f316791c91ae.jpg?1782719396",
+    "img": "https://cards.scryfall.io/large/front/8/b/8b886292-5937-44ee-bc2a-f316791c91ae.jpg?1783945241",
     "date": "2001-10-01",
     "colors": [
       "B"
@@ -14621,7 +14624,7 @@ const cards =
     "identity_rank": 86
   },
   "Overgrown Tomb": {
-    "img": "https://cards.scryfall.io/large/front/1/5/15c1114f-5f7c-4ecf-8aac-e48853df008b.jpg?1782730848",
+    "img": "https://cards.scryfall.io/large/front/1/5/15c1114f-5f7c-4ecf-8aac-e48853df008b.jpg?1783913179",
     "date": "2005-10-07",
     "colors": [],
     "mana_cost": "",
@@ -14643,7 +14646,7 @@ const cards =
     "identity_rank": 4
   },
   "Overmaster": {
-    "img": "https://cards.scryfall.io/large/front/a/f/afd2e0f0-8a8e-4021-bd24-aff1a3212345.jpg?1782719288",
+    "img": "https://cards.scryfall.io/large/front/a/f/afd2e0f0-8a8e-4021-bd24-aff1a3212345.jpg?1783945147",
     "date": "2002-02-04",
     "colors": [
       "R"
@@ -14661,12 +14664,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 585,
-    "superrank": 527,
+    "rank": 586,
+    "superrank": 526,
     "identity_rank": 90
   },
   "Pact of Negation": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cca467a2-a2b3-4bdf-9d60-62979f675347.jpg?1782716708",
+    "img": "https://cards.scryfall.io/large/front/c/c/cca467a2-a2b3-4bdf-9d60-62979f675347.jpg?1783943120",
     "date": "2007-05-04",
     "colors": [
       "U"
@@ -14689,7 +14692,7 @@ const cards =
     "identity_rank": 6
   },
   "Panharmonicon": {
-    "img": "https://cards.scryfall.io/large/front/9/c/9c88ec62-c3c9-4bb8-99f6-04c7a9d65e45.jpg?1782741653",
+    "img": "https://cards.scryfall.io/large/front/9/c/9c88ec62-c3c9-4bb8-99f6-04c7a9d65e45.jpg?1783927703",
     "date": "2016-09-30",
     "colors": [],
     "mana_cost": "{4}",
@@ -14703,12 +14706,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 960,
-    "superrank": 989,
+    "rank": 961,
+    "superrank": 990,
     "identity_rank": 167
   },
   "Paradise Mantle": {
-    "img": "https://cards.scryfall.io/large/front/1/2/1252e9e2-2dd5-4bd6-aa56-f0a0ba056a77.jpg?1782718281",
+    "img": "https://cards.scryfall.io/large/front/1/2/1252e9e2-2dd5-4bd6-aa56-f0a0ba056a77.jpg?1783944376",
     "date": "2004-06-04",
     "colors": [],
     "mana_cost": "{0}",
@@ -14722,12 +14725,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 588,
-    "superrank": 703,
+    "rank": 589,
+    "superrank": 704,
     "identity_rank": 117
   },
   "Party Thrasher": {
-    "img": "https://cards.scryfall.io/large/front/6/a/6a0e5378-310b-44b6-8fc8-26c94eaceafc.jpg?1782691005",
+    "img": "https://cards.scryfall.io/large/front/6/a/6a0e5378-310b-44b6-8fc8-26c94eaceafc.jpg?1783911170",
     "date": "2024-06-14",
     "colors": [
       "R"
@@ -14747,12 +14750,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 961,
-    "superrank": 921,
-    "identity_rank": 146
+    "rank": 962,
+    "superrank": 922,
+    "identity_rank": 147
   },
   "Path to Exile": {
-    "img": "https://cards.scryfall.io/large/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1782741737",
+    "img": "https://cards.scryfall.io/large/front/2/e/2ee3e42e-120c-468a-988d-4441b6025bbe.jpg?1783927743",
     "date": "2009-02-06",
     "colors": [
       "W"
@@ -14770,12 +14773,12 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 330,
+    "rank": 327,
     "superrank": 322,
     "identity_rank": 27
   },
   "Patrol Signaler": {
-    "img": "https://cards.scryfall.io/large/front/b/3/b3fd4ccb-e632-4fa0-8e36-6103806f020c.jpg?1782716069",
+    "img": "https://cards.scryfall.io/large/front/b/3/b3fd4ccb-e632-4fa0-8e36-6103806f020c.jpg?1783942693",
     "date": "2008-07-25",
     "colors": [
       "W"
@@ -14795,12 +14798,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 865,
-    "superrank": 864,
+    "rank": 867,
+    "superrank": 866,
     "identity_rank": 88
   },
   "Pattern of Rebirth": {
-    "img": "https://cards.scryfall.io/large/front/9/f/9f23c4f4-a191-4225-a3b7-dab5b1462922.jpg?1782720372",
+    "img": "https://cards.scryfall.io/large/front/9/f/9f23c4f4-a191-4225-a3b7-dab5b1462922.jpg?1783946060",
     "date": "1999-06-07",
     "colors": [
       "G"
@@ -14818,12 +14821,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 688,
-    "superrank": 657,
+    "rank": 689,
+    "superrank": 658,
     "identity_rank": 71
   },
   "Peat Bog": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bcc9d1e0-c8f4-4bac-90d4-8167f7a1515a.jpg?1782720236",
+    "img": "https://cards.scryfall.io/large/front/b/c/bcc9d1e0-c8f4-4bac-90d4-8167f7a1515a.jpg?1783945905",
     "date": "1999-10-04",
     "colors": [],
     "mana_cost": "",
@@ -14839,12 +14842,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 429,
-    "superrank": 468,
-    "identity_rank": 68
+    "rank": 430,
+    "superrank": 467,
+    "identity_rank": 67
   },
   "Peek": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f50843cc-20ac-4746-816e-f2630aa31594.jpg?1782719418",
+    "img": "https://cards.scryfall.io/large/front/f/5/f50843cc-20ac-4746-816e-f2630aa31594.jpg?1783945258",
     "date": "2001-10-01",
     "colors": [
       "U"
@@ -14864,10 +14867,10 @@ const cards =
     "supercent": 2,
     "rank": 925,
     "superrank": 902,
-    "identity_rank": 165
+    "identity_rank": 164
   },
   "Peer into the Abyss": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aac00055-640e-4749-8d23-d242e6d0b23a.jpg?1782706942",
+    "img": "https://cards.scryfall.io/large/front/a/a/aac00055-640e-4749-8d23-d242e6d0b23a.jpg?1783930701",
     "date": "2020-07-03",
     "colors": [
       "B"
@@ -14885,12 +14888,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 403,
+    "rank": 405,
     "superrank": 450,
     "identity_rank": 51
   },
   "Pentad Prism": {
-    "img": "https://cards.scryfall.io/large/front/6/7/672b9b16-daef-44e6-9a3a-cfd9f3c78bc7.jpg?1782718281",
+    "img": "https://cards.scryfall.io/large/front/6/7/672b9b16-daef-44e6-9a3a-cfd9f3c78bc7.jpg?1783944376",
     "date": "2004-06-04",
     "colors": [],
     "mana_cost": "{2}",
@@ -14904,12 +14907,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 764,
-    "superrank": 962,
+    "rank": 766,
+    "superrank": 963,
     "identity_rank": 140
   },
   "Persist": {
-    "img": "https://cards.scryfall.io/large/front/b/9/b92a8dbf-d5b1-4337-8c3e-bc0c8308e426.jpg?1782704504",
+    "img": "https://cards.scryfall.io/large/front/b/9/b92a8dbf-d5b1-4337-8c3e-bc0c8308e426.jpg?1783926735",
     "date": "2021-06-18",
     "colors": [
       "B"
@@ -14921,18 +14924,18 @@ const cards =
       "B"
     ],
     "name": "Persist",
-    "count": 1,
-    "percent": 1,
+    "count": 2,
+    "percent": 3,
     "types": [
       "Sorcery"
     ],
-    "supercent": 2,
-    "rank": 880,
-    "superrank": 874,
-    "identity_rank": 141
+    "supercent": 4,
+    "rank": 541,
+    "superrank": 601,
+    "identity_rank": 87
   },
   "Personal Tutor": {
-    "img": "https://cards.scryfall.io/large/front/1/e/1edc3917-fded-4773-8f8d-62bd861c1131.jpg?1782755598",
+    "img": "https://cards.scryfall.io/large/front/1/e/1edc3917-fded-4773-8f8d-62bd861c1131.jpg?1783946837",
     "date": "1997-05-01",
     "colors": [
       "U"
@@ -14950,12 +14953,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 931,
-    "superrank": 906,
-    "identity_rank": 166
+    "rank": 932,
+    "superrank": 907,
+    "identity_rank": 165
   },
   "Pestilence": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d42a6350-b16b-4e10-a273-e6cbb55dcb7a.jpg?1782722961",
+    "img": "https://cards.scryfall.io/large/front/d/4/d42a6350-b16b-4e10-a273-e6cbb55dcb7a.jpg?1783948692",
     "date": "1993-08-05",
     "colors": [
       "B"
@@ -14967,18 +14970,18 @@ const cards =
       "B"
     ],
     "name": "Pestilence",
-    "count": 3,
-    "percent": 4,
+    "count": 2,
+    "percent": 3,
     "types": [
       "Enchantment"
     ],
-    "supercent": 6,
-    "rank": 422,
-    "superrank": 463,
-    "identity_rank": 63
+    "supercent": 4,
+    "rank": 534,
+    "superrank": 595,
+    "identity_rank": 83
   },
   "Peter Parker's Camera": {
-    "img": "https://cards.scryfall.io/large/front/b/0/b0c811f8-b456-47b3-9d55-a87590eb4573.jpg?1782685003",
+    "img": "https://cards.scryfall.io/large/front/b/0/b0c811f8-b456-47b3-9d55-a87590eb4573.jpg?1783905447",
     "date": "2025-09-23",
     "colors": [],
     "mana_cost": "{1}",
@@ -14992,12 +14995,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 315,
+    "rank": 312,
     "superrank": 441,
     "identity_rank": 61
   },
   "Petrified Hamlet": {
-    "img": "https://cards.scryfall.io/large/front/e/d/ed72d052-d287-448a-bbc5-969ebb1fcb68.jpg?1782682732",
+    "img": "https://cards.scryfall.io/large/front/e/d/ed72d052-d287-448a-bbc5-969ebb1fcb68.jpg?1783903583",
     "date": "2026-04-24",
     "colors": [],
     "mana_cost": "",
@@ -15011,12 +15014,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 496,
-    "superrank": 648,
+    "rank": 495,
+    "superrank": 649,
     "identity_rank": 98
   },
   "Phantasmal Image": {
-    "img": "https://cards.scryfall.io/large/front/9/8/98e7bf8f-dba7-4005-8cee-634c9153931d.jpg?1782714908",
+    "img": "https://cards.scryfall.io/large/front/9/8/98e7bf8f-dba7-4005-8cee-634c9153931d.jpg?1783941088",
     "date": "2011-07-15",
     "colors": [
       "U"
@@ -15036,12 +15039,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 402,
+    "rank": 404,
     "superrank": 448,
     "identity_rank": 71
   },
   "Phelia, Exuberant Shepherd": {
-    "img": "https://cards.scryfall.io/large/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1782691057",
+    "img": "https://cards.scryfall.io/large/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1783911187",
     "date": "2024-06-14",
     "colors": [
       "W"
@@ -15062,12 +15065,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 323,
+    "rank": 320,
     "superrank": 312,
     "identity_rank": 24
   },
   "Phyrexian Altar": {
-    "img": "https://cards.scryfall.io/large/front/2/5/25158cd5-749b-408c-9ab1-0f83e38730f7.jpg?1782719961",
+    "img": "https://cards.scryfall.io/large/front/2/5/25158cd5-749b-408c-9ab1-0f83e38730f7.jpg?1783945649",
     "date": "2000-10-02",
     "colors": [],
     "mana_cost": "{3}",
@@ -15081,12 +15084,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 804,
-    "superrank": 966,
+    "rank": 806,
+    "superrank": 967,
     "identity_rank": 144
   },
   "Phyrexian Metamorph": {
-    "img": "https://cards.scryfall.io/large/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1782715175",
+    "img": "https://cards.scryfall.io/large/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1783941318",
     "date": "2011-05-13",
     "colors": [
       "U"
@@ -15108,11 +15111,11 @@ const cards =
     ],
     "supercent": 27,
     "rank": 133,
-    "superrank": 168,
+    "superrank": 169,
     "identity_rank": 28
   },
   "Phyrexian Revoker": {
-    "img": "https://cards.scryfall.io/large/front/7/7/77772c4e-0c93-4bb5-85b5-08b4a6cb0e4f.jpg?1782699580",
+    "img": "https://cards.scryfall.io/large/front/7/7/77772c4e-0c93-4bb5-85b5-08b4a6cb0e4f.jpg?1783919784",
     "date": "2011-02-04",
     "colors": [],
     "mana_cost": "{2}",
@@ -15129,12 +15132,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 602,
-    "superrank": 707,
+    "rank": 603,
+    "superrank": 708,
     "identity_rank": 121
   },
   "Phyrexian Tower": {
-    "img": "https://cards.scryfall.io/large/front/4/f/4f915cf0-6273-4896-bf24-fb0ec17b6096.jpg?1782720619",
+    "img": "https://cards.scryfall.io/large/front/4/f/4f915cf0-6273-4896-bf24-fb0ec17b6096.jpg?1783946298",
     "date": "1998-10-12",
     "colors": [],
     "mana_cost": "",
@@ -15144,19 +15147,19 @@ const cards =
       "B"
     ],
     "name": "Phyrexian Tower",
-    "count": 11,
-    "percent": 17,
+    "count": 10,
+    "percent": 15,
     "types": [
       "Legendary",
       "Land"
     ],
-    "supercent": 25,
-    "rank": 143,
-    "superrank": 177,
-    "identity_rank": 21
+    "supercent": 23,
+    "rank": 154,
+    "superrank": 185,
+    "identity_rank": 22
   },
   "Phyrexian Unlife": {
-    "img": "https://cards.scryfall.io/large/front/b/4/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18.jpg?1782715184",
+    "img": "https://cards.scryfall.io/large/front/b/4/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18.jpg?1783941325",
     "date": "2011-05-13",
     "colors": [
       "W"
@@ -15174,12 +15177,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 707,
-    "superrank": 763,
+    "rank": 708,
+    "superrank": 764,
     "identity_rank": 59
   },
   "Phyrexian Walker": {
-    "img": "https://cards.scryfall.io/large/front/9/f/9f8a3979-2947-4692-8b2f-d4c07c534777.jpg?1782721274",
+    "img": "https://cards.scryfall.io/large/front/9/f/9f8a3979-2947-4692-8b2f-d4c07c534777.jpg?1783946973",
     "date": "1997-02-03",
     "colors": [],
     "mana_cost": "{0}",
@@ -15196,12 +15199,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 438,
-    "superrank": 620,
+    "rank": 439,
+    "superrank": 621,
     "identity_rank": 92
   },
   "Pia and Kiran Nalaar": {
-    "img": "https://cards.scryfall.io/large/front/0/d/0dcafa9e-3637-42ca-bdb2-45a2b5da7294.jpg?1782712606",
+    "img": "https://cards.scryfall.io/large/front/0/d/0dcafa9e-3637-42ca-bdb2-45a2b5da7294.jpg?1783938327",
     "date": "2015-07-17",
     "colors": [
       "R"
@@ -15222,12 +15225,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 994,
-    "superrank": 942,
-    "identity_rank": 157
+    "rank": 995,
+    "superrank": 943,
+    "identity_rank": 158
   },
   "Pinnacle Monk": {
-    "img": "https://cards.scryfall.io/large/front/2/4/24d4f26e-7f96-4b38-867e-4fac819b2679.jpg?1782691166",
+    "img": "https://cards.scryfall.io/large/front/2/4/24d4f26e-7f96-4b38-867e-4fac819b2679.jpg?1783911228",
     "date": "2024-06-14",
     "cmc": 5,
     "type_line": "Creature \u2014 Djinn Monk // Land",
@@ -15241,12 +15244,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1005,
-    "superrank": 1005,
-    "identity_rank": 160
+    "rank": 1006,
+    "superrank": 1006,
+    "identity_rank": 161
   },
   "Plains": {
-    "img": "https://cards.scryfall.io/large/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1782722885",
+    "img": "https://cards.scryfall.io/large/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1783948658",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -15263,12 +15266,12 @@ const cards =
       "Land"
     ],
     "supercent": 19,
-    "rank": 214,
-    "superrank": 218,
+    "rank": 213,
+    "superrank": 219,
     "identity_rank": 15
   },
   "Plateau": {
-    "img": "https://cards.scryfall.io/large/front/6/e/6eafa00b-c628-40f6-86eb-88e1361fc7a0.jpg?1782722888",
+    "img": "https://cards.scryfall.io/large/front/6/e/6eafa00b-c628-40f6-86eb-88e1361fc7a0.jpg?1783948659",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -15290,7 +15293,7 @@ const cards =
     "identity_rank": 1
   },
   "Plaza of Heroes": {
-    "img": "https://cards.scryfall.io/large/front/e/a/ea9fc6ee-2205-4f77-8e14-313bfbe68c1e.jpg?1782700291",
+    "img": "https://cards.scryfall.io/large/front/e/a/ea9fc6ee-2205-4f77-8e14-313bfbe68c1e.jpg?1783921181",
     "date": "2022-09-09",
     "colors": [],
     "mana_cost": "",
@@ -15304,12 +15307,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 701,
-    "superrank": 955,
+    "rank": 702,
+    "superrank": 956,
     "identity_rank": 133
   },
   "Plundering Barbarian": {
-    "img": "https://cards.scryfall.io/large/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.jpg?1782704348",
+    "img": "https://cards.scryfall.io/large/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.jpg?1783926473",
     "date": "2021-07-23",
     "colors": [
       "R"
@@ -15329,12 +15332,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 379,
-    "superrank": 387,
-    "identity_rank": 58
+    "rank": 381,
+    "superrank": 388,
+    "identity_rank": 59
   },
   "Polluted Delta": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0f7585c8-9e21-4eef-afc1-2852de23db2f.jpg?1782719083",
+    "img": "https://cards.scryfall.io/large/front/0/f/0f7585c8-9e21-4eef-afc1-2852de23db2f.jpg?1783945028",
     "date": "2002-10-07",
     "colors": [],
     "mana_cost": "",
@@ -15353,7 +15356,7 @@ const cards =
     "identity_rank": 12
   },
   "Pollywog Prodigy": {
-    "img": "https://cards.scryfall.io/large/front/9/4/94a020df-714b-4465-bfa2-ac15f27d8412.jpg?1782690290",
+    "img": "https://cards.scryfall.io/large/front/9/4/94a020df-714b-4465-bfa2-ac15f27d8412.jpg?1783910733",
     "date": "2024-08-02",
     "colors": [
       "U"
@@ -15378,7 +15381,7 @@ const cards =
     "identity_rank": 56
   },
   "Polymorph": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fbae8702-a152-4c53-8a76-691a221f2475.jpg?1782721444",
+    "img": "https://cards.scryfall.io/large/front/f/b/fbae8702-a152-4c53-8a76-691a221f2475.jpg?1783947105",
     "date": "1996-10-08",
     "colors": [
       "U"
@@ -15396,12 +15399,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 780,
-    "superrank": 809,
+    "rank": 782,
+    "superrank": 811,
     "identity_rank": 120
   },
   "Ponder": {
-    "img": "https://cards.scryfall.io/large/front/a/f/af450adb-23be-4332-a54c-d647a1fd0248.jpg?1782741725",
+    "img": "https://cards.scryfall.io/large/front/a/f/af450adb-23be-4332-a54c-d647a1fd0248.jpg?1783927736",
     "date": "2007-10-12",
     "colors": [
       "U"
@@ -15419,12 +15422,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 436,
-    "superrank": 471,
+    "rank": 437,
+    "superrank": 470,
     "identity_rank": 75
   },
   "Pongify": {
-    "img": "https://cards.scryfall.io/large/front/c/c/cce74a84-4441-4f2e-89d8-df0b096790ed.jpg?1782716785",
+    "img": "https://cards.scryfall.io/large/front/c/c/cce74a84-4441-4f2e-89d8-df0b096790ed.jpg?1783943162",
     "date": "2007-02-02",
     "colors": [
       "U"
@@ -15442,12 +15445,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 485,
-    "superrank": 560,
+    "rank": 484,
+    "superrank": 559,
     "identity_rank": 82
   },
   "Portable Hole": {
-    "img": "https://cards.scryfall.io/large/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1782704423",
+    "img": "https://cards.scryfall.io/large/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1783926525",
     "date": "2021-07-23",
     "colors": [
       "W"
@@ -15465,12 +15468,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 636,
-    "superrank": 724,
+    "rank": 637,
+    "superrank": 725,
     "identity_rank": 53
   },
   "Portal to Phyrexia": {
-    "img": "https://cards.scryfall.io/large/front/b/0/b05bda29-654a-4f4f-9296-702ccda7f800.jpg?1782699617",
+    "img": "https://cards.scryfall.io/large/front/b/0/b05bda29-654a-4f4f-9296-702ccda7f800.jpg?1783919962",
     "date": "2022-11-18",
     "colors": [],
     "mana_cost": "{9}",
@@ -15484,12 +15487,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 380,
-    "superrank": 574,
+    "rank": 382,
+    "superrank": 573,
     "identity_rank": 77
   },
   "Power Artifact": {
-    "img": "https://cards.scryfall.io/large/front/e/4/e48bc89e-6da5-43da-b4e0-60d5f850199c.jpg?1782722574",
+    "img": "https://cards.scryfall.io/large/front/e/4/e48bc89e-6da5-43da-b4e0-60d5f850199c.jpg?1783948372",
     "date": "1994-03-04",
     "colors": [
       "U"
@@ -15507,12 +15510,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 893,
-    "superrank": 883,
+    "rank": 894,
+    "superrank": 884,
     "identity_rank": 159
   },
   "Powerbalance": {
-    "img": "https://cards.scryfall.io/large/front/a/f/aff7c0bb-1210-4aeb-b5f8-1387eb633b0f.jpg?1782691286",
+    "img": "https://cards.scryfall.io/large/front/a/f/aff7c0bb-1210-4aeb-b5f8-1387eb633b0f.jpg?1783911268",
     "date": "2024-06-14",
     "colors": [
       "R"
@@ -15530,12 +15533,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 8,
-    "rank": 431,
-    "superrank": 398,
-    "identity_rank": 65
+    "rank": 432,
+    "superrank": 399,
+    "identity_rank": 66
   },
   "Praetor's Grasp": {
-    "img": "https://cards.scryfall.io/large/front/9/5/9588be49-d9b5-4491-a5a0-10bcadc9f8b3.jpg?1782715164",
+    "img": "https://cards.scryfall.io/large/front/9/5/9588be49-d9b5-4491-a5a0-10bcadc9f8b3.jpg?1783941311",
     "date": "2011-05-13",
     "colors": [
       "B"
@@ -15558,7 +15561,7 @@ const cards =
     "identity_rank": 17
   },
   "Priest of Fell Rites": {
-    "img": "https://cards.scryfall.io/large/front/d/1/d116329d-6de7-402c-821d-e9aeba9ad2b1.jpg?1782704608",
+    "img": "https://cards.scryfall.io/large/front/d/1/d116329d-6de7-402c-821d-e9aeba9ad2b1.jpg?1783926812",
     "date": "2021-06-18",
     "colors": [
       "B",
@@ -15580,12 +15583,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 694,
-    "superrank": 583,
+    "rank": 695,
+    "superrank": 582,
     "identity_rank": 8
   },
   "Prismatic Vista": {
-    "img": "https://cards.scryfall.io/large/front/9/9/991a1790-a3a2-4def-8848-cc698915a242.jpg?1782704744",
+    "img": "https://cards.scryfall.io/large/front/9/9/991a1790-a3a2-4def-8848-cc698915a242.jpg?1783926897",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "",
@@ -15600,11 +15603,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 176,
-    "superrank": 263,
+    "superrank": 262,
     "identity_rank": 42
   },
   "Prized Statue": {
-    "img": "https://cards.scryfall.io/large/front/5/8/58a49829-c354-4823-8cc1-a159fc46c0d7.jpg?1782701141",
+    "img": "https://cards.scryfall.io/large/front/5/8/58a49829-c354-4823-8cc1-a159fc46c0d7.jpg?1783922667",
     "date": "2022-06-10",
     "colors": [],
     "mana_cost": "{2}",
@@ -15619,11 +15622,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 344,
-    "superrank": 556,
+    "superrank": 555,
     "identity_rank": 67
   },
   "Professional Face-Breaker": {
-    "img": "https://cards.scryfall.io/large/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1782701593",
+    "img": "https://cards.scryfall.io/large/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1783923119",
     "date": "2022-04-29",
     "colors": [
       "R"
@@ -15648,7 +15651,7 @@ const cards =
     "identity_rank": 13
   },
   "Prosperous Thief": {
-    "img": "https://cards.scryfall.io/large/front/d/a/da3f683e-5a28-4ae7-b53b-851b957123ba.jpg?1782702282",
+    "img": "https://cards.scryfall.io/large/front/d/a/da3f683e-5a28-4ae7-b53b-851b957123ba.jpg?1783923897",
     "date": "2022-02-18",
     "colors": [
       "U"
@@ -15668,12 +15671,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 825,
-    "superrank": 840,
+    "rank": 827,
+    "superrank": 842,
     "identity_rank": 139
   },
   "Protean Hulk": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f85ac5a5-5e73-4404-a922-cf789632d8d7.jpg?1782730932",
+    "img": "https://cards.scryfall.io/large/front/f/8/f85ac5a5-5e73-4404-a922-cf789632d8d7.jpg?1783913215",
     "date": "2006-05-05",
     "colors": [
       "G"
@@ -15695,10 +15698,10 @@ const cards =
     "supercent": 7,
     "rank": 454,
     "superrank": 407,
-    "identity_rank": 44
+    "identity_rank": 45
   },
   "Proteus Staff": {
-    "img": "https://cards.scryfall.io/large/front/8/2/825889d4-a0ed-4950-a8b0-bfbc2a2d1ea0.jpg?1782729433",
+    "img": "https://cards.scryfall.io/large/front/8/2/825889d4-a0ed-4950-a8b0-bfbc2a2d1ea0.jpg?1783910576",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{3}",
@@ -15714,12 +15717,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 781,
-    "superrank": 810,
+    "rank": 783,
+    "superrank": 812,
     "identity_rank": 121
   },
   "Psychic Frog": {
-    "img": "https://cards.scryfall.io/large/front/4/9/495d344f-5659-400e-8b8f-ad293ccf6308.jpg?1782690994",
+    "img": "https://cards.scryfall.io/large/front/4/9/495d344f-5659-400e-8b8f-ad293ccf6308.jpg?1783911164",
     "date": "2024-06-14",
     "colors": [
       "B",
@@ -15741,12 +15744,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 556,
-    "superrank": 472,
+    "rank": 557,
+    "superrank": 471,
     "identity_rank": 11
   },
   "Pulsemage Advocate": {
-    "img": "https://cards.scryfall.io/large/front/0/d/0dce0e8f-9ad6-42b6-af61-c883613efc97.jpg?1782719265",
+    "img": "https://cards.scryfall.io/large/front/0/d/0dce0e8f-9ad6-42b6-af61-c883613efc97.jpg?1783945133",
     "date": "2002-05-27",
     "colors": [
       "W"
@@ -15766,12 +15769,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 866,
-    "superrank": 865,
+    "rank": 868,
+    "superrank": 867,
     "identity_rank": 89
   },
   "Putrid Imp": {
-    "img": "https://cards.scryfall.io/large/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.jpg?1782719299",
+    "img": "https://cards.scryfall.io/large/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.jpg?1783945153",
     "date": "2002-02-04",
     "colors": [
       "B"
@@ -15791,12 +15794,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 911,
-    "superrank": 890,
-    "identity_rank": 145
+    "rank": 912,
+    "superrank": 891,
+    "identity_rank": 146
   },
   "Pyretic Ritual": {
-    "img": "https://cards.scryfall.io/large/front/1/e/1e577638-a7ed-4bcc-90fb-0cffe87d5a28.jpg?1782715387",
+    "img": "https://cards.scryfall.io/large/front/1/e/1e577638-a7ed-4bcc-90fb-0cffe87d5a28.jpg?1783941802",
     "date": "2010-07-16",
     "colors": [
       "R"
@@ -15814,12 +15817,12 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 303,
-    "superrank": 299,
-    "identity_rank": 32
+    "rank": 301,
+    "superrank": 300,
+    "identity_rank": 31
   },
   "Pyrite Spellbomb": {
-    "img": "https://cards.scryfall.io/large/front/9/7/97b9bab9-12ee-4da5-9d53-d0b82d9279cd.jpg?1782718448",
+    "img": "https://cards.scryfall.io/large/front/9/7/97b9bab9-12ee-4da5-9d53-d0b82d9279cd.jpg?1783944506",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{1}",
@@ -15835,12 +15838,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 962,
-    "superrank": 922,
-    "identity_rank": 147
+    "rank": 963,
+    "superrank": 923,
+    "identity_rank": 148
   },
   "Pyroblast": {
-    "img": "https://cards.scryfall.io/large/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1782721674",
+    "img": "https://cards.scryfall.io/large/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1783947483",
     "date": "1995-06-03",
     "colors": [
       "R"
@@ -15863,7 +15866,7 @@ const cards =
     "identity_rank": 7
   },
   "Pyrokinesis": {
-    "img": "https://cards.scryfall.io/large/front/d/b/db2a5e85-6cbc-43c1-9362-4056ad017ef0.jpg?1782721505",
+    "img": "https://cards.scryfall.io/large/front/d/b/db2a5e85-6cbc-43c1-9362-4056ad017ef0.jpg?1783947176",
     "date": "1996-06-10",
     "colors": [
       "R"
@@ -15881,12 +15884,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 348,
+    "rank": 349,
     "superrank": 366,
     "identity_rank": 40
   },
   "Quirion Ranger": {
-    "img": "https://cards.scryfall.io/large/front/5/6/56efe72c-6d7f-44f6-ac74-01af9305c4b6.jpg?1782721289",
+    "img": "https://cards.scryfall.io/large/front/5/6/56efe72c-6d7f-44f6-ac74-01af9305c4b6.jpg?1783946981",
     "date": "1997-02-03",
     "colors": [
       "G"
@@ -15906,12 +15909,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 867,
-    "superrank": 691,
+    "rank": 869,
+    "superrank": 692,
     "identity_rank": 88
   },
   "Raffine, Scheming Seer": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bc85a0ae-aee8-4a19-a8fc-9f915d7c1499.jpg?1782701460",
+    "img": "https://cards.scryfall.io/large/front/b/c/bc85a0ae-aee8-4a19-a8fc-9f915d7c1499.jpg?1783923021",
     "date": "2022-04-29",
     "colors": [
       "B",
@@ -15936,12 +15939,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 708,
-    "superrank": 506,
+    "rank": 709,
+    "superrank": 505,
     "identity_rank": 1
   },
   "Ragavan, Nimble Pilferer": {
-    "img": "https://cards.scryfall.io/large/front/8/d/8d27e717-8bda-44dc-90b9-a6f7029c7b93.jpg?1782691753",
+    "img": "https://cards.scryfall.io/large/front/8/d/8d27e717-8bda-44dc-90b9-a6f7029c7b93.jpg?1783911469",
     "date": "2021-06-18",
     "colors": [
       "R"
@@ -15967,7 +15970,7 @@ const cards =
     "identity_rank": 4
   },
   "Rain of Filth": {
-    "img": "https://cards.scryfall.io/large/front/1/c/1cf07d5a-6618-48e2-a9f0-669b75bb6e85.jpg?1782720697",
+    "img": "https://cards.scryfall.io/large/front/1/c/1cf07d5a-6618-48e2-a9f0-669b75bb6e85.jpg?1783946340",
     "date": "1998-10-12",
     "colors": [
       "B"
@@ -15985,12 +15988,12 @@ const cards =
       "Instant"
     ],
     "supercent": 18,
-    "rank": 189,
-    "superrank": 224,
+    "rank": 191,
+    "superrank": 225,
     "identity_rank": 26
   },
   "Ramunap Ruins": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f82a7ea8-aa1c-4ff9-b1f7-06452492c788.jpg?1782741645",
+    "img": "https://cards.scryfall.io/large/front/f/8/f82a7ea8-aa1c-4ff9-b1f7-06452492c788.jpg?1783927700",
     "date": "2017-07-14",
     "colors": [],
     "mana_cost": "",
@@ -16006,12 +16009,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 669,
-    "superrank": 741,
+    "rank": 670,
+    "superrank": 742,
     "identity_rank": 111
   },
   "Ranger-Captain of Eos": {
-    "img": "https://cards.scryfall.io/large/front/a/b/ab9eef1c-8e8e-45e6-aaef-98ff569a1845.jpg?1782704766",
+    "img": "https://cards.scryfall.io/large/front/a/b/ab9eef1c-8e8e-45e6-aaef-98ff569a1845.jpg?1783926911",
     "date": "2019-06-14",
     "colors": [
       "W"
@@ -16031,12 +16034,12 @@ const cards =
       "Creature"
     ],
     "supercent": 83,
-    "rank": 50,
+    "rank": 51,
     "superrank": 44,
     "identity_rank": 4
   },
   "Rapid Hybridization": {
-    "img": "https://cards.scryfall.io/large/front/8/3/83557f55-f1ab-4995-9cc1-37be895a59db.jpg?1782714139",
+    "img": "https://cards.scryfall.io/large/front/8/3/83557f55-f1ab-4995-9cc1-37be895a59db.jpg?1783940136",
     "date": "2013-02-01",
     "colors": [
       "U"
@@ -16054,12 +16057,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 657,
-    "superrank": 735,
+    "rank": 658,
+    "superrank": 736,
     "identity_rank": 103
   },
   "Raucous Theater": {
-    "img": "https://cards.scryfall.io/large/front/b/5/b598c93e-dae1-4d71-a9e4-917abf76d2d0.jpg?1782693775",
+    "img": "https://cards.scryfall.io/large/front/b/5/b598c93e-dae1-4d71-a9e4-917abf76d2d0.jpg?1783912823",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -16077,11 +16080,11 @@ const cards =
     ],
     "supercent": 9,
     "rank": 467,
-    "superrank": 343,
+    "superrank": 342,
     "identity_rank": 9
   },
   "Razaketh, the Foulblooded": {
-    "img": "https://cards.scryfall.io/large/front/e/1/e14adff9-33cc-467e-b782-068854c5e7b7.jpg?1782710772",
+    "img": "https://cards.scryfall.io/large/front/e/1/e14adff9-33cc-467e-b782-068854c5e7b7.jpg?1783936036",
     "date": "2017-07-14",
     "colors": [
       "B"
@@ -16107,7 +16110,7 @@ const cards =
     "identity_rank": 35
   },
   "Razorkin Needlehead": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bc73b963-23c0-46d2-853a-34a8b463994e.jpg?1782689513",
+    "img": "https://cards.scryfall.io/large/front/b/c/bc73b963-23c0-46d2-853a-34a8b463994e.jpg?1783909463",
     "date": "2024-09-27",
     "colors": [
       "R"
@@ -16127,12 +16130,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 665,
-    "superrank": 739,
+    "rank": 666,
+    "superrank": 740,
     "identity_rank": 109
   },
   "Reanimate": {
-    "img": "https://cards.scryfall.io/large/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1782720949",
+    "img": "https://cards.scryfall.io/large/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1783946636",
     "date": "1997-10-14",
     "colors": [
       "B"
@@ -16155,7 +16158,7 @@ const cards =
     "identity_rank": 18
   },
   "Reckless Barbarian": {
-    "img": "https://cards.scryfall.io/large/front/c/9/c912e984-1d27-4da2-9733-d56e437bcf58.jpg?1782701230",
+    "img": "https://cards.scryfall.io/large/front/c/9/c912e984-1d27-4da2-9733-d56e437bcf58.jpg?1783922731",
     "date": "2022-06-10",
     "colors": [
       "R"
@@ -16175,12 +16178,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 478,
-    "superrank": 489,
+    "rank": 477,
+    "superrank": 488,
     "identity_rank": 76
   },
   "Recruiter of the Guard": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c6920d07-f406-4458-9446-209202c1d9ca.jpg?1782691028",
+    "img": "https://cards.scryfall.io/large/front/c/6/c6920d07-f406-4458-9446-209202c1d9ca.jpg?1783911176",
     "date": "2016-08-26",
     "colors": [
       "W"
@@ -16200,12 +16203,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 443,
-    "superrank": 402,
+    "rank": 444,
+    "superrank": 403,
     "identity_rank": 33
   },
   "Red Elemental Blast": {
-    "img": "https://cards.scryfall.io/large/front/7/7/776ad9be-3309-4f1d-9f27-6219d9477662.jpg?1782722939",
+    "img": "https://cards.scryfall.io/large/front/7/7/776ad9be-3309-4f1d-9f27-6219d9477662.jpg?1783948682",
     "date": "1993-08-05",
     "colors": [
       "R"
@@ -16228,7 +16231,7 @@ const cards =
     "identity_rank": 8
   },
   "Redirect Lightning": {
-    "img": "https://cards.scryfall.io/large/front/2/c/2c1c0fb2-cb74-46a1-9ce4-5274feab1146.jpg?1782684394",
+    "img": "https://cards.scryfall.io/large/front/2/c/2c1c0fb2-cb74-46a1-9ce4-5274feab1146.jpg?1783904884",
     "date": "2025-11-21",
     "colors": [
       "R"
@@ -16251,7 +16254,7 @@ const cards =
     "identity_rank": 12
   },
   "Rejuvenating Springs": {
-    "img": "https://cards.scryfall.io/large/front/5/8/5888b82e-79e0-4b8e-9c16-07dddc2bfeff.jpg?1782705632",
+    "img": "https://cards.scryfall.io/large/front/5/8/5888b82e-79e0-4b8e-9c16-07dddc2bfeff.jpg?1783928595",
     "date": "2020-11-20",
     "colors": [],
     "mana_cost": "",
@@ -16268,12 +16271,12 @@ const cards =
       "Land"
     ],
     "supercent": 17,
-    "rank": 355,
+    "rank": 357,
     "superrank": 233,
     "identity_rank": 6
   },
   "Relic of Legends": {
-    "img": "https://cards.scryfall.io/large/front/6/4/64a2809e-c441-416c-90ff-6fb1e246dff3.jpg?1782700411",
+    "img": "https://cards.scryfall.io/large/front/6/4/64a2809e-c441-416c-90ff-6fb1e246dff3.jpg?1783921269",
     "date": "2022-09-09",
     "colors": [],
     "mana_cost": "{3}",
@@ -16288,11 +16291,11 @@ const cards =
     ],
     "supercent": 10,
     "rank": 204,
-    "superrank": 327,
-    "identity_rank": 44
+    "superrank": 329,
+    "identity_rank": 45
   },
   "Rending Volley": {
-    "img": "https://cards.scryfall.io/large/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1782712718",
+    "img": "https://cards.scryfall.io/large/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1783938587",
     "date": "2015-03-27",
     "colors": [
       "R"
@@ -16310,12 +16313,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 651,
-    "superrank": 733,
+    "rank": 652,
+    "superrank": 734,
     "identity_rank": 108
   },
   "Resculpt": {
-    "img": "https://cards.scryfall.io/large/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1782704983",
+    "img": "https://cards.scryfall.io/large/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1783927375",
     "date": "2021-04-23",
     "colors": [
       "U"
@@ -16333,12 +16336,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 782,
-    "superrank": 811,
+    "rank": 784,
+    "superrank": 813,
     "identity_rank": 122
   },
   "Reshape": {
-    "img": "https://cards.scryfall.io/large/front/0/5/05a8d65d-0c6f-433d-a818-002c242a17e8.jpg?1782718406",
+    "img": "https://cards.scryfall.io/large/front/0/5/05a8d65d-0c6f-433d-a818-002c242a17e8.jpg?1783944447",
     "date": "2004-02-06",
     "colors": [
       "U"
@@ -16356,12 +16359,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 569,
-    "superrank": 626,
+    "rank": 570,
+    "superrank": 627,
     "identity_rank": 97
   },
   "Rest in Peace": {
-    "img": "https://cards.scryfall.io/large/front/e/8/e8baa00b-b27b-4e97-b834-61e54b0ba154.jpg?1782743362",
+    "img": "https://cards.scryfall.io/large/front/e/8/e8baa00b-b27b-4e97-b834-61e54b0ba154.jpg?1783929728",
     "date": "2012-10-05",
     "colors": [
       "W"
@@ -16379,12 +16382,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 787,
-    "superrank": 813,
+    "rank": 789,
+    "superrank": 815,
     "identity_rank": 79
   },
   "Retraction Helix": {
-    "img": "https://cards.scryfall.io/large/front/4/f/4fe8c0b9-fdf4-4fc0-aa7c-774546cdd792.jpg?1782713530",
+    "img": "https://cards.scryfall.io/large/front/4/f/4fe8c0b9-fdf4-4fc0-aa7c-774546cdd792.jpg?1783939566",
     "date": "2014-02-07",
     "colors": [
       "U"
@@ -16402,12 +16405,12 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 298,
-    "superrank": 341,
+    "rank": 296,
+    "superrank": 340,
     "identity_rank": 64
   },
   "Return the Favor": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a9cc02d1-799d-42aa-9bc2-4c05452b63b4.jpg?1782692034",
+    "img": "https://cards.scryfall.io/large/front/a/9/a9cc02d1-799d-42aa-9bc2-4c05452b63b4.jpg?1783911816",
     "date": "2024-04-19",
     "colors": [
       "R"
@@ -16425,12 +16428,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 381,
-    "superrank": 388,
-    "identity_rank": 59
+    "rank": 383,
+    "superrank": 389,
+    "identity_rank": 60
   },
   "Rev, Tithe Extractor": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8bf88010-799d-4217-8e79-308bec7ad2ff.jpg?1782688594",
+    "img": "https://cards.scryfall.io/large/front/8/b/8bf88010-799d-4217-8e79-308bec7ad2ff.jpg?1783908857",
     "date": "2024-11-15",
     "colors": [
       "B"
@@ -16451,12 +16454,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 799,
-    "superrank": 822,
-    "identity_rank": 124
+    "rank": 801,
+    "superrank": 824,
+    "identity_rank": 126
   },
   "Reverent Mantra": {
-    "img": "https://cards.scryfall.io/large/front/4/8/48364e19-a3ea-4980-925f-7918e57315f1.jpg?1782720349",
+    "img": "https://cards.scryfall.io/large/front/4/8/48364e19-a3ea-4980-925f-7918e57315f1.jpg?1783945974",
     "date": "1999-10-04",
     "colors": [
       "W"
@@ -16474,12 +16477,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 727,
-    "superrank": 775,
+    "rank": 728,
+    "superrank": 776,
     "identity_rank": 71
   },
   "Rhystic Study": {
-    "img": "https://cards.scryfall.io/large/front/3/3/3394cefd-a3c6-4917-8f46-234e441ecfb6.jpg?1782720146",
+    "img": "https://cards.scryfall.io/large/front/3/3/3394cefd-a3c6-4917-8f46-234e441ecfb6.jpg?1783945789",
     "date": "2000-06-05",
     "colors": [
       "U"
@@ -16502,7 +16505,7 @@ const cards =
     "identity_rank": 4
   },
   "Rings of Brighthearth": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fbfd3898-cb06-4bb9-9d52-b319e1fa2217.jpg?1782716286",
+    "img": "https://cards.scryfall.io/large/front/f/b/fbfd3898-cb06-4bb9-9d52-b319e1fa2217.jpg?1783942851",
     "date": "2007-10-12",
     "colors": [],
     "mana_cost": "{3}",
@@ -16516,12 +16519,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 580,
-    "superrank": 694,
+    "rank": 581,
+    "superrank": 695,
     "identity_rank": 116
   },
   "Rionya, Fire Dancer": {
-    "img": "https://cards.scryfall.io/large/front/b/1/b1e92b9c-4234-436d-a741-37c5e45859e5.jpg?1782705275",
+    "img": "https://cards.scryfall.io/large/front/b/1/b1e92b9c-4234-436d-a741-37c5e45859e5.jpg?1783927591",
     "date": "2021-04-23",
     "colors": [
       "R"
@@ -16542,12 +16545,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 349,
+    "rank": 350,
     "superrank": 367,
     "identity_rank": 41
   },
   "Rishkar, Peema Renegade": {
-    "img": "https://cards.scryfall.io/large/front/7/c/7cff0dc6-5455-4dea-940b-dff7fe88dc5d.jpg?1782711254",
+    "img": "https://cards.scryfall.io/large/front/7/c/7cff0dc6-5455-4dea-940b-dff7fe88dc5d.jpg?1783936739",
     "date": "2017-01-20",
     "colors": [
       "G"
@@ -16568,12 +16571,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 574,
-    "superrank": 430,
+    "rank": 575,
+    "superrank": 429,
     "identity_rank": 61
   },
   "Rite of Flame": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c062caf7-f0eb-44db-9f74-e6711a13fada.jpg?1782717036",
+    "img": "https://cards.scryfall.io/large/front/c/0/c062caf7-f0eb-44db-9f74-e6711a13fada.jpg?1783943336",
     "date": "2006-07-21",
     "colors": [
       "R"
@@ -16596,7 +16599,7 @@ const cards =
     "identity_rank": 5
   },
   "Riverpyre Verge": {
-    "img": "https://cards.scryfall.io/large/front/c/2/c21462ee-76d7-4910-9a0c-b470f96b8b51.jpg?1782687535",
+    "img": "https://cards.scryfall.io/large/front/c/2/c21462ee-76d7-4910-9a0c-b470f96b8b51.jpg?1783907767",
     "date": "2025-02-14",
     "colors": [],
     "mana_cost": "",
@@ -16614,11 +16617,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 926,
-    "superrank": 633,
+    "superrank": 634,
     "identity_rank": 12
   },
   "Roaming Throne": {
-    "img": "https://cards.scryfall.io/large/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1782694404",
+    "img": "https://cards.scryfall.io/large/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
     "date": "2023-11-17",
     "colors": [],
     "mana_cost": "{4}",
@@ -16636,11 +16639,11 @@ const cards =
     ],
     "supercent": 7,
     "rank": 270,
-    "superrank": 415,
+    "superrank": 414,
     "identity_rank": 52
   },
   "Rograkh, Son of Rohgahh": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c7e7c27a-47e4-47d1-90b3-88a936839cbc.jpg?1782705734",
+    "img": "https://cards.scryfall.io/large/front/c/7/c7e7c27a-47e4-47d1-90b3-88a936839cbc.jpg?1783928646",
     "date": "2020-11-20",
     "colors": [
       "R"
@@ -16661,12 +16664,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 943,
-    "superrank": 914,
-    "identity_rank": 140
+    "rank": 944,
+    "superrank": 915,
+    "identity_rank": 141
   },
   "Rolling Earthquake": {
-    "img": "https://cards.scryfall.io/large/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1782754998",
+    "img": "https://cards.scryfall.io/large/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1783946104",
     "date": "1999-05-01",
     "colors": [
       "R"
@@ -16684,12 +16687,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 762,
-    "superrank": 801,
+    "rank": 764,
+    "superrank": 803,
     "identity_rank": 118
   },
   "Root Maze": {
-    "img": "https://cards.scryfall.io/large/front/9/9/99a12b74-f191-4362-81ab-77590ae5e68f.jpg?1782720914",
+    "img": "https://cards.scryfall.io/large/front/9/9/99a12b74-f191-4362-81ab-77590ae5e68f.jpg?1783946612",
     "date": "1997-10-14",
     "colors": [
       "G"
@@ -16707,12 +16710,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 728,
-    "superrank": 665,
+    "rank": 729,
+    "superrank": 666,
     "identity_rank": 77
   },
   "Rosie Cotton of South Lane": {
-    "img": "https://cards.scryfall.io/large/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1782697238",
+    "img": "https://cards.scryfall.io/large/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
     "date": "2023-06-23",
     "colors": [
       "W"
@@ -16733,12 +16736,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 851,
-    "superrank": 859,
+    "rank": 853,
+    "superrank": 861,
     "identity_rank": 84
   },
   "Ruby Medallion": {
-    "img": "https://cards.scryfall.io/large/front/2/4/24cdb28b-85f3-41ae-b1f5-fac766b2dcd2.jpg?1782720893",
+    "img": "https://cards.scryfall.io/large/front/2/4/24cdb28b-85f3-41ae-b1f5-fac766b2dcd2.jpg?1783946602",
     "date": "1997-10-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -16752,12 +16755,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 963,
-    "superrank": 990,
+    "rank": 964,
+    "superrank": 991,
     "identity_rank": 168
   },
   "Ruby, Daring Tracker": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ffb5786b-6825-4ebf-a1e1-80011340adbb.jpg?1782696507",
+    "img": "https://cards.scryfall.io/large/front/f/f/ffb5786b-6825-4ebf-a1e1-80011340adbb.jpg?1783915069",
     "date": "2023-09-08",
     "colors": [
       "G",
@@ -16780,12 +16783,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 772,
-    "superrank": 399,
+    "rank": 774,
+    "superrank": 400,
     "identity_rank": 16
   },
   "Ruthless Technomancer": {
-    "img": "https://cards.scryfall.io/large/front/d/d/dddeb5cc-b535-4484-8a0e-ce32c4c09000.jpg?1782702421",
+    "img": "https://cards.scryfall.io/large/front/d/d/dddeb5cc-b535-4484-8a0e-ce32c4c09000.jpg?1783923986",
     "date": "2022-02-18",
     "colors": [
       "B"
@@ -16810,7 +16813,7 @@ const cards =
     "identity_rank": 48
   },
   "Sacred Foundry": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a9eb59ea-bddd-4d5f-96e8-0c1f0ce84c11.jpg?1782730846",
+    "img": "https://cards.scryfall.io/large/front/a/9/a9eb59ea-bddd-4d5f-96e8-0c1f0ce84c11.jpg?1783913178",
     "date": "2005-10-07",
     "colors": [],
     "mana_cost": "",
@@ -16832,7 +16835,7 @@ const cards =
     "identity_rank": 2
   },
   "Sacred Guide": {
-    "img": "https://cards.scryfall.io/large/front/7/f/7f10c37d-d25a-47d6-83b0-dbe0a9cfc938.jpg?1782720994",
+    "img": "https://cards.scryfall.io/large/front/7/f/7f10c37d-d25a-47d6-83b0-dbe0a9cfc938.jpg?1783946662",
     "date": "1997-10-14",
     "colors": [
       "W"
@@ -16852,12 +16855,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 839,
-    "superrank": 853,
+    "rank": 841,
+    "superrank": 855,
     "identity_rank": 82
   },
   "Sacrifice": {
-    "img": "https://cards.scryfall.io/large/front/1/2/12164aee-6a27-4246-8d15-2d6dd20d92e9.jpg?1782722960",
+    "img": "https://cards.scryfall.io/large/front/1/2/12164aee-6a27-4246-8d15-2d6dd20d92e9.jpg?1783948692",
     "date": "1993-08-05",
     "colors": [
       "B"
@@ -16875,12 +16878,12 @@ const cards =
       "Instant"
     ],
     "supercent": 18,
-    "rank": 184,
-    "superrank": 221,
+    "rank": 185,
+    "superrank": 222,
     "identity_rank": 25
   },
   "Saheeli Rai": {
-    "img": "https://cards.scryfall.io/large/front/9/4/94b38464-39cd-4ee6-b9bf-a0bc1e128d9a.jpg?1782711513",
+    "img": "https://cards.scryfall.io/large/front/9/4/94b38464-39cd-4ee6-b9bf-a0bc1e128d9a.jpg?1783937167",
     "date": "2016-09-30",
     "colors": [
       "R",
@@ -16901,12 +16904,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 4,
-    "rank": 773,
-    "superrank": 603,
+    "rank": 775,
+    "superrank": 604,
     "identity_rank": 10
   },
   "Sakashima's Student": {
-    "img": "https://cards.scryfall.io/large/front/8/c/8c3d4d71-c750-4146-80fb-7cfd2427c62f.jpg?1782752317",
+    "img": "https://cards.scryfall.io/large/front/8/c/8c3d4d71-c750-4146-80fb-7cfd2427c62f.jpg?1783940629",
     "date": "2012-06-01",
     "colors": [
       "U"
@@ -16926,12 +16929,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 564,
-    "superrank": 621,
+    "rank": 565,
+    "superrank": 622,
     "identity_rank": 94
   },
   "Samut, Vizier of Naktamun": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg?1782697377",
+    "img": "https://cards.scryfall.io/large/front/a/0/a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg?1783916508",
     "date": "2023-05-12",
     "colors": [
       "G",
@@ -16954,12 +16957,12 @@ const cards =
       "Creature"
     ],
     "supercent": 16,
-    "rank": 558,
-    "superrank": 245,
+    "rank": 559,
+    "superrank": 244,
     "identity_rank": 6
   },
   "Samwise Gamgee": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cd3ecb73-2720-4c1c-8f67-78983f16e584.jpg?1782701330",
+    "img": "https://cards.scryfall.io/large/front/c/d/cd3ecb73-2720-4c1c-8f67-78983f16e584.jpg?1783916202",
     "date": "2023-06-23",
     "colors": [
       "G",
@@ -16982,12 +16985,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 689,
-    "superrank": 500,
+    "rank": 690,
+    "superrank": 499,
     "identity_rank": 10
   },
   "Sanctum Prelate": {
-    "img": "https://cards.scryfall.io/large/front/1/d/1d95a7dd-2803-4164-8979-d7e8e8085ca2.jpg?1782711793",
+    "img": "https://cards.scryfall.io/large/front/1/d/1d95a7dd-2803-4164-8979-d7e8e8085ca2.jpg?1783937362",
     "date": "2016-08-26",
     "colors": [
       "W"
@@ -17007,12 +17010,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 603,
-    "superrank": 541,
+    "rank": 604,
+    "superrank": 540,
     "identity_rank": 46
   },
   "Sanctum Weaver": {
-    "img": "https://cards.scryfall.io/large/front/4/d/4d42e22d-f60e-40c5-b069-5e1708f3bebc.jpg?1782704632",
+    "img": "https://cards.scryfall.io/large/front/4/d/4d42e22d-f60e-40c5-b069-5e1708f3bebc.jpg?1783926826",
     "date": "2021-06-18",
     "colors": [
       "G"
@@ -17033,12 +17036,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 729,
-    "superrank": 666,
+    "rank": 730,
+    "superrank": 667,
     "identity_rank": 78
   },
   "Sandstone Needle": {
-    "img": "https://cards.scryfall.io/large/front/8/2/82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b.jpg?1782720234",
+    "img": "https://cards.scryfall.io/large/front/8/2/82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b.jpg?1783945904",
     "date": "1999-10-04",
     "colors": [],
     "mana_cost": "",
@@ -17054,12 +17057,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 964,
-    "superrank": 923,
-    "identity_rank": 148
+    "rank": 965,
+    "superrank": 924,
+    "identity_rank": 149
   },
   "Saprazzan Skerry": {
-    "img": "https://cards.scryfall.io/large/front/0/0/006871fd-2641-42cb-a2ac-a33d05fc5a35.jpg?1782720234",
+    "img": "https://cards.scryfall.io/large/front/0/0/006871fd-2641-42cb-a2ac-a33d05fc5a35.jpg?1783945904",
     "date": "1999-10-04",
     "colors": [],
     "mana_cost": "",
@@ -17075,12 +17078,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 794,
-    "superrank": 818,
+    "rank": 796,
+    "superrank": 820,
     "identity_rank": 128
   },
   "Savannah": {
-    "img": "https://cards.scryfall.io/large/front/9/4/94f7e24c-2546-41b6-81ad-5e920b07e64e.jpg?1782722887",
+    "img": "https://cards.scryfall.io/large/front/9/4/94f7e24c-2546-41b6-81ad-5e920b07e64e.jpg?1783948659",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -17102,7 +17105,7 @@ const cards =
     "identity_rank": 1
   },
   "Saw in Half": {
-    "img": "https://cards.scryfall.io/large/front/1/d/1d727549-842c-4105-b6e0-b25c945359df.jpg?1782736719",
+    "img": "https://cards.scryfall.io/large/front/1/d/1d727549-842c-4105-b6e0-b25c945359df.jpg?1783920408",
     "date": "2022-10-07",
     "colors": [
       "B"
@@ -17121,11 +17124,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 219,
-    "superrank": 270,
+    "superrank": 269,
     "identity_rank": 31
   },
   "Scalding Tarn": {
-    "img": "https://cards.scryfall.io/large/front/1/7/17c6ba55-2470-4dde-a7fa-137a60716c96.jpg?1782704480",
+    "img": "https://cards.scryfall.io/large/front/1/7/17c6ba55-2470-4dde-a7fa-137a60716c96.jpg?1783926718",
     "date": "2009-10-02",
     "colors": [],
     "mana_cost": "",
@@ -17144,7 +17147,7 @@ const cards =
     "identity_rank": 14
   },
   "Scheming Symmetry": {
-    "img": "https://cards.scryfall.io/large/front/0/1/01acc50b-856d-442d-9880-1a892b40643b.jpg?1782708314",
+    "img": "https://cards.scryfall.io/large/front/0/1/01acc50b-856d-442d-9880-1a892b40643b.jpg?1783932988",
     "date": "2019-07-12",
     "colors": [
       "B"
@@ -17156,18 +17159,18 @@ const cards =
       "B"
     ],
     "name": "Scheming Symmetry",
-    "count": 4,
-    "percent": 6,
+    "count": 3,
+    "percent": 4,
     "types": [
       "Sorcery"
     ],
-    "supercent": 9,
-    "rank": 294,
-    "superrank": 338,
-    "identity_rank": 40
+    "supercent": 6,
+    "rank": 339,
+    "superrank": 431,
+    "identity_rank": 46
   },
   "Scholar of the Ages": {
-    "img": "https://cards.scryfall.io/large/front/8/0/80137c9a-ea56-4dc7-a503-43fe192c8fce.jpg?1782708340",
+    "img": "https://cards.scryfall.io/large/front/8/0/80137c9a-ea56-4dc7-a503-43fe192c8fce.jpg?1783933005",
     "date": "2019-07-12",
     "colors": [
       "U"
@@ -17187,12 +17190,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 881,
-    "superrank": 875,
+    "rank": 882,
+    "superrank": 876,
     "identity_rank": 151
   },
   "Scholar of the Lost Trove": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aa254a86-3c30-408d-9c14-befd472f9740.jpg?1782706760",
+    "img": "https://cards.scryfall.io/large/front/a/a/aa254a86-3c30-408d-9c14-befd472f9740.jpg?1783930505",
     "date": "2020-07-17",
     "colors": [
       "U"
@@ -17212,12 +17215,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 677,
-    "superrank": 747,
+    "rank": 678,
+    "superrank": 748,
     "identity_rank": 107
   },
   "Scorched Rusalka": {
-    "img": "https://cards.scryfall.io/large/front/9/f/9f955164-ddb8-484c-a063-967621abce87.jpg?1782717295",
+    "img": "https://cards.scryfall.io/large/front/9/f/9f955164-ddb8-484c-a063-967621abce87.jpg?1783943499",
     "date": "2006-02-03",
     "colors": [
       "R"
@@ -17237,12 +17240,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 936,
-    "superrank": 909,
-    "identity_rank": 136
+    "rank": 937,
+    "superrank": 910,
+    "identity_rank": 137
   },
   "Scour for Scrap": {
-    "img": "https://cards.scryfall.io/large/front/5/1/517d1b00-7ec4-489a-ac52-657da24a6379.jpg?1782685536",
+    "img": "https://cards.scryfall.io/large/front/5/1/517d1b00-7ec4-489a-ac52-657da24a6379.jpg?1783905976",
     "date": "2025-08-01",
     "colors": [
       "U"
@@ -17260,12 +17263,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 894,
-    "superrank": 884,
+    "rank": 895,
+    "superrank": 885,
     "identity_rank": 160
   },
   "Scroll Rack": {
-    "img": "https://cards.scryfall.io/large/front/5/f/5f7346d8-1aef-4618-88e6-74bd8865e0f3.jpg?1782720892",
+    "img": "https://cards.scryfall.io/large/front/5/f/5f7346d8-1aef-4618-88e6-74bd8865e0f3.jpg?1783946601",
     "date": "1997-10-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -17279,12 +17282,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 844,
-    "superrank": 970,
+    "rank": 846,
+    "superrank": 971,
     "identity_rank": 148
   },
   "Scroll of Fate": {
-    "img": "https://cards.scryfall.io/large/front/a/2/a25ffab0-1119-4eca-9abe-077a699f19d0.jpg?1782708115",
+    "img": "https://cards.scryfall.io/large/front/a/2/a25ffab0-1119-4eca-9abe-077a699f19d0.jpg?1783932792",
     "date": "2019-08-23",
     "colors": [],
     "mana_cost": "{3}",
@@ -17298,12 +17301,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 868,
-    "superrank": 973,
+    "rank": 870,
+    "superrank": 974,
     "identity_rank": 151
   },
   "Scrubland": {
-    "img": "https://cards.scryfall.io/large/front/b/e/bebe39d4-21fb-46a4-a1ec-b97102e46c15.jpg?1782722887",
+    "img": "https://cards.scryfall.io/large/front/b/e/bebe39d4-21fb-46a4-a1ec-b97102e46c15.jpg?1783948660",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -17325,7 +17328,7 @@ const cards =
     "identity_rank": 1
   },
   "Scryb Ranger": {
-    "img": "https://cards.scryfall.io/large/front/3/a/3aacabde-f5ec-4519-895d-17f5e48746ee.jpg?1782716845",
+    "img": "https://cards.scryfall.io/large/front/3/a/3aacabde-f5ec-4519-895d-17f5e48746ee.jpg?1783943209",
     "date": "2006-10-06",
     "colors": [
       "G"
@@ -17345,12 +17348,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 869,
-    "superrank": 692,
+    "rank": 871,
+    "superrank": 693,
     "identity_rank": 89
   },
   "Sculpting Steel": {
-    "img": "https://cards.scryfall.io/large/front/e/9/e9bd8439-e1c5-4134-919b-8ce3d58a5b3d.jpg?1782699509",
+    "img": "https://cards.scryfall.io/large/front/e/9/e9bd8439-e1c5-4134-919b-8ce3d58a5b3d.jpg?1783919736",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{3}",
@@ -17364,12 +17367,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 6,
-    "rank": 316,
+    "rank": 313,
     "superrank": 442,
     "identity_rank": 62
   },
   "Scuzzback Scrounger": {
-    "img": "https://cards.scryfall.io/large/front/9/3/9377b69c-9677-4865-a0c4-af0bfd7ebfd5.jpg?1782683862",
+    "img": "https://cards.scryfall.io/large/front/9/3/9377b69c-9677-4865-a0c4-af0bfd7ebfd5.jpg?1783904375",
     "date": "2026-01-23",
     "colors": [
       "R"
@@ -17389,12 +17392,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 995,
-    "superrank": 943,
-    "identity_rank": 158
+    "rank": 996,
+    "superrank": 944,
+    "identity_rank": 159
   },
   "Sea Gate Restoration": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a910d400-8053-4c90-82e7-bf3e22e81633.jpg?1782706135",
+    "img": "https://cards.scryfall.io/large/front/a/9/a910d400-8053-4c90-82e7-bf3e22e81633.jpg?1783929280",
     "date": "2020-09-25",
     "cmc": 7,
     "type_line": "Sorcery // Land",
@@ -17410,12 +17413,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1014,
-    "superrank": 1014,
-    "identity_rank": 170
+    "rank": 1015,
+    "superrank": 1015,
+    "identity_rank": 169
   },
   "Sea of Clouds": {
-    "img": "https://cards.scryfall.io/large/front/0/8/080aebe8-535e-4632-b733-8aba98abff22.jpg?1782709983",
+    "img": "https://cards.scryfall.io/large/front/0/8/080aebe8-535e-4632-b733-8aba98abff22.jpg?1783934847",
     "date": "2018-06-08",
     "colors": [],
     "mana_cost": "",
@@ -17433,11 +17436,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 281,
-    "superrank": 205,
+    "superrank": 206,
     "identity_rank": 5
   },
   "Seat of the Synod": {
-    "img": "https://cards.scryfall.io/large/front/4/2/4277ebca-1c8d-4066-969a-28adf6445b3e.jpg?1782699372",
+    "img": "https://cards.scryfall.io/large/front/4/2/4277ebca-1c8d-4066-969a-28adf6445b3e.jpg?1783919643",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "",
@@ -17454,12 +17457,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 435,
-    "superrank": 470,
+    "rank": 436,
+    "superrank": 469,
     "identity_rank": 74
   },
   "Seedborn Muse": {
-    "img": "https://cards.scryfall.io/large/front/3/5/35b13321-e429-4497-aef2-93a9df421d38.jpg?1782719016",
+    "img": "https://cards.scryfall.io/large/front/3/5/35b13321-e429-4497-aef2-93a9df421d38.jpg?1783944897",
     "date": "2003-02-03",
     "colors": [
       "G"
@@ -17480,11 +17483,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 269,
-    "superrank": 214,
+    "superrank": 215,
     "identity_rank": 32
   },
   "Seething Song": {
-    "img": "https://cards.scryfall.io/large/front/9/2/9213d580-7953-455f-abbe-99d3db2705cf.jpg?1782718508",
+    "img": "https://cards.scryfall.io/large/front/9/2/9213d580-7953-455f-abbe-99d3db2705cf.jpg?1783944538",
     "date": "2003-10-02",
     "colors": [
       "R"
@@ -17502,12 +17505,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 350,
+    "rank": 351,
     "superrank": 368,
     "identity_rank": 42
   },
   "Seize the Spotlight": {
-    "img": "https://cards.scryfall.io/large/front/7/1/71073a08-2e66-4410-8b59-3bbabac913fe.jpg?1782701857",
+    "img": "https://cards.scryfall.io/large/front/7/1/71073a08-2e66-4410-8b59-3bbabac913fe.jpg?1783923313",
     "date": "2022-04-29",
     "colors": [
       "R"
@@ -17525,12 +17528,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 805,
-    "superrank": 826,
+    "rank": 807,
+    "superrank": 828,
     "identity_rank": 119
   },
   "Selvala, Heart of the Wilds": {
-    "img": "https://cards.scryfall.io/large/front/9/9/99a3e619-fbdb-406c-9f21-eb582cb878c0.jpg?1782711762",
+    "img": "https://cards.scryfall.io/large/front/9/9/99a3e619-fbdb-406c-9f21-eb582cb878c0.jpg?1783937342",
     "date": "2016-08-26",
     "colors": [
       "G"
@@ -17551,12 +17554,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 544,
-    "superrank": 423,
+    "rank": 545,
+    "superrank": 422,
     "identity_rank": 56
   },
   "Sensei's Divining Top": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f421a21a-763f-479b-bcc3-2abae29098d7.jpg?1782729364",
+    "img": "https://cards.scryfall.io/large/front/f/4/f421a21a-763f-479b-bcc3-2abae29098d7.jpg?1783910550",
     "date": "2004-10-01",
     "colors": [],
     "mana_cost": "{1}",
@@ -17564,18 +17567,18 @@ const cards =
     "type_line": "Artifact",
     "color_identity": [],
     "name": "Sensei's Divining Top",
-    "count": 7,
-    "percent": 10,
+    "count": 6,
+    "percent": 9,
     "types": [
       "Artifact"
     ],
-    "supercent": 10,
-    "rank": 213,
-    "superrank": 332,
-    "identity_rank": 47
+    "supercent": 9,
+    "rank": 240,
+    "superrank": 351,
+    "identity_rank": 50
   },
   "Serra Ascendant": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fb519463-bff8-455b-840e-e1bc606b5391.jpg?1783872752",
+    "img": "https://cards.scryfall.io/large/front/f/b/fb519463-bff8-455b-840e-e1bc606b5391.jpg?1783924720",
     "date": "2010-07-16",
     "colors": [
       "W"
@@ -17595,12 +17598,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 604,
-    "superrank": 542,
+    "rank": 605,
+    "superrank": 541,
     "identity_rank": 47
   },
   "Serra's Sanctum": {
-    "img": "https://cards.scryfall.io/large/front/f/7/f7a18130-dbaa-4657-a885-3a96a985935a.jpg?1782720619",
+    "img": "https://cards.scryfall.io/large/front/f/7/f7a18130-dbaa-4657-a885-3a96a985935a.jpg?1783946298",
     "date": "1998-10-12",
     "colors": [],
     "mana_cost": "",
@@ -17617,12 +17620,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 730,
-    "superrank": 776,
+    "rank": 731,
+    "superrank": 777,
     "identity_rank": 72
   },
   "Sevinne's Reclamation": {
-    "img": "https://cards.scryfall.io/large/front/0/2/02ec5dc4-a40d-41d4-ba50-47c494632037.jpg?1782735143",
+    "img": "https://cards.scryfall.io/large/front/0/2/02ec5dc4-a40d-41d4-ba50-47c494632037.jpg?1783918393",
     "date": "2019-08-23",
     "colors": [
       "W"
@@ -17645,7 +17648,7 @@ const cards =
     "identity_rank": 9
   },
   "Sewer-veillance Cam": {
-    "img": "https://cards.scryfall.io/large/front/a/b/ab47a37b-b66d-4f70-9bf0-4d5ed6b518f3.jpg?1782683705",
+    "img": "https://cards.scryfall.io/large/front/a/b/ab47a37b-b66d-4f70-9bf0-4d5ed6b518f3.jpg?1783904112",
     "date": "2026-03-06",
     "colors": [
       "U"
@@ -17663,12 +17666,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 579,
-    "superrank": 630,
+    "rank": 580,
+    "superrank": 631,
     "identity_rank": 99
   },
   "Shadow of Mortality": {
-    "img": "https://cards.scryfall.io/large/front/7/2/72a05539-ec37-46b4-92f3-feda5f02ddb3.jpg?1782701488",
+    "img": "https://cards.scryfall.io/large/front/7/2/72a05539-ec37-46b4-92f3-feda5f02ddb3.jpg?1783923040",
     "date": "2022-04-29",
     "colors": [
       "B"
@@ -17688,12 +17691,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 826,
-    "superrank": 841,
-    "identity_rank": 131
+    "rank": 828,
+    "superrank": 843,
+    "identity_rank": 133
   },
   "Shadowy Backstreet": {
-    "img": "https://cards.scryfall.io/large/front/6/9/69c1b656-1d67-499c-bf0f-417682a86c7d.jpg?1782693775",
+    "img": "https://cards.scryfall.io/large/front/6/9/69c1b656-1d67-499c-bf0f-417682a86c7d.jpg?1783912827",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -17715,7 +17718,7 @@ const cards =
     "identity_rank": 5
   },
   "Shallow Grave": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d5c782cc-c951-4c6f-a93f-774ae6c1c214.jpg?1782721420",
+    "img": "https://cards.scryfall.io/large/front/d/5/d5c782cc-c951-4c6f-a93f-774ae6c1c214.jpg?1783947088",
     "date": "1996-10-08",
     "colors": [
       "B"
@@ -17738,7 +17741,7 @@ const cards =
     "identity_rank": 38
   },
   "Shang-Chi, Master of Kung Fu": {
-    "img": "https://cards.scryfall.io/large/front/b/3/b367d034-ae08-4b08-b090-39a6d4f79dc2.jpg?1782989773",
+    "img": "https://cards.scryfall.io/large/front/b/3/b367d034-ae08-4b08-b090-39a6d4f79dc2.jpg?1783902836",
     "date": "2026-06-26",
     "colors": [
       "G"
@@ -17759,12 +17762,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 568,
-    "superrank": 426,
+    "rank": 569,
+    "superrank": 425,
     "identity_rank": 57
   },
   "Shatterskull Smashing": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bc7239ea-f8aa-4a6f-87bd-c35359635673.jpg?1782706263",
+    "img": "https://cards.scryfall.io/large/front/b/c/bc7239ea-f8aa-4a6f-87bd-c35359635673.jpg?1783929355",
     "date": "2020-09-25",
     "cmc": 2,
     "type_line": "Sorcery // Land",
@@ -17780,12 +17783,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1006,
-    "superrank": 1006,
-    "identity_rank": 161
+    "rank": 1007,
+    "superrank": 1007,
+    "identity_rank": 162
   },
   "Sheltered by Ghosts": {
-    "img": "https://cards.scryfall.io/large/front/3/8/389f3f7b-be40-4a2d-b5cc-28471a577981.jpg?1782689622",
+    "img": "https://cards.scryfall.io/large/front/3/8/389f3f7b-be40-4a2d-b5cc-28471a577981.jpg?1783909504",
     "date": "2024-09-27",
     "colors": [
       "W"
@@ -17803,12 +17806,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 731,
-    "superrank": 777,
+    "rank": 732,
+    "superrank": 778,
     "identity_rank": 73
   },
   "Sheoldred, the Apocalypse": {
-    "img": "https://cards.scryfall.io/large/front/f/c/fc5be7df-16e0-494c-b960-19fd64d57b35.jpg?1782700377",
+    "img": "https://cards.scryfall.io/large/front/f/c/fc5be7df-16e0-494c-b960-19fd64d57b35.jpg?1783921241",
     "date": "2022-09-09",
     "colors": [
       "B"
@@ -17829,12 +17832,12 @@ const cards =
       "Creature"
     ],
     "supercent": 13,
-    "rank": 232,
-    "superrank": 277,
+    "rank": 231,
+    "superrank": 276,
     "identity_rank": 32
   },
   "Shield Mate": {
-    "img": "https://cards.scryfall.io/large/front/b/4/b49261bb-66b5-4226-9001-02d045fbcbce.jpg?1782720810",
+    "img": "https://cards.scryfall.io/large/front/b/4/b49261bb-66b5-4226-9001-02d045fbcbce.jpg?1783946530",
     "date": "1998-06-15",
     "colors": [
       "W"
@@ -17854,12 +17857,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 852,
-    "superrank": 860,
+    "rank": 854,
+    "superrank": 862,
     "identity_rank": 85
   },
   "Shifting Woodland": {
-    "img": "https://cards.scryfall.io/large/front/8/9/890e97b5-6750-4fae-8481-1244e311da7e.jpg?1782691061",
+    "img": "https://cards.scryfall.io/large/front/8/9/890e97b5-6750-4fae-8481-1244e311da7e.jpg?1783911190",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "",
@@ -17869,18 +17872,18 @@ const cards =
       "G"
     ],
     "name": "Shifting Woodland",
-    "count": 7,
-    "percent": 10,
+    "count": 8,
+    "percent": 12,
     "types": [
       "Land"
     ],
-    "supercent": 26,
-    "rank": 198,
-    "superrank": 169,
-    "identity_rank": 20
+    "supercent": 30,
+    "rank": 179,
+    "superrank": 157,
+    "identity_rank": 18
   },
   "Shinka, the Bloodsoaked Keep": {
-    "img": "https://cards.scryfall.io/large/front/d/2/d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5.jpg?1782718141",
+    "img": "https://cards.scryfall.io/large/front/d/2/d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5.jpg?1783944272",
     "date": "2004-10-01",
     "colors": [],
     "mana_cost": "",
@@ -17897,12 +17900,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 382,
-    "superrank": 389,
-    "identity_rank": 60
+    "rank": 384,
+    "superrank": 390,
+    "identity_rank": 61
   },
   "Shivan Reef": {
-    "img": "https://cards.scryfall.io/large/front/c/3/c3403143-2b4e-4408-b138-c856bbc1e9a5.jpg?1782719459",
+    "img": "https://cards.scryfall.io/large/front/c/3/c3403143-2b4e-4408-b138-c856bbc1e9a5.jpg?1783945322",
     "date": "2001-06-04",
     "colors": [],
     "mana_cost": "",
@@ -17919,12 +17922,12 @@ const cards =
       "Land"
     ],
     "supercent": 14,
-    "rank": 441,
-    "superrank": 267,
+    "rank": 442,
+    "superrank": 265,
     "identity_rank": 8
   },
   "Shizo, Death's Storehouse": {
-    "img": "https://cards.scryfall.io/large/front/2/d/2de9a046-3db1-436e-b666-ba96e2e8c5db.jpg?1782718141",
+    "img": "https://cards.scryfall.io/large/front/2/d/2de9a046-3db1-436e-b666-ba96e2e8c5db.jpg?1783944273",
     "date": "2004-10-01",
     "colors": [],
     "mana_cost": "",
@@ -17941,12 +17944,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 423,
-    "superrank": 464,
-    "identity_rank": 64
+    "rank": 424,
+    "superrank": 463,
+    "identity_rank": 63
   },
   "Shrouded Lore": {
-    "img": "https://cards.scryfall.io/large/front/a/2/a26bf956-90eb-4221-a8e0-c8414d819072.jpg?1782716762",
+    "img": "https://cards.scryfall.io/large/front/a/2/a26bf956-90eb-4221-a8e0-c8414d819072.jpg?1783943150",
     "date": "2007-02-02",
     "colors": [
       "B"
@@ -17964,12 +17967,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 758,
-    "superrank": 797,
-    "identity_rank": 120
+    "rank": 760,
+    "superrank": 799,
+    "identity_rank": 122
   },
   "Sidisi, Undead Vizier": {
-    "img": "https://cards.scryfall.io/large/front/6/e/6ea5dbba-6114-4d97-9363-817ab9e896d3.jpg?1782712729",
+    "img": "https://cards.scryfall.io/large/front/6/e/6ea5dbba-6114-4d97-9363-817ab9e896d3.jpg?1783938593",
     "date": "2015-03-27",
     "colors": [
       "B"
@@ -17990,12 +17993,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 759,
-    "superrank": 798,
-    "identity_rank": 121
+    "rank": 761,
+    "superrank": 800,
+    "identity_rank": 123
   },
   "Sigarda, Font of Blessings": {
-    "img": "https://cards.scryfall.io/large/front/d/e/dedfd30b-24eb-4b2c-a1de-3f7e1f2a5cb2.jpg?1782697260",
+    "img": "https://cards.scryfall.io/large/front/d/e/dedfd30b-24eb-4b2c-a1de-3f7e1f2a5cb2.jpg?1783916415",
     "date": "2023-05-12",
     "colors": [
       "G",
@@ -18018,12 +18021,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 732,
-    "superrank": 511,
+    "rank": 733,
+    "superrank": 510,
     "identity_rank": 14
   },
   "Signal Pest": {
-    "img": "https://cards.scryfall.io/large/front/b/e/be065962-f2ed-4ab9-be6b-bfc66d63ff4e.jpg?1782715200",
+    "img": "https://cards.scryfall.io/large/front/b/e/be065962-f2ed-4ab9-be6b-bfc66d63ff4e.jpg?1783941363",
     "date": "2011-02-04",
     "colors": [],
     "mana_cost": "{1}",
@@ -18040,12 +18043,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 605,
-    "superrank": 708,
+    "rank": 606,
+    "superrank": 709,
     "identity_rank": 122
   },
   "Silence": {
-    "img": "https://cards.scryfall.io/large/front/d/9/d93c1860-a27e-426c-9fbb-3bd20ead1afc.jpg?1782741735",
+    "img": "https://cards.scryfall.io/large/front/d/9/d93c1860-a27e-426c-9fbb-3bd20ead1afc.jpg?1783927741",
     "date": "2009-07-17",
     "colors": [
       "W"
@@ -18068,7 +18071,7 @@ const cards =
     "identity_rank": 3
   },
   "Silver-Fur Master": {
-    "img": "https://cards.scryfall.io/large/front/c/a/cacc36d9-4c4b-43b2-a8b4-d265deb1e6b2.jpg?1782702178",
+    "img": "https://cards.scryfall.io/large/front/c/a/cacc36d9-4c4b-43b2-a8b4-d265deb1e6b2.jpg?1783923831",
     "date": "2022-02-18",
     "colors": [
       "B",
@@ -18090,12 +18093,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 827,
-    "superrank": 682,
+    "rank": 829,
+    "superrank": 683,
     "identity_rank": 19
   },
   "Simian Spirit Guide": {
-    "img": "https://cards.scryfall.io/large/front/5/d/5d7f701c-dcdc-4067-8d00-b4b7aadee9ba.jpg?1782716748",
+    "img": "https://cards.scryfall.io/large/front/5/d/5d7f701c-dcdc-4067-8d00-b4b7aadee9ba.jpg?1783943142",
     "date": "2007-02-02",
     "colors": [
       "R"
@@ -18115,12 +18118,12 @@ const cards =
       "Creature"
     ],
     "supercent": 85,
-    "rank": 51,
+    "rank": 52,
     "superrank": 41,
     "identity_rank": 2
   },
   "Sink into Stupor": {
-    "img": "https://cards.scryfall.io/large/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1782691170",
+    "img": "https://cards.scryfall.io/large/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
     "date": "2024-06-14",
     "cmc": 3,
     "type_line": "Instant // Land",
@@ -18136,12 +18139,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1003,
-    "superrank": 1003,
-    "identity_rank": 169
+    "rank": 1004,
+    "superrank": 1004,
+    "identity_rank": 168
   },
   "Siren Stormtamer": {
-    "img": "https://cards.scryfall.io/large/front/7/2/72f7375c-2d9b-4738-b539-00e1949980e7.jpg?1782710452",
+    "img": "https://cards.scryfall.io/large/front/7/2/72f7375c-2d9b-4738-b539-00e1949980e7.jpg?1783935772",
     "date": "2017-09-29",
     "colors": [
       "U"
@@ -18161,12 +18164,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 702,
-    "superrank": 759,
+    "rank": 703,
+    "superrank": 760,
     "identity_rank": 111
   },
   "Six": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de4ff685-8694-4939-8f92-d91bb7ae5b76.jpg?1782690996",
+    "img": "https://cards.scryfall.io/large/front/d/e/de4ff685-8694-4939-8f92-d91bb7ae5b76.jpg?1783911166",
     "date": "2024-06-14",
     "colors": [
       "G"
@@ -18187,12 +18190,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 504,
-    "superrank": 416,
+    "rank": 503,
+    "superrank": 415,
     "identity_rank": 51
   },
   "Skirge Familiar": {
-    "img": "https://cards.scryfall.io/large/front/9/3/935ee538-3ea1-4a80-bb8f-01d562f63b5d.jpg?1782720695",
+    "img": "https://cards.scryfall.io/large/front/9/3/935ee538-3ea1-4a80-bb8f-01d562f63b5d.jpg?1783946338",
     "date": "1998-10-12",
     "colors": [
       "B"
@@ -18212,12 +18215,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 424,
-    "superrank": 465,
-    "identity_rank": 65
+    "rank": 425,
+    "superrank": 464,
+    "identity_rank": 64
   },
   "Skirk Prospector": {
-    "img": "https://cards.scryfall.io/large/front/e/b/eb545dcd-3a7a-46a7-9c35-d28faebc6d17.jpg?1782719121",
+    "img": "https://cards.scryfall.io/large/front/e/b/eb545dcd-3a7a-46a7-9c35-d28faebc6d17.jpg?1783945049",
     "date": "2002-10-07",
     "colors": [
       "R"
@@ -18238,11 +18241,11 @@ const cards =
     ],
     "supercent": 5,
     "rank": 468,
-    "superrank": 483,
+    "superrank": 482,
     "identity_rank": 70
   },
   "Skrelv, Defector Mite": {
-    "img": "https://cards.scryfall.io/large/front/6/0/60b565da-a49b-479c-b0c4-8ff3dd20cc0b.jpg?1782698405",
+    "img": "https://cards.scryfall.io/large/front/6/0/60b565da-a49b-479c-b0c4-8ff3dd20cc0b.jpg?1783918072",
     "date": "2023-02-10",
     "colors": [
       "W"
@@ -18264,12 +18267,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 606,
-    "superrank": 543,
+    "rank": 607,
+    "superrank": 542,
     "identity_rank": 48
   },
   "Skullclamp": {
-    "img": "https://cards.scryfall.io/large/front/3/8/3865d44e-7207-4440-9db4-627531979852.jpg?1782699397",
+    "img": "https://cards.scryfall.io/large/front/3/8/3865d44e-7207-4440-9db4-627531979852.jpg?1783919658",
     "date": "2004-02-06",
     "colors": [],
     "mana_cost": "{1}",
@@ -18283,12 +18286,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 546,
-    "superrank": 676,
+    "rank": 547,
+    "superrank": 677,
     "identity_rank": 112
   },
   "Skullsnatcher": {
-    "img": "https://cards.scryfall.io/large/front/6/c/6cb76fa1-a930-468d-bfd4-dd06c2a9fe9e.jpg?1782718099",
+    "img": "https://cards.scryfall.io/large/front/6/c/6cb76fa1-a930-468d-bfd4-dd06c2a9fe9e.jpg?1783944195",
     "date": "2005-02-04",
     "colors": [
       "B"
@@ -18308,12 +18311,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 828,
-    "superrank": 842,
-    "identity_rank": 132
+    "rank": 830,
+    "superrank": 844,
+    "identity_rank": 134
   },
   "Skybind": {
-    "img": "https://cards.scryfall.io/large/front/9/1/91e3117a-0955-47fc-81c0-7a662c8c487f.jpg?1782713437",
+    "img": "https://cards.scryfall.io/large/front/9/1/91e3117a-0955-47fc-81c0-7a662c8c487f.jpg?1783939455",
     "date": "2014-05-02",
     "colors": [
       "W"
@@ -18331,12 +18334,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 733,
-    "superrank": 778,
+    "rank": 734,
+    "superrank": 779,
     "identity_rank": 74
   },
   "Skyclave Apparition": {
-    "img": "https://cards.scryfall.io/large/front/b/c/bc4b938f-a600-4d10-8030-ed60cf6ade56.jpg?1782706144",
+    "img": "https://cards.scryfall.io/large/front/b/c/bc4b938f-a600-4d10-8030-ed60cf6ade56.jpg?1783929279",
     "date": "2020-09-25",
     "colors": [
       "W"
@@ -18356,12 +18359,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 981,
-    "superrank": 931,
+    "rank": 982,
+    "superrank": 932,
     "identity_rank": 96
   },
   "Slaughter Pact": {
-    "img": "https://cards.scryfall.io/large/front/4/2/42696fdb-de1f-44ae-bef3-b6af068958d0.jpg?1782716690",
+    "img": "https://cards.scryfall.io/large/front/4/2/42696fdb-de1f-44ae-bef3-b6af068958d0.jpg?1783943111",
     "date": "2007-05-04",
     "colors": [
       "B"
@@ -18379,12 +18382,12 @@ const cards =
       "Instant"
     ],
     "supercent": 6,
-    "rank": 439,
-    "superrank": 474,
-    "identity_rank": 69
+    "rank": 440,
+    "superrank": 473,
+    "identity_rank": 68
   },
   "Slicer, Hired Muscle": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1782736172",
+    "img": "https://cards.scryfall.io/large/front/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
     "date": "2022-11-18",
     "cmc": 5,
     "type_line": "Legendary Artifact Creature \u2014 Robot // Legendary Artifact \u2014 Vehicle",
@@ -18400,12 +18403,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1023,
-    "superrank": 1023,
-    "identity_rank": 165
+    "rank": 1024,
+    "superrank": 1024,
+    "identity_rank": 166
   },
   "Smothering Tithe": {
-    "img": "https://cards.scryfall.io/large/front/7/a/7af082fa-86a3-4f7b-966d-2be1f1d0c0bc.jpg?1782708951",
+    "img": "https://cards.scryfall.io/large/front/7/a/7af082fa-86a3-4f7b-966d-2be1f1d0c0bc.jpg?1783933717",
     "date": "2019-01-25",
     "colors": [
       "W"
@@ -18428,7 +18431,7 @@ const cards =
     "identity_rank": 6
   },
   "Smuggler's Copter": {
-    "img": "https://cards.scryfall.io/large/front/7/8/7832abb5-5107-4603-904e-491b221bd3e3.jpg?1782711484",
+    "img": "https://cards.scryfall.io/large/front/7/8/7832abb5-5107-4603-904e-491b221bd3e3.jpg?1783937147",
     "date": "2016-09-30",
     "colors": [],
     "mana_cost": "{2}",
@@ -18444,12 +18447,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 383,
-    "superrank": 575,
+    "rank": 385,
+    "superrank": 574,
     "identity_rank": 78
   },
   "Snake Umbra": {
-    "img": "https://cards.scryfall.io/large/front/4/a/4a011820-80c6-484f-84be-f07f0e45f1a8.jpg?1782715451",
+    "img": "https://cards.scryfall.io/large/front/4/a/4a011820-80c6-484f-84be-f07f0e45f1a8.jpg?1783941959",
     "date": "2010-04-23",
     "colors": [
       "G"
@@ -18467,12 +18470,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 3,
-    "rank": 666,
-    "superrank": 646,
+    "rank": 667,
+    "superrank": 647,
     "identity_rank": 67
   },
   "Snap": {
-    "img": "https://cards.scryfall.io/large/front/f/7/f7e0549e-2d23-4ea8-b8d1-ae21af2c9091.jpg?1782720589",
+    "img": "https://cards.scryfall.io/large/front/f/7/f7e0549e-2d23-4ea8-b8d1-ae21af2c9091.jpg?1783946245",
     "date": "1999-02-15",
     "colors": [
       "U"
@@ -18490,12 +18493,12 @@ const cards =
       "Instant"
     ],
     "supercent": 13,
-    "rank": 238,
-    "superrank": 279,
+    "rank": 237,
+    "superrank": 278,
     "identity_rank": 52
   },
   "Snapback": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de9135ba-9b6a-4443-a1c4-882f9bfae626.jpg?1782716909",
+    "img": "https://cards.scryfall.io/large/front/d/e/de9135ba-9b6a-4443-a1c4-882f9bfae626.jpg?1783943240",
     "date": "2006-10-06",
     "colors": [
       "U"
@@ -18518,7 +18521,7 @@ const cards =
     "identity_rank": 59
   },
   "Snapcaster Mage": {
-    "img": "https://cards.scryfall.io/large/front/2/2/22b36ad5-bf4d-436a-9c3c-fa4acd0052fe.jpg?1782726477",
+    "img": "https://cards.scryfall.io/large/front/2/2/22b36ad5-bf4d-436a-9c3c-fa4acd0052fe.jpg?1783907976",
     "date": "2011-09-30",
     "colors": [
       "U"
@@ -18538,12 +18541,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 800,
-    "superrank": 823,
+    "rank": 802,
+    "superrank": 825,
     "identity_rank": 130
   },
   "Snow-Covered Forest": {
-    "img": "https://cards.scryfall.io/large/front/4/c/4c0ad95c-d62c-4138-ada0-fa39a63a449e.jpg?1782721605",
+    "img": "https://cards.scryfall.io/large/front/4/c/4c0ad95c-d62c-4138-ada0-fa39a63a449e.jpg?1783947443",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -18561,12 +18564,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 678,
-    "superrank": 654,
+    "rank": 679,
+    "superrank": 655,
     "identity_rank": 68
   },
   "Snow-Covered Island": {
-    "img": "https://cards.scryfall.io/large/front/a/d/ad8b77cf-b53e-4da3-9c27-3851b7b25a98.jpg?1782721610",
+    "img": "https://cards.scryfall.io/large/front/a/d/ad8b77cf-b53e-4da3-9c27-3851b7b25a98.jpg?1783947448",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -18584,12 +18587,12 @@ const cards =
       "Land"
     ],
     "supercent": 16,
-    "rank": 206,
-    "superrank": 239,
+    "rank": 207,
+    "superrank": 238,
     "identity_rank": 44
   },
   "Snow-Covered Mountain": {
-    "img": "https://cards.scryfall.io/large/front/c/c/ccd3afb3-5574-4f2d-adbe-969a428f1c63.jpg?1782721606",
+    "img": "https://cards.scryfall.io/large/front/c/c/ccd3afb3-5574-4f2d-adbe-969a428f1c63.jpg?1783947446",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -18612,7 +18615,7 @@ const cards =
     "identity_rank": 133
   },
   "Snow-Covered Swamp": {
-    "img": "https://cards.scryfall.io/large/front/6/5/65a3c27f-6b15-49b6-ac89-36cfb79b3b54.jpg?1782721609",
+    "img": "https://cards.scryfall.io/large/front/6/5/65a3c27f-6b15-49b6-ac89-36cfb79b3b54.jpg?1783947447",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -18630,12 +18633,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 352,
+    "rank": 354,
     "superrank": 435,
     "identity_rank": 49
   },
   "Snuff Out": {
-    "img": "https://cards.scryfall.io/large/front/d/b/db8b3560-4940-40cc-9797-f909dcb1519b.jpg?1782753255",
+    "img": "https://cards.scryfall.io/large/front/d/b/db8b3560-4940-40cc-9797-f909dcb1519b.jpg?1783942098",
     "date": "1999-10-04",
     "colors": [
       "B"
@@ -18653,12 +18656,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 829,
-    "superrank": 843,
-    "identity_rank": 133
+    "rank": 831,
+    "superrank": 845,
+    "identity_rank": 135
   },
   "Sokenzan, Crucible of Defiance": {
-    "img": "https://cards.scryfall.io/large/front/e/c/eca9f8ae-838f-4a9c-9341-38e39da68926.jpg?1782701985",
+    "img": "https://cards.scryfall.io/large/front/e/c/eca9f8ae-838f-4a9c-9341-38e39da68926.jpg?1783923724",
     "date": "2022-02-18",
     "colors": [],
     "mana_cost": "",
@@ -18675,12 +18678,12 @@ const cards =
       "Land"
     ],
     "supercent": 11,
-    "rank": 321,
+    "rank": 318,
     "superrank": 309,
-    "identity_rank": 37
+    "identity_rank": 35
   },
   "Sol Ring": {
-    "img": "https://cards.scryfall.io/large/front/e/0/e07f656c-97b5-4147-821a-edbb49f34e19.jpg?1782722625",
+    "img": "https://cards.scryfall.io/large/front/e/0/e07f656c-97b5-4147-821a-edbb49f34e19.jpg?1783948530",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "{1}",
@@ -18699,7 +18702,7 @@ const cards =
     "identity_rank": 1
   },
   "Soldevi Adnate": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b2651b0-1ab2-4d7e-834f-7505797da474.jpg?1782721516",
+    "img": "https://cards.scryfall.io/large/front/8/b/8b2651b0-1ab2-4d7e-834f-7505797da474.jpg?1783947183",
     "date": "1996-06-10",
     "colors": [
       "B"
@@ -18719,12 +18722,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 760,
-    "superrank": 799,
-    "identity_rank": 122
+    "rank": 762,
+    "superrank": 801,
+    "identity_rank": 124
   },
   "Solitude": {
-    "img": "https://cards.scryfall.io/large/front/b/b/bbc46960-fdf1-4227-93b8-3fd778be896b.jpg?1782691758",
+    "img": "https://cards.scryfall.io/large/front/b/b/bbc46960-fdf1-4227-93b8-3fd778be896b.jpg?1783911473",
     "date": "2021-06-18",
     "colors": [
       "W"
@@ -18745,11 +18748,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 282,
-    "superrank": 282,
+    "superrank": 281,
     "identity_rank": 21
   },
   "Solve the Equation": {
-    "img": "https://cards.scryfall.io/large/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1782704981",
+    "img": "https://cards.scryfall.io/large/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
     "date": "2021-04-23",
     "colors": [
       "U"
@@ -18767,12 +18770,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 547,
-    "superrank": 605,
+    "rank": 548,
+    "superrank": 606,
     "identity_rank": 87
   },
   "Song of Creation": {
-    "img": "https://cards.scryfall.io/large/front/b/7/b7320233-1c83-4f61-8c08-cc8361867256.jpg?1782707114",
+    "img": "https://cards.scryfall.io/large/front/b/7/b7320233-1c83-4f61-8c08-cc8361867256.jpg?1783931016",
     "date": "2020-04-24",
     "colors": [
       "G",
@@ -18794,12 +18797,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 14,
-    "rank": 806,
-    "superrank": 265,
+    "rank": 808,
+    "superrank": 263,
     "identity_rank": 1
   },
   "Soul Partition": {
-    "img": "https://cards.scryfall.io/large/front/8/7/8798bdb6-a04e-4dce-bd4a-f54b907b9f36.jpg?1782699657",
+    "img": "https://cards.scryfall.io/large/front/8/7/8798bdb6-a04e-4dce-bd4a-f54b907b9f36.jpg?1783919988",
     "date": "2022-11-18",
     "colors": [
       "W"
@@ -18818,11 +18821,11 @@ const cards =
     ],
     "supercent": 5,
     "rank": 450,
-    "superrank": 477,
+    "superrank": 476,
     "identity_rank": 34
   },
   "Soulless Jailer": {
-    "img": "https://cards.scryfall.io/large/front/b/f/bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634.jpg?1782698278",
+    "img": "https://cards.scryfall.io/large/front/b/f/bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634.jpg?1783917986",
     "date": "2023-02-10",
     "colors": [],
     "mana_cost": "{2}",
@@ -18839,12 +18842,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 607,
-    "superrank": 709,
+    "rank": 608,
+    "superrank": 710,
     "identity_rank": 123
   },
   "Sowing Mycospawn": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.jpg?1782691076",
+    "img": "https://cards.scryfall.io/large/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.jpg?1783911195",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{3}{G}",
@@ -18862,12 +18865,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 684,
-    "superrank": 655,
+    "rank": 685,
+    "superrank": 656,
     "identity_rank": 69
   },
   "Spark Mage": {
-    "img": "https://cards.scryfall.io/large/front/c/f/cff5902e-2ca1-43bb-b636-c860b3d0b3f2.jpg?1782719375",
+    "img": "https://cards.scryfall.io/large/front/c/f/cff5902e-2ca1-43bb-b636-c860b3d0b3f2.jpg?1783945224",
     "date": "2001-10-01",
     "colors": [
       "R"
@@ -18887,12 +18890,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 384,
-    "superrank": 390,
-    "identity_rank": 61
+    "rank": 386,
+    "superrank": 391,
+    "identity_rank": 62
   },
   "Spectator Seating": {
-    "img": "https://cards.scryfall.io/large/front/b/1/b16e9306-79bc-451a-9046-6a0f8d4b9606.jpg?1782705632",
+    "img": "https://cards.scryfall.io/large/front/b/1/b16e9306-79bc-451a-9046-6a0f8d4b9606.jpg?1783928595",
     "date": "2020-11-20",
     "colors": [],
     "mana_cost": "",
@@ -18909,12 +18912,12 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 608,
+    "rank": 609,
     "superrank": 336,
     "identity_rank": 7
   },
   "Spectral Sailor": {
-    "img": "https://cards.scryfall.io/large/front/6/7/67483891-36d1-46f2-8b4f-b8b7bd54bdcc.jpg?1782708340",
+    "img": "https://cards.scryfall.io/large/front/6/7/67483891-36d1-46f2-8b4f-b8b7bd54bdcc.jpg?1783933004",
     "date": "2019-07-12",
     "colors": [
       "U"
@@ -18934,12 +18937,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 703,
-    "superrank": 760,
+    "rank": 704,
+    "superrank": 761,
     "identity_rank": 112
   },
   "Spell Pierce": {
-    "img": "https://cards.scryfall.io/large/front/c/b/cb3d3901-e4a6-45ab-a7b5-c65d91e1875e.jpg?1782715660",
+    "img": "https://cards.scryfall.io/large/front/c/b/cb3d3901-e4a6-45ab-a7b5-c65d91e1875e.jpg?1783942160",
     "date": "2009-10-02",
     "colors": [
       "U"
@@ -18962,7 +18965,7 @@ const cards =
     "identity_rank": 61
   },
   "Spell Snare": {
-    "img": "https://cards.scryfall.io/large/front/3/5/35554fdf-c70a-4baa-a35a-414caa9978be.jpg?1782717208",
+    "img": "https://cards.scryfall.io/large/front/3/5/35554fdf-c70a-4baa-a35a-414caa9978be.jpg?1783943435",
     "date": "2006-05-05",
     "colors": [
       "U"
@@ -18980,12 +18983,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 830,
-    "superrank": 844,
+    "rank": 832,
+    "superrank": 846,
     "identity_rank": 140
   },
   "Spellseeker": {
-    "img": "https://cards.scryfall.io/large/front/7/4/74b4c336-5d4c-4bc5-b82a-35084a6ad808.jpg?1782710006",
+    "img": "https://cards.scryfall.io/large/front/7/4/74b4c336-5d4c-4bc5-b82a-35084a6ad808.jpg?1783934865",
     "date": "2018-06-08",
     "colors": [
       "U"
@@ -19010,7 +19013,7 @@ const cards =
     "identity_rank": 31
   },
   "Spellskite": {
-    "img": "https://cards.scryfall.io/large/front/1/a/1a84bada-ed6a-4e97-8a0c-05b7cb32d66f.jpg?1782715130",
+    "img": "https://cards.scryfall.io/large/front/1/a/1a84bada-ed6a-4e97-8a0c-05b7cb32d66f.jpg?1783941290",
     "date": "2011-05-13",
     "colors": [],
     "mana_cost": "{2}",
@@ -19029,12 +19032,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 895,
-    "superrank": 885,
+    "rank": 896,
+    "superrank": 886,
     "identity_rank": 161
   },
   "Spider-Punk": {
-    "img": "https://cards.scryfall.io/large/front/7/7/774d48ab-181b-4190-9956-67706bea9b27.jpg?1782685073",
+    "img": "https://cards.scryfall.io/large/front/7/7/774d48ab-181b-4190-9956-67706bea9b27.jpg?1783905499",
     "date": "2025-09-23",
     "colors": [
       "R"
@@ -19055,12 +19058,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 589,
-    "superrank": 530,
+    "rank": 590,
+    "superrank": 529,
     "identity_rank": 92
   },
   "Spider-Woman, Stunning Savior": {
-    "img": "https://cards.scryfall.io/large/front/f/b/fbf1ea21-2e90-4792-b399-111ff70a9d06.jpg?1782685023",
+    "img": "https://cards.scryfall.io/large/front/f/b/fbf1ea21-2e90-4792-b399-111ff70a9d06.jpg?1783905464",
     "date": "2025-09-23",
     "colors": [
       "U",
@@ -19083,12 +19086,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 774,
-    "superrank": 604,
+    "rank": 776,
+    "superrank": 605,
     "identity_rank": 9
   },
   "Spire Garden": {
-    "img": "https://cards.scryfall.io/large/front/6/4/64943615-7543-4acd-a884-22ece8f0ed3e.jpg?1782709982",
+    "img": "https://cards.scryfall.io/large/front/6/4/64943615-7543-4acd-a884-22ece8f0ed3e.jpg?1783934847",
     "date": "2018-06-08",
     "colors": [],
     "mana_cost": "",
@@ -19105,12 +19108,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 652,
+    "rank": 653,
     "superrank": 369,
     "identity_rank": 13
   },
   "Spire of Industry": {
-    "img": "https://cards.scryfall.io/large/front/1/0/10b8e3a0-2a3e-401a-80a1-a3c8744f0c28.jpg?1782699369",
+    "img": "https://cards.scryfall.io/large/front/1/0/10b8e3a0-2a3e-401a-80a1-a3c8744f0c28.jpg?1783919641",
     "date": "2017-01-20",
     "colors": [],
     "mana_cost": "",
@@ -19125,11 +19128,11 @@ const cards =
     ],
     "supercent": 15,
     "rank": 156,
-    "superrank": 247,
+    "superrank": 246,
     "identity_rank": 37
   },
   "Spirit of the Labyrinth": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f44e5128-e146-4e46-b313-a40d82719d1d.jpg?1782713544",
+    "img": "https://cards.scryfall.io/large/front/f/4/f44e5128-e146-4e46-b313-a40d82719d1d.jpg?1783939575",
     "date": "2014-02-07",
     "colors": [
       "W"
@@ -19150,12 +19153,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 609,
-    "superrank": 544,
+    "rank": 610,
+    "superrank": 543,
     "identity_rank": 49
   },
   "Splinter's Technique": {
-    "img": "https://cards.scryfall.io/large/front/f/d/fd3a5465-074a-4688-b79b-68e232076581.jpg?1782683683",
+    "img": "https://cards.scryfall.io/large/front/f/d/fd3a5465-074a-4688-b79b-68e232076581.jpg?1783904100",
     "date": "2026-03-06",
     "colors": [
       "B"
@@ -19173,12 +19176,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 567,
-    "superrank": 624,
-    "identity_rank": 92
+    "rank": 568,
+    "superrank": 625,
+    "identity_rank": 93
   },
   "Splinter, Hamato Yoshi": {
-    "img": "https://cards.scryfall.io/large/front/9/e/9ea9d072-aa98-405e-a475-26f93cc37e53.jpg?1782683683",
+    "img": "https://cards.scryfall.io/large/front/9/e/9ea9d072-aa98-405e-a475-26f93cc37e53.jpg?1783904100",
     "date": "2026-03-06",
     "colors": [
       "B"
@@ -19199,12 +19202,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 831,
-    "superrank": 845,
-    "identity_rank": 134
+    "rank": 833,
+    "superrank": 847,
+    "identity_rank": 136
   },
   "Springheart Nantuko": {
-    "img": "https://cards.scryfall.io/large/front/c/f/cf723c91-e3ae-4a71-93b2-65d05bfa9b60.jpg?1782691074",
+    "img": "https://cards.scryfall.io/large/front/c/f/cf723c91-e3ae-4a71-93b2-65d05bfa9b60.jpg?1783911194",
     "date": "2024-06-14",
     "colors": [
       "G"
@@ -19225,12 +19228,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 685,
-    "superrank": 656,
+    "rank": 686,
+    "superrank": 657,
     "identity_rank": 70
   },
   "Springleaf Drum": {
-    "img": "https://cards.scryfall.io/large/front/e/0/e005f8e3-f0d6-4911-a4d2-4c244dd7bda0.jpg?1782699502",
+    "img": "https://cards.scryfall.io/large/front/e/0/e005f8e3-f0d6-4911-a4d2-4c244dd7bda0.jpg?1783919732",
     "date": "2007-10-12",
     "colors": [],
     "mana_cost": "{1}",
@@ -19245,11 +19248,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 174,
-    "superrank": 260,
+    "superrank": 259,
     "identity_rank": 40
   },
   "Squee, the Immortal": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a3974c62-a524-454e-9ce7-2c23b704e5cb.jpg?1782710107",
+    "img": "https://cards.scryfall.io/large/front/a/3/a3974c62-a524-454e-9ce7-2c23b704e5cb.jpg?1783934987",
     "date": "2018-04-27",
     "colors": [
       "R"
@@ -19270,12 +19273,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 479,
-    "superrank": 490,
+    "rank": 478,
+    "superrank": 489,
     "identity_rank": 77
   },
   "Staff of Compleation": {
-    "img": "https://cards.scryfall.io/large/front/d/2/d2934af5-aa4f-4c88-adbd-dcd847ef43a2.jpg?1782698278",
+    "img": "https://cards.scryfall.io/large/front/d/2/d2934af5-aa4f-4c88-adbd-dcd847ef43a2.jpg?1783917986",
     "date": "2023-02-10",
     "colors": [],
     "mana_cost": "{3}",
@@ -19289,12 +19292,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 965,
-    "superrank": 991,
+    "rank": 966,
+    "superrank": 992,
     "identity_rank": 169
   },
   "Stalactite Dagger": {
-    "img": "https://cards.scryfall.io/large/front/6/9/6954df09-95f3-46cf-9ba8-2a1aea653d8f.jpg?1782683915",
+    "img": "https://cards.scryfall.io/large/front/6/9/6954df09-95f3-46cf-9ba8-2a1aea653d8f.jpg?1783904396",
     "date": "2026-01-23",
     "colors": [],
     "mana_cost": "{2}",
@@ -19308,12 +19311,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 497,
-    "superrank": 649,
+    "rank": 496,
+    "superrank": 650,
     "identity_rank": 99
   },
   "Starting Town": {
-    "img": "https://cards.scryfall.io/large/front/f/c/fc7d1912-7e27-49ef-bd98-375d975a42b0.jpg?1782686374",
+    "img": "https://cards.scryfall.io/large/front/f/c/fc7d1912-7e27-49ef-bd98-375d975a42b0.jpg?1783906546",
     "date": "2025-06-13",
     "colors": [],
     "mana_cost": "",
@@ -19332,7 +19335,7 @@ const cards =
     "identity_rank": 30
   },
   "Static Prison": {
-    "img": "https://cards.scryfall.io/large/front/d/d/dd16222e-349c-4a2b-a7c8-8eb35a8ab332.jpg?1782691371",
+    "img": "https://cards.scryfall.io/large/front/d/d/dd16222e-349c-4a2b-a7c8-8eb35a8ab332.jpg?1783911296",
     "date": "2024-06-14",
     "colors": [
       "W"
@@ -19351,11 +19354,11 @@ const cards =
     ],
     "supercent": 5,
     "rank": 451,
-    "superrank": 478,
+    "superrank": 477,
     "identity_rank": 35
   },
   "Steal Enchantment": {
-    "img": "https://cards.scryfall.io/large/front/7/3/734be7fa-0998-4771-9b97-4989b3fc1471.jpg?1782720974",
+    "img": "https://cards.scryfall.io/large/front/7/3/734be7fa-0998-4771-9b97-4989b3fc1471.jpg?1783946650",
     "date": "1997-10-14",
     "colors": [
       "U"
@@ -19374,11 +19377,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 221,
-    "superrank": 271,
+    "superrank": 270,
     "identity_rank": 47
   },
   "Steam Vents": {
-    "img": "https://cards.scryfall.io/large/front/f/9/f9c49e51-4589-4213-9cd9-ac4ac14c8f44.jpg?1782730840",
+    "img": "https://cards.scryfall.io/large/front/f/9/f9c49e51-4589-4213-9cd9-ac4ac14c8f44.jpg?1783913181",
     "date": "2006-02-03",
     "colors": [],
     "mana_cost": "",
@@ -19400,7 +19403,7 @@ const cards =
     "identity_rank": 2
   },
   "Step Through": {
-    "img": "https://cards.scryfall.io/large/front/c/5/c5688978-1744-4986-bda3-09629541b827.jpg?1782704508",
+    "img": "https://cards.scryfall.io/large/front/c/5/c5688978-1744-4986-bda3-09629541b827.jpg?1783926737",
     "date": "2021-06-18",
     "colors": [
       "U"
@@ -19418,12 +19421,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 6,
-    "rank": 445,
-    "superrank": 476,
+    "rank": 446,
+    "superrank": 475,
     "identity_rank": 77
   },
   "Stern Dismissal": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0aec4d0f-ba1e-45f8-9764-9bcc3fa50e51.jpg?1782707618",
+    "img": "https://cards.scryfall.io/large/front/0/a/0aec4d0f-ba1e-45f8-9764-9bcc3fa50e51.jpg?1783931577",
     "date": "2020-01-24",
     "colors": [
       "U"
@@ -19441,12 +19444,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 548,
-    "superrank": 606,
+    "rank": 549,
+    "superrank": 607,
     "identity_rank": 88
   },
   "Stifle": {
-    "img": "https://cards.scryfall.io/large/front/2/d/2d7643c0-b2db-478f-944e-b27b77bad3eb.jpg?1782718992",
+    "img": "https://cards.scryfall.io/large/front/2/d/2d7643c0-b2db-478f-944e-b27b77bad3eb.jpg?1783944884",
     "date": "2003-05-26",
     "colors": [
       "U"
@@ -19464,12 +19467,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 783,
-    "superrank": 812,
+    "rank": 785,
+    "superrank": 814,
     "identity_rank": 123
   },
   "Sting, the Glinting Dagger": {
-    "img": "https://cards.scryfall.io/large/front/c/6/c6e3485e-2190-412a-a7b0-6a6ffdbef77c.jpg?1782696999",
+    "img": "https://cards.scryfall.io/large/front/c/6/c6e3485e-2190-412a-a7b0-6a6ffdbef77c.jpg?1783916168",
     "date": "2023-06-23",
     "colors": [],
     "mana_cost": "{2}",
@@ -19484,12 +19487,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 966,
-    "superrank": 992,
+    "rank": 967,
+    "superrank": 993,
     "identity_rank": 170
   },
   "Stock Up": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0a786855-6eb4-42c0-a528-4842db46809d.jpg?1782687909",
+    "img": "https://cards.scryfall.io/large/front/0/a/0a786855-6eb4-42c0-a528-4842db46809d.jpg?1783907902",
     "date": "2025-02-14",
     "colors": [
       "U"
@@ -19507,12 +19510,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 795,
-    "superrank": 819,
+    "rank": 797,
+    "superrank": 821,
     "identity_rank": 129
   },
   "Stomping Ground": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ec5055aa-3c79-4401-b5db-7081ee45cf98.jpg?1782730838",
+    "img": "https://cards.scryfall.io/large/front/e/c/ec5055aa-3c79-4401-b5db-7081ee45cf98.jpg?1783913180",
     "date": "2006-02-03",
     "colors": [],
     "mana_cost": "",
@@ -19529,12 +19532,12 @@ const cards =
       "Land"
     ],
     "supercent": 33,
-    "rank": 304,
+    "rank": 302,
     "superrank": 146,
     "identity_rank": 3
   },
   "Stony Silence": {
-    "img": "https://cards.scryfall.io/large/front/f/5/f56a5a73-5f10-4f97-989f-7cea0a8d95e3.jpg?1782714814",
+    "img": "https://cards.scryfall.io/large/front/f/5/f56a5a73-5f10-4f97-989f-7cea0a8d95e3.jpg?1783940984",
     "date": "2011-09-30",
     "colors": [
       "W"
@@ -19552,12 +19555,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 734,
-    "superrank": 779,
+    "rank": 735,
+    "superrank": 780,
     "identity_rank": 75
   },
   "Storm-Kiln Artist": {
-    "img": "https://cards.scryfall.io/large/front/f/a/fa96b8dc-233a-4884-ab84-235cbc7df0b6.jpg?1782704944",
+    "img": "https://cards.scryfall.io/large/front/f/a/fa96b8dc-233a-4884-ab84-235cbc7df0b6.jpg?1783927352",
     "date": "2021-04-23",
     "colors": [
       "R"
@@ -19577,12 +19580,12 @@ const cards =
       "Creature"
     ],
     "supercent": 14,
-    "rank": 290,
-    "superrank": 266,
-    "identity_rank": 30
+    "rank": 289,
+    "superrank": 264,
+    "identity_rank": 29
   },
   "Street Wraith": {
-    "img": "https://cards.scryfall.io/large/front/8/6/86a06831-0cbd-48f9-a817-4c5a36fa782a.jpg?1782735120",
+    "img": "https://cards.scryfall.io/large/front/8/6/86a06831-0cbd-48f9-a817-4c5a36fa782a.jpg?1783918376",
     "date": "2007-05-04",
     "colors": [
       "B"
@@ -19602,12 +19605,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 832,
-    "superrank": 846,
-    "identity_rank": 135
+    "rank": 834,
+    "superrank": 848,
+    "identity_rank": 137
   },
   "Strength-Testing Hammer": {
-    "img": "https://cards.scryfall.io/large/front/b/6/b654514f-b1a0-4d96-8d05-55e2cf386518.jpg?1782736913",
+    "img": "https://cards.scryfall.io/large/front/b/6/b654514f-b1a0-4d96-8d05-55e2cf386518.jpg?1783920530",
     "date": "2022-10-07",
     "colors": [],
     "mana_cost": "{1}",
@@ -19621,12 +19624,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 967,
-    "superrank": 993,
+    "rank": 968,
+    "superrank": 994,
     "identity_rank": 171
   },
   "Stridehangar Automaton": {
-    "img": "https://cards.scryfall.io/large/front/f/8/f87adc0a-813e-4afe-9e4e-c2d2202c3256.jpg?1782687468",
+    "img": "https://cards.scryfall.io/large/front/f/8/f87adc0a-813e-4afe-9e4e-c2d2202c3256.jpg?1783907743",
     "date": "2025-02-14",
     "colors": [],
     "mana_cost": "{3}",
@@ -19643,12 +19646,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 945,
-    "superrank": 980,
+    "rank": 946,
+    "superrank": 981,
     "identity_rank": 158
   },
   "Strike It Rich": {
-    "img": "https://cards.scryfall.io/large/front/2/0/2099f819-d504-447a-a390-75267d8a7e55.jpg?1782691752",
+    "img": "https://cards.scryfall.io/large/front/2/0/2099f819-d504-447a-a390-75267d8a7e55.jpg?1783911473",
     "date": "2021-06-18",
     "colors": [
       "R"
@@ -19660,18 +19663,18 @@ const cards =
       "R"
     ],
     "name": "Strike It Rich",
-    "count": 6,
-    "percent": 9,
+    "count": 7,
+    "percent": 10,
     "types": [
       "Sorcery"
     ],
-    "supercent": 17,
-    "rank": 228,
-    "superrank": 231,
-    "identity_rank": 21
+    "supercent": 20,
+    "rank": 206,
+    "superrank": 199,
+    "identity_rank": 18
   },
   "Strix Serenade": {
-    "img": "https://cards.scryfall.io/large/front/5/e/5eccf31d-869d-4003-a92b-71b4f4b479ee.jpg?1782691087",
+    "img": "https://cards.scryfall.io/large/front/5/e/5eccf31d-869d-4003-a92b-71b4f4b479ee.jpg?1783911198",
     "date": "2024-06-14",
     "colors": [
       "U"
@@ -19689,12 +19692,12 @@ const cards =
       "Instant"
     ],
     "supercent": 4,
-    "rank": 486,
-    "superrank": 561,
+    "rank": 485,
+    "superrank": 560,
     "identity_rank": 83
   },
   "Stubborn Denial": {
-    "img": "https://cards.scryfall.io/large/front/6/f/6f8626c4-306f-4e9d-8840-2bb73fe87e87.jpg?1782713113",
+    "img": "https://cards.scryfall.io/large/front/6/f/6f8626c4-306f-4e9d-8840-2bb73fe87e87.jpg?1783939084",
     "date": "2014-09-26",
     "colors": [
       "U"
@@ -19712,12 +19715,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 845,
-    "superrank": 856,
+    "rank": 847,
+    "superrank": 858,
     "identity_rank": 147
   },
   "Submerge": {
-    "img": "https://cards.scryfall.io/large/front/d/2/d2741fe4-37fe-427f-ae85-5107991d4eee.jpg?1782720206",
+    "img": "https://cards.scryfall.io/large/front/d/2/d2741fe4-37fe-427f-ae85-5107991d4eee.jpg?1783945831",
     "date": "2000-02-14",
     "colors": [
       "U"
@@ -19736,11 +19739,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 242,
-    "superrank": 283,
+    "superrank": 282,
     "identity_rank": 53
   },
   "Subtlety": {
-    "img": "https://cards.scryfall.io/large/front/e/5/e565e8cd-3c8b-422c-8217-99d50e11908a.jpg?1782691755",
+    "img": "https://cards.scryfall.io/large/front/e/5/e565e8cd-3c8b-422c-8217-99d50e11908a.jpg?1783911471",
     "date": "2021-06-18",
     "colors": [
       "U"
@@ -19765,7 +19768,7 @@ const cards =
     "identity_rank": 60
   },
   "Sudden Shock": {
-    "img": "https://cards.scryfall.io/large/front/7/d/7d2691ee-8eec-437d-9bc1-113264525fb8.jpg?1782716862",
+    "img": "https://cards.scryfall.io/large/front/7/d/7d2691ee-8eec-437d-9bc1-113264525fb8.jpg?1783943216",
     "date": "2006-10-06",
     "colors": [
       "R"
@@ -19783,12 +19786,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 385,
-    "superrank": 391,
-    "identity_rank": 62
+    "rank": 387,
+    "superrank": 392,
+    "identity_rank": 63
   },
   "Summoner's Pact": {
-    "img": "https://cards.scryfall.io/large/front/9/4/948b026c-cfce-462b-afb6-7a383bd121de.jpg?1782716661",
+    "img": "https://cards.scryfall.io/large/front/9/4/948b026c-cfce-462b-afb6-7a383bd121de.jpg?1783943096",
     "date": "2007-05-04",
     "colors": [
       "G"
@@ -19806,12 +19809,12 @@ const cards =
       "Instant"
     ],
     "supercent": 11,
-    "rank": 437,
+    "rank": 438,
     "superrank": 325,
-    "identity_rank": 42
+    "identity_rank": 43
   },
   "Sunbaked Canyon": {
-    "img": "https://cards.scryfall.io/large/front/c/3/c36820fa-ee86-4206-9a0d-737a67cf5208.jpg?1782708399",
+    "img": "https://cards.scryfall.io/large/front/c/3/c36820fa-ee86-4206-9a0d-737a67cf5208.jpg?1783933065",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "",
@@ -19828,12 +19831,12 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 610,
+    "rank": 611,
     "superrank": 337,
     "identity_rank": 8
   },
   "Sundering Eruption": {
-    "img": "https://cards.scryfall.io/large/front/5/0/50686ac7-346c-43d1-bdaa-28d46a12ad93.jpg?1782691164",
+    "img": "https://cards.scryfall.io/large/front/5/0/50686ac7-346c-43d1-bdaa-28d46a12ad93.jpg?1783911228",
     "date": "2024-06-14",
     "cmc": 3,
     "type_line": "Sorcery // Land",
@@ -19849,12 +19852,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1007,
-    "superrank": 1007,
-    "identity_rank": 162
+    "rank": 1008,
+    "superrank": 1008,
+    "identity_rank": 163
   },
   "Sunken Ruins": {
-    "img": "https://cards.scryfall.io/large/front/9/d/9d91a31c-b70a-45bd-a8dd-48d49b277f24.jpg?1782716084",
+    "img": "https://cards.scryfall.io/large/front/9/d/9d91a31c-b70a-45bd-a8dd-48d49b277f24.jpg?1783942705",
     "date": "2008-05-02",
     "colors": [],
     "mana_cost": "",
@@ -19871,12 +19874,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 812,
-    "superrank": 679,
+    "rank": 814,
+    "superrank": 680,
     "identity_rank": 16
   },
   "Suppression Field": {
-    "img": "https://cards.scryfall.io/large/front/0/d/0df7883b-f744-4410-a682-7391bd697afb.jpg?1782717533",
+    "img": "https://cards.scryfall.io/large/front/0/d/0df7883b-f744-4410-a682-7391bd697afb.jpg?1783943694",
     "date": "2005-10-07",
     "colors": [
       "W"
@@ -19894,12 +19897,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 735,
-    "superrank": 780,
+    "rank": 736,
+    "superrank": 781,
     "identity_rank": 76
   },
   "Supreme Verdict": {
-    "img": "https://cards.scryfall.io/large/front/8/9/891860b6-3e68-4b8e-8bde-1e5c4c1a4366.jpg?1782730794",
+    "img": "https://cards.scryfall.io/large/front/8/9/891860b6-3e68-4b8e-8bde-1e5c4c1a4366.jpg?1783913161",
     "date": "2012-10-05",
     "colors": [
       "U",
@@ -19919,12 +19922,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 788,
-    "superrank": 609,
+    "rank": 790,
+    "superrank": 610,
     "identity_rank": 11
   },
   "Survival of the Fittest": {
-    "img": "https://cards.scryfall.io/large/front/c/0/c060c178-3c0e-493f-b6f0-ead5b1d6f191.jpg?1782720766",
+    "img": "https://cards.scryfall.io/large/front/c/0/c060c178-3c0e-493f-b6f0-ead5b1d6f191.jpg?1783946500",
     "date": "1998-06-15",
     "colors": [
       "G"
@@ -19947,7 +19950,7 @@ const cards =
     "identity_rank": 12
   },
   "Survivors' Encampment": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c7b0404e-0f42-456b-91ce-f960195c4951.jpg?1782710705",
+    "img": "https://cards.scryfall.io/large/front/c/7/c7b0404e-0f42-456b-91ce-f960195c4951.jpg?1783935993",
     "date": "2017-07-14",
     "colors": [],
     "mana_cost": "",
@@ -19961,12 +19964,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 386,
-    "superrank": 576,
+    "rank": 388,
+    "superrank": 575,
     "identity_rank": 79
   },
   "Swamp": {
-    "img": "https://cards.scryfall.io/large/front/e/d/edeba4e1-9012-4962-8797-3a1f6a660952.jpg?1782722882",
+    "img": "https://cards.scryfall.io/large/front/e/d/edeba4e1-9012-4962-8797-3a1f6a660952.jpg?1783948657",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -19984,11 +19987,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 170,
-    "superrank": 202,
+    "superrank": 203,
     "identity_rank": 23
   },
   "Swan Song": {
-    "img": "https://cards.scryfall.io/large/front/e/f/efd26041-059b-4a1e-9ce8-c3cfd69a3721.jpg?1782713819",
+    "img": "https://cards.scryfall.io/large/front/e/f/efd26041-059b-4a1e-9ce8-c3cfd69a3721.jpg?1783939790",
     "date": "2013-09-27",
     "colors": [
       "U"
@@ -20011,7 +20014,7 @@ const cards =
     "identity_rank": 8
   },
   "Swift Reconfiguration": {
-    "img": "https://cards.scryfall.io/large/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.jpg?1782702436",
+    "img": "https://cards.scryfall.io/large/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.jpg?1783923997",
     "date": "2022-02-18",
     "colors": [
       "W"
@@ -20029,12 +20032,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 5,
-    "rank": 507,
-    "superrank": 496,
+    "rank": 506,
+    "superrank": 495,
     "identity_rank": 37
   },
   "Swords to Plowshares": {
-    "img": "https://cards.scryfall.io/large/front/e/a/eadd0f51-703f-4235-af9a-74a1d8aeec50.jpg?1782755841",
+    "img": "https://cards.scryfall.io/large/front/e/a/eadd0f51-703f-4235-af9a-74a1d8aeec50.jpg?1783947253",
     "date": "1993-08-05",
     "colors": [
       "W"
@@ -20057,7 +20060,7 @@ const cards =
     "identity_rank": 7
   },
   "Sylvan Library": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f486df00-7c4a-4ff0-bb0b-c8b5432ac742.jpg?1782722290",
+    "img": "https://cards.scryfall.io/large/front/f/4/f486df00-7c4a-4ff0-bb0b-c8b5432ac742.jpg?1783948043",
     "date": "1994-06-01",
     "colors": [
       "G"
@@ -20080,7 +20083,7 @@ const cards =
     "identity_rank": 21
   },
   "Sylvan Safekeeper": {
-    "img": "https://cards.scryfall.io/large/front/f/1/f1b8413f-c9fc-4cea-b416-a1fcf651b009.jpg?1782719220",
+    "img": "https://cards.scryfall.io/large/front/f/1/f1b8413f-c9fc-4cea-b416-a1fcf651b009.jpg?1783945108",
     "date": "2002-05-27",
     "colors": [
       "G"
@@ -20101,11 +20104,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 250,
-    "superrank": 210,
+    "superrank": 211,
     "identity_rank": 29
   },
   "Sylvan Scrying": {
-    "img": "https://cards.scryfall.io/large/front/1/f/1f882c71-dd90-4eac-9756-0bf487cba625.jpg?1782741679",
+    "img": "https://cards.scryfall.io/large/front/1/f/1f882c71-dd90-4eac-9756-0bf487cba625.jpg?1783927717",
     "date": "2003-10-02",
     "colors": [
       "G"
@@ -20123,12 +20126,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 7,
-    "rank": 508,
-    "superrank": 419,
+    "rank": 507,
+    "superrank": 418,
     "identity_rank": 54
   },
   "Sylvan Tutor": {
-    "img": "https://cards.scryfall.io/large/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.jpg?1782755533",
+    "img": "https://cards.scryfall.io/large/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.jpg?1783946801",
     "date": "1997-05-01",
     "colors": [
       "G"
@@ -20146,12 +20149,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 7,
-    "rank": 480,
-    "superrank": 413,
+    "rank": 479,
+    "superrank": 412,
     "identity_rank": 49
   },
   "Tablet of Discovery": {
-    "img": "https://cards.scryfall.io/large/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1782682925",
+    "img": "https://cards.scryfall.io/large/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664",
     "date": "2026-04-24",
     "colors": [
       "R"
@@ -20169,12 +20172,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 968,
-    "superrank": 924,
-    "identity_rank": 149
+    "rank": 969,
+    "superrank": 925,
+    "identity_rank": 150
   },
   "Taiga": {
-    "img": "https://cards.scryfall.io/large/front/6/0/60df6592-0b3b-4b87-aeb2-8fa94b4fb7be.jpg?1782722887",
+    "img": "https://cards.scryfall.io/large/front/6/0/60df6592-0b3b-4b87-aeb2-8fa94b4fb7be.jpg?1783948659",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -20196,7 +20199,7 @@ const cards =
     "identity_rank": 1
   },
   "Tainted Pact": {
-    "img": "https://cards.scryfall.io/large/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1782719393",
+    "img": "https://cards.scryfall.io/large/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.jpg?1783945239",
     "date": "2001-10-01",
     "colors": [
       "B"
@@ -20219,7 +20222,7 @@ const cards =
     "identity_rank": 5
   },
   "Takenuma, Abandoned Mire": {
-    "img": "https://cards.scryfall.io/large/front/7/b/7bc98705-77c2-47b6-b41c-3e41578700e8.jpg?1782702051",
+    "img": "https://cards.scryfall.io/large/front/7/b/7bc98705-77c2-47b6-b41c-3e41578700e8.jpg?1783923759",
     "date": "2022-02-18",
     "colors": [],
     "mana_cost": "",
@@ -20236,12 +20239,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 513,
-    "superrank": 584,
-    "identity_rank": 77
+    "rank": 512,
+    "superrank": 583,
+    "identity_rank": 76
   },
   "Talion, the Kindly Lord": {
-    "img": "https://cards.scryfall.io/large/front/b/b/bb1f05ef-7607-4a63-a710-18d0061ec982.jpg?1782696440",
+    "img": "https://cards.scryfall.io/large/front/b/b/bb1f05ef-7607-4a63-a710-18d0061ec982.jpg?1783915044",
     "date": "2023-09-08",
     "colors": [
       "B",
@@ -20264,12 +20267,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 704,
-    "superrank": 661,
+    "rank": 705,
+    "superrank": 662,
     "identity_rank": 15
   },
   "Talisman of Conviction": {
-    "img": "https://cards.scryfall.io/large/front/7/a/7a32f159-cc51-40d9-8c33-88ca8eb8b6f4.jpg?1782704749",
+    "img": "https://cards.scryfall.io/large/front/7/a/7a32f159-cc51-40d9-8c33-88ca8eb8b6f4.jpg?1783926901",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -20286,12 +20289,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 21,
-    "rank": 301,
+    "rank": 299,
     "superrank": 195,
     "identity_rank": 3
   },
   "Talisman of Creativity": {
-    "img": "https://cards.scryfall.io/large/front/e/0/e0373057-f5c2-4cfb-b6a4-dea05035d1c6.jpg?1782704747",
+    "img": "https://cards.scryfall.io/large/front/e/0/e0373057-f5c2-4cfb-b6a4-dea05035d1c6.jpg?1783926901",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -20308,12 +20311,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 28,
-    "rank": 240,
-    "superrank": 166,
+    "rank": 239,
+    "superrank": 167,
     "identity_rank": 3
   },
   "Talisman of Curiosity": {
-    "img": "https://cards.scryfall.io/large/front/b/9/b9383190-c4b2-4b38-8938-2c57782faf03.jpg?1782704746",
+    "img": "https://cards.scryfall.io/large/front/b/9/b9383190-c4b2-4b38-8938-2c57782faf03.jpg?1783926899",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -20330,12 +20333,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 11,
-    "rank": 517,
+    "rank": 516,
     "superrank": 317,
     "identity_rank": 7
   },
   "Talisman of Dominance": {
-    "img": "https://cards.scryfall.io/large/front/8/b/8b5713b7-f2a6-41c5-a485-058b7393570b.jpg?1782736438",
+    "img": "https://cards.scryfall.io/large/front/8/b/8b5713b7-f2a6-41c5-a485-058b7393570b.jpg?1783920218",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20353,11 +20356,11 @@ const cards =
     ],
     "supercent": 48,
     "rank": 116,
-    "superrank": 111,
+    "superrank": 112,
     "identity_rank": 3
   },
   "Talisman of Hierarchy": {
-    "img": "https://cards.scryfall.io/large/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.jpg?1782704746",
+    "img": "https://cards.scryfall.io/large/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.jpg?1783926898",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "{2}",
@@ -20374,12 +20377,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 614,
-    "superrank": 549,
+    "rank": 615,
+    "superrank": 548,
     "identity_rank": 6
   },
   "Talisman of Impulse": {
-    "img": "https://cards.scryfall.io/large/front/2/f/2fb35429-30ee-4e2f-80ad-083faf53e264.jpg?1782736437",
+    "img": "https://cards.scryfall.io/large/front/2/f/2fb35429-30ee-4e2f-80ad-083faf53e264.jpg?1783920216",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20396,12 +20399,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 16,
-    "rank": 481,
-    "superrank": 238,
+    "rank": 480,
+    "superrank": 237,
     "identity_rank": 5
   },
   "Talisman of Indulgence": {
-    "img": "https://cards.scryfall.io/large/front/7/3/73e85dab-5887-47bb-b5f2-fd11ff77ef91.jpg?1782736438",
+    "img": "https://cards.scryfall.io/large/front/7/3/73e85dab-5887-47bb-b5f2-fd11ff77ef91.jpg?1783920216",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20419,11 +20422,11 @@ const cards =
     ],
     "supercent": 23,
     "rank": 248,
-    "superrank": 184,
+    "superrank": 183,
     "identity_rank": 4
   },
   "Talisman of Progress": {
-    "img": "https://cards.scryfall.io/large/front/7/3/7333e089-dc31-4c2f-9230-c2033d95c7e6.jpg?1782736439",
+    "img": "https://cards.scryfall.io/large/front/7/3/7333e089-dc31-4c2f-9230-c2033d95c7e6.jpg?1783920217",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20441,11 +20444,11 @@ const cards =
     ],
     "supercent": 48,
     "rank": 137,
-    "superrank": 112,
+    "superrank": 113,
     "identity_rank": 3
   },
   "Talisman of Unity": {
-    "img": "https://cards.scryfall.io/large/front/2/6/26b6bdac-02d4-4661-b022-103f19232985.jpg?1782736436",
+    "img": "https://cards.scryfall.io/large/front/2/6/26b6bdac-02d4-4661-b022-103f19232985.jpg?1783920214",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -20462,12 +20465,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 5,
-    "rank": 937,
-    "superrank": 529,
+    "rank": 938,
+    "superrank": 528,
     "identity_rank": 19
   },
   "Talon Gates of Madara": {
-    "img": "https://cards.scryfall.io/large/front/d/e/de92facf-762b-4a23-8d5e-bb673b0500c0.jpg?1782691678",
+    "img": "https://cards.scryfall.io/large/front/d/e/de92facf-762b-4a23-8d5e-bb673b0500c0.jpg?1783911414",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "",
@@ -20481,12 +20484,12 @@ const cards =
       "Land"
     ],
     "supercent": 32,
-    "rank": 85,
+    "rank": 86,
     "superrank": 153,
     "identity_rank": 32
   },
   "Tam, Mindful First-Year": {
-    "img": "https://cards.scryfall.io/large/front/c/a/ca89fb7a-5575-4875-80d3-6a05f78ea65e.jpg?1782683804",
+    "img": "https://cards.scryfall.io/large/front/c/a/ca89fb7a-5575-4875-80d3-6a05f78ea65e.jpg?1783904357",
     "date": "2026-01-23",
     "colors": [
       "G",
@@ -20509,12 +20512,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 775,
-    "superrank": 517,
+    "rank": 777,
+    "superrank": 516,
     "identity_rank": 10
   },
   "Tandem Lookout": {
-    "img": "https://cards.scryfall.io/large/front/8/3/83564e67-2677-4955-a3b9-3b221dbb100b.jpg?1782714506",
+    "img": "https://cards.scryfall.io/large/front/8/3/83564e67-2677-4955-a3b9-3b221dbb100b.jpg?1783940709",
     "date": "2012-05-04",
     "colors": [
       "U"
@@ -20534,12 +20537,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 846,
-    "superrank": 857,
+    "rank": 848,
+    "superrank": 859,
     "identity_rank": 148
   },
   "Tangle Wire": {
-    "img": "https://cards.scryfall.io/large/front/a/d/ad62f313-8a8a-4ffa-ada2-b12b76288729.jpg?1782720169",
+    "img": "https://cards.scryfall.io/large/front/a/d/ad62f313-8a8a-4ffa-ada2-b12b76288729.jpg?1783945806",
     "date": "2000-02-14",
     "colors": [],
     "mana_cost": "{3}",
@@ -20553,12 +20556,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 672,
-    "superrank": 952,
+    "rank": 673,
+    "superrank": 953,
     "identity_rank": 130
   },
   "Tarnished Citadel": {
-    "img": "https://cards.scryfall.io/large/front/3/0/30375d24-ccfe-47a2-babd-1bda0a6298fe.jpg?1782719337",
+    "img": "https://cards.scryfall.io/large/front/3/0/30375d24-ccfe-47a2-babd-1bda0a6298fe.jpg?1783945196",
     "date": "2001-10-01",
     "colors": [],
     "mana_cost": "",
@@ -20577,7 +20580,7 @@ const cards =
     "identity_rank": 35
   },
   "Tataru Taru": {
-    "img": "https://cards.scryfall.io/large/front/9/3/93176e85-2343-43a8-8578-69699b464b86.jpg?1782686032",
+    "img": "https://cards.scryfall.io/large/front/9/3/93176e85-2343-43a8-8578-69699b464b86.jpg?1783906365",
     "date": "2025-06-13",
     "colors": [
       "W"
@@ -20603,7 +20606,7 @@ const cards =
     "identity_rank": 11
   },
   "Tavern Scoundrel": {
-    "img": "https://cards.scryfall.io/large/front/5/5/55082c8a-d792-4cd8-94b1-d80c65804463.jpg?1782704650",
+    "img": "https://cards.scryfall.io/large/front/5/5/55082c8a-d792-4cd8-94b1-d80c65804463.jpg?1783926839",
     "date": "2021-06-18",
     "colors": [
       "R"
@@ -20623,12 +20626,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 586,
-    "superrank": 528,
+    "rank": 587,
+    "superrank": 527,
     "identity_rank": 91
   },
   "Tax Collector": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a300b5af-9223-4e97-9d33-a9226bd900f3.jpg?1782690892",
+    "img": "https://cards.scryfall.io/large/front/a/3/a300b5af-9223-4e97-9d33-a9226bd900f3.jpg?1783910985",
     "date": "2024-07-05",
     "colors": [
       "W"
@@ -20648,12 +20651,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 736,
-    "superrank": 781,
+    "rank": 737,
+    "superrank": 782,
     "identity_rank": 77
   },
   "Teferi, Time Raveler": {
-    "img": "https://cards.scryfall.io/large/front/0/6/066cee3d-1bc9-43bb-a1e5-70256875eb9b.jpg?1782740420",
+    "img": "https://cards.scryfall.io/large/front/0/6/066cee3d-1bc9-43bb-a1e5-70256875eb9b.jpg?1783925904",
     "date": "2019-05-03",
     "colors": [
       "U",
@@ -20674,12 +20677,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 32,
-    "rank": 182,
+    "rank": 183,
     "superrank": 150,
     "identity_rank": 4
   },
   "Temple Garden": {
-    "img": "https://cards.scryfall.io/large/front/7/2/7276a9b6-6f01-4b88-8d1b-14663e8baa6d.jpg?1782730837",
+    "img": "https://cards.scryfall.io/large/front/7/2/7276a9b6-6f01-4b88-8d1b-14663e8baa6d.jpg?1783913179",
     "date": "2005-10-07",
     "colors": [],
     "mana_cost": "",
@@ -20701,7 +20704,7 @@ const cards =
     "identity_rank": 4
   },
   "Temporal Trespass": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a08b7a1e-b404-41ea-875f-b3468501cb4b.jpg?1782712839",
+    "img": "https://cards.scryfall.io/large/front/a/0/a08b7a1e-b404-41ea-875f-b3468501cb4b.jpg?1783938701",
     "date": "2015-01-23",
     "colors": [
       "U"
@@ -20719,12 +20722,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 833,
-    "superrank": 847,
+    "rank": 835,
+    "superrank": 849,
     "identity_rank": 141
   },
   "Tezzeret the Seeker": {
-    "img": "https://cards.scryfall.io/large/front/3/b/3b214b6f-4734-4200-8467-92d7e3469b5d.jpg?1782715974",
+    "img": "https://cards.scryfall.io/large/front/3/b/3b214b6f-4734-4200-8467-92d7e3469b5d.jpg?1783942571",
     "date": "2008-10-03",
     "colors": [
       "U"
@@ -20748,7 +20751,7 @@ const cards =
     "identity_rank": 62
   },
   "Tezzeret, Cruel Captain": {
-    "img": "https://cards.scryfall.io/large/front/5/c/5cf53baa-b0c3-4190-a5c6-c141d54cff32.jpg?1782685385",
+    "img": "https://cards.scryfall.io/large/front/5/c/5cf53baa-b0c3-4190-a5c6-c141d54cff32.jpg?1783905905",
     "date": "2025-08-01",
     "colors": [],
     "mana_cost": "{3}",
@@ -20764,11 +20767,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 175,
-    "superrank": 261,
+    "superrank": 260,
     "identity_rank": 41
   },
   "Thalia, Guardian of Thraben": {
-    "img": "https://cards.scryfall.io/large/front/8/2/824423ff-6441-4be6-b754-810adf9ca6a2.jpg?1782714641",
+    "img": "https://cards.scryfall.io/large/front/8/2/824423ff-6441-4be6-b754-810adf9ca6a2.jpg?1783940849",
     "date": "2012-02-03",
     "colors": [
       "W"
@@ -20789,12 +20792,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 514,
-    "superrank": 502,
+    "rank": 513,
+    "superrank": 501,
     "identity_rank": 40
   },
   "Thalia, Heretic Cathar": {
-    "img": "https://cards.scryfall.io/large/front/6/0/60b4478f-bef5-4678-ab6b-cbca8e5b1af6.jpg?1782726593",
+    "img": "https://cards.scryfall.io/large/front/6/0/60b4478f-bef5-4678-ab6b-cbca8e5b1af6.jpg?1783908024",
     "date": "2016-07-22",
     "colors": [
       "W"
@@ -20815,12 +20818,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 996,
-    "superrank": 944,
+    "rank": 997,
+    "superrank": 945,
     "identity_rank": 103
   },
   "Thassa's Oracle": {
-    "img": "https://cards.scryfall.io/large/front/7/2/726e8b29-13e9-4138-b6a9-d2a0d8188d1c.jpg?1782707616",
+    "img": "https://cards.scryfall.io/large/front/7/2/726e8b29-13e9-4138-b6a9-d2a0d8188d1c.jpg?1783931575",
     "date": "2020-01-24",
     "colors": [
       "U"
@@ -20845,7 +20848,7 @@ const cards =
     "identity_rank": 14
   },
   "The Cabbage Merchant": {
-    "img": "https://cards.scryfall.io/large/front/6/5/65ffb473-0a11-44c2-9311-f39d69eef713.jpg?1782724309",
+    "img": "https://cards.scryfall.io/large/front/6/5/65ffb473-0a11-44c2-9311-f39d69eef713.jpg?1783904792",
     "date": "2025-11-21",
     "colors": [
       "G"
@@ -20871,7 +20874,7 @@ const cards =
     "identity_rank": 9
   },
   "The Jolly Balloon Man": {
-    "img": "https://cards.scryfall.io/large/front/a/3/a3c4e2e0-1c0e-475d-a0f4-1be4216c2bad.jpg?1782689449",
+    "img": "https://cards.scryfall.io/large/front/a/3/a3c4e2e0-1c0e-475d-a0f4-1be4216c2bad.jpg?1783909444",
     "date": "2024-09-27",
     "colors": [
       "R",
@@ -20895,11 +20898,11 @@ const cards =
     ],
     "supercent": 10,
     "rank": 469,
-    "superrank": 328,
+    "superrank": 330,
     "identity_rank": 4
   },
   "The Mycosynth Gardens": {
-    "img": "https://cards.scryfall.io/large/front/5/a/5a931463-25f6-4e31-95b4-bb4a9388009b.jpg?1782698271",
+    "img": "https://cards.scryfall.io/large/front/5/a/5a931463-25f6-4e31-95b4-bb4a9388009b.jpg?1783917979",
     "date": "2023-02-10",
     "colors": [],
     "mana_cost": "",
@@ -20913,12 +20916,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 743,
-    "superrank": 958,
+    "rank": 744,
+    "superrank": 959,
     "identity_rank": 136
   },
   "The One Ring": {
-    "img": "https://cards.scryfall.io/large/front/d/b/db80391f-1643-4b72-a397-d141bb5702ee.jpg?1782697019",
+    "img": "https://cards.scryfall.io/large/front/d/b/db80391f-1643-4b72-a397-d141bb5702ee.jpg?1783916179",
     "date": "2023-06-23",
     "colors": [],
     "mana_cost": "{4}",
@@ -20938,7 +20941,7 @@ const cards =
     "identity_rank": 29
   },
   "The Soul Stone": {
-    "img": "https://cards.scryfall.io/large/front/a/5/a54f47cd-d897-4da4-be67-aa8eb71bdac5.jpg?1782685086",
+    "img": "https://cards.scryfall.io/large/front/a/5/a54f47cd-d897-4da4-be67-aa8eb71bdac5.jpg?1783905509",
     "date": "2025-09-23",
     "colors": [
       "B"
@@ -20957,12 +20960,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 2,
-    "rank": 744,
-    "superrank": 785,
-    "identity_rank": 108
+    "rank": 745,
+    "superrank": 786,
+    "identity_rank": 109
   },
   "The Tabernacle at Pendrell Vale": {
-    "img": "https://cards.scryfall.io/large/front/6/4/64bc9b1d-5818-4d9e-b771-e49af4ff9a5c.jpg?1782722245",
+    "img": "https://cards.scryfall.io/large/front/6/4/64bc9b1d-5818-4d9e-b771-e49af4ff9a5c.jpg?1783948022",
     "date": "1994-06-01",
     "colors": [],
     "mana_cost": "",
@@ -20977,12 +20980,12 @@ const cards =
       "Land"
     ],
     "supercent": 1,
-    "rank": 784,
-    "superrank": 963,
+    "rank": 786,
+    "superrank": 964,
     "identity_rank": 141
   },
   "The Vision and Scarlet Witch": {
-    "img": "https://cards.scryfall.io/large/front/9/3/930afb5f-54b7-4cca-8c28-3e48938f3a43.jpg?1782682061",
+    "img": "https://cards.scryfall.io/large/front/9/3/930afb5f-54b7-4cca-8c28-3e48938f3a43.jpg?1783903042",
     "date": "2026-06-26",
     "colors": [
       "R"
@@ -21009,7 +21012,7 @@ const cards =
     "identity_rank": 134
   },
   "The Wandering Rescuer": {
-    "img": "https://cards.scryfall.io/large/front/e/1/e1ccca86-df8b-4fd9-8fdf-0a5a7b14cdee.jpg?1782689612",
+    "img": "https://cards.scryfall.io/large/front/e/1/e1ccca86-df8b-4fd9-8fdf-0a5a7b14cdee.jpg?1783909499",
     "date": "2024-09-27",
     "colors": [
       "W"
@@ -21030,12 +21033,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 997,
-    "superrank": 945,
+    "rank": 998,
+    "superrank": 946,
     "identity_rank": 104
   },
   "Thornspire Verge": {
-    "img": "https://cards.scryfall.io/large/front/a/8/a817f77d-19ea-4342-b90f-d92f62543303.jpg?1782689348",
+    "img": "https://cards.scryfall.io/large/front/a/8/a817f77d-19ea-4342-b90f-d92f62543303.jpg?1783909406",
     "date": "2024-09-27",
     "colors": [],
     "mana_cost": "",
@@ -21052,12 +21055,12 @@ const cards =
       "Land"
     ],
     "supercent": 8,
-    "rank": 653,
+    "rank": 654,
     "superrank": 370,
     "identity_rank": 14
   },
   "Thought Lash": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d59bbac1-ca51-4c72-9f1f-5fc6c82a4a27.jpg?1782721527",
+    "img": "https://cards.scryfall.io/large/front/d/5/d59bbac1-ca51-4c72-9f1f-5fc6c82a4a27.jpg?1783947191",
     "date": "1996-06-10",
     "colors": [
       "U"
@@ -21075,12 +21078,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 765,
-    "superrank": 802,
+    "rank": 767,
+    "superrank": 804,
     "identity_rank": 115
   },
   "Thought Vessel": {
-    "img": "https://cards.scryfall.io/large/front/c/1/c1968fb1-4c78-40b7-929c-271569ea0cc9.jpg?1782699391",
+    "img": "https://cards.scryfall.io/large/front/c/1/c1968fb1-4c78-40b7-929c-271569ea0cc9.jpg?1783919656",
     "date": "2015-11-13",
     "colors": [],
     "mana_cost": "{2}",
@@ -21094,12 +21097,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 487,
-    "superrank": 642,
+    "rank": 486,
+    "superrank": 643,
     "identity_rank": 96
   },
   "Thousand-Faced Shadow": {
-    "img": "https://cards.scryfall.io/large/front/a/4/a48c2751-fd12-42f2-b8c1-eaf78c5e29eb.jpg?1782702121",
+    "img": "https://cards.scryfall.io/large/front/a/4/a48c2751-fd12-42f2-b8c1-eaf78c5e29eb.jpg?1783923791",
     "date": "2022-02-18",
     "colors": [
       "U"
@@ -21119,12 +21122,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 565,
-    "superrank": 622,
+    "rank": 566,
+    "superrank": 623,
     "identity_rank": 95
   },
   "Thousand-Year Elixir": {
-    "img": "https://cards.scryfall.io/large/front/1/8/18743fd4-2a15-40a2-ac90-e3f0fef07e37.jpg?1782716285",
+    "img": "https://cards.scryfall.io/large/front/1/8/18743fd4-2a15-40a2-ac90-e3f0fef07e37.jpg?1783942851",
     "date": "2007-10-12",
     "colors": [],
     "mana_cost": "{3}",
@@ -21138,12 +21141,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 870,
-    "superrank": 974,
+    "rank": 872,
+    "superrank": 975,
     "identity_rank": 152
   },
   "Thran Dynamo": {
-    "img": "https://cards.scryfall.io/large/front/3/f/3f0c9dee-fab5-4522-9821-343f84b0c8ab.jpg?1782720364",
+    "img": "https://cards.scryfall.io/large/front/3/f/3f0c9dee-fab5-4522-9821-343f84b0c8ab.jpg?1783946055",
     "date": "1999-06-07",
     "colors": [],
     "mana_cost": "{4}",
@@ -21157,12 +21160,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 969,
-    "superrank": 994,
+    "rank": 970,
+    "superrank": 995,
     "identity_rank": 172
   },
   "Three Tree Mascot": {
-    "img": "https://cards.scryfall.io/large/front/a/a/aaced75b-6e07-457c-8ea2-f74d99710d15.jpg?1782690429",
+    "img": "https://cards.scryfall.io/large/front/a/a/aaced75b-6e07-457c-8ea2-f74d99710d15.jpg?1783910785",
     "date": "2024-08-02",
     "colors": [],
     "mana_cost": "{2}",
@@ -21179,12 +21182,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 498,
-    "superrank": 650,
+    "rank": 497,
+    "superrank": 651,
     "identity_rank": 100
   },
   "Throne of Eldraine": {
-    "img": "https://cards.scryfall.io/large/front/9/0/9076e13d-d16e-4528-aad0-8b8081b00e8d.jpg?1782696364",
+    "img": "https://cards.scryfall.io/large/front/9/0/9076e13d-d16e-4528-aad0-8b8081b00e8d.jpg?1783914983",
     "date": "2023-09-08",
     "colors": [],
     "mana_cost": "{5}",
@@ -21199,12 +21202,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 970,
-    "superrank": 995,
+    "rank": 971,
+    "superrank": 996,
     "identity_rank": 173
   },
   "Thundering Falls": {
-    "img": "https://cards.scryfall.io/large/front/d/a/da1792e4-2170-42ae-a335-fde6f5ef8932.jpg?1782693724",
+    "img": "https://cards.scryfall.io/large/front/d/a/da1792e4-2170-42ae-a335-fde6f5ef8932.jpg?1783912798",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -21221,12 +21224,12 @@ const cards =
       "Land"
     ],
     "supercent": 19,
-    "rank": 333,
-    "superrank": 219,
+    "rank": 330,
+    "superrank": 220,
     "identity_rank": 7
   },
   "Tibalt's Trickery": {
-    "img": "https://cards.scryfall.io/large/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1782705458",
+    "img": "https://cards.scryfall.io/large/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1783928223",
     "date": "2021-02-05",
     "colors": [
       "R"
@@ -21245,11 +21248,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 271,
-    "superrank": 262,
+    "superrank": 261,
     "identity_rank": 28
   },
   "Tidespout Tyrant": {
-    "img": "https://cards.scryfall.io/large/front/c/a/ca7d9ed5-30c7-4d9f-b2b6-ce959de53e30.jpg?1782730974",
+    "img": "https://cards.scryfall.io/large/front/c/a/ca7d9ed5-30c7-4d9f-b2b6-ce959de53e30.jpg?1783913235",
     "date": "2006-05-05",
     "colors": [
       "U"
@@ -21269,12 +21272,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 549,
-    "superrank": 607,
+    "rank": 550,
+    "superrank": 608,
     "identity_rank": 89
   },
   "Timetwister": {
-    "img": "https://cards.scryfall.io/large/front/9/a/9a49dc44-616e-4bdd-8220-0bb71eccc512.jpg?1782722979",
+    "img": "https://cards.scryfall.io/large/front/9/a/9a49dc44-616e-4bdd-8220-0bb71eccc512.jpg?1783948700",
     "date": "1993-08-05",
     "colors": [
       "U"
@@ -21293,11 +21296,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 171,
-    "superrank": 203,
+    "superrank": 204,
     "identity_rank": 36
   },
   "Tinder Wall": {
-    "img": "https://cards.scryfall.io/large/front/d/1/d17942f1-46d5-4c0e-904c-226c63f0a343.jpg?1782753936",
+    "img": "https://cards.scryfall.io/large/front/d/1/d17942f1-46d5-4c0e-904c-226c63f0a343.jpg?1783943297",
     "date": "1995-06-03",
     "colors": [
       "G"
@@ -21318,12 +21321,12 @@ const cards =
       "Creature"
     ],
     "supercent": 66,
-    "rank": 186,
+    "rank": 187,
     "superrank": 73,
     "identity_rank": 2
   },
   "Tithe Taker": {
-    "img": "https://cards.scryfall.io/large/front/b/d/bd26b7b1-992d-4b8c-bc33-51aab5abdf98.jpg?1782708946",
+    "img": "https://cards.scryfall.io/large/front/b/d/bd26b7b1-992d-4b8c-bc33-51aab5abdf98.jpg?1783933715",
     "date": "2019-01-25",
     "colors": [
       "W"
@@ -21343,12 +21346,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 796,
-    "superrank": 820,
+    "rank": 798,
+    "superrank": 822,
     "identity_rank": 80
   },
   "Tolaria": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d43c01b7-443d-4061-a934-6863d230c9b8.jpg?1782722244",
+    "img": "https://cards.scryfall.io/large/front/d/4/d43c01b7-443d-4061-a934-6863d230c9b8.jpg?1783948022",
     "date": "1994-06-01",
     "colors": [],
     "mana_cost": "",
@@ -21365,12 +21368,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 896,
-    "superrank": 886,
+    "rank": 897,
+    "superrank": 887,
     "identity_rank": 162
   },
   "Torgal, A Fine Hound": {
-    "img": "https://cards.scryfall.io/large/front/b/4/b4b78fba-cde2-4ab9-bc96-51d0fc5b29cf.jpg?1782686218",
+    "img": "https://cards.scryfall.io/large/front/b/4/b4b78fba-cde2-4ab9-bc96-51d0fc5b29cf.jpg?1783906471",
     "date": "2025-06-13",
     "colors": [
       "G"
@@ -21391,12 +21394,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 776,
-    "superrank": 675,
+    "rank": 778,
+    "superrank": 676,
     "identity_rank": 80
   },
   "Tormod's Crypt": {
-    "img": "https://cards.scryfall.io/large/front/5/5/55709270-74b2-4a3f-947d-29ac7c309b0f.jpg?1782755895",
+    "img": "https://cards.scryfall.io/large/front/5/5/55709270-74b2-4a3f-947d-29ac7c309b0f.jpg?1783947351",
     "date": "1994-08-01",
     "colors": [],
     "mana_cost": "{0}",
@@ -21410,12 +21413,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 543,
-    "superrank": 673,
+    "rank": 544,
+    "superrank": 674,
     "identity_rank": 111
   },
   "Torpor Orb": {
-    "img": "https://cards.scryfall.io/large/front/9/5/953610f6-ea96-4e71-969f-50ecac09c091.jpg?1782715128",
+    "img": "https://cards.scryfall.io/large/front/9/5/953610f6-ea96-4e71-969f-50ecac09c091.jpg?1783941290",
     "date": "2011-05-13",
     "colors": [],
     "mana_cost": "{2}",
@@ -21429,12 +21432,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 393,
-    "superrank": 581,
+    "rank": 395,
+    "superrank": 580,
     "identity_rank": 84
   },
   "Touch the Spirit Realm": {
-    "img": "https://cards.scryfall.io/large/front/e/1/e16ab44e-4257-4c0c-b705-8ac1e9c1d835.jpg?1782702303",
+    "img": "https://cards.scryfall.io/large/front/e/1/e16ab44e-4257-4c0c-b705-8ac1e9c1d835.jpg?1783923911",
     "date": "2022-02-18",
     "colors": [
       "W"
@@ -21453,11 +21456,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 211,
-    "superrank": 217,
+    "superrank": 218,
     "identity_rank": 14
   },
   "Toxic Deluge": {
-    "img": "https://cards.scryfall.io/large/front/4/a/4ab57e89-a420-4a3a-b2ba-34bb427e40d4.jpg?1782691013",
+    "img": "https://cards.scryfall.io/large/front/4/a/4ab57e89-a420-4a3a-b2ba-34bb427e40d4.jpg?1783911171",
     "date": "2013-11-01",
     "colors": [
       "B"
@@ -21475,12 +21478,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 13,
-    "rank": 233,
-    "superrank": 278,
+    "rank": 232,
+    "superrank": 277,
     "identity_rank": 33
   },
   "Training Center": {
-    "img": "https://cards.scryfall.io/large/front/b/1/b15c58c0-4d42-488e-bb9d-7a550d9ea5e6.jpg?1782705873",
+    "img": "https://cards.scryfall.io/large/front/b/1/b15c58c0-4d42-488e-bb9d-7a550d9ea5e6.jpg?1783928737",
     "date": "2020-11-20",
     "colors": [],
     "mana_cost": "",
@@ -21502,7 +21505,7 @@ const cards =
     "identity_rank": 5
   },
   "Training Grounds": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e2cf16f8-6e69-46b3-8453-1d1a2a5670e2.jpg?1782715496",
+    "img": "https://cards.scryfall.io/large/front/e/2/e2cf16f8-6e69-46b3-8453-1d1a2a5670e2.jpg?1783941990",
     "date": "2010-04-23",
     "colors": [
       "U"
@@ -21521,11 +21524,11 @@ const cards =
     ],
     "supercent": 13,
     "rank": 225,
-    "superrank": 274,
+    "superrank": 273,
     "identity_rank": 49
   },
   "Transit Mage": {
-    "img": "https://cards.scryfall.io/large/front/6/7/6727169f-c33a-4ca5-889d-a63bcfc5a3f0.jpg?1782687907",
+    "img": "https://cards.scryfall.io/large/front/6/7/6727169f-c33a-4ca5-889d-a63bcfc5a3f0.jpg?1783907900",
     "date": "2025-02-14",
     "colors": [
       "U"
@@ -21545,12 +21548,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 626,
-    "superrank": 718,
+    "rank": 627,
+    "superrank": 719,
     "identity_rank": 102
   },
   "Transmute Artifact": {
-    "img": "https://cards.scryfall.io/large/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1782722571",
+    "img": "https://cards.scryfall.io/large/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1783948370",
     "date": "1994-03-04",
     "colors": [
       "U"
@@ -21569,11 +21572,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 178,
-    "superrank": 206,
+    "superrank": 207,
     "identity_rank": 37
   },
   "Treasonous Ogre": {
-    "img": "https://cards.scryfall.io/large/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.jpg?1782713339",
+    "img": "https://cards.scryfall.io/large/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.jpg?1783939373",
     "date": "2014-06-06",
     "colors": [
       "R"
@@ -21594,11 +21597,11 @@ const cards =
     ],
     "supercent": 14,
     "rank": 260,
-    "superrank": 258,
+    "superrank": 257,
     "identity_rank": 27
   },
   "Treasure Vault": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4.jpg?1782704288",
+    "img": "https://cards.scryfall.io/large/front/a/0/a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4.jpg?1783926431",
     "date": "2021-07-23",
     "colors": [],
     "mana_cost": "",
@@ -21613,12 +21616,12 @@ const cards =
       "Land"
     ],
     "supercent": 6,
-    "rank": 317,
+    "rank": 314,
     "superrank": 443,
     "identity_rank": 63
   },
   "Trinisphere": {
-    "img": "https://cards.scryfall.io/large/front/d/4/d465597a-362e-4bd0-b547-f11d8807e597.jpg?1782718351",
+    "img": "https://cards.scryfall.io/large/front/d/4/d465597a-362e-4bd0-b547-f11d8807e597.jpg?1783944416",
     "date": "2004-02-06",
     "colors": [],
     "mana_cost": "{3}",
@@ -21632,12 +21635,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 3,
-    "rank": 502,
-    "superrank": 653,
+    "rank": 501,
+    "superrank": 654,
     "identity_rank": 103
   },
   "Tropical Island": {
-    "img": "https://cards.scryfall.io/large/front/a/9/a9c6c759-aabf-44e7-ba8c-33c5df232b56.jpg?1782722886",
+    "img": "https://cards.scryfall.io/large/front/a/9/a9c6c759-aabf-44e7-ba8c-33c5df232b56.jpg?1783948659",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -21659,7 +21662,7 @@ const cards =
     "identity_rank": 1
   },
   "Trouble in Pairs": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0f61e93f-5f97-4c7d-b3d5-0e05242faeb3.jpg?1782694207",
+    "img": "https://cards.scryfall.io/large/front/0/f/0f61e93f-5f97-4c7d-b3d5-0e05242faeb3.jpg?1783913050",
     "date": "2024-02-09",
     "colors": [
       "W"
@@ -21677,12 +21680,12 @@ const cards =
       "Enchantment"
     ],
     "supercent": 2,
-    "rank": 615,
-    "superrank": 712,
+    "rank": 616,
+    "superrank": 713,
     "identity_rank": 51
   },
   "Tundra": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb.jpg?1782722886",
+    "img": "https://cards.scryfall.io/large/front/a/0/a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb.jpg?1783948659",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -21704,7 +21707,7 @@ const cards =
     "identity_rank": 1
   },
   "Turn the Earth": {
-    "img": "https://cards.scryfall.io/large/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.jpg?1782703596",
+    "img": "https://cards.scryfall.io/large/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.jpg?1783925569",
     "date": "2021-09-24",
     "colors": [
       "G"
@@ -21722,12 +21725,12 @@ const cards =
       "Instant"
     ],
     "supercent": 3,
-    "rank": 695,
-    "superrank": 659,
+    "rank": 696,
+    "superrank": 660,
     "identity_rank": 73
   },
   "Twinflame": {
-    "img": "https://cards.scryfall.io/large/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.jpg?1782713381",
+    "img": "https://cards.scryfall.io/large/front/2/0/207128b3-2de3-495a-bf29-eec50c3bd752.jpg?1783939418",
     "date": "2014-05-02",
     "colors": [
       "R"
@@ -21739,18 +21742,18 @@ const cards =
       "R"
     ],
     "name": "Twinflame",
-    "count": 4,
-    "percent": 6,
+    "count": 3,
+    "percent": 4,
     "types": [
       "Sorcery"
     ],
-    "supercent": 11,
-    "rank": 305,
-    "superrank": 300,
-    "identity_rank": 33
+    "supercent": 8,
+    "rank": 352,
+    "superrank": 371,
+    "identity_rank": 43
   },
   "Twinshot Sniper": {
-    "img": "https://cards.scryfall.io/large/front/0/8/08a86009-4637-4b6c-9d36-367151583668.jpg?1782702220",
+    "img": "https://cards.scryfall.io/large/front/0/8/08a86009-4637-4b6c-9d36-367151583668.jpg?1783923857",
     "date": "2022-02-18",
     "colors": [
       "R"
@@ -21771,12 +21774,12 @@ const cards =
       "Creature"
     ],
     "supercent": 11,
-    "rank": 318,
+    "rank": 315,
     "superrank": 307,
-    "identity_rank": 35
+    "identity_rank": 33
   },
   "Tyvar, Jubilant Brawler": {
-    "img": "https://cards.scryfall.io/large/front/c/7/c7bc261c-fb79-4397-9a47-b9f601a1341b.jpg?1782698147",
+    "img": "https://cards.scryfall.io/large/front/c/7/c7bc261c-fb79-4397-9a47-b9f601a1341b.jpg?1783917889",
     "date": "2023-02-10",
     "colors": [
       "B",
@@ -21798,11 +21801,11 @@ const cards =
     ],
     "supercent": 25,
     "rank": 278,
-    "superrank": 182,
+    "superrank": 181,
     "identity_rank": 8
   },
   "Ulamog, the Infinite Gyre": {
-    "img": "https://cards.scryfall.io/large/front/2/2/225e3cc6-34d0-4f81-9f49-162d97e2ea59.jpg?1782715528",
+    "img": "https://cards.scryfall.io/large/front/2/2/225e3cc6-34d0-4f81-9f49-162d97e2ea59.jpg?1783942011",
     "date": "2010-04-23",
     "colors": [],
     "mana_cost": "{11}",
@@ -21819,12 +21822,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 912,
-    "superrank": 978,
+    "rank": 913,
+    "superrank": 979,
     "identity_rank": 156
   },
   "Ulcerate": {
-    "img": "https://cards.scryfall.io/large/front/2/e/2e06e6c8-05c0-4d87-9961-605b888bc794.jpg?1782713211",
+    "img": "https://cards.scryfall.io/large/front/2/e/2e06e6c8-05c0-4d87-9961-605b888bc794.jpg?1783939179",
     "date": "2014-07-18",
     "colors": [
       "B"
@@ -21842,12 +21845,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 751,
-    "superrank": 790,
-    "identity_rank": 113
+    "rank": 752,
+    "superrank": 791,
+    "identity_rank": 114
   },
   "Undercity Sewers": {
-    "img": "https://cards.scryfall.io/large/front/3/2/3239a1e5-a002-4389-b9a7-049b1d60e2ac.jpg?1782693723",
+    "img": "https://cards.scryfall.io/large/front/3/2/3239a1e5-a002-4389-b9a7-049b1d60e2ac.jpg?1783912798",
     "date": "2024-02-09",
     "colors": [],
     "mana_cost": "",
@@ -21869,7 +21872,7 @@ const cards =
     "identity_rank": 6
   },
   "Underground River": {
-    "img": "https://cards.scryfall.io/large/front/9/2/92369d7e-5e5a-46f9-bb31-c57d62410283.jpg?1782721613",
+    "img": "https://cards.scryfall.io/large/front/9/2/92369d7e-5e5a-46f9-bb31-c57d62410283.jpg?1783947450",
     "date": "1995-06-03",
     "colors": [],
     "mana_cost": "",
@@ -21887,11 +21890,11 @@ const cards =
     ],
     "supercent": 16,
     "rank": 265,
-    "superrank": 240,
+    "superrank": 239,
     "identity_rank": 8
   },
   "Underground Sea": {
-    "img": "https://cards.scryfall.io/large/front/f/f/ff76ac86-8a8a-47fe-9388-8950ca3e26c3.jpg?1782722885",
+    "img": "https://cards.scryfall.io/large/front/f/f/ff76ac86-8a8a-47fe-9388-8950ca3e26c3.jpg?1783948658",
     "date": "1993-08-05",
     "colors": [],
     "mana_cost": "",
@@ -21913,7 +21916,7 @@ const cards =
     "identity_rank": 1
   },
   "Undergrowth Stadium": {
-    "img": "https://cards.scryfall.io/large/front/d/f/df64c9cf-17de-44f3-831d-ba09661f2308.jpg?1782705872",
+    "img": "https://cards.scryfall.io/large/front/d/f/df64c9cf-17de-44f3-831d-ba09661f2308.jpg?1783928737",
     "date": "2020-11-20",
     "colors": [],
     "mana_cost": "",
@@ -21930,12 +21933,12 @@ const cards =
       "Land"
     ],
     "supercent": 10,
-    "rank": 575,
+    "rank": 576,
     "superrank": 333,
     "identity_rank": 10
   },
   "Underworld Breach": {
-    "img": "https://cards.scryfall.io/large/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1782707447",
+    "img": "https://cards.scryfall.io/large/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1783931474",
     "date": "2020-01-24",
     "colors": [
       "R"
@@ -21958,7 +21961,7 @@ const cards =
     "identity_rank": 6
   },
   "Unearth": {
-    "img": "https://cards.scryfall.io/large/front/b/6/b6cb2549-e485-44d6-9d65-7605c568909e.jpg?1782720579",
+    "img": "https://cards.scryfall.io/large/front/b/6/b6cb2549-e485-44d6-9d65-7605c568909e.jpg?1783946237",
     "date": "1999-02-15",
     "colors": [
       "B"
@@ -21976,12 +21979,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 557,
-    "superrank": 614,
-    "identity_rank": 89
+    "rank": 558,
+    "superrank": 615,
+    "identity_rank": 90
   },
   "Universal Automaton": {
-    "img": "https://cards.scryfall.io/large/front/b/1/b1211495-12ba-4f57-90f9-8befec5fc03d.jpg?1782704745",
+    "img": "https://cards.scryfall.io/large/front/b/1/b1211495-12ba-4f57-90f9-8befec5fc03d.jpg?1783926897",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "{1}",
@@ -21998,12 +22001,12 @@ const cards =
       "Creature"
     ],
     "supercent": 4,
-    "rank": 387,
-    "superrank": 577,
+    "rank": 389,
+    "superrank": 576,
     "identity_rank": 80
   },
   "Unlicensed Hearse": {
-    "img": "https://cards.scryfall.io/large/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1782701515",
+    "img": "https://cards.scryfall.io/large/front/9/3/93ee60f7-31dd-4bc6-b71f-57a1a0d19d20.jpg?1783923059",
     "date": "2022-04-29",
     "colors": [],
     "mana_cost": "{2}",
@@ -22019,12 +22022,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 4,
-    "rank": 388,
-    "superrank": 578,
+    "rank": 390,
+    "superrank": 577,
     "identity_rank": 81
   },
   "Unmarked Grave": {
-    "img": "https://cards.scryfall.io/large/front/4/d/4d05400a-862f-4dcc-8ebc-edb0b5deaadd.jpg?1782704471",
+    "img": "https://cards.scryfall.io/large/front/4/d/4d05400a-862f-4dcc-8ebc-edb0b5deaadd.jpg?1783926713",
     "date": "2021-06-18",
     "colors": [
       "B"
@@ -22042,12 +22045,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 9,
-    "rank": 332,
+    "rank": 329,
     "superrank": 353,
-    "identity_rank": 45
+    "identity_rank": 44
   },
   "Untimely Malfunction": {
-    "img": "https://cards.scryfall.io/large/front/8/5/857bfb0e-17dc-4dda-bc37-3df927a9eae6.jpg?1782689507",
+    "img": "https://cards.scryfall.io/large/front/8/5/857bfb0e-17dc-4dda-bc37-3df927a9eae6.jpg?1783909463",
     "date": "2024-09-27",
     "colors": [
       "R"
@@ -22065,12 +22068,12 @@ const cards =
       "Instant"
     ],
     "supercent": 8,
-    "rank": 389,
-    "superrank": 392,
-    "identity_rank": 63
+    "rank": 391,
+    "superrank": 393,
+    "identity_rank": 64
   },
   "Unwanted Remake": {
-    "img": "https://cards.scryfall.io/large/front/b/e/be897dda-8603-4264-a022-87870f635b40.jpg?1782689372",
+    "img": "https://cards.scryfall.io/large/front/b/e/be897dda-8603-4264-a022-87870f635b40.jpg?1783909412",
     "date": "2024-09-27",
     "colors": [
       "W"
@@ -22088,12 +22091,12 @@ const cards =
       "Instant"
     ],
     "supercent": 2,
-    "rank": 797,
-    "superrank": 821,
+    "rank": 799,
+    "superrank": 823,
     "identity_rank": 81
   },
   "Unwinding Clock": {
-    "img": "https://cards.scryfall.io/large/front/b/4/b4a6f48e-e8fd-4eaa-85e5-11076c8862c9.jpg?1782699495",
+    "img": "https://cards.scryfall.io/large/front/b/4/b4a6f48e-e8fd-4eaa-85e5-11076c8862c9.jpg?1783919725",
     "date": "2011-05-13",
     "colors": [],
     "mana_cost": "{4}",
@@ -22108,11 +22111,11 @@ const cards =
     ],
     "supercent": 7,
     "rank": 284,
-    "superrank": 421,
+    "superrank": 420,
     "identity_rank": 53
   },
   "Urabrask": {
-    "img": "https://cards.scryfall.io/large/front/b/1/b12e031a-3a1a-4544-973b-e4e5b0518db9.jpg?1782697593",
+    "img": "https://cards.scryfall.io/large/front/b/1/b12e031a-3a1a-4544-973b-e4e5b0518db9.jpg?1783916903",
     "date": "2023-04-21",
     "cmc": 4,
     "type_line": "Legendary Creature \u2014 Phyrexian Praetor // Enchantment \u2014 Saga",
@@ -22127,12 +22130,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1021,
-    "superrank": 1021,
-    "identity_rank": 164
+    "rank": 1022,
+    "superrank": 1022,
+    "identity_rank": 165
   },
   "Urborg": {
-    "img": "https://cards.scryfall.io/large/front/d/0/d0a261d0-7678-46f7-9285-d541486567d8.jpg?1782722243",
+    "img": "https://cards.scryfall.io/large/front/d/0/d0a261d0-7678-46f7-9285-d541486567d8.jpg?1783948022",
     "date": "1994-06-01",
     "colors": [],
     "mana_cost": "",
@@ -22149,12 +22152,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 745,
-    "superrank": 786,
-    "identity_rank": 109
+    "rank": 746,
+    "superrank": 787,
+    "identity_rank": 110
   },
   "Urborg, Tomb of Yawgmoth": {
-    "img": "https://cards.scryfall.io/large/front/1/9/19e1224f-82cb-4f41-8739-f880cba61bbb.jpg?1782716727",
+    "img": "https://cards.scryfall.io/large/front/1/9/19e1224f-82cb-4f41-8739-f880cba61bbb.jpg?1783943133",
     "date": "2007-02-02",
     "colors": [],
     "mana_cost": "",
@@ -22170,11 +22173,11 @@ const cards =
     ],
     "supercent": 3,
     "rank": 535,
-    "superrank": 670,
+    "superrank": 671,
     "identity_rank": 108
   },
   "Urza's Cave": {
-    "img": "https://cards.scryfall.io/large/front/9/2/926916ed-2f22-4ba9-9427-194886ad6c1e.jpg?1782691186",
+    "img": "https://cards.scryfall.io/large/front/9/2/926916ed-2f22-4ba9-9427-194886ad6c1e.jpg?1783911233",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "",
@@ -22188,12 +22191,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 390,
-    "superrank": 579,
+    "rank": 392,
+    "superrank": 578,
     "identity_rank": 82
   },
   "Urza's Saga": {
-    "img": "https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1782704580",
+    "img": "https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
     "date": "2021-06-18",
     "colors": [],
     "mana_cost": "",
@@ -22213,7 +22216,7 @@ const cards =
     "identity_rank": 34
   },
   "Utopia Sprawl": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0fc7bf24-381f-459c-b6b5-8bd4d3b5cd3f.jpg?1782730929",
+    "img": "https://cards.scryfall.io/large/front/0/f/0fc7bf24-381f-459c-b6b5-8bd4d3b5cd3f.jpg?1783913215",
     "date": "2006-05-05",
     "colors": [
       "G"
@@ -22233,10 +22236,10 @@ const cards =
     "supercent": 7,
     "rank": 459,
     "superrank": 408,
-    "identity_rank": 45
+    "identity_rank": 46
   },
   "Valakut Awakening": {
-    "img": "https://cards.scryfall.io/large/front/a/1/a156b510-8879-4a7b-b15b-71374cb1e6f7.jpg?1782706118",
+    "img": "https://cards.scryfall.io/large/front/a/1/a156b510-8879-4a7b-b15b-71374cb1e6f7.jpg?1783929270",
     "date": "2020-09-25",
     "cmc": 3,
     "type_line": "Instant // Land",
@@ -22252,12 +22255,12 @@ const cards =
       "Land"
     ],
     "supercent": 0,
-    "rank": 1017,
-    "superrank": 1017,
-    "identity_rank": 163
+    "rank": 1018,
+    "superrank": 1018,
+    "identity_rank": 164
   },
   "Valley Floodcaller": {
-    "img": "https://cards.scryfall.io/large/front/9/0/90b12da0-f666-471d-95f5-15d8c9b31c92.jpg?1782690574",
+    "img": "https://cards.scryfall.io/large/front/9/0/90b12da0-f666-471d-95f5-15d8c9b31c92.jpg?1783910840",
     "date": "2024-08-02",
     "colors": [
       "U"
@@ -22277,12 +22280,12 @@ const cards =
       "Creature"
     ],
     "supercent": 46,
-    "rank": 88,
-    "superrank": 116,
-    "identity_rank": 18
+    "rank": 89,
+    "superrank": 117,
+    "identity_rank": 19
   },
   "Vampiric Tutor": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d.jpg?1782721308",
+    "img": "https://cards.scryfall.io/large/front/0/a/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d.jpg?1783946991",
     "date": "1997-02-03",
     "colors": [
       "B"
@@ -22305,7 +22308,7 @@ const cards =
     "identity_rank": 2
   },
   "Vanquish the Horde": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e264615c-eb99-4cb3-844a-2b4a94ba5203.jpg?1782703708",
+    "img": "https://cards.scryfall.io/large/front/e/2/e264615c-eb99-4cb3-844a-2b4a94ba5203.jpg?1783925649",
     "date": "2021-09-24",
     "colors": [
       "W"
@@ -22323,12 +22326,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 551,
-    "superrank": 518,
+    "rank": 552,
+    "superrank": 517,
     "identity_rank": 42
   },
   "Vault of Whispers": {
-    "img": "https://cards.scryfall.io/large/front/f/4/f482fe5c-1ff5-46f8-befa-b84deaa29f45.jpg?1782699364",
+    "img": "https://cards.scryfall.io/large/front/f/4/f482fe5c-1ff5-46f8-befa-b84deaa29f45.jpg?1783919636",
     "date": "2003-10-02",
     "colors": [],
     "mana_cost": "",
@@ -22345,12 +22348,12 @@ const cards =
       "Land"
     ],
     "supercent": 2,
-    "rank": 746,
-    "superrank": 787,
-    "identity_rank": 110
+    "rank": 747,
+    "superrank": 788,
+    "identity_rank": 111
   },
   "Vedalken Aethermage": {
-    "img": "https://cards.scryfall.io/large/front/4/9/496eb37d-5c8f-4dd7-a0a7-3ed1bd2210d6.jpg?1782716698",
+    "img": "https://cards.scryfall.io/large/front/4/9/496eb37d-5c8f-4dd7-a0a7-3ed1bd2210d6.jpg?1783943117",
     "date": "2007-05-04",
     "colors": [
       "U"
@@ -22370,12 +22373,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 882,
-    "superrank": 876,
+    "rank": 883,
+    "superrank": 877,
     "identity_rank": 152
   },
   "Veil of Summer": {
-    "img": "https://cards.scryfall.io/large/front/1/1/111c175b-f994-4501-b046-eaa07707f23a.jpg?1782723343",
+    "img": "https://cards.scryfall.io/large/front/1/1/111c175b-f994-4501-b046-eaa07707f23a.jpg?1783903468",
     "date": "2019-07-12",
     "colors": [
       "G"
@@ -22398,7 +22401,7 @@ const cards =
     "identity_rank": 5
   },
   "Verdant Catacombs": {
-    "img": "https://cards.scryfall.io/large/front/9/8/981b3a2e-de94-428d-8e5d-5a7ba6afe4a2.jpg?1782704479",
+    "img": "https://cards.scryfall.io/large/front/9/8/981b3a2e-de94-428d-8e5d-5a7ba6afe4a2.jpg?1783926716",
     "date": "2009-10-02",
     "colors": [],
     "mana_cost": "",
@@ -22417,7 +22420,7 @@ const cards =
     "identity_rank": 17
   },
   "Vexing Bauble": {
-    "img": "https://cards.scryfall.io/large/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1782691205",
+    "img": "https://cards.scryfall.io/large/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1783911242",
     "date": "2024-06-14",
     "colors": [],
     "mana_cost": "{1}",
@@ -22432,11 +22435,11 @@ const cards =
     ],
     "supercent": 18,
     "rank": 134,
-    "superrank": 222,
+    "superrank": 223,
     "identity_rank": 36
   },
   "Veyran, Voice of Duality": {
-    "img": "https://cards.scryfall.io/large/front/a/0/a017e7b9-e202-497a-b09a-a66f035b5148.jpg?1782705109",
+    "img": "https://cards.scryfall.io/large/front/a/0/a017e7b9-e202-497a-b09a-a66f035b5148.jpg?1783927478",
     "date": "2021-04-23",
     "colors": [
       "R",
@@ -22459,12 +22462,12 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 587,
+    "rank": 588,
     "superrank": 357,
     "identity_rank": 9
   },
   "Vile Entomber": {
-    "img": "https://cards.scryfall.io/large/front/3/6/36590526-2f1b-4959-ba9e-55f3ebcffd1e.jpg?1782704502",
+    "img": "https://cards.scryfall.io/large/front/3/6/36590526-2f1b-4959-ba9e-55f3ebcffd1e.jpg?1783926732",
     "date": "2021-06-18",
     "colors": [
       "B"
@@ -22484,12 +22487,12 @@ const cards =
       "Creature"
     ],
     "supercent": 6,
-    "rank": 425,
-    "superrank": 466,
-    "identity_rank": 66
+    "rank": 426,
+    "superrank": 465,
+    "identity_rank": 65
   },
   "Vilis, Broker of Blood": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ecdf2bd9-87b9-470a-ad2e-0ebf98560f87.jpg?1782708308",
+    "img": "https://cards.scryfall.io/large/front/e/c/ecdf2bd9-87b9-470a-ad2e-0ebf98560f87.jpg?1783932985",
     "date": "2019-07-12",
     "colors": [
       "B"
@@ -22515,7 +22518,7 @@ const cards =
     "identity_rank": 84
   },
   "Village Bell-Ringer": {
-    "img": "https://cards.scryfall.io/large/front/c/b/cb6912b3-bab9-4937-afdd-3711e6d792a0.jpg?1782714810",
+    "img": "https://cards.scryfall.io/large/front/c/b/cb6912b3-bab9-4937-afdd-3711e6d792a0.jpg?1783940981",
     "date": "2011-09-30",
     "colors": [
       "W"
@@ -22535,12 +22538,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 938,
-    "superrank": 910,
+    "rank": 939,
+    "superrank": 911,
     "identity_rank": 92
   },
   "Viscera Seer": {
-    "img": "https://cards.scryfall.io/large/front/6/1/6179f847-e334-4f7f-9a4e-0013942a394f.jpg?1782715398",
+    "img": "https://cards.scryfall.io/large/front/6/1/6179f847-e334-4f7f-9a4e-0013942a394f.jpg?1783941810",
     "date": "2010-07-16",
     "colors": [
       "B"
@@ -22561,11 +22564,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 455,
-    "superrank": 553,
-    "identity_rank": 73
+    "superrank": 552,
+    "identity_rank": 72
   },
   "Vivi Ornitier": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ecc1027a-8c07-44a0-bdde-fa2844cff694.jpg?1782686403",
+    "img": "https://cards.scryfall.io/large/front/e/c/ecc1027a-8c07-44a0-bdde-fa2844cff694.jpg?1783906561",
     "date": "2025-06-13",
     "colors": [
       "R",
@@ -22593,7 +22596,7 @@ const cards =
     "identity_rank": 6
   },
   "Vivien on the Hunt": {
-    "img": "https://cards.scryfall.io/large/front/a/c/ac63c976-a6cd-42b4-b799-8624a9da4d32.jpg?1782701366",
+    "img": "https://cards.scryfall.io/large/front/a/c/ac63c976-a6cd-42b4-b799-8624a9da4d32.jpg?1783922972",
     "date": "2022-04-29",
     "colors": [
       "G"
@@ -22612,12 +22615,12 @@ const cards =
       "Planeswalker"
     ],
     "supercent": 11,
-    "rank": 398,
+    "rank": 400,
     "superrank": 314,
-    "identity_rank": 40
+    "identity_rank": 41
   },
   "Voice of Victory": {
-    "img": "https://cards.scryfall.io/large/front/e/c/ec3de5f4-bb55-4ab9-995f-f3e0dc22c1bb.jpg?1782687291",
+    "img": "https://cards.scryfall.io/large/front/e/c/ec3de5f4-bb55-4ab9-995f-f3e0dc22c1bb.jpg?1783907401",
     "date": "2025-04-11",
     "colors": [
       "W"
@@ -22638,11 +22641,11 @@ const cards =
     ],
     "supercent": 72,
     "rank": 63,
-    "superrank": 60,
+    "superrank": 59,
     "identity_rank": 5
   },
   "Void Mirror": {
-    "img": "https://cards.scryfall.io/large/front/9/f/9f982bda-3153-4ef7-9eab-a658732b5db7.jpg?1782704482",
+    "img": "https://cards.scryfall.io/large/front/9/f/9f982bda-3153-4ef7-9eab-a658732b5db7.jpg?1783926719",
     "date": "2021-06-18",
     "colors": [],
     "mana_cost": "{2}",
@@ -22656,12 +22659,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 971,
-    "superrank": 996,
+    "rank": 972,
+    "superrank": 997,
     "identity_rank": 174
   },
   "Void Snare": {
-    "img": "https://cards.scryfall.io/large/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1782713228",
+    "img": "https://cards.scryfall.io/large/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1783939187",
     "date": "2014-07-18",
     "colors": [
       "U"
@@ -22679,12 +22682,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 932,
-    "superrank": 907,
-    "identity_rank": 167
+    "rank": 933,
+    "superrank": 908,
+    "identity_rank": 166
   },
   "Volatile Fault": {
-    "img": "https://cards.scryfall.io/large/front/9/3/9385abf3-b067-4586-bf3d-175526cf8f0a.jpg?1782694383",
+    "img": "https://cards.scryfall.io/large/front/9/3/9385abf3-b067-4586-bf3d-175526cf8f0a.jpg?1783913712",
     "date": "2023-11-17",
     "colors": [],
     "mana_cost": "",
@@ -22698,12 +22701,12 @@ const cards =
       "Land"
     ],
     "supercent": 4,
-    "rank": 391,
-    "superrank": 580,
+    "rank": 393,
+    "superrank": 579,
     "identity_rank": 83
   },
   "Volatile Stormdrake": {
-    "img": "https://cards.scryfall.io/large/front/a/c/ac5fb32c-6348-4d39-8d74-b345452b3875.jpg?1782691020",
+    "img": "https://cards.scryfall.io/large/front/a/c/ac5fb32c-6348-4d39-8d74-b345452b3875.jpg?1783911174",
     "date": "2024-06-14",
     "colors": [
       "U"
@@ -22724,11 +22727,11 @@ const cards =
     ],
     "supercent": 4,
     "rank": 460,
-    "superrank": 555,
+    "superrank": 554,
     "identity_rank": 79
   },
   "Volcanic Island": {
-    "img": "https://cards.scryfall.io/large/front/0/3/0324641d-af55-4c53-b4dc-c8262e967da5.jpg?1782722749",
+    "img": "https://cards.scryfall.io/large/front/0/3/0324641d-af55-4c53-b4dc-c8262e967da5.jpg?1783948596",
     "date": "1993-10-04",
     "colors": [],
     "mana_cost": "",
@@ -22745,12 +22748,12 @@ const cards =
       "Land"
     ],
     "supercent": 100,
-    "rank": 84,
+    "rank": 85,
     "superrank": 10,
     "identity_rank": 1
   },
   "Voltaic Key": {
-    "img": "https://cards.scryfall.io/large/front/1/a/1aa4baf7-4693-4c55-af04-2fa5d901d701.jpg?1782720623",
+    "img": "https://cards.scryfall.io/large/front/1/a/1aa4baf7-4693-4c55-af04-2fa5d901d701.jpg?1783946301",
     "date": "1998-10-12",
     "colors": [],
     "mana_cost": "{1}",
@@ -22765,11 +22768,11 @@ const cards =
     ],
     "supercent": 7,
     "rank": 288,
-    "superrank": 425,
+    "superrank": 424,
     "identity_rank": 55
   },
   "Voltaic Servant": {
-    "img": "https://cards.scryfall.io/large/front/2/8/28564ac6-8b9b-4b99-9630-8fb3158d354c.jpg?1782710054",
+    "img": "https://cards.scryfall.io/large/front/2/8/28564ac6-8b9b-4b99-9630-8fb3158d354c.jpg?1783934952",
     "date": "2018-04-27",
     "colors": [],
     "mana_cost": "{2}",
@@ -22786,12 +22789,12 @@ const cards =
       "Creature"
     ],
     "supercent": 1,
-    "rank": 972,
-    "superrank": 997,
+    "rank": 973,
+    "superrank": 998,
     "identity_rank": 175
   },
   "Wall of Roots": {
-    "img": "https://cards.scryfall.io/large/front/a/e/aeb151d2-c313-44d2-972e-33487f070c23.jpg?1782721377",
+    "img": "https://cards.scryfall.io/large/front/a/e/aeb151d2-c313-44d2-972e-33487f070c23.jpg?1783947057",
     "date": "1996-10-08",
     "colors": [
       "G"
@@ -22811,12 +22814,12 @@ const cards =
       "Creature"
     ],
     "supercent": 7,
-    "rank": 576,
-    "superrank": 431,
+    "rank": 577,
+    "superrank": 430,
     "identity_rank": 62
   },
   "Wan Shi Tong, Librarian": {
-    "img": "https://cards.scryfall.io/large/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1782684618",
+    "img": "https://cards.scryfall.io/large/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1783904979",
     "date": "2025-11-21",
     "colors": [
       "U"
@@ -22842,7 +22845,7 @@ const cards =
     "identity_rank": 25
   },
   "Wandering Archaic": {
-    "img": "https://cards.scryfall.io/large/front/6/3/63bd0484-4089-4d33-aa8b-3730791061c3.jpg?1782704834",
+    "img": "https://cards.scryfall.io/large/front/6/3/63bd0484-4089-4d33-aa8b-3730791061c3.jpg?1783927272",
     "date": "2021-04-23",
     "cmc": 5,
     "type_line": "Creature \u2014 Avatar // Sorcery",
@@ -22854,12 +22857,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1010,
-    "superrank": 1010,
+    "rank": 1011,
+    "superrank": 1011,
     "identity_rank": 176
   },
   "Wargate": {
-    "img": "https://cards.scryfall.io/large/front/8/f/8f4fe11d-c404-489a-b17f-34f33b1597e8.jpg?1782715786",
+    "img": "https://cards.scryfall.io/large/front/8/f/8f4fe11d-c404-489a-b17f-34f33b1597e8.jpg?1783942412",
     "date": "2009-04-30",
     "colors": [
       "G",
@@ -22882,11 +22885,34 @@ const cards =
     ],
     "supercent": 16,
     "rank": 461,
-    "superrank": 237,
+    "superrank": 236,
     "identity_rank": 3
   },
+  "Warlord's Fury": {
+    "img": "https://cards.scryfall.io/large/front/0/e/0ebd63cf-7e8c-4c8d-844d-98535d5f3039.jpg?1783934984",
+    "date": "2018-04-27",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{R}",
+    "cmc": 1,
+    "type_line": "Sorcery",
+    "color_identity": [
+      "R"
+    ],
+    "name": "Warlord's Fury",
+    "count": 1,
+    "percent": 1,
+    "types": [
+      "Sorcery"
+    ],
+    "supercent": 2,
+    "rank": 929,
+    "superrank": 905,
+    "identity_rank": 135
+  },
   "Warren Soultrader": {
-    "img": "https://cards.scryfall.io/large/front/1/7/17fd4d15-413f-41c5-b3e0-71bbb52851bc.jpg?1782691011",
+    "img": "https://cards.scryfall.io/large/front/1/7/17fd4d15-413f-41c5-b3e0-71bbb52851bc.jpg?1783911170",
     "date": "2024-06-14",
     "colors": [
       "B"
@@ -22906,12 +22932,12 @@ const cards =
       "Creature"
     ],
     "supercent": 9,
-    "rank": 296,
-    "superrank": 340,
-    "identity_rank": 41
+    "rank": 294,
+    "superrank": 339,
+    "identity_rank": 40
   },
   "Warrior's Oath": {
-    "img": "https://cards.scryfall.io/large/front/d/5/d582861a-ca6e-4b74-adf0-3eb588ea5ed2.jpg?1782754997",
+    "img": "https://cards.scryfall.io/large/front/d/5/d582861a-ca6e-4b74-adf0-3eb588ea5ed2.jpg?1783946106",
     "date": "1999-05-01",
     "colors": [
       "R"
@@ -22923,18 +22949,18 @@ const cards =
       "R"
     ],
     "name": "Warrior's Oath",
-    "count": 5,
-    "percent": 7,
+    "count": 4,
+    "percent": 6,
     "types": [
       "Sorcery"
     ],
-    "supercent": 14,
-    "rank": 289,
-    "superrank": 264,
-    "identity_rank": 29
+    "supercent": 11,
+    "rank": 334,
+    "superrank": 326,
+    "identity_rank": 37
   },
   "Wastewood Verge": {
-    "img": "https://cards.scryfall.io/large/front/b/a/ba0c9044-13ae-465e-a9d1-7dc63827540d.jpg?1782687534",
+    "img": "https://cards.scryfall.io/large/front/b/a/ba0c9044-13ae-465e-a9d1-7dc63827540d.jpg?1783907767",
     "date": "2025-02-14",
     "colors": [],
     "mana_cost": "",
@@ -22951,12 +22977,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 913,
-    "superrank": 524,
+    "rank": 914,
+    "superrank": 523,
     "identity_rank": 14
   },
   "Waterlogged Grove": {
-    "img": "https://cards.scryfall.io/large/front/0/a/0ab6bfbd-d2e1-4c4c-9f91-6f69c5b8e3bb.jpg?1782708399",
+    "img": "https://cards.scryfall.io/large/front/0/a/0ab6bfbd-d2e1-4c4c-9f91-6f69c5b8e3bb.jpg?1783933063",
     "date": "2019-06-14",
     "colors": [],
     "mana_cost": "",
@@ -22973,12 +22999,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 667,
-    "superrank": 491,
+    "rank": 668,
+    "superrank": 490,
     "identity_rank": 8
   },
   "Watery Grave": {
-    "img": "https://cards.scryfall.io/large/front/e/f/ef7f4762-4283-4368-948b-e60a29e78a0c.jpg?1782730836",
+    "img": "https://cards.scryfall.io/large/front/e/f/ef7f4762-4283-4368-948b-e60a29e78a0c.jpg?1783913174",
     "date": "2005-10-07",
     "colors": [],
     "mana_cost": "",
@@ -22995,12 +23021,12 @@ const cards =
       "Land"
     ],
     "supercent": 64,
-    "rank": 89,
+    "rank": 90,
     "superrank": 77,
     "identity_rank": 2
   },
   "Wear // Tear": {
-    "img": "https://cards.scryfall.io/large/front/d/1/d169a3b2-18ae-4414-98ef-d879676fdcc0.jpg?1782713987",
+    "img": "https://cards.scryfall.io/large/front/d/1/d169a3b2-18ae-4414-98ef-d879676fdcc0.jpg?1783940014",
     "date": "2013-05-03",
     "colors": [
       "R",
@@ -23022,12 +23048,12 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 631,
-    "superrank": 481,
+    "rank": 632,
+    "superrank": 480,
     "identity_rank": 9
   },
   "Weathered Runestone": {
-    "img": "https://cards.scryfall.io/large/front/0/f/0fc2478f-e624-46fb-85af-1254564cd4d2.jpg?1782705405",
+    "img": "https://cards.scryfall.io/large/front/0/f/0fc2478f-e624-46fb-85af-1254564cd4d2.jpg?1783928181",
     "date": "2021-02-05",
     "colors": [],
     "mana_cost": "{2}",
@@ -23041,12 +23067,12 @@ const cards =
       "Artifact"
     ],
     "supercent": 1,
-    "rank": 658,
-    "superrank": 950,
+    "rank": 659,
+    "superrank": 951,
     "identity_rank": 128
   },
   "Weathered Wayfarer": {
-    "img": "https://cards.scryfall.io/large/front/f/6/f6601ab1-3862-4aff-82be-be15493fe4b0.jpg?1782719192",
+    "img": "https://cards.scryfall.io/large/front/f/6/f6601ab1-3862-4aff-82be-be15493fe4b0.jpg?1783945089",
     "date": "2002-10-07",
     "colors": [
       "W"
@@ -23066,12 +23092,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 409,
-    "superrank": 397,
+    "rank": 411,
+    "superrank": 398,
     "identity_rank": 32
   },
   "Wheel of Fortune": {
-    "img": "https://cards.scryfall.io/large/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1782722933",
+    "img": "https://cards.scryfall.io/large/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1783948679",
     "date": "1993-08-05",
     "colors": [
       "R"
@@ -23094,7 +23120,7 @@ const cards =
     "identity_rank": 14
   },
   "Wheel of Misfortune": {
-    "img": "https://cards.scryfall.io/large/front/9/4/943aa774-e149-431b-804a-310cca6de006.jpg?1782705662",
+    "img": "https://cards.scryfall.io/large/front/9/4/943aa774-e149-431b-804a-310cca6de006.jpg?1783928608",
     "date": "2020-11-20",
     "colors": [
       "R"
@@ -23112,12 +23138,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 5,
-    "rank": 520,
-    "superrank": 505,
+    "rank": 519,
+    "superrank": 504,
     "identity_rank": 85
   },
   "Whir of Invention": {
-    "img": "https://cards.scryfall.io/large/front/0/2/0279fd3c-9252-4958-9d7a-5f33aa25907e.jpg?1782711296",
+    "img": "https://cards.scryfall.io/large/front/0/2/0279fd3c-9252-4958-9d7a-5f33aa25907e.jpg?1783936767",
     "date": "2017-01-20",
     "colors": [
       "U"
@@ -23135,12 +23161,12 @@ const cards =
       "Instant"
     ],
     "supercent": 9,
-    "rank": 336,
+    "rank": 333,
     "superrank": 356,
     "identity_rank": 67
   },
   "White Plume Adventurer": {
-    "img": "https://cards.scryfall.io/large/front/b/9/b944490b-4366-46d1-b499-9c3f66c9ba35.jpg?1782700998",
+    "img": "https://cards.scryfall.io/large/front/b/9/b944490b-4366-46d1-b499-9c3f66c9ba35.jpg?1783922569",
     "date": "2022-06-10",
     "colors": [
       "W"
@@ -23160,12 +23186,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 871,
-    "superrank": 866,
+    "rank": 873,
+    "superrank": 868,
     "identity_rank": 90
   },
   "Wild Cantor": {
-    "img": "https://cards.scryfall.io/large/front/2/4/242dc29e-d8f5-4207-abbf-cf5425f08551.jpg?1782717243",
+    "img": "https://cards.scryfall.io/large/front/2/4/242dc29e-d8f5-4207-abbf-cf5425f08551.jpg?1783943461",
     "date": "2006-02-03",
     "colors": [
       "G",
@@ -23187,12 +23213,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 654,
-    "superrank": 371,
+    "rank": 655,
+    "superrank": 372,
     "identity_rank": 15
   },
   "Wild Growth": {
-    "img": "https://cards.scryfall.io/large/front/f/d/fd896dfa-66c0-4327-8e5b-489bbe350c95.jpg?1782722912",
+    "img": "https://cards.scryfall.io/large/front/f/d/fd896dfa-66c0-4327-8e5b-489bbe350c95.jpg?1783948670",
     "date": "1993-08-05",
     "colors": [
       "G"
@@ -23211,11 +23237,11 @@ const cards =
     ],
     "supercent": 19,
     "rank": 255,
-    "superrank": 211,
+    "superrank": 212,
     "identity_rank": 30
   },
   "Windfall": {
-    "img": "https://cards.scryfall.io/large/front/2/a/2aef4608-5ba8-4636-b5e7-cac57c5c0608.jpg?1782720715",
+    "img": "https://cards.scryfall.io/large/front/2/a/2aef4608-5ba8-4636-b5e7-cac57c5c0608.jpg?1783946351",
     "date": "1998-10-12",
     "colors": [
       "U"
@@ -23233,12 +23259,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 18,
-    "rank": 192,
-    "superrank": 226,
+    "rank": 194,
+    "superrank": 227,
     "identity_rank": 41
   },
   "Windswept Heath": {
-    "img": "https://cards.scryfall.io/large/front/7/a/7a7c5941-9c8a-4a40-9efb-a84f05c58e53.jpg?1782719081",
+    "img": "https://cards.scryfall.io/large/front/7/a/7a7c5941-9c8a-4a40-9efb-a84f05c58e53.jpg?1783945026",
     "date": "2002-10-07",
     "colors": [],
     "mana_cost": "",
@@ -23257,7 +23283,7 @@ const cards =
     "identity_rank": 20
   },
   "Wingcrafter": {
-    "img": "https://cards.scryfall.io/large/front/0/4/04a3059f-92f2-4163-b79a-154118a4e36d.jpg?1782714504",
+    "img": "https://cards.scryfall.io/large/front/0/4/04a3059f-92f2-4163-b79a-154118a4e36d.jpg?1783940708",
     "date": "2012-05-04",
     "colors": [
       "U"
@@ -23277,12 +23303,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 834,
-    "superrank": 848,
+    "rank": 836,
+    "superrank": 850,
     "identity_rank": 142
   },
   "Wishclaw Talisman": {
-    "img": "https://cards.scryfall.io/large/front/9/e/9ebcb070-953c-4b47-ad8a-ef207c65053f.jpg?1782707692",
+    "img": "https://cards.scryfall.io/large/front/9/e/9ebcb070-953c-4b47-ad8a-ef207c65053f.jpg?1783932536",
     "date": "2019-10-04",
     "colors": [
       "B"
@@ -23305,7 +23331,7 @@ const cards =
     "identity_rank": 8
   },
   "Witch Enchanter": {
-    "img": "https://cards.scryfall.io/large/front/6/2/62061e7c-cf19-4f03-b8fa-2bdba62d6b0b.jpg?1782691173",
+    "img": "https://cards.scryfall.io/large/front/6/2/62061e7c-cf19-4f03-b8fa-2bdba62d6b0b.jpg?1783911236",
     "date": "2024-06-14",
     "cmc": 4,
     "type_line": "Creature \u2014 Human Warlock // Land",
@@ -23319,12 +23345,12 @@ const cards =
       "Creature"
     ],
     "supercent": 0,
-    "rank": 1011,
-    "superrank": 1011,
+    "rank": 1012,
+    "superrank": 1012,
     "identity_rank": 106
   },
   "Witherbloom Apprentice": {
-    "img": "https://cards.scryfall.io/large/front/7/f/7f80a11b-188b-464c-b00d-c9d1cfb8ddee.jpg?1782704857",
+    "img": "https://cards.scryfall.io/large/front/7/f/7f80a11b-188b-464c-b00d-c9d1cfb8ddee.jpg?1783927284",
     "date": "2021-04-23",
     "colors": [
       "B",
@@ -23346,12 +23372,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 946,
-    "superrank": 532,
+    "rank": 947,
+    "superrank": 531,
     "identity_rank": 15
   },
   "Wonder": {
-    "img": "https://cards.scryfall.io/large/front/4/4/44670666-9028-4b4a-a5af-a3bf35fc6a21.jpg?1782719251",
+    "img": "https://cards.scryfall.io/large/front/4/4/44670666-9028-4b4a-a5af-a3bf35fc6a21.jpg?1783945126",
     "date": "2002-05-27",
     "colors": [
       "U"
@@ -23371,12 +23397,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 835,
-    "superrank": 849,
+    "rank": 837,
+    "superrank": 851,
     "identity_rank": 143
   },
   "Wooded Bastion": {
-    "img": "https://cards.scryfall.io/large/front/7/e/7e088fe6-e47a-4e27-b07e-ec35db045359.jpg?1782716083",
+    "img": "https://cards.scryfall.io/large/front/7/e/7e088fe6-e47a-4e27-b07e-ec35db045359.jpg?1783942705",
     "date": "2008-05-02",
     "colors": [],
     "mana_cost": "",
@@ -23393,12 +23419,12 @@ const cards =
       "Land"
     ],
     "supercent": 5,
-    "rank": 737,
-    "superrank": 512,
+    "rank": 738,
+    "superrank": 511,
     "identity_rank": 15
   },
   "Wooded Foothills": {
-    "img": "https://cards.scryfall.io/large/front/c/d/cdad38f7-9dfa-4f1b-9fac-41ab2b253f53.jpg?1782719079",
+    "img": "https://cards.scryfall.io/large/front/c/d/cdad38f7-9dfa-4f1b-9fac-41ab2b253f53.jpg?1783945025",
     "date": "2002-10-07",
     "colors": [],
     "mana_cost": "",
@@ -23417,7 +23443,7 @@ const cards =
     "identity_rank": 21
   },
   "Worldly Tutor": {
-    "img": "https://cards.scryfall.io/large/front/f/0/f00115bc-b551-4bf5-a121-bebb37201575.jpg?1782721376",
+    "img": "https://cards.scryfall.io/large/front/f/0/f00115bc-b551-4bf5-a121-bebb37201575.jpg?1783947057",
     "date": "1996-10-08",
     "colors": [
       "G"
@@ -23435,12 +23461,12 @@ const cards =
       "Instant"
     ],
     "supercent": 76,
-    "rank": 90,
+    "rank": 91,
     "superrank": 54,
     "identity_rank": 4
   },
   "Xorn": {
-    "img": "https://cards.scryfall.io/large/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1782704343",
+    "img": "https://cards.scryfall.io/large/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1783926470",
     "date": "2021-07-23",
     "colors": [
       "R"
@@ -23460,12 +23486,12 @@ const cards =
       "Creature"
     ],
     "supercent": 8,
-    "rank": 392,
-    "superrank": 393,
-    "identity_rank": 64
+    "rank": 394,
+    "superrank": 394,
+    "identity_rank": 65
   },
   "Yahenni's Expertise": {
-    "img": "https://cards.scryfall.io/large/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1782711281",
+    "img": "https://cards.scryfall.io/large/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1783936760",
     "date": "2017-01-20",
     "colors": [
       "B"
@@ -23483,12 +23509,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 4,
-    "rank": 488,
-    "superrank": 562,
-    "identity_rank": 75
+    "rank": 487,
+    "superrank": 561,
+    "identity_rank": 74
   },
   "Yasharn, Implacable Earth": {
-    "img": "https://cards.scryfall.io/large/front/1/2/12878fbd-dbe5-44bc-9f34-38fd374ec10a.jpg?1782706204",
+    "img": "https://cards.scryfall.io/large/front/1/2/12878fbd-dbe5-44bc-9f34-38fd374ec10a.jpg?1783929317",
     "date": "2020-09-25",
     "colors": [
       "G",
@@ -23511,12 +23537,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 738,
-    "superrank": 513,
+    "rank": 739,
+    "superrank": 512,
     "identity_rank": 16
   },
   "Yavimaya, Cradle of Growth": {
-    "img": "https://cards.scryfall.io/large/front/b/0/b0063a44-6cde-4d7e-81e1-61bae08831ee.jpg?1782704478",
+    "img": "https://cards.scryfall.io/large/front/b/0/b0063a44-6cde-4d7e-81e1-61bae08831ee.jpg?1783926719",
     "date": "2021-06-18",
     "colors": [],
     "mana_cost": "",
@@ -23531,12 +23557,12 @@ const cards =
       "Land"
     ],
     "supercent": 3,
-    "rank": 577,
-    "superrank": 686,
+    "rank": 578,
+    "superrank": 687,
     "identity_rank": 115
   },
   "Yawgmoth's Will": {
-    "img": "https://cards.scryfall.io/large/front/6/d/6d3e3c3a-d351-4d91-8884-312d4b6f540d.jpg?1782720688",
+    "img": "https://cards.scryfall.io/large/front/6/d/6d3e3c3a-d351-4d91-8884-312d4b6f540d.jpg?1783946334",
     "date": "1998-10-12",
     "colors": [
       "B"
@@ -23555,11 +23581,11 @@ const cards =
     ],
     "supercent": 20,
     "rank": 177,
-    "superrank": 204,
+    "superrank": 205,
     "identity_rank": 24
   },
   "Yawgmoth, Thran Physician": {
-    "img": "https://cards.scryfall.io/large/front/8/1/81564970-23ad-41a3-b5e0-21bdf13f6248.jpg?1782741707",
+    "img": "https://cards.scryfall.io/large/front/8/1/81564970-23ad-41a3-b5e0-21bdf13f6248.jpg?1783927727",
     "date": "2019-06-14",
     "colors": [
       "B"
@@ -23580,12 +23606,12 @@ const cards =
       "Creature"
     ],
     "supercent": 2,
-    "rank": 637,
-    "superrank": 725,
-    "identity_rank": 100
+    "rank": 638,
+    "superrank": 726,
+    "identity_rank": 101
   },
   "Young Wolf": {
-    "img": "https://cards.scryfall.io/large/front/4/9/490bec65-fe8e-427c-a97b-c904bffbc637.jpg?1782726537",
+    "img": "https://cards.scryfall.io/large/front/4/9/490bec65-fe8e-427c-a97b-c904bffbc637.jpg?1783907998",
     "date": "2012-02-03",
     "colors": [
       "G"
@@ -23605,12 +23631,12 @@ const cards =
       "Creature"
     ],
     "supercent": 3,
-    "rank": 872,
-    "superrank": 693,
+    "rank": 874,
+    "superrank": 694,
     "identity_rank": 90
   },
   "Zenith Festival": {
-    "img": "https://cards.scryfall.io/large/front/8/c/8cffd86b-1f4a-4e1c-a5a0-f467ecd8f63b.jpg?1782686914",
+    "img": "https://cards.scryfall.io/large/front/8/c/8cffd86b-1f4a-4e1c-a5a0-f467ecd8f63b.jpg?1783907169",
     "date": "2025-04-11",
     "colors": [
       "R"
@@ -23628,12 +23654,12 @@ const cards =
       "Sorcery"
     ],
     "supercent": 2,
-    "rank": 807,
-    "superrank": 827,
+    "rank": 809,
+    "superrank": 829,
     "identity_rank": 120
   },
   "Zoyowa's Justice": {
-    "img": "https://cards.scryfall.io/large/front/0/4/04839717-d2f9-481d-9d13-e4038dbcbb0e.jpg?1782694472",
+    "img": "https://cards.scryfall.io/large/front/0/4/04839717-d2f9-481d-9d13-e4038dbcbb0e.jpg?1783913753",
     "date": "2023-11-17",
     "colors": [
       "R"
@@ -23651,12 +23677,12 @@ const cards =
       "Instant"
     ],
     "supercent": 5,
-    "rank": 503,
-    "superrank": 495,
+    "rank": 502,
+    "superrank": 494,
     "identity_rank": 81
   },
   "Zurzoth, Chaos Rider": {
-    "img": "https://cards.scryfall.io/large/front/3/d/3d94b4c3-7944-41b6-8c92-78fd6e50658d.jpg?1782706753",
+    "img": "https://cards.scryfall.io/large/front/3/d/3d94b4c3-7944-41b6-8c92-78fd6e50658d.jpg?1783930501",
     "date": "2020-07-17",
     "colors": [
       "R"
@@ -23677,12 +23703,12 @@ const cards =
       "Creature"
     ],
     "supercent": 5,
-    "rank": 611,
-    "superrank": 545,
+    "rank": 612,
+    "superrank": 544,
     "identity_rank": 97
   },
-  "________ Goblin": {
-    "img": "https://cards.scryfall.io/large/front/5/8/5819e3f3-da49-4003-88ce-f3b7bb495787.jpg?1782736969",
+  "_____ Goblin": {
+    "img": "https://cards.scryfall.io/large/front/5/8/5819e3f3-da49-4003-88ce-f3b7bb495787.jpg?1784072707",
     "date": "2022-10-07",
     "colors": [
       "R"
@@ -23695,15 +23721,15 @@ const cards =
     ],
     "power": "2",
     "toughness": "2",
-    "name": "________ Goblin",
+    "name": "_____ Goblin",
     "count": 3,
     "percent": 4,
     "types": [
       "Creature"
     ],
     "supercent": 8,
-    "rank": 351,
-    "superrank": 372,
-    "identity_rank": 43
+    "rank": 353,
+    "superrank": 373,
+    "identity_rank": 44
   }
 };
