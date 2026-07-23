@@ -4700,7 +4700,7 @@
     ],
     "supercent": 34,
     "rank": 115,
-    "superrank": 144,
+    "superrank": 145,
     "identity_rank": 19
   },
   "Deadpool, Trading Card": {
@@ -5012,7 +5012,7 @@
       "Sorcery"
     ],
     "supercent": 97,
-    "rank": 23,
+    "rank": 22,
     "superrank": 13,
     "identity_rank": 1
   },
@@ -5043,7 +5043,7 @@
     ],
     "supercent": 33,
     "rank": 330,
-    "superrank": 147,
+    "superrank": 148,
     "identity_rank": 2
   },
   "Deserted Temple": {
@@ -12668,7 +12668,7 @@
       "Instant"
     ],
     "supercent": 100,
-    "rank": 21,
+    "rank": 20,
     "superrank": 4,
     "identity_rank": 1
   },
@@ -13224,7 +13224,7 @@
       "Creature"
     ],
     "supercent": 51,
-    "rank": 80,
+    "rank": 81,
     "superrank": 102,
     "identity_rank": 17
   },
@@ -13651,7 +13651,7 @@
       "Enchantment"
     ],
     "supercent": 100,
-    "rank": 22,
+    "rank": 21,
     "superrank": 5,
     "identity_rank": 2
   },
@@ -18426,7 +18426,7 @@
     ],
     "supercent": 66,
     "rank": 71,
-    "superrank": 72,
+    "superrank": 71,
     "identity_rank": 6
   },
   "Smuggler's Copter": {
@@ -19323,15 +19323,15 @@
     "type_line": "Land \u2014 Town",
     "color_identity": [],
     "name": "Starting Town",
-    "count": 21,
-    "percent": 32,
+    "count": 22,
+    "percent": 34,
     "types": [
       "Land"
     ],
-    "supercent": 32,
-    "rank": 82,
-    "superrank": 148,
-    "identity_rank": 31
+    "supercent": 34,
+    "rank": 79,
+    "superrank": 143,
+    "identity_rank": 30
   },
   "Static Prison": {
     "img": "https://cards.scryfall.io/large/front/d/d/dd16222e-349c-4a2b-a7c8-8eb35a8ab332.jpg?1783911296",
@@ -19532,7 +19532,7 @@
     ],
     "supercent": 33,
     "rank": 302,
-    "superrank": 146,
+    "superrank": 147,
     "identity_rank": 3
   },
   "Stony Silence": {
@@ -20483,9 +20483,9 @@
       "Land"
     ],
     "supercent": 34,
-    "rank": 81,
-    "superrank": 145,
-    "identity_rank": 30
+    "rank": 82,
+    "superrank": 146,
+    "identity_rank": 31
   },
   "Tam, Mindful First-Year": {
     "img": "https://cards.scryfall.io/large/front/c/a/ca89fb7a-5575-4875-80d3-6a05f78ea65e.jpg?1783904357",
@@ -21347,7 +21347,7 @@
     ],
     "supercent": 66,
     "rank": 187,
-    "superrank": 73,
+    "superrank": 72,
     "identity_rank": 2
   },
   "Tithe Taker": {
@@ -21955,7 +21955,7 @@
       "Enchantment"
     ],
     "supercent": 62,
-    "rank": 79,
+    "rank": 80,
     "superrank": 79,
     "identity_rank": 6
   },
@@ -22302,7 +22302,7 @@
       "Instant"
     ],
     "supercent": 97,
-    "rank": 24,
+    "rank": 23,
     "superrank": 14,
     "identity_rank": 2
   },
@@ -23115,7 +23115,7 @@
     ],
     "supercent": 34,
     "rank": 132,
-    "superrank": 143,
+    "superrank": 144,
     "identity_rank": 13
   },
   "Wheel of Misfortune": {
@@ -23271,14 +23271,14 @@
     "type_line": "Land",
     "color_identity": [],
     "name": "Windswept Heath",
-    "count": 43,
-    "percent": 67,
+    "count": 42,
+    "percent": 65,
     "types": [
       "Land"
     ],
-    "supercent": 67,
-    "rank": 20,
-    "superrank": 71,
+    "supercent": 65,
+    "rank": 24,
+    "superrank": 73,
     "identity_rank": 20
   },
   "Wingcrafter": {
