@@ -362,6 +362,7 @@ const decks =
       "Gamble",
       "Gemstone Caverns",
       "Gemstone Mine",
+      "Gleaming Splendor",
       "Glimmervoid",
       "Godless Shrine",
       "Grand Abolisher",
@@ -383,7 +384,6 @@ const decks =
       "Mox Diamond",
       "Mox Opal",
       "Necromancy",
-      "Necropotence",
       "Orcish Bowmasters",
       "Orim's Chant",
       "Plateau",
@@ -3207,7 +3207,6 @@ const decks =
       "Savannah",
       "Scalding Tarn",
       "Scrubland",
-      "Sevinne's Reclamation",
       "Silence",
       "Simian Spirit Guide",
       "Smothering Tithe",
@@ -3235,7 +3234,8 @@ const decks =
       "Windswept Heath",
       "Wishclaw Talisman",
       "Wooded Foothills",
-      "Worldly Tutor"
+      "Worldly Tutor",
+      "Yawgmoth's Will"
     ],
     "commanders": [
       "Sisay, Weatherlight Captain"
