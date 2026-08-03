@@ -6301,11 +6301,11 @@ const decks =
   },
   "Korvold, the MAD King ": {
     "mainboard": [
-      "Abrupt Decay",
       "Ad Nauseam",
       "Ancient Tomb",
       "Arcane Signet",
       "Arid Mesa",
+      "Autumn's Veil",
       "Badlands",
       "Bayou",
       "Beseech the Mirror",
@@ -6344,7 +6344,6 @@ const decks =
       "Ignoble Hierarch",
       "Imperial Seal",
       "Impulsive Pilferer",
-      "Jeska's Will",
       "Knuckles the Echidna",
       "Last Chance",
       "Lion's Eye Diamond",
@@ -6373,6 +6372,7 @@ const decks =
       "Rain of Filth",
       "Red Elemental Blast",
       "Redirect Lightning",
+      "Reverent Silence",
       "Rite of Flame",
       "Ruthless Technomancer",
       "Scalding Tarn",
