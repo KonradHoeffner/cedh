@@ -2634,7 +2634,7 @@ const decks =
       "K'rrik, Son of Yawgmoth"
     ]
   },
-  "Krriko cEDH (MAR26 UPDATE)": {
+  "Krriko cEDH (AUG26 UPDATE)": {
     "mainboard": [
       "Ancient Tomb",
       "Animate Dead",
@@ -6327,6 +6327,7 @@ const decks =
       "Crop Rotation",
       "Culling Ritual",
       "Culling the Weak",
+      "Curse of Opulence",
       "Dark Ritual",
       "Deathrite Shaman",
       "Defense Grid",
@@ -6365,7 +6366,6 @@ const decks =
       "Noxious Revival",
       "Ominous Harvest",
       "Orcish Bowmasters",
-      "Orcish Lumberjack",
       "Overgrown Tomb",
       "Polluted Delta",
       "Praetor's Grasp",
