@@ -1377,7 +1377,6 @@ const decks =
       "Boseiju, Who Endures",
       "Chrome Mox",
       "City of Brass",
-      "Clever Impersonator",
       "Command Tower",
       "Commandeer",
       "Copy Artifact",
@@ -1451,9 +1450,9 @@ const decks =
       "Talisman of Dominance",
       "Tarnished Citadel",
       "Tataru Taru",
-      "Teferi, Time Raveler",
       "Thassa's Oracle",
       "The Cabbage Merchant",
+      "Touch the Spirit Realm",
       "Tropical Island",
       "Tundra",
       "Undercity Sewers",
@@ -1463,7 +1462,8 @@ const decks =
       "Wan Shi Tong, Librarian",
       "Wandering Archaic // Explore the Vastlands",
       "Windswept Heath",
-      "Wooded Foothills"
+      "Wooded Foothills",
+      "Zur the Enchanter"
     ],
     "commanders": [
       "Atraxa, Grand Unifier"
@@ -5064,7 +5064,6 @@ const decks =
       "Dosan the Falling Leaf",
       "Elvish Spirit Guide",
       "Emergence Zone",
-      "Fellwar Stone",
       "Final Fortune",
       "Flare of Duplication",
       "Flashback",
@@ -5088,6 +5087,7 @@ const decks =
       "Misty Rainforest",
       "Mox Amber",
       "Mox Diamond",
+      "Mox Jasper",
       "Mox Opal",
       "Nature's Claim",
       "Necropotence",
