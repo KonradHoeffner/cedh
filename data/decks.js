@@ -1377,6 +1377,7 @@ const decks =
       "Boseiju, Who Endures",
       "Chrome Mox",
       "City of Brass",
+      "Clever Impersonator",
       "Command Tower",
       "Commandeer",
       "Copy Artifact",
@@ -1408,6 +1409,7 @@ const decks =
       "Gleaming Splendor",
       "Grim Monolith",
       "Imperial Seal",
+      "Imposter Mech",
       "Jennifer Walters // The Sensational She-Hulk",
       "King T'Challa // Black Panther, Hope Enduring",
       "Kinnan, Bonder Prodigy",
@@ -1452,7 +1454,6 @@ const decks =
       "Tataru Taru",
       "Thassa's Oracle",
       "The Cabbage Merchant",
-      "Touch the Spirit Realm",
       "Tropical Island",
       "Tundra",
       "Undercity Sewers",
@@ -1462,8 +1463,7 @@ const decks =
       "Wan Shi Tong, Librarian",
       "Wandering Archaic // Explore the Vastlands",
       "Windswept Heath",
-      "Wooded Foothills",
-      "Zur the Enchanter"
+      "Wooded Foothills"
     ],
     "commanders": [
       "Atraxa, Grand Unifier"
@@ -5079,6 +5079,7 @@ const decks =
       "Impulsive Pilferer",
       "Jeska's Will",
       "Knuckles the Echidna",
+      "Last Chance",
       "Lion's Eye Diamond",
       "Lotus Petal",
       "Mana Confluence",
@@ -5102,6 +5103,7 @@ const decks =
       "Ragavan, Nimble Pilferer",
       "Rain of Filth",
       "Red Elemental Blast",
+      "Redirect Lightning",
       "Rite of Flame",
       "Scalding Tarn",
       "Simian Spirit Guide",
@@ -5121,7 +5123,6 @@ const decks =
       "Verdant Catacombs",
       "Vexing Bauble",
       "Warren Soultrader",
-      "Wild Cantor",
       "Windswept Heath",
       "Wishclaw Talisman",
       "Witherbloom Apprentice",
