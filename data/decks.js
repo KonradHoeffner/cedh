@@ -5437,7 +5437,6 @@ const decks =
     "mainboard": [
       "Aether Vial",
       "Ainok Strike Leader",
-      "Alexios, Deimos of Kosmos",
       "Alseid of Life's Bounty",
       "Ancient Tomb",
       "Archivist of Oghma",
@@ -5455,6 +5454,7 @@ const decks =
       "Chrome Mox",
       "City of Brass",
       "City of Traitors",
+      "Clarion Conqueror",
       "Combat Celebrant",
       "Command Tower",
       "Damping Sphere",
