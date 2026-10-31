@@ -5030,7 +5030,7 @@ const decks =
       "Tymna the Weaver"
     ]
   },
-  "Korvold, the MAD King Storm  ": {
+  "Korvold, the MAD King Techno Storm  ": {
     "mainboard": [
       "Ad Nauseam",
       "Ancient Tomb",
@@ -5220,6 +5220,7 @@ const decks =
       "Thousand-Year Elixir",
       "Tidal Bore",
       "Tomb Trawler",
+      "Torpor Orb",
       "Transmute Artifact",
       "Urza's Saga",
       "Voltaic Key",
